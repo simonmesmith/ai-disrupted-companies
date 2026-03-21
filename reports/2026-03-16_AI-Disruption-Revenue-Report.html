@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Disruption: Stock Prices vs. Revenue Reality</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f1117; color: #e0e0e0; line-height: 1.6; }
+  .container { max-width: 1100px; margin: 0 auto; padding: 24px; }
+  h1 { font-size: 28px; color: #fff; margin-bottom: 4px; }
+  h2 { font-size: 20px; color: #a5b4fc; margin: 32px 0 12px; border-bottom: 1px solid #2d3148; padding-bottom: 6px; }
+  h3 { font-size: 16px; color: #c4b5fd; margin: 20px 0 8px; }
+  .subtitle { color: #9ca3af; font-size: 14px; margin-bottom: 24px; }
+  .tldr { background: #1a1d2e; border-left: 3px solid #6366f1; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0 24px; }
+  .tldr strong { color: #a5b4fc; }
+  p { margin-bottom: 12px; font-size: 15px; color: #c9d1d9; }
+  .stat-row { display: flex; gap: 12px; margin: 16px 0; flex-wrap: wrap; }
+  .stat-card { background: #1a1d2e; border-radius: 8px; padding: 16px; flex: 1; min-width: 160px; text-align: center; }
+  .stat-card .num { font-size: 28px; font-weight: 700; }
+  .stat-card .label { font-size: 12px; color: #9ca3af; margin-top: 4px; }
+  .red { color: #f87171; }
+  .green { color: #34d399; }
+  .yellow { color: #fbbf24; }
+  .purple { color: #a78bfa; }
+  .chart-container { background: #1a1d2e; border-radius: 8px; padding: 16px; margin: 16px 0; }
+  .chart-wrap { height: 420px; position: relative; }
+  .chart-wrap-tall { height: 600px; position: relative; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; margin: 12px 0; }
+  th { background: #1e2235; color: #a5b4fc; padding: 8px 10px; text-align: left; font-weight: 600; position: sticky; top: 0; }
+  td { padding: 7px 10px; border-bottom: 1px solid #1e2235; }
+  tr:hover td { background: #1a1d2e; }
+  .neg { color: #f87171; }
+  .pos { color: #34d399; }
+  .note-text { font-size: 12px; color: #6b7280; font-style: italic; }
+  .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; }
+  .tag-red { background: rgba(248,113,113,0.15); color: #f87171; }
+  .tag-green { background: rgba(52,211,153,0.15); color: #34d399; }
+  .tag-yellow { background: rgba(251,191,36,0.15); color: #fbbf24; }
+  .insight-box { background: #1a1d2e; border-radius: 8px; padding: 16px; margin: 12px 0; }
+  .footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid #2d3148; font-size: 12px; color: #6b7280; }
+  .table-scroll { max-height: 600px; overflow-y: auto; border-radius: 8px; }
+  @media (max-width: 700px) { .stat-row { flex-direction: column; } .chart-wrap { height: 300px; } }
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>AI Disruption: Stock Prices vs. Revenue Reality</h1>
+<p class="subtitle">37 companies trading below their Nov 29, 2022 price (the day before ChatGPT launched) &mdash; March 2026</p>
+
+<div class="tldr">
+<strong>The headline finding:</strong> Only 14 of these 37 "AI-disrupted" companies have actually seen revenue decline. 18 grew revenue &mdash; some by 30&ndash;70%. Yet <em>every single one</em> (bar Omnicom) has seen its stock fall, many by 50&ndash;90%+. The stock market is pricing in future disruption that, for most of these companies, hasn't yet shown up in the top line. The fear of what AI <em>will</em> do is, so far, much larger than what it has done.
+</div>
+
+<div class="stat-row">
+  <div class="stat-card"><div class="num red">14</div><div class="label">Revenue decliners<br>(&gt;5% drop)</div></div>
+  <div class="stat-card"><div class="num yellow">5</div><div class="label">Roughly flat<br>(±5%)</div></div>
+  <div class="stat-card"><div class="num green">18</div><div class="label">Revenue growers<br>(&gt;5% up)</div></div>
+  <div class="stat-card"><div class="num purple">−65%</div><div class="label">Avg. stock decline<br>(all 37 cos.)</div></div>
+</div>
+
+<!-- CHART 1: Scatter -->
+<h2>Stock Price Decline vs. Revenue Change</h2>
+<p>Each dot is one company. The vertical axis shows how much the stock has fallen since ChatGPT's launch; the horizontal axis shows actual revenue change. Companies in the upper-left are the "real casualties" &mdash; revenue down, stock crushed. Companies in the upper-right are where <strong>perception has outrun reality</strong>.</p>
+<div class="chart-container"><div class="chart-wrap"><canvas id="scatterChart"></canvas></div></div>
+
+<!-- TABLE -->
+<h2>Full Data: Revenue vs. Stock Price Change</h2>
+<p>Sorted by revenue change, worst to best. Revenue is pre-ChatGPT quarter (Q3 2022 or nearest) vs. most recent reported quarter. Stock price is Nov 29, 2022 close vs. March 2026.</p>
+<div class="table-scroll">
+<table id="mainTable">
+<thead>
+<tr><th>Ticker</th><th>Company</th><th>Category</th><th style="text-align:right">Pre Rev ($M)</th><th style="text-align:right">Recent Rev ($M)</th><th style="text-align:right">Rev Δ%</th><th style="text-align:right">Stock Δ%</th><th style="text-align:right">Gap</th></tr>
+</thead>
+<tbody></tbody>
+</table>
+</div>
+
+<!-- CHART 2: Bar comparison -->
+<h2>The Perception Gap: Stock Decline vs. Revenue Decline</h2>
+<p>For every company, the red bar shows stock price change and the blue bar shows revenue change. The gap between them is the market's "AI fear premium" &mdash; the decline attributed to anticipated future disruption rather than actual revenue loss.</p>
+<div class="chart-container"><div class="chart-wrap-tall"><canvas id="barChart"></canvas></div></div>
+
+<!-- ANALYSIS -->
+<h2>What's Actually Happening</h2>
+
+<h3>1. Real revenue casualties: AI is already hurting these businesses</h3>
+<div class="insight-box">
+<p>The clearest cases of AI-driven revenue destruction are <strong>LivePerson (−54%)</strong>, <strong>Chegg (−53%)</strong>, and <strong>ZipRecruiter (−49%)</strong>. LivePerson is the most ironic: an AI chatbot company destroyed by better AI chatbots. Chegg's homework-help business was essentially replaced overnight by ChatGPT. ZipRecruiter faces both AI automation of recruiting <em>and</em> a macro hiring slowdown.</p>
+<p>The staffing sector &mdash; <strong>Robert Half (−26%)</strong>, <strong>TrueBlue (−25%)</strong>, <strong>Kelly Services (−20%)</strong>, <strong>ASGN (−16%)</strong> &mdash; is seeing real revenue erosion, though it's hard to separate AI from cyclical factors. AI automates the matching/screening that staffing firms charge for, while simultaneously reducing the number of roles companies need to fill.</p>
+<p><strong>Forrester Research (−26%)</strong> and <strong>Perion Network (−22%)</strong> are clear cases: AI is commoditizing premium market research (Forrester), and Microsoft's AI pivot in Bing directly killed Perion's search advertising revenue.</p>
+</div>
+
+<h3>2. The "fear premium" companies: Stock crushed, revenue fine</h3>
+<div class="insight-box">
+<p>This is the more interesting group. <strong>Sprout Social's</strong> stock is down 89% despite revenue <em>growing</em> 77%. <strong>Globant</strong> is down 74% with revenue up 38%. <strong>Five9</strong> is down 74% with revenue up 44%. <strong>Concentrix</strong> is down 71% with revenue up 57% (partly from its Webhelp merger). <strong>Freshworks</strong> is down 41% with revenue up 67%.</p>
+<p>For these companies, investors are pricing in a future where AI agents replace human customer service reps (Five9, Concentrix), AI tools replace freelancers (Fiverr), or AI commoditizes SaaS tools (Sprout Social, Freshworks). The revenue hasn't declined <em>yet</em>, but growth is decelerating &mdash; and the market is forward-looking.</p>
+<p>Even <strong>Adobe</strong>, which grew revenue 35% to nearly $6B/quarter, has seen its stock fall 24%. The market worries that AI image generation will eventually compress the need for complex creative software.</p>
+</div>
+
+<h3>3. How stock declines relate to revenue declines</h3>
+<div class="insight-box">
+<p>Companies with actual revenue declines saw an average stock drop of <strong>−77%</strong>. Companies that <em>grew</em> revenue still saw an average stock drop of <strong>−47%</strong>. So roughly <strong>half the stock price decline is fear</strong> &mdash; the market pricing in what AI might do &mdash; and the other half reflects real business deterioration.</p>
+<p>The correlation between stock decline and revenue change exists but is loose: LivePerson (−54% revenue, −98% stock) and Chegg (−53% revenue, −98% stock) are at the extreme, but Sprout Social (−90% stock, +77% revenue) shows the market can panic about a company whose revenue is still growing rapidly.</p>
+</div>
+
+<h3>4. Will revenue continue dropping?</h3>
+<div class="insight-box">
+<p><strong>For the real casualties &mdash; almost certainly yes.</strong> Chegg, LivePerson, and Forrester face structural replacement of their core value proposition by AI. There is no plausible recovery path to prior revenue levels. ZipRecruiter's decline may stabilize if hiring recovers, but AI is permanently compressing the value of job board intermediaries.</p>
+<p><strong>For the staffing firms &mdash; likely, but slowly.</strong> AI doesn't instantly eliminate temp staffing. It reduces demand gradually as companies automate more tasks. A recession would accelerate this.</p>
+<p><strong>For the "fear premium" companies &mdash; the critical question.</strong> If AI agents start replacing human customer service reps at scale (threatening Five9, Concentrix, TTEC), revenue for these companies could fall sharply. If AI coding tools substantially reduce demand for outsourced IT work (threatening EPAM, Globant, Endava), the fear will prove justified. Early signs are emerging: Globant's revenue growth stalled to ~1% in 2025, EPAM guided for just 4.5–7.5% growth in 2026 (vs. 15% in 2025), and Meta told TaskUs it would use AI to automate content moderation.</p>
+</div>
+
+<h3>5. Perception vs. reality: Key caveats</h3>
+<div class="insight-box">
+<p><strong>Some "revenue growth" is misleading.</strong> Concentrix's 57% increase is mostly from acquiring Webhelp, not organic growth. Shutterstock's 27% increase includes ~$100M in one-off AI data licensing deals (e.g., the $250M OpenAI contract). Strip those out and the underlying business is eroding.</p>
+<p><strong>Growth deceleration matters as much as decline.</strong> Sprout Social's revenue is still growing, but growth decelerated from 31% (2023) to 13% (2025) to a projected 8% (2026). Freshworks decelerated from 20%+ to 14%. The market often punishes decelerating growth as harshly as actual decline, because it signals the beginning of a structural shift.</p>
+<p><strong>Not all of this is AI.</strong> Staffing declines correlate with cyclical hiring slowdowns. TripAdvisor was struggling before ChatGPT. Some BPO companies face macro headwinds. But AI provides the narrative that makes investors treat cyclical weakness as structural, permanently re-rating these stocks lower.</p>
+</div>
+
+<h2>Category Breakdown</h2>
+<div class="chart-container"><div class="chart-wrap"><canvas id="categoryChart"></canvas></div></div>
+
+<div class="footer">
+<p>Data sources: SEC EDGAR XBRL API (US quarterly revenue), Yahoo Finance (stock prices, non-US annual revenue). Revenue comparison is pre-ChatGPT quarter (typically Q3 2022, ending Sep 30, 2022) vs. most recently reported quarter. Stock prices are Nov 29, 2022 close vs. March 2026. Non-US companies (RWS, WPP, Wolters Kluwer, Telecom Plus) use annual figures in local currency. CNXC revenue growth inflated by Webhelp merger. SSTK revenue includes AI data licensing deals. LPSN had a 1:15 reverse stock split in Oct 2025 (prices are split-adjusted).</p>
+<p>Report generated March 16, 2026.</p>
+</div>
+
+</div>
+
+<script>
+const data = [{"ticker": "CHGG", "name": "Chegg", "category": "Education", "rev_change": -52.80898876404494, "stock_change": -97.9, "pre_rev": 164.739, "recent_rev": 77.742, "pre_price": 28.11, "current_price": 0.58, "note": "", "currency": "USD"}, {"ticker": "TTEC", "name": "TTEC Holdings", "category": "BPO/CX", "rev_change": -12.373977345038341, "stock_change": -93.1, "pre_rev": 592.453, "recent_rev": 519.143, "pre_price": 44.02, "current_price": 3.05, "note": "", "currency": "USD"}, {"ticker": "GETY", "name": "Getty Images", "category": "Stock Media", "rev_change": 4.15231219139686, "stock_change": -87.5, "pre_rev": 230.474, "recent_rev": 240.044, "pre_price": 6.02, "current_price": 0.75, "note": "", "currency": "USD"}, {"ticker": "ZIP", "name": "ZipRecruiter", "category": "Recruitment", "rev_change": -49.33999506538367, "stock_change": -81.7, "pre_rev": 226.968, "recent_rev": 114.982, "pre_price": 15.59, "current_price": 2.86, "note": "", "currency": "USD"}, {"ticker": "TBI", "name": "TrueBlue", "category": "Staffing", "rev_change": -25.09114657968009, "stock_change": -81.2, "pre_rev": 575.721, "recent_rev": 431.266, "pre_price": 20.64, "current_price": 3.87, "note": "", "currency": "USD"}, {"ticker": "LON:RWS", "name": "RWS Holdings", "category": "Translation", "rev_change": -7.888414308595835, "stock_change": -75.8, "pre_rev": 749.2, "recent_rev": 690.1, "pre_price": 329.88, "current_price": 79.8, "note": "Annual", "currency": "GBp"}, {"ticker": "CNXC", "name": "Concentrix", "category": "BPO/CX", "rev_change": 57.20751176562197, "stock_change": -70.6, "pre_rev": 1579.602, "recent_rev": 2483.253, "pre_price": 108.88, "current_price": 31.97, "note": "", "currency": "USD"}, {"ticker": "MAN", "name": "ManpowerGroup", "category": "Staffing", "rev_change": -3.4680997313003807, "stock_change": -65.7, "pre_rev": 4800.9, "recent_rev": 4634.4, "pre_price": 75.7, "current_price": 26.0, "note": "", "currency": "USD"}, {"ticker": "RHI", "name": "Robert Half", "category": "Staffing", "rev_change": -26.124339021137686, "stock_change": -65.9, "pre_rev": 1833.455, "recent_rev": 1354.477, "pre_price": 66.18, "current_price": 22.56, "note": "", "currency": "USD"}, {"ticker": "SSTK", "name": "Shutterstock", "category": "Stock Media", "rev_change": 27.437088428974597, "stock_change": -63.1, "pre_rev": 204.096, "recent_rev": 260.094, "pre_price": 43.96, "current_price": 16.21, "note": "", "currency": "USD"}, {"ticker": "LON:WPP", "name": "WPP", "category": "Advertising", "rev_change": 2.1623120105343405, "stock_change": -72.7, "pre_rev": 14429.0, "recent_rev": 14741.0, "pre_price": 867.02, "current_price": 236.7, "note": "Annual", "currency": "GBp"}, {"ticker": "FVRR", "name": "Fiverr", "category": "Freelance", "rev_change": 30.791515151515153, "stock_change": -68.5, "pre_rev": 82.5, "recent_rev": 107.903, "pre_price": 33.13, "current_price": 10.42, "note": "Pre-ChatGPT revenue from press release", "currency": "USD"}, {"ticker": "ASGN", "name": "ASGN Inc", "category": "IT Staffing", "rev_change": -15.568912263127139, "stock_change": -57.7, "pre_rev": 1197.9, "recent_rev": 1011.4, "pre_price": 87.07, "current_price": 36.8, "note": "", "currency": "USD"}, {"ticker": "COUR", "name": "Coursera", "category": "Education", "rev_change": 42.386849379348774, "stock_change": -54.4, "pre_rev": 136.389, "recent_rev": 194.2, "pre_price": 13.25, "current_price": 6.04, "note": "", "currency": "USD"}, {"ticker": "TEP", "name": "Telecom Plus", "category": "Multi-Utility", "rev_change": -25.735871620420497, "stock_change": -45.7, "pre_rev": 2475.16, "recent_rev": 1838.156, "pre_price": 2481.0, "current_price": 1346.0, "note": "Annual", "currency": "GBp"}, {"ticker": "KELYA", "name": "Kelly Services", "category": "Staffing", "rev_change": -19.941775836972344, "stock_change": -45.0, "pre_rev": 1167.9, "recent_rev": 935.0, "pre_price": 15.68, "current_price": 8.62, "note": "", "currency": "USD"}, {"ticker": "AMS:WKL", "name": "Wolters Kluwer", "category": "Info Services", "rev_change": 12.323491655969192, "stock_change": -33.2, "pre_rev": 5453.0, "recent_rev": 6125.0, "pre_price": 99.25, "current_price": 66.34, "note": "Annual", "currency": "EUR"}, {"ticker": "HRB", "name": "H&R Block", "category": "Tax Prep", "rev_change": 19.506625401880953, "stock_change": -20.5, "pre_rev": 166.405, "recent_rev": 198.865, "pre_price": 38.46, "current_price": 30.57, "note": "", "currency": "USD"}, {"ticker": "ADBE", "name": "Adobe", "category": "Creative SW", "rev_change": 35.07782540040604, "stock_change": -24.4, "pre_rev": 4433.0, "recent_rev": 5988.0, "pre_price": 326.78, "current_price": 246.96, "note": "", "currency": "USD"}, {"ticker": "LZ", "name": "LegalZoom", "category": "Legal Tech", "rev_change": 29.689141080026733, "stock_change": -29.8, "pre_rev": 146.626, "recent_rev": 190.158, "pre_price": 8.83, "current_price": 6.2, "note": "", "currency": "USD"}, {"ticker": "G", "name": "Genpact", "category": "BPO", "rev_change": 16.22088193282492, "stock_change": -9.8, "pre_rev": 1111.037, "recent_rev": 1291.257, "pre_price": 42.91, "current_price": 38.69, "note": "", "currency": "USD"}, {"ticker": "OMC", "name": "Omnicom", "category": "Advertising", "rev_change": 17.241679735145496, "stock_change": 12.6, "pre_rev": 3443.4, "recent_rev": 4037.1, "pre_price": 69.96, "current_price": 78.78, "note": "", "currency": "USD"}, {"ticker": "DAVA", "name": "Endava", "category": "IT Services", "rev_change": -9.180937818552499, "stock_change": -93.1, "pre_rev": 196.2, "recent_rev": 178.187, "pre_price": 70.77, "current_price": 4.9, "note": "Pre-ChatGPT revenue from press release (GBP\u2192USD at filing rates)", "currency": "USD"}, {"ticker": "EPAM", "name": "EPAM Systems", "category": "IT Services", "rev_change": 13.648241124115673, "stock_change": -59.6, "pre_rev": 1226.92, "recent_rev": 1394.373, "pre_price": 343.94, "current_price": 138.8, "note": "", "currency": "USD"}, {"ticker": "EXFY", "name": "Expensify", "category": "SaaS", "rev_change": -17.480526204316003, "stock_change": -91.1, "pre_rev": 42.493, "recent_rev": 35.065, "pre_price": 9.17, "current_price": 0.82, "note": "", "currency": "USD"}, {"ticker": "PERI", "name": "Perion Network", "category": "Ad Tech", "rev_change": -22.177104482273936, "stock_change": -67.6, "pre_rev": 640.3, "recent_rev": 498.3, "pre_price": 26.6, "current_price": 8.63, "note": "Annual (20-F filer, no quarterly breakdowns)", "currency": "USD"}, {"ticker": "LPSN", "name": "LivePerson", "category": "Conv. AI", "rev_change": -53.570904824754365, "stock_change": -98.3, "pre_rev": 129.561, "recent_rev": 60.154, "pre_price": 160.2, "current_price": 2.73, "note": "", "currency": "USD"}, {"ticker": "FORR", "name": "Forrester", "category": "Research", "rev_change": -26.146821325354992, "stock_change": -82.6, "pre_rev": 127.679, "recent_rev": 94.295, "pre_price": 34.03, "current_price": 5.93, "note": "", "currency": "USD"}, {"ticker": "ZD", "name": "Ziff Davis", "category": "Digital Media", "rev_change": 6.387752176978001, "stock_change": -53.7, "pre_rev": 341.873, "recent_rev": 363.711, "pre_price": 88.36, "current_price": 40.89, "note": "", "currency": "USD"}, {"ticker": "FIVN", "name": "Five9", "category": "CCaaS", "rev_change": 44.127288871823175, "stock_change": -73.8, "pre_rev": 208.345, "recent_rev": 300.282, "pre_price": 60.23, "current_price": 15.78, "note": "", "currency": "USD"}, {"ticker": "TRIP", "name": "TripAdvisor", "category": "Travel", "rev_change": 20.47930283224401, "stock_change": -52.3, "pre_rev": 459.0, "recent_rev": 553.0, "pre_price": 19.58, "current_price": 9.35, "note": "", "currency": "USD"}, {"ticker": "SPT", "name": "Sprout Social", "category": "SaaS", "rev_change": 76.9994028205246, "stock_change": -89.5, "pre_rev": 65.307, "recent_rev": 115.593, "pre_price": 55.16, "current_price": 5.79, "note": "", "currency": "USD"}, {"ticker": "CLVT", "name": "Clarivate", "category": "Research/IP", "rev_change": -1.9820670127418596, "stock_change": -72.0, "pre_rev": 635.7, "recent_rev": 623.1, "pre_price": 9.17, "current_price": 2.57, "note": "", "currency": "USD"}, {"ticker": "DH", "name": "Definitive HC", "category": "Healthcare Data", "rev_change": -0.9125563128104425, "stock_change": -89.3, "pre_rev": 60.599, "recent_rev": 60.046, "pre_price": 10.69, "current_price": 1.14, "note": "", "currency": "USD"}, {"ticker": "FRSH", "name": "Freshworks", "category": "SaaS", "rev_change": 67.06896551724138, "stock_change": -41.1, "pre_rev": 128.76, "recent_rev": 215.118, "pre_price": 14.05, "current_price": 8.27, "note": "", "currency": "USD"}, {"ticker": "TASK", "name": "TaskUs", "category": "BPO/AI Data", "rev_change": 28.683496316719083, "stock_change": -45.4, "pre_rev": 232.13, "recent_rev": 298.713, "pre_price": 18.73, "current_price": 10.23, "note": "", "currency": "USD"}, {"ticker": "GLOB", "name": "Globant", "category": "IT Services", "rev_change": 37.90023592854735, "stock_change": -73.9, "pre_rev": 1780.2, "recent_rev": 2454.9, "pre_price": 174.22, "current_price": 45.41, "note": "Annual (20-F filer)", "currency": "USD"}];
+
+// Sort by revenue change for table
+const sorted = [...data].sort((a,b) => a.rev_change - b.rev_change);
+
+// Populate table
+const tbody = document.querySelector('#mainTable tbody');
+sorted.forEach(d => {
+  const gap = d.stock_change - d.rev_change;
+  const revClass = d.rev_change < 0 ? 'neg' : 'pos';
+  const stockClass = d.stock_change < 0 ? 'neg' : 'pos';
+  const note = d.note ? ` <span class="note-text">${d.note.includes('Annual') ? '(Annual)' : ''}</span>` : '';
+  const curr = (d.currency !== 'USD' && d.currency !== 'GBp') ? ` (${d.currency})` : (d.currency === 'GBp' ? ' (GBP)' : '');
+  tbody.innerHTML += `<tr>
+    <td><strong>${d.ticker}</strong></td>
+    <td>${d.name}${note}</td>
+    <td>${d.category}</td>
+    <td style="text-align:right">${d.pre_rev.toFixed(0)}${curr}</td>
+    <td style="text-align:right">${d.recent_rev.toFixed(0)}</td>
+    <td style="text-align:right" class="${revClass}">${d.rev_change > 0 ? '+' : ''}${d.rev_change.toFixed(1)}%</td>
+    <td style="text-align:right" class="${stockClass}">${d.stock_change > 0 ? '+' : ''}${d.stock_change.toFixed(1)}%</td>
+    <td style="text-align:right;color:#9ca3af">${gap.toFixed(0)}pp</td>
+  </tr>`;
+});
+
+// Scatter chart
+const scatterCtx = document.getElementById('scatterChart').getContext('2d');
+new Chart(scatterCtx, {
+  type: 'scatter',
+  data: {
+    datasets: [{
+      data: data.map(d => ({x: d.rev_change, y: d.stock_change, label: d.ticker})),
+      backgroundColor: data.map(d => d.rev_change < -5 ? 'rgba(248,113,113,0.8)' : d.rev_change > 5 ? 'rgba(99,102,241,0.8)' : 'rgba(251,191,36,0.8)'),
+      pointRadius: 6,
+      pointHoverRadius: 9,
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: {
+          label: (ctx) => {
+            const d = data.find(x => x.rev_change === ctx.parsed.x && x.stock_change === ctx.parsed.y);
+            return d ? `${d.ticker} (${d.name}): Rev ${d.rev_change > 0 ? '+' : ''}${d.rev_change.toFixed(1)}%, Stock ${d.stock_change.toFixed(1)}%` : '';
+          }
+        }
+      }
+    },
+    scales: {
+      x: { title: { display: true, text: 'Revenue Change %', color: '#9ca3af' }, grid: { color: '#1e2235' }, ticks: { color: '#9ca3af' } },
+      y: { title: { display: true, text: 'Stock Price Change %', color: '#9ca3af' }, grid: { color: '#1e2235' }, ticks: { color: '#9ca3af' } }
+    }
+  },
+  plugins: [{
+    afterDatasetsDraw(chart) {
+      const ctx = chart.ctx;
+      chart.data.datasets[0].data.forEach((point, i) => {
+        const meta = chart.getDatasetMeta(0);
+        const pos = meta.data[i];
+        // Only label extreme points
+        const d = data[i];
+        if (Math.abs(d.rev_change) > 25 || Math.abs(d.stock_change) > 90 || (d.rev_change > 40 && d.stock_change < -60)) {
+          ctx.fillStyle = '#e0e0e0';
+          ctx.font = '10px sans-serif';
+          ctx.textAlign = 'center';
+          ctx.fillText(d.ticker, pos.x, pos.y - 10);
+        }
+      });
+    }
+  }]
+});
+
+// Bar chart - sorted by stock decline
+const barSorted = [...data].sort((a,b) => a.stock_change - b.stock_change);
+const barCtx = document.getElementById('barChart').getContext('2d');
+new Chart(barCtx, {
+  type: 'bar',
+  data: {
+    labels: barSorted.map(d => d.ticker),
+    datasets: [
+      { label: 'Stock Δ%', data: barSorted.map(d => d.stock_change), backgroundColor: 'rgba(248,113,113,0.7)', barPercentage: 0.9, categoryPercentage: 0.8 },
+      { label: 'Revenue Δ%', data: barSorted.map(d => d.rev_change), backgroundColor: 'rgba(99,102,241,0.7)', barPercentage: 0.9, categoryPercentage: 0.8 }
+    ]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false, indexAxis: 'y',
+    plugins: { legend: { labels: { color: '#9ca3af' } } },
+    scales: {
+      x: { grid: { color: '#1e2235' }, ticks: { color: '#9ca3af', callback: v => v + '%' } },
+      y: { ticks: { color: '#c9d1d9', font: { size: 11 } } }
+    }
+  }
+});
+
+// Category averages chart
+const cats = {};
+data.forEach(d => {
+  if (!cats[d.category]) cats[d.category] = { rev: [], stock: [] };
+  cats[d.category].rev.push(d.rev_change);
+  cats[d.category].stock.push(d.stock_change);
+});
+const catLabels = Object.keys(cats).sort((a,b) => {
+  const avgA = cats[a].stock.reduce((s,v) => s+v, 0) / cats[a].stock.length;
+  const avgB = cats[b].stock.reduce((s,v) => s+v, 0) / cats[b].stock.length;
+  return avgA - avgB;
+});
+const catCtx = document.getElementById('categoryChart').getContext('2d');
+new Chart(catCtx, {
+  type: 'bar',
+  data: {
+    labels: catLabels,
+    datasets: [
+      { label: 'Avg Stock Δ%', data: catLabels.map(c => (cats[c].stock.reduce((s,v)=>s+v,0)/cats[c].stock.length).toFixed(1)), backgroundColor: 'rgba(248,113,113,0.7)' },
+      { label: 'Avg Revenue Δ%', data: catLabels.map(c => (cats[c].rev.reduce((s,v)=>s+v,0)/cats[c].rev.length).toFixed(1)), backgroundColor: 'rgba(99,102,241,0.7)' }
+    ]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false, indexAxis: 'y',
+    plugins: { legend: { labels: { color: '#9ca3af' } } },
+    scales: {
+      x: { grid: { color: '#1e2235' }, ticks: { color: '#9ca3af', callback: v => v + '%' } },
+      y: { ticks: { color: '#c9d1d9', font: { size: 11 } } }
+    }
+  }
+});
+</script>
+
+</body>
+</html>
