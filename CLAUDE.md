@@ -2,6 +2,10 @@
 
 **One-liner:** Find publicly traded companies whose stock crashed below their pre-ChatGPT price due to AI disruption, and track them in a master list.
 
+## Git Workflow
+
+Always commit and push to the **`main`** branch. Never use `master`.
+
 ## What This Task Does
 
 This folder tracks publicly traded companies whose stock price has fallen below its November 29, 2022 close (the day before ChatGPT launched) because AI is disrupting their core business. The master list lives in `companies.csv` (currently 49 companies across 30+ categories). When asked to "find a new one," the AI should:
