@@ -4,8 +4,6 @@ Tracking publicly traded companies whose stock price has fallen below its Novemb
 
 ## The Index
 
-If you had invested $1.00 equally across all companies in this index on November 29, 2022, you would have roughly **$0.38** today.
-
 The interactive dashboard is available at **[simonsmith.ca/ai-disrupted-companies](https://simonsmith.ca/ai-disrupted-companies)**.
 
 ## How It Works
