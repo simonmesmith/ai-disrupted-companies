@@ -1,4 +1,4 @@
-# Trading Card Generator (`generate_card.py`)
+# Trading Card Generator (`cards/generate_card.py`)
 
 > Card generation is **optional** — only when Simon explicitly asks.
 
@@ -7,7 +7,7 @@ Creates 1080×1350 portrait PNGs (4:5 ratio) as "trading cards" with a giant gli
 ## Usage
 
 ```python
-from generate_card import generate_card, fetch_logo
+from cards.generate_card import generate_card, fetch_logo
 
 logo = fetch_logo("CHGG")  # Returns PIL Image or None
 

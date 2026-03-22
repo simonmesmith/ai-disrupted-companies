@@ -43,10 +43,9 @@ uv run pytest test_update_prices.py
 ├── companies.csv           # Master list
 ├── update_prices.py        # Bulk price updater (yfinance)
 ├── test_update_prices.py   # Tests for price updater
-├── generate_card.py        # Trading card image generator
 ├── pyproject.toml          # Python dependencies (uv)
 ├── CLAUDE.md               # This file
-└── cards/                  # Generated trading card PNGs ({TICKER}_card.png)
+└── cards/                  # Trading cards: generator, docs, and output PNGs
 ```
 
 ---
