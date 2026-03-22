@@ -56,6 +56,7 @@ Well-covered (3+ entries): staffing/workforce (4), advertising/marketing (4), BP
 - **Reverse stock splits** distort yfinance's adjusted data (e.g., LivePerson had a 1:15 split). Always check.
 - **Delisted/acquired tickers** — verify the ticker is still active (e.g., ZoomInfo went private, Perficient was acquired).
 - **CSV format** — standard comma-delimited with double-quoted fields containing commas. Use the Edit tool to append rows.
+- **Trailing newline** — before appending a row, verify the file ends with a newline (`\n`). If it doesn't, the new row will be concatenated onto the last existing row. Never use `cat >>` or shell heredocs to append; always use the Edit tool or a Python script that explicitly checks for/adds a trailing newline first.
 
 ### Output Format
 
