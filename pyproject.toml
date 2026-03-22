@@ -1,0 +1,17 @@
+[project]
+name = "ai-disrupted-companies"
+version = "0.1.0"
+description = "Track publicly traded companies disrupted by AI"
+requires-python = ">=3.10"
+dependencies = [
+    "yfinance",
+    "Pillow",
+    "numpy",
+    "requests",
+    "pandas",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]

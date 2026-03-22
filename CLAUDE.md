@@ -15,12 +15,27 @@ This folder tracks publicly traded companies whose stock price has fallen below 
 Each session typically follows this workflow:
 
 1. **Find a new company** — Read `companies.csv` to see what's covered, brainstorm candidates (especially in underrepresented categories), verify the stock price decline, research the AI angle, and add the new row.
-2. **Add to CSV** — Append the new row with all fields (see CSV schema below). Include the verbatim CSV row in a code block so Simon can paste it into his Google Sheet.
+2. **Add to CSV** — Append the new row with all fields (see CSV schema below).
 3. **Update all prices** — Run `python3 update_prices.py` to refresh `price_now` and `change_percentage` for every company.
 
 Optionally, the AI can generate a trading card image, pull historical revenue data, or produce reports — but only when explicitly asked.
 
 ---
+
+## Environment Setup
+
+This project uses [`uv`](https://docs.astral.sh/uv/) for dependency management. To set up:
+
+```bash
+uv sync --all-extras    # Creates .venv and installs all deps including dev
+```
+
+All Python commands should use `uv run` to ensure the venv is active:
+
+```bash
+uv run python update_prices.py
+uv run pytest test_update_prices.py
+```
 
 ## Folder Structure
 
@@ -29,9 +44,9 @@ Optionally, the AI can generate a trading card image, pull historical revenue da
 ├── update_prices.py        # Bulk price updater (yfinance)
 ├── test_update_prices.py   # Tests for price updater
 ├── generate_card.py        # Trading card image generator
+├── pyproject.toml          # Python dependencies (uv)
 ├── CLAUDE.md               # This file
-├── cards/                  # Generated trading card PNGs ({TICKER}_card.png)
-└── requirements.txt        # Python dependencies
+└── cards/                  # Generated trading card PNGs ({TICKER}_card.png)
 ```
 
 ---
@@ -98,10 +113,6 @@ current_price = stock.history(period='1d')['Close'].iloc[-1]
 - **CSV format** — standard comma-delimited with double-quoted fields containing commas. Use the Edit tool to append rows.
 - **Trailing newline** — before appending a row, verify the file ends with a newline (`\n`). If it doesn't, the new row will be concatenated onto the last existing row. Never use `cat >>` or shell heredocs to append; always use the Edit tool or a Python script that explicitly checks for/adds a trailing newline first.
 
-### Output Format
-
-After adding the row, include the verbatim CSV line in a code block for easy copy-paste into Simon's Google Sheet.
-
 ---
 
 ## Updating Prices (`update_prices.py`)
@@ -109,10 +120,10 @@ After adding the row, include the verbatim CSV line in a code block for easy cop
 Fetches the last closing price for all tickers in a single bulk `yf.download()` call (avoids rate limiting) and updates `price_now` and `change_percentage`.
 
 ```bash
-python3 update_prices.py
+uv run python update_prices.py
 ```
 
-Run this after adding a new company, or anytime you want to refresh prices. Tests: `python3 -m pytest test_update_prices.py`
+Run this after adding a new company, or anytime you want to refresh prices. Tests: `uv run pytest test_update_prices.py`
 
 ---
 

@@ -6,8 +6,12 @@ if [ "${CLAUDE_CODE_REMOTE:-}" != "true" ]; then
   exit 0
 fi
 
-# Ensure build tools are up to date (--ignore-installed to bypass debian system packages)
-pip install --ignore-installed setuptools wheel
+# Install uv if not present
+if ! command -v uv &> /dev/null; then
+  curl -LsSf https://astral.sh/uv/install.sh | sh
+  export PATH="$HOME/.local/bin:$PATH"
+fi
 
-# Install Python dependencies
-pip install -r "$CLAUDE_PROJECT_DIR/requirements.txt"
+# Sync dependencies
+cd "$CLAUDE_PROJECT_DIR"
+uv sync --all-extras
