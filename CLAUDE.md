@@ -8,14 +8,15 @@ Always commit and push to the **`main`** branch. Never use `master`.
 
 ## What This Task Does
 
-This folder tracks publicly traded companies whose stock price has fallen below its November 29, 2022 close (the day before ChatGPT launched) because AI is disrupting their core business. The master list lives in `companies.csv` (currently 49 companies across 30+ categories). When asked to "find a new one," the AI should:
+This folder tracks publicly traded companies whose stock price has fallen below its November 29, 2022 close (the day before ChatGPT launched) because AI is disrupting their core business. The master list lives in `companies.csv`.
 
-1. Read `companies.csv` to see what's already covered and which categories are saturated.
-2. Brainstorm candidates from underrepresented categories.
-3. Verify the stock price decline using `yfinance` in Python (the stock MUST trade below its Nov 29, 2022 close).
-4. Research the AI impact angle via web search — confirm the decline is meaningfully tied to AI disruption, not just macro or unrelated issues.
-5. Append the new row to `companies.csv` and report findings in chat.
-6. Include the verbatim CSV row in a code block so Simon can paste it into his Google Sheet.
+## Daily Workflow
+
+Each session typically follows this workflow:
+
+1. **Find a new company** — Read `companies.csv` to see what's covered, brainstorm candidates (especially in underrepresented categories), verify the stock price decline, research the AI angle, and add the new row.
+2. **Add to CSV** — Append the new row with all fields (see CSV schema below). Include the verbatim CSV row in a code block so Simon can paste it into his Google Sheet.
+3. **Update all prices** — Run `python3 update_prices.py` to refresh `price_now` and `change_percentage` for every company.
 
 Optionally, the AI can generate a trading card image, pull historical revenue data, or produce reports — but only when explicitly asked.
 
@@ -24,12 +25,55 @@ Optionally, the AI can generate a trading card image, pull historical revenue da
 ## Folder Structure
 
 ```
-├── companies.csv           # Master list (Ticker,Name,Category,Description,Impact)
+├── companies.csv           # Master list
+├── update_prices.py        # Bulk price updater (yfinance)
+├── test_update_prices.py   # Tests for price updater
 ├── generate_card.py        # Trading card image generator
 ├── CLAUDE.md               # This file
 ├── cards/                  # Generated trading card PNGs ({TICKER}_card.png)
-└── reports/                # Revenue reports, analyses, data exports (date-prefixed)
+└── requirements.txt        # Python dependencies
 ```
+
+---
+
+## CSV Schema
+
+`companies.csv` columns:
+
+| Column | Description |
+|---|---|
+| `ticker` | yfinance-compatible ticker symbol (e.g., `CHGG`, `WPP.L`, `WKL.AS`) |
+| `name` | Company name |
+| `category` | Broad category (see Categories below) |
+| `subcategory` | Specific subcategory |
+| `description` | What the company does |
+| `disruption` | How AI is disrupting them |
+| `price_prechatgpt` | Closing price on November 29, 2022 |
+| `price_now` | Most recent closing price (updated by `update_prices.py`) |
+| `change_percentage` | `(price_now - price_prechatgpt) / price_prechatgpt` |
+
+---
+
+## Categories
+
+Companies are organized into broad categories with specific subcategories:
+
+| Category | Subcategories |
+|---|---|
+| Business Services | BPO / Contact Centers, IT Services, IT Staffing & Consulting, Staffing & Recruitment, Translation & Localization, Multi-Utility / Network Marketing |
+| Software & SaaS | Contact Center Software, Conversational AI, Customer Support, Expense Management, HCM / Payroll, Project Management, Social Media Management, AP Automation / Fintech |
+| Content & Media | Stock Media, Content Moderation / AI Data, Creative Software, Online Dating, Online Reviews / Travel |
+| Marketing & Advertising | Ad Services / Agencies, Ad Tech, Digital Media / Affiliate |
+| Research & Analytics | Data Warehousing, Healthcare Analytics, Market Research, Professional Information, Research / IP Analytics |
+| Education | EdTech |
+| Freelance Marketplaces | Freelance Platform |
+| Legal & Tax | Legal Tech, Tax Preparation |
+
+### Categorization Guidelines
+
+- **Prefer existing categories and subcategories** when a company fits reasonably well.
+- **New categories or subcategories are fine** when a company genuinely doesn't fit existing ones — but minimize fragmentation so we can do meaningful trend analysis.
+- Subcategories should be **specific enough to be useful** but **broad enough to accumulate multiple entries** over time.
 
 ---
 
@@ -37,19 +81,15 @@ Optionally, the AI can generate a trading card image, pull historical revenue da
 
 ### Stock Price Verification
 
-Use `yfinance` — it's installed, fast, and reliable. Don't bother with web scraping.
+Use `yfinance` — it's installed, fast, and reliable. Tickers must be **yfinance-compatible** (e.g., `WPP.L` not `LON:WPP`, `WKL.AS` not `AMS:WKL`).
 
 ```python
 import yfinance as yf
 stock = yf.Ticker('TICKER')
 hist = stock.history(start='2022-11-28', end='2022-11-30')
 nov_price = hist['Close'].iloc[-1]
-current_price = stock.history(period='5d')['Close'].iloc[-1]
+current_price = stock.history(period='1d')['Close'].iloc[-1]
 ```
-
-### Category Saturation (as of March 2026)
-
-Well-covered (3+ entries): staffing/workforce (4), advertising/marketing (4), BPO/CX (3). Underrepresented areas to explore: fintech, healthcare IT, legal tech, traditional SaaS, data/analytics, content/media, real estate tech, cybersecurity, insurance tech.
 
 ### Gotchas
 
@@ -61,6 +101,18 @@ Well-covered (3+ entries): staffing/workforce (4), advertising/marketing (4), BP
 ### Output Format
 
 After adding the row, include the verbatim CSV line in a code block for easy copy-paste into Simon's Google Sheet.
+
+---
+
+## Updating Prices (`update_prices.py`)
+
+Fetches the last closing price for all tickers in a single bulk `yf.download()` call (avoids rate limiting) and updates `price_now` and `change_percentage`.
+
+```bash
+python3 update_prices.py
+```
+
+Run this after adding a new company, or anytime you want to refresh prices. Tests: `python3 -m pytest test_update_prices.py`
 
 ---
 
@@ -80,7 +132,7 @@ logo = fetch_logo("CHGG")  # Returns PIL Image or None
 generate_card(
     ticker="CHGG",
     name="Chegg Inc",
-    category="Education Technology",
+    category="Education",
     what_they_do="Online homework help and textbook rental platform used by millions of college students.",
     ai_impact="ChatGPT replaced Chegg's core homework help product almost overnight, causing 30%+ subscriber losses and a 91% stock collapse.",
     pre_price=14.74,
@@ -93,7 +145,7 @@ generate_card(
 
 ### Text Length Guidelines
 
-Card space is limited. Do NOT paste raw `Description` or `Impact` fields from `companies.csv` — they're too long. Write short, punchy versions:
+Card space is limited. Do NOT paste raw `description` or `disruption` fields from `companies.csv` — they're too long. Write short, punchy versions:
 
 - **`what_they_do`** — One sentence, 10–20 words. Aim for 1–2 lines on the card.
 - **`ai_impact`** — One to two sentences, 15–30 words. Max 4 lines in the callout box.
@@ -106,7 +158,7 @@ Card space is limited. Do NOT paste raw `Description` or `Impact` fields from `c
 
 ### Output
 
-Cards go in `cards/` as `{TICKER}_card.png`. Reports go in `reports/` with a `YYYY-MM-DD_` prefix.
+Cards go in `cards/` as `{TICKER}_card.png`.
 
 ---
 
@@ -154,28 +206,13 @@ REVENUE_TAGS = [
 
 ### Non-US Companies
 
-These tickers won't be in EDGAR: LON:RWS, LON:WPP, AMS:WKL, TEP, PUBGY, RCRUY, RELX. Use `yfinance` annual data as fallback:
-
-```python
-yf_map = {
-    'LON:RWS': 'RWS.L', 'LON:WPP': 'WPP.L', 'AMS:WKL': 'WKL.AS',
-    'TEP': 'TEP.L', 'PUBGY': 'PUB.PA', 'RCRUY': '6098.T', 'RELX': 'RELX.L',
-}
-```
-
-Mark these as "Annual" with local currency (GBP/EUR/JPY) in the Note column.
+Non-US tickers use yfinance-friendly symbols (e.g., `RWS.L`, `WPP.L`, `WKL.AS`, `TEP.L`). These won't be in EDGAR. Use `yfinance` annual data as fallback. Mark these as "Annual" with local currency (GBP/EUR/JPY) in the Note column.
 
 ### Foreign Private Issuers (FVRR, DAVA)
 
 Check SEC EDGAR first (may use non-standard tags), then fall back to web search for press releases.
 
-### Revenue CSV Format
-
-`reports/revenue-comparison-*.csv` columns: `Ticker, Pre-ChatGPT Quarter Date, Pre-ChatGPT Quarter Revenue, Most Recent Quarter Date, Most Recent Quarter Revenue, Revenue Change ($), Revenue Change (%), Note`
-
 ### Data Caveats
 
 - **CNXC** — revenue jump is mostly from the Webhelp merger, not organic growth.
-- **RCRUY** — revenue in JPY (trillions), not directly comparable to USD.
 - **DAVA** — fiscal year starts July, so "Q3 2022" = their Q1 FY2023.
-- **IPG** — CIK 49826 (not in standard ticker map).
