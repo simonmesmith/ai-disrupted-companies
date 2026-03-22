@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Disruption Index — Companies Destroyed by AI</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0a;
+  --card-bg: #141414;
+  --card-border: #1e1e1e;
+  --card-hover: #1a1a1a;
+  --red: #dc2626;
+  --red-dim: #991b1b;
+  --red-glow: #ef4444;
+  --green: #22c55e;
+  --text: #f0f0f0;
+  --text-dim: #888;
+  --text-muted: #555;
+  --mono: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace;
+  --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+body { background: var(--bg); color: var(--text); font-family: var(--sans); line-height: 1.5; }
+
+/* ═══ HERO ═══ */
+.hero {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 3rem 1.5rem;
+  position: relative;
+  overflow: hidden;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at 50% 40%, rgba(220,38,38,0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+.hero-label {
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  font-size: 0.75rem;
+  color: var(--red);
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+.hero-dollar {
+  font-family: var(--mono);
+  font-size: clamp(4rem, 12vw, 10rem);
+  font-weight: 800;
+  color: var(--red);
+  line-height: 1;
+  text-shadow: 0 0 80px rgba(220,38,38,0.4), 0 0 160px rgba(220,38,38,0.15);
+  margin-bottom: 0.5rem;
+}
+.hero-context {
+  font-size: clamp(1rem, 2.5vw, 1.35rem);
+  color: var(--text-dim);
+  max-width: 680px;
+  margin-bottom: 2rem;
+}
+.hero-context strong { color: var(--text); font-weight: 600; }
+.hero-meta {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+.hero-meta span { margin: 0 0.75rem; }
+
+/* ═══ SECTIONS ═══ */
+section { padding: 3rem 1.5rem; max-width: 1200px; margin: 0 auto; }
+.section-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+.section-subtitle {
+  color: var(--text-dim);
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+
+/* ═══ CATEGORY BARS ═══ */
+.cat-toggle {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+.cat-toggle button {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  color: var(--text-dim);
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-family: var(--sans);
+  transition: all 0.2s;
+}
+.cat-toggle button.active {
+  background: var(--red-dim);
+  border-color: var(--red);
+  color: var(--text);
+}
+.bar-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+.bar-row:hover { opacity: 0.85; }
+.bar-label {
+  width: 220px;
+  min-width: 220px;
+  text-align: right;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.bar-track {
+  flex: 1;
+  height: 28px;
+  background: var(--card-bg);
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+}
+.bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--red-dim), var(--red));
+  border-radius: 4px;
+  transition: width 0.6s ease;
+  min-width: 2px;
+}
+.bar-value {
+  width: 80px;
+  min-width: 80px;
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  color: var(--red);
+  font-weight: 600;
+}
+.bar-count {
+  width: 60px;
+  min-width: 60px;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+/* ═══ CONTROLS ═══ */
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+  align-items: center;
+}
+.search-input {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  color: var(--text);
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-family: var(--sans);
+  width: 260px;
+  transition: border-color 0.2s;
+}
+.search-input:focus { outline: none; border-color: var(--red); }
+.search-input::placeholder { color: var(--text-muted); }
+.sort-select {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  color: var(--text);
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-family: var(--sans);
+  cursor: pointer;
+}
+.filter-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.pill {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  color: var(--text-dim);
+  padding: 0.3rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+.pill:hover { border-color: var(--text-muted); color: var(--text); }
+.pill.active { background: var(--red-dim); border-color: var(--red); color: var(--text); }
+
+/* ═══ COMPANY CARDS ═══ */
+.company-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1rem;
+}
+.company-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  padding: 1.25rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+.company-card:hover { border-color: var(--text-muted); background: var(--card-hover); }
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.75rem;
+}
+.card-ticker {
+  font-family: var(--mono);
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: 0.02em;
+}
+.card-change {
+  font-family: var(--mono);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--red);
+}
+.card-name {
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  margin-bottom: 0.5rem;
+}
+.card-category {
+  display: inline-block;
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  background: rgba(255,255,255,0.05);
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  margin-bottom: 0.75rem;
+}
+.card-bar-track {
+  height: 6px;
+  background: rgba(255,255,255,0.05);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+.card-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--red), var(--red-glow));
+  border-radius: 3px;
+  transition: width 0.4s ease;
+}
+.card-prices {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+.card-prices .price-val {
+  font-family: var(--mono);
+  color: var(--text-dim);
+}
+
+/* ═══ EXPANDED DETAILS ═══ */
+.card-details {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease, padding 0.3s ease;
+}
+.card-details.open {
+  max-height: 800px;
+  padding-top: 1rem;
+}
+.card-details-inner {
+  border-top: 1px solid var(--card-border);
+  padding-top: 1rem;
+}
+.detail-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin-bottom: 0.25rem;
+  margin-top: 0.75rem;
+}
+.detail-label:first-child { margin-top: 0; }
+.detail-text {
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  line-height: 1.6;
+}
+
+/* ═══ FOOTER ═══ */
+footer {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  border-top: 1px solid var(--card-border);
+  max-width: 1200px;
+  margin: 2rem auto 0;
+}
+footer a { color: var(--text-dim); text-decoration: underline; }
+footer a:hover { color: var(--text); }
+
+/* ═══ RESPONSIVE ═══ */
+@media (max-width: 768px) {
+  .bar-label { width: 140px; min-width: 140px; font-size: 0.75rem; }
+  .bar-count { display: none; }
+  .company-grid { grid-template-columns: 1fr; }
+  .controls { flex-direction: column; align-items: stretch; }
+  .search-input { width: 100%; }
+}
+@media (max-width: 480px) {
+  .bar-label { width: 100px; min-width: 100px; }
+  .hero-dollar { font-size: 3.5rem; }
+}
+</style>
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero-label">AI Disruption Index</div>
+  <div class="hero-dollar" id="hero-dollar">$0.00</div>
+  <div class="hero-context">
+    If you had invested <strong>$1.00</strong> equally across these
+    <strong id="hero-count">0</strong> AI-disrupted companies
+    the day before ChatGPT launched, you would have
+    <strong id="hero-amount">$0.00</strong> today.
+  </div>
+  <div class="hero-meta">
+    <span id="hero-date"></span>
+    <span id="hero-companies"></span>
+  </div>
+</section>
+
+<section id="categories">
+  <div class="section-title">Damage by Category</div>
+  <div class="section-subtitle">Average stock decline since November 29, 2022</div>
+  <div class="cat-toggle">
+    <button class="active" data-view="category">Categories</button>
+    <button data-view="subcategory">Subcategories</button>
+  </div>
+  <div id="category-bars"></div>
+</section>
+
+<section id="companies">
+  <div class="section-title">All Companies</div>
+  <div class="section-subtitle" id="showing-count"></div>
+  <div class="controls">
+    <input type="text" class="search-input" id="search" placeholder="Search ticker, name, or keyword...">
+    <select class="sort-select" id="sort">
+      <option value="change_asc">Worst decline first</option>
+      <option value="change_desc">Least decline first</option>
+      <option value="name_asc">Name A–Z</option>
+      <option value="name_desc">Name Z–A</option>
+      <option value="category">By category</option>
+    </select>
+  </div>
+  <div class="filter-pills" id="filters"></div>
+  <div class="company-grid" id="grid"></div>
+</section>
+
+<footer>
+  <p>Data sourced from <a href="https://finance.yahoo.com" target="_blank" rel="noopener">Yahoo Finance</a>.
+  Prices are not live — see timestamp above.</p>
+  <p style="margin-top:0.5rem">
+    <a href="https://github.com/simonmesmith/ai-disrupted-companies" target="_blank" rel="noopener">View on GitHub</a>
+  </p>
+</footer>
+
+<script>
+const DATA = {{ DATA_JSON }};
+
+/* ── Helpers ── */
+const pct = (v) => (v * 100).toFixed(1) + '%';
+const dollar = (v) => v >= 1 ? '$' + v.toFixed(2) : '$' + v.toFixed(2);
+const qs = (s, el) => (el || document).querySelector(s);
+const qsa = (s, el) => [...(el || document).querySelectorAll(s)];
+
+/* ── State ── */
+let activeCategory = null;
+let activeView = 'category';
+let searchQuery = '';
+let sortKey = 'change_asc';
+let expandedTicker = null;
+
+/* ── Hero ── */
+function renderHero() {
+  const val = DATA.index_value;
+  qs('#hero-dollar').textContent = dollar(val);
+  qs('#hero-count').textContent = DATA.company_count;
+  qs('#hero-amount').textContent = dollar(val);
+  qs('#hero-date').textContent = 'Prices as of ' + DATA.price_date;
+  qs('#hero-companies').textContent = DATA.company_count + ' companies tracked';
+}
+
+/* ── Category Bars ── */
+function renderBars() {
+  const data = activeView === 'category' ? DATA.categories : DATA.subcategories;
+  const sorted = [...data].sort((a, b) => a.avg_change - b.avg_change);
+  const worst = Math.min(...sorted.map(d => d.avg_change));
+  const container = qs('#category-bars');
+  container.innerHTML = sorted.map(d => {
+    const w = (Math.abs(d.avg_change) / Math.abs(worst) * 100).toFixed(1);
+    const isActive = activeCategory === d.name;
+    return `<div class="bar-row${isActive ? ' active' : ''}" data-cat="${d.name}">
+      <div class="bar-label">${d.name}</div>
+      <div class="bar-track"><div class="bar-fill" style="width:${w}%"></div></div>
+      <div class="bar-value">${pct(d.avg_change)}</div>
+      <div class="bar-count">${d.count} co.</div>
+    </div>`;
+  }).join('');
+
+  qsa('.bar-row', container).forEach(row => {
+    row.addEventListener('click', () => {
+      const cat = row.dataset.cat;
+      activeCategory = activeCategory === cat ? null : cat;
+      renderBars();
+      renderCompanies();
+      qs('#companies').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+}
+
+/* ── Filter Pills ── */
+function renderFilters() {
+  const cats = [...new Set(DATA.companies.map(c => c.category))].sort();
+  qs('#filters').innerHTML = cats.map(c =>
+    `<span class="pill${activeCategory === c ? ' active' : ''}" data-cat="${c}">${c}</span>`
+  ).join('');
+
+  qsa('.pill').forEach(pill => {
+    pill.addEventListener('click', () => {
+      const cat = pill.dataset.cat;
+      activeCategory = activeCategory === cat ? null : cat;
+      renderFilters();
+      renderBars();
+      renderCompanies();
+    });
+  });
+}
+
+/* ── Company Grid ── */
+function getFilteredSorted() {
+  let list = [...DATA.companies];
+  if (activeCategory) {
+    list = list.filter(c =>
+      (activeView === 'category' ? c.category : c.subcategory) === activeCategory ||
+      c.category === activeCategory
+    );
+  }
+  if (searchQuery) {
+    const q = searchQuery.toLowerCase();
+    list = list.filter(c =>
+      c.ticker.toLowerCase().includes(q) ||
+      c.name.toLowerCase().includes(q) ||
+      c.description.toLowerCase().includes(q) ||
+      c.disruption.toLowerCase().includes(q)
+    );
+  }
+  switch (sortKey) {
+    case 'change_asc': list.sort((a, b) => a.change_percentage - b.change_percentage); break;
+    case 'change_desc': list.sort((a, b) => b.change_percentage - a.change_percentage); break;
+    case 'name_asc': list.sort((a, b) => a.name.localeCompare(b.name)); break;
+    case 'name_desc': list.sort((a, b) => b.name.localeCompare(a.name)); break;
+    case 'category': list.sort((a, b) => a.category.localeCompare(b.category) || a.change_percentage - b.change_percentage); break;
+  }
+  return list;
+}
+
+function renderCompanies() {
+  const list = getFilteredSorted();
+  qs('#showing-count').textContent = list.length === DATA.company_count
+    ? `All ${DATA.company_count} companies`
+    : `Showing ${list.length} of ${DATA.company_count} companies`;
+
+  qs('#grid').innerHTML = list.map(c => {
+    const barW = (Math.abs(c.change_percentage) * 100).toFixed(1);
+    const isOpen = expandedTicker === c.ticker;
+    return `<div class="company-card" data-ticker="${c.ticker}">
+      <div class="card-header">
+        <div class="card-ticker">${c.ticker}</div>
+        <div class="card-change">${pct(c.change_percentage)}</div>
+      </div>
+      <div class="card-name">${c.name}</div>
+      <div class="card-category">${c.category} › ${c.subcategory}</div>
+      <div class="card-bar-track"><div class="card-bar-fill" style="width:${barW}%"></div></div>
+      <div class="card-prices">
+        <div>Pre-ChatGPT <span class="price-val">${dollar(c.price_prechatgpt)}</span></div>
+        <div>Now <span class="price-val">${dollar(c.price_now)}</span></div>
+      </div>
+      <div class="card-details${isOpen ? ' open' : ''}">
+        <div class="card-details-inner">
+          <div class="detail-label">What they do</div>
+          <div class="detail-text">${c.description}</div>
+          <div class="detail-label">AI disruption</div>
+          <div class="detail-text">${c.disruption}</div>
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+
+  qsa('.company-card').forEach(card => {
+    card.addEventListener('click', () => {
+      const ticker = card.dataset.ticker;
+      expandedTicker = expandedTicker === ticker ? null : ticker;
+      const details = qs('.card-details', card);
+      qsa('.card-details.open').forEach(d => { if (d !== details) d.classList.remove('open'); });
+      details.classList.toggle('open');
+    });
+  });
+}
+
+/* ── Events ── */
+qs('#search').addEventListener('input', (e) => {
+  searchQuery = e.target.value;
+  renderCompanies();
+});
+
+qs('#sort').addEventListener('change', (e) => {
+  sortKey = e.target.value;
+  renderCompanies();
+});
+
+qsa('.cat-toggle button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    qsa('.cat-toggle button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeView = btn.dataset.view;
+    activeCategory = null;
+    renderBars();
+    renderFilters();
+    renderCompanies();
+  });
+});
+
+/* ── Init ── */
+renderHero();
+renderBars();
+renderFilters();
+renderCompanies();
+</script>
+</body>
+</html>

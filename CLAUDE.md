@@ -12,13 +12,15 @@ This folder tracks publicly traded companies whose stock price has fallen below 
 
 ## Daily Workflow
 
-Each session typically follows this workflow:
+Each session, the AI's job is:
 
 1. **Find a new company** — Read `companies.csv` to see what's covered, brainstorm candidates (especially in underrepresented categories), verify the stock price decline, research the AI angle, and add the new row.
 2. **Add to CSV** — Append the new row with all fields (see CSV schema below).
-3. **Update all prices** — Run `python3 update_prices.py` to refresh `price_now` and `change_percentage` for every company.
+3. **Commit and push** — That's it. GitHub Actions handles the rest.
 
-Optionally, the AI can generate a trading card image or pull historical revenue data — but only when explicitly asked. See `cards/CLAUDE.md` for details on those features.
+A GitHub Actions workflow automatically runs on push to main when `companies.csv` changes. It updates all prices via `update_prices.py`, regenerates the static site via `generate_page.py`, and commits the results. No manual price updates or page generation needed.
+
+Optionally, the AI can generate a trading card image — but only when explicitly asked. See `cards/CLAUDE.md` for details.
 
 ---
 
@@ -40,12 +42,17 @@ uv run pytest test_update_prices.py
 ## Folder Structure
 
 ```
-├── companies.csv           # Master list
+├── companies.csv           # Master list (source of truth)
 ├── update_prices.py        # Bulk price updater (yfinance)
 ├── test_update_prices.py   # Tests for price updater
+├── generate_page.py        # Static site generator
+├── template.html           # HTML/CSS/JS template for the site
 ├── pyproject.toml          # Python dependencies (uv)
 ├── CLAUDE.md               # This file
-└── cards/                  # Trading cards: generator, docs, and output PNGs
+├── docs/                   # Generated static site (GitHub Pages serves from here)
+│   └── index.html          # Generated — do not edit directly
+├── cards/                  # Trading cards: generator, docs, and output PNGs
+└── .github/workflows/      # GitHub Actions automation
 ```
 
 ---
@@ -114,13 +121,29 @@ current_price = stock.history(period='1d')['Close'].iloc[-1]
 
 ---
 
-## Updating Prices (`update_prices.py`)
+## Automation
 
-Fetches the last closing price for all tickers in a single bulk `yf.download()` call (avoids rate limiting) and updates `price_now` and `change_percentage`.
+### GitHub Actions (`.github/workflows/update-and-generate.yml`)
 
-```bash
-uv run python update_prices.py
-```
+Triggered on push to `main` when `companies.csv`, `generate_page.py`, or `template.html` change. Runs:
 
-Run this after adding a new company, or anytime you want to refresh prices. Tests: `uv run pytest test_update_prices.py`
+1. `update_prices.py` — refreshes all prices via yfinance
+2. `generate_page.py` — regenerates `docs/index.html` from CSV + template
+3. Commits results back to main
+
+Commits made by the bot use `GITHUB_TOKEN`, which does not re-trigger workflows (no infinite loops). Can also be triggered manually via `workflow_dispatch`.
+
+### Static Site (`generate_page.py` + `template.html`)
+
+`generate_page.py` reads `companies.csv`, computes an equal-weighted index and category stats, and injects the data as JSON into `template.html` to produce `docs/index.html`. GitHub Pages serves `docs/` on main.
+
+To run locally: `uv run python generate_page.py`
+
+### Price Updates (`update_prices.py`)
+
+Fetches last close for all tickers in a single bulk `yf.download()` call (avoids rate limiting) and updates `price_now` and `change_percentage`.
+
+To run locally: `uv run python update_prices.py`
+
+Tests: `uv run pytest test_update_prices.py`
 
