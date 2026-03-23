@@ -142,6 +142,19 @@ class TestBuildPayload:
         assert isinstance(payload["index_value"], float)
         assert 0 < payload["index_value"] < 1
 
+    def test_latest_company_is_last_row(self, sample_companies):
+        payload = build_payload(sample_companies)
+        latest = payload["latest_company"]
+        assert latest["ticker"] == "FVRR"
+        assert latest["name"] == "Fiverr International Ltd"
+        assert latest["category"] == "Freelance Marketplaces"
+        assert latest["subcategory"] == "Freelance Platform"
+        assert latest["description"] == "desc three"
+        assert latest["disruption"] == "disruption three"
+        assert latest["price_prechatgpt"] == 33.13
+        assert latest["price_now"] == 10.25
+        assert latest["change_percentage"] == pytest.approx(-0.6906127377, rel=1e-4)
+
 
 class TestGenerateHtml:
     def test_injects_json(self, tmp_path):

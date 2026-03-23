@@ -58,11 +58,24 @@ def build_payload(companies):
     index_val = compute_index(companies)
     now = datetime.now(timezone.utc)
 
+    latest = companies[-1]
+
     return {
         "generated_at": now.isoformat(),
         "price_date": now.strftime("%B %d, %Y"),
         "index_value": round(index_val, 4),
         "company_count": len(companies),
+        "latest_company": {
+            "ticker": latest["ticker"],
+            "name": latest["name"],
+            "category": latest["category"],
+            "subcategory": latest["subcategory"],
+            "description": latest["description"],
+            "disruption": latest["disruption"],
+            "price_prechatgpt": latest["price_prechatgpt"],
+            "price_now": latest["price_now"],
+            "change_percentage": round(latest["change_percentage"], 6),
+        },
         "companies": [
             {
                 "ticker": c["ticker"],
