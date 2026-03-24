@@ -157,10 +157,20 @@ class TestBuildPayload:
 
 
 class TestGenerateHtml:
+    TEMPLATE_WITH_META = (
+        "<html><head>"
+        "<title>{{ OG_TITLE }}</title>"
+        '<meta name="description" content="{{ META_DESCRIPTION }}">'
+        '<script type="application/ld+json">{{ JSONLD }}</script>'
+        "</head><body>"
+        "<script>const DATA = {{ DATA_JSON }};</script>"
+        "</body></html>"
+    )
+
     def test_injects_json(self, tmp_path):
         template = tmp_path / "template.html"
         template.write_text("<html><script>const DATA = {{ DATA_JSON }};</script></html>")
-        payload = {"test": "value", "num": 42}
+        payload = {"test": "value", "num": 42, "index_value": 0.35, "company_count": 3}
 
         import generate_page
         orig = generate_page.TEMPLATE_PATH
@@ -178,3 +188,57 @@ class TestGenerateHtml:
         end = html.index(";", start)
         parsed = json.loads(html[start:end])
         assert parsed == payload
+
+    def test_replaces_all_placeholders(self, tmp_path):
+        template = tmp_path / "template.html"
+        template.write_text(self.TEMPLATE_WITH_META)
+        payload = {"index_value": 0.42, "company_count": 10}
+
+        import generate_page
+        orig = generate_page.TEMPLATE_PATH
+        generate_page.TEMPLATE_PATH = template
+        try:
+            html = generate_html(payload)
+        finally:
+            generate_page.TEMPLATE_PATH = orig
+
+        assert "{{ OG_TITLE }}" not in html
+        assert "{{ META_DESCRIPTION }}" not in html
+        assert "{{ JSONLD }}" not in html
+        assert "{{ DATA_JSON }}" not in html
+
+    def test_meta_description_contains_dynamic_values(self, tmp_path):
+        template = tmp_path / "template.html"
+        template.write_text(self.TEMPLATE_WITH_META)
+        payload = {"index_value": 0.35, "company_count": 47}
+
+        import generate_page
+        orig = generate_page.TEMPLATE_PATH
+        generate_page.TEMPLATE_PATH = template
+        try:
+            html = generate_html(payload)
+        finally:
+            generate_page.TEMPLATE_PATH = orig
+
+        assert "$0.35" in html
+        assert "47" in html
+
+    def test_jsonld_is_valid(self, tmp_path):
+        template = tmp_path / "template.html"
+        template.write_text(self.TEMPLATE_WITH_META)
+        payload = {"index_value": 0.50, "company_count": 20}
+
+        import generate_page
+        orig = generate_page.TEMPLATE_PATH
+        generate_page.TEMPLATE_PATH = template
+        try:
+            html = generate_html(payload)
+        finally:
+            generate_page.TEMPLATE_PATH = orig
+
+        start = html.index('application/ld+json">') + len('application/ld+json">')
+        end = html.index("</script>", start)
+        ld = json.loads(html[start:end])
+        assert ld["@type"] == "WebSite"
+        assert ld["@context"] == "https://schema.org"
+        assert "url" in ld
