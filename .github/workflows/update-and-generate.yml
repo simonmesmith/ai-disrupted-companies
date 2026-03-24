@@ -6,6 +6,7 @@ on:
     paths:
       - companies.csv
       - generate_page.py
+      - generate_og_image.py
       - template.html
   workflow_dispatch:
 

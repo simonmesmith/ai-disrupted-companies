@@ -2,6 +2,7 @@
 """Generate docs/index.html from companies.csv and template.html."""
 
 import csv
+import html
 import json
 import statistics
 from datetime import datetime, timezone
@@ -95,11 +96,38 @@ def build_payload(companies):
     }
 
 
+SITE_URL = "https://www.simonsmith.ca/ai-disrupted-companies/"
+
+
 def generate_html(payload):
-    """Read template.html, inject JSON data, return complete HTML."""
+    """Read template.html, inject JSON data and meta tags, return complete HTML."""
     template = TEMPLATE_PATH.read_text()
     data_json = json.dumps(payload, ensure_ascii=False)
-    return template.replace("{{ DATA_JSON }}", data_json)
+
+    index_str = f"${payload['index_value']:.2f}"
+    count = payload["company_count"]
+
+    og_title = f"AI Disruption Index \u2014 {index_str} from $1.00"
+    meta_desc = (
+        f"$1.00 invested across {count} AI-disrupted public companies "
+        f"on Nov 29, 2022 would be worth {index_str} today. "
+        f"Track the companies being destroyed by AI."
+    )
+    jsonld = json.dumps(
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "AI Disruption Index",
+            "url": SITE_URL,
+            "description": meta_desc,
+        }
+    )
+
+    result = template.replace("{{ DATA_JSON }}", data_json)
+    result = result.replace("{{ OG_TITLE }}", html.escape(og_title))
+    result = result.replace("{{ META_DESCRIPTION }}", html.escape(meta_desc))
+    result = result.replace("{{ JSONLD }}", jsonld)
+    return result
 
 
 def main():
@@ -114,6 +142,10 @@ def main():
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(html)
     print(f"Wrote {OUTPUT_PATH} ({len(html):,} bytes)")
+
+    from generate_og_image import generate as generate_og_image
+
+    generate_og_image(payload)
 
 
 if __name__ == "__main__":
