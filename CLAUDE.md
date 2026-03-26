@@ -31,6 +31,8 @@ This repo tracks publicly traded companies whose stock price has fallen below it
 5. **Track everything** as you go: what you tried, what failed, what succeeded.
 
 ### Step 3: Add qualifying companies
+- **Before adding any company, check for duplicate tickers.** Read `companies.csv` and verify the ticker does not already exist (case-insensitive). Also verify the company name is not already listed under a different ticker (e.g., different exchange). Never add a ticker that is already in the CSV.
+- Run `uv run python validate_csv.py` after editing to confirm no duplicates were introduced.
 - Append to `companies.csv` with all fields (see CSV schema below).
 - Commit and push. GitHub Actions handles price updates and site deployment automatically.
 
@@ -136,6 +138,7 @@ current_price = stock.history(period='1d')['Close'].iloc[-1]
 
 ### Gotchas
 
+- **DUPLICATE TICKERS** — Before adding ANY company, search `companies.csv` for the ticker (case-insensitive) AND the company name. A company may already be listed under a different ticker variant (e.g., different exchange suffix). If it's already there, skip it. Run `uv run python validate_csv.py` after every edit to catch duplicates. CI will block pushes with duplicate tickers.
 - **Reverse stock splits** distort yfinance's adjusted data (e.g., LivePerson had a 1:15 split). Always check.
 - **Delisted/acquired tickers** — verify the ticker is still active (e.g., ZoomInfo went private, Perficient was acquired).
 - **CSV format** — standard comma-delimited with double-quoted fields containing commas. Use the Edit tool to append rows.
