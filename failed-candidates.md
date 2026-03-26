@@ -9,3 +9,9 @@
 | TWOU | 2U | Filed Chapter 11 bankruptcy mid-2024, delisted from NASDAQ, went private | 2026-03-25 |
 | BAND | Bandwidth | AI is a tailwind (voice AI agents driving growth), not disrupted | 2026-03-25 |
 | IAS | Integral Ad Science | No yfinance data available, possible data issue | 2026-03-25 |
+| IAS | Integral Ad Science | AI beneficiary not victim - growing 16% YoY, launched AI-powered tools | 2026-03-26 |
+| PRDO | Perdoceo Education | Stock up 50% YoY ($35.16), thriving not disrupted | 2026-03-26 |
+| STRA | Strategic Education | Using AI for margin expansion, stock at $80.72, not disrupted | 2026-03-26 |
+| DUOL | Duolingo | Down 42% in 2026 but still 49% above pre-ChatGPT price ($66.59 -> $99.12) | 2026-03-26 |
+| INTU | Intuit | Down 34% YTD but still 15% above pre-ChatGPT price ($371.58 -> $426.86) | 2026-03-26 |
+| HUBS | HubSpot | Down 15.8% from pre-ChatGPT but growing 20% YoY, pivot to agentic platform working | 2026-03-26 |

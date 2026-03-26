@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 48 (as of 2026-03-25)
-- **Last updated:** 2026-03-25
+- **Company count:** 49 (as of 2026-03-26)
+- **Last updated:** 2026-03-26
 
 ## Category Distribution
 | Category | Count |
@@ -10,7 +10,7 @@
 | Business Services | 15 |
 | Software & SaaS | 9 |
 | Content & Media | 7 |
-| Research & Analytics | 6 |
+| Research & Analytics | 7 |
 | Marketing & Advertising | 5 |
 | Education | 2 |
 | Freelance Marketplaces | 2 |
@@ -20,6 +20,19 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (2): only HRB, LZ
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-03-26
+- **Added:** IT (Gartner) - Research & Analytics / Market Research. Pre-ChatGPT $340.08, now $150.23 (-56%). AI commoditizing research/advisory subscriptions, budgets shifting to AI infra.
+- **Evaluated but rejected:**
+  - IAS (Integral Ad Science) - Leveraging AI as beneficiary, not disrupted. Growing 16% YoY.
+  - PRDO (Perdoceo Education) - Stock up 50% YoY, thriving not disrupted.
+  - STRA (Strategic Education) - Using AI for margin expansion, stock ~$80, not disrupted.
+  - DUOL (Duolingo) - Down 42% in 2026 but still 49% above pre-ChatGPT price ($66.59 -> $99.12).
+  - INTU (Intuit) - Down 34% YTD in 2026 but still 15% above pre-ChatGPT price.
+  - HUBS (HubSpot) - Down 15.8% from pre-ChatGPT but growing 20% YoY revenue, AI disruption angle weak.
+  - U (Unity) - Down 50.6% from pre-ChatGPT, strong AI disruption angle (Google Project Genie). Good future candidate if decline continues.
+- **Evaluations used:** 8 of 15
+- **Search approaches used:** 2 of 5 (leads from memory + 2026 software/AI selloff research)
 
 ## Session Log: 2026-03-25
 - **Added:** DV (DoubleVerify) - Marketing & Advertising / Ad Tech. Pre-ChatGPT $24.89, now $9.88 (-60%).
