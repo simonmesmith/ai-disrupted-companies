@@ -16,7 +16,21 @@ permissions:
   id-token: write
 
 jobs:
+  validate-csv:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v4
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Validate CSV (no duplicate tickers)
+        run: uv run python validate_csv.py
+
   update-prices:
+    needs: validate-csv
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
