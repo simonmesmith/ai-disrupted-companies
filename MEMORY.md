@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 50 (as of 2026-03-27)
-- **Last updated:** 2026-03-27
+- **Company count:** 51 (as of 2026-03-28)
+- **Last updated:** 2026-03-28
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 15 |
-| Software & SaaS | 9 |
+| Software & SaaS | 10 |
 | Content & Media | 8 |
 | Research & Analytics | 7 |
 | Marketing & Advertising | 5 |
@@ -20,6 +20,11 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (2): only HRB, LZ
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-03-28
+- **Added:** TEAM (Atlassian) - Software & SaaS / Project Management. Pre-ChatGPT $122.01, now $65.12 (-46.6%). AI agents threatening seat-based SaaS model, Citi downgrade, 10% layoffs to fund AI pivot.
+- **Evaluations used:** 1 of 15
+- **Search approaches used:** 1 of 5 (leads from memory)
 
 ## Session Log: 2026-03-27
 - **Added:** U (Unity Software) - Content & Media / Creative Software. Pre-ChatGPT $36.02, now $17.13 (-52.4%). Google Project Genie and AI game dev tools threatening core engine business.
