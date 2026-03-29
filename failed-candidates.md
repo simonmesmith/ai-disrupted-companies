@@ -15,3 +15,4 @@
 | DUOL | Duolingo | Down 42% in 2026 but still 49% above pre-ChatGPT price ($66.59 -> $99.12) | 2026-03-26 |
 | INTU | Intuit | Down 34% YTD but still 15% above pre-ChatGPT price ($371.58 -> $426.86) | 2026-03-26 |
 | HUBS | HubSpot | Down 15.8% from pre-ChatGPT but growing 20% YoY, pivot to agentic platform working | 2026-03-26 |
+| FIG | Figma | IPO'd July 2025, no pre-ChatGPT price exists. Cannot qualify. | 2026-03-29 |

@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 51 (as of 2026-03-28)
-- **Last updated:** 2026-03-28
+- **Company count:** 52 (as of 2026-03-29)
+- **Last updated:** 2026-03-29
 
 ## Category Distribution
 | Category | Count |
 |---|---|
-| Business Services | 15 |
+| Business Services | 16 |
 | Software & SaaS | 10 |
 | Content & Media | 8 |
 | Research & Analytics | 7 |
@@ -20,6 +20,12 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (2): only HRB, LZ
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-03-29
+- **Added:** CAP.PA (Capgemini) - Business Services / IT Services. Pre-ChatGPT €162.70, now €96.20 (-40.9%). Morningstar downgraded moat to "none" due to AI disrupting labor-based IT services model.
+- **Rejected leads:** Figma (FIG) - IPO'd July 2025, no pre-ChatGPT price exists.
+- **Evaluations used:** 2 of 15
+- **Search approaches used:** 2 of 5 (leads from memory + European IT outsourcers research)
 
 ## Session Log: 2026-03-28
 - **Added:** TEAM (Atlassian) - Software & SaaS / Project Management. Pre-ChatGPT $122.01, now $65.12 (-46.6%). AI agents threatening seat-based SaaS model, Citi downgrade, 10% layoffs to fund AI pivot.
