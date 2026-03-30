@@ -18,6 +18,10 @@
 - **Result:** Found CAP.PA (Capgemini, -40.9%). Figma rejected (IPO'd 2025, no pre-ChatGPT price).
 - **Verdict:** European IT outsourcers are a productive vein. The 2026 software sell-off hit European IT services hard. Dassault Systèmes, SAP, and RELX are worth checking next session.
 
+### 2026-03-30: Leads from memory (DSY.PA, SAP, RELX.L)
+- **Result:** Found DSY.PA (Dassault Systèmes, -50.7%). SAP is up 59% (AI beneficiary). RELX.L has no yfinance data.
+- **Verdict:** Leads file continues to be productive. European enterprise software is a rich vein — DSY.PA had a clear AI disruption narrative with record single-day plunge.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)

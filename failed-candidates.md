@@ -16,3 +16,5 @@
 | INTU | Intuit | Down 34% YTD but still 15% above pre-ChatGPT price ($371.58 -> $426.86) | 2026-03-26 |
 | HUBS | HubSpot | Down 15.8% from pre-ChatGPT but growing 20% YoY, pivot to agentic platform working | 2026-03-26 |
 | FIG | Figma | IPO'd July 2025, no pre-ChatGPT price exists. Cannot qualify. | 2026-03-29 |
+| SAP | SAP | Stock up 59.3% from pre-ChatGPT price ($102.94 -> $164.02). AI beneficiary. | 2026-03-30 |
+| RELX.L | RELX | No yfinance data available for RELX.L ticker. Try alternate ticker. | 2026-03-30 |

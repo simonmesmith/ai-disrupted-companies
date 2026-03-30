@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 52 (as of 2026-03-29)
-- **Last updated:** 2026-03-29
+- **Company count:** 53 (as of 2026-03-30)
+- **Last updated:** 2026-03-30
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 16 |
-| Software & SaaS | 10 |
+| Software & SaaS | 11 |
 | Content & Media | 8 |
 | Research & Analytics | 7 |
 | Marketing & Advertising | 5 |
@@ -20,6 +20,12 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (2): only HRB, LZ
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-03-30
+- **Added:** DSY.PA (Dassault Systèmes) - Software & SaaS / Engineering Software. Pre-ChatGPT €34.11, now €16.81 (-50.7%). AI tools threatening CAD/PLM moat, 21% single-day plunge Feb 2026.
+- **Rejected leads:** SAP - stock up 59.3% from pre-ChatGPT, not disrupted. RELX.L - no yfinance data available (possibly delisted or ticker changed).
+- **Evaluations used:** 3 of 15
+- **Search approaches used:** 1 of 5 (leads from memory)
 
 ## Session Log: 2026-03-29
 - **Added:** CAP.PA (Capgemini) - Business Services / IT Services. Pre-ChatGPT €162.70, now €96.20 (-40.9%). Morningstar downgraded moat to "none" due to AI disrupting labor-based IT services model.
