@@ -1,5 +1,8 @@
 name: Update prices and deploy page
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   push:
     branches: [main]
@@ -21,7 +24,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: astral-sh/setup-uv@v4
+      - uses: astral-sh/setup-uv@v6
 
       - name: Install dependencies
         run: uv sync
@@ -35,7 +38,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: astral-sh/setup-uv@v4
+      - uses: astral-sh/setup-uv@v6
 
       - name: Install dependencies
         run: uv sync
@@ -63,7 +66,7 @@ jobs:
         with:
           ref: main
 
-      - uses: astral-sh/setup-uv@v4
+      - uses: astral-sh/setup-uv@v6
 
       - name: Install dependencies
         run: uv sync
@@ -75,7 +78,7 @@ jobs:
         run: uv run python generate_page.py
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: docs
 
