@@ -18,3 +18,9 @@
 | FIG | Figma | IPO'd July 2025, no pre-ChatGPT price exists. Cannot qualify. | 2026-03-29 |
 | SAP | SAP | Stock up 59.3% from pre-ChatGPT price ($102.94 -> $164.02). AI beneficiary. | 2026-03-30 |
 | RELX.L | RELX | No yfinance data available for RELX.L ticker. Try alternate ticker. | 2026-03-30 |
+| RELX | RELX | All tickers (RELX, REL.L, REN.AS) show stock UP 8-26% from pre-ChatGPT. Not disrupted. | 2026-03-31 |
+| NEM.DE | Nemetschek | Stock up 40% from pre-ChatGPT. Not disrupted despite being DSY.PA peer. | 2026-03-31 |
+| NOW | ServiceNow | Up 32% from pre-ChatGPT despite 2026 sell-off. | 2026-03-31 |
+| CRM | Salesforce | Up 23% from pre-ChatGPT despite 2026 sell-off. | 2026-03-31 |
+| S | SentinelOne | Down only 18% from pre-ChatGPT, weak AI disruption angle for cybersecurity. | 2026-03-31 |
+| QLYS | Qualys | Down 27% from pre-ChatGPT, but cybersecurity AI disruption angle is weak. | 2026-03-31 |

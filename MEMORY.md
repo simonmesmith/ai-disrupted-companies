@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 53 (as of 2026-03-30)
-- **Last updated:** 2026-03-30
+- **Company count:** 54 (as of 2026-03-31)
+- **Last updated:** 2026-03-31
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 16 |
-| Software & SaaS | 11 |
+| Software & SaaS | 12 |
 | Content & Media | 8 |
 | Research & Analytics | 7 |
 | Marketing & Advertising | 5 |
@@ -20,6 +20,12 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (2): only HRB, LZ
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-03-31
+- **Added:** AI (C3.ai) - Software & SaaS / Enterprise AI Platform. Pre-ChatGPT $12.25, now $7.79 (-36.4%). Enterprise AI platform commoditized by foundation models and cloud-native AI services.
+- **Rejected:** RELX (all tickers up 8-26%), NEM.DE/Nemetschek (up 40%), NOW/ServiceNow (up 32%), CRM/Salesforce (up 23%), CWK/Cushman & Wakefield (up 7%), SHOP/Shopify (up 200%), MDB/MongoDB (up 65%), cybersecurity stocks (CRWD up 175%, PANW up 81%, ZS flat, S -18%, QLYS -27% but weak AI disruption angle).
+- **Evaluations used:** ~13 of 15
+- **Search approaches used:** 3 of 5 (leads from memory, 2026 software sell-off research, sector-specific searches)
 
 ## Session Log: 2026-03-30
 - **Added:** DSY.PA (Dassault Systèmes) - Software & SaaS / Engineering Software. Pre-ChatGPT €34.11, now €16.81 (-50.7%). AI tools threatening CAD/PLM moat, 21% single-day plunge Feb 2026.

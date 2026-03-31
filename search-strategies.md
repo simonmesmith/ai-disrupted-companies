@@ -22,6 +22,10 @@
 - **Result:** Found DSY.PA (Dassault Systèmes, -50.7%). SAP is up 59% (AI beneficiary). RELX.L has no yfinance data.
 - **Verdict:** Leads file continues to be productive. European enterprise software is a rich vein — DSY.PA had a clear AI disruption narrative with record single-day plunge.
 
+### 2026-03-31: Leads from memory + 2026 sell-off research + sector searches
+- **Result:** Found AI (C3.ai, -36.4%). Evaluated ~13 candidates across multiple sectors.
+- **Verdict:** Most 2026 sell-off victims (NOW, CRM, SHOP) are still well above pre-ChatGPT prices. The companies most likely to qualify are those that were already declining AND got hit by AI disruption. C3.ai is a perfect example: an AI company made obsolete by better AI. European software peers of DSY.PA (Nemetschek) are actually thriving. Cybersecurity stocks (QLYS, S) are down modestly but the AI disruption angle is weak.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)
