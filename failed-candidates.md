@@ -23,4 +23,10 @@
 | NOW | ServiceNow | Up 32% from pre-ChatGPT despite 2026 sell-off. | 2026-03-31 |
 | CRM | Salesforce | Up 23% from pre-ChatGPT despite 2026 sell-off. | 2026-03-31 |
 | S | SentinelOne | Down only 18% from pre-ChatGPT, weak AI disruption angle for cybersecurity. | 2026-03-31 |
+| VERX | Vertex Inc | AI adopter not victim - launching AI copilots, investing in AI startups (Kintsugi). Down 25.4% but actively leveraging AI. | 2026-04-01 |
+| DDOG | Datadog | Stock up 63.8% from pre-ChatGPT. AI beneficiary. | 2026-04-01 |
+| WIT | Wipro | Down only 10.5% from pre-ChatGPT. Decline too small. | 2026-04-01 |
+| EXPN.L | Experian | Down only 8.3% from pre-ChatGPT. Decline too small. | 2026-04-01 |
+| PSON.L | Pearson | Flat (up 0.5%) from pre-ChatGPT. Not disrupted. | 2026-04-01 |
+| NMRK | Newmark Group | Up 86.3% from pre-ChatGPT. Not disrupted. | 2026-04-01 |
 | QLYS | Qualys | Down 27% from pre-ChatGPT, but cybersecurity AI disruption angle is weak. | 2026-03-31 |

@@ -1,10 +1,10 @@
 # Leads for Next Session
 
 ## Promising Candidates to Evaluate
-- **VERX (Vertex Inc)** - Tax technology company, down 26.8% from pre-ChatGPT. AI tax tools disruption angle worth researching. Would fit thin Legal & Tax category.
-- **SentinelOne (S)** - Down 18% but cybersecurity AI disruption angle needs stronger evidence. Monitor.
-- **Qualys (QLYS)** - Down 27%, legacy vulnerability management being commoditized by AI-powered security tools. Worth deeper look.
-- **Asian IT outsourcers** - Unexplored market. TIS (3626.T) only down 8%, but check other Japanese/Indian IT services companies.
-- **Healthcare IT companies** - Sector showed resilience in 2026 sell-off, but individual companies may still qualify.
-- **Wealth management / financial advisory** - Raymond James, LPL Financial hit by AI tax tools. Check if any fell below pre-ChatGPT levels.
-- **Office real estate services** - CBRE, JLL hit by AI fears but CWK was flat. Likely still above pre-ChatGPT.
+- **DOCS (Doximity)** - Down 27.5% from pre-ChatGPT. Healthcare platform hit by AI costs and pharma delays. AI disruption angle is weak but worth revisiting if stock drops further.
+- **TRI (Thomson Reuters)** - Down 16.7% from pre-ChatGPT. Professional information company mentioned in 2026 AI sell-off (legal software/data names). Could qualify if decline continues.
+- **Asian IT outsourcers** - WIT (Wipro) only down 10.5%. Check TCS (TCS.NS), HCL Tech (HCLTECH.NS), Tech Mahindra (TECHM.NS) on Indian exchanges. The Nifty IT index fell 32% from ATH.
+- **Office real estate services** - CBRE, JLL, Hudson Pacific (HPP), BXP, SL Green (SLG) hit in Feb 2026 AI sell-off. Check if any fell below pre-ChatGPT levels.
+- **Healthcare IT companies** - Sector showed resilience but individual companies may qualify.
+- **Financial data / analytics** - Bloomberg competitors, data providers disrupted by AI.
+- **Small-cap software companies** in niches being commoditized by AI (simple automation, basic analytics).

@@ -26,6 +26,10 @@
 - **Result:** Found AI (C3.ai, -36.4%). Evaluated ~13 candidates across multiple sectors.
 - **Verdict:** Most 2026 sell-off victims (NOW, CRM, SHOP) are still well above pre-ChatGPT prices. The companies most likely to qualify are those that were already declining AND got hit by AI disruption. C3.ai is a perfect example: an AI company made obsolete by better AI. European software peers of DSY.PA (Nemetschek) are actually thriving. Cybersecurity stocks (QLYS, S) are down modestly but the AI disruption angle is weak.
 
+### 2026-04-01: Leads from memory + 2026 AI sell-off articles + Indian IT outsourcers
+- **Result:** Found INFY (Infosys, -25.2%). VERX is an AI adopter (rejected). DDOG and NMRK are up significantly. WIT/EXPN.L/PSON.L declines too small. DOCS/TRI saved as leads.
+- **Verdict:** Indian IT outsourcers are a productive vein - Infosys has a clear AI disruption narrative (Nifty IT index crashed 32%). The broader 2026 sell-off articles (CNBC, Motley Fool) are good for generating candidates but many blue-chip names (DDOG, NMRK) are still well above pre-ChatGPT. Healthcare (DOCS) and professional info (TRI) are borderline - worth monitoring.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)

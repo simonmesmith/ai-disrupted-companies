@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 54 (as of 2026-03-31)
-- **Last updated:** 2026-03-31
+- **Company count:** 55 (as of 2026-04-01)
+- **Last updated:** 2026-04-01
 
 ## Category Distribution
 | Category | Count |
 |---|---|
-| Business Services | 16 |
+| Business Services | 17 |
 | Software & SaaS | 12 |
 | Content & Media | 8 |
 | Research & Analytics | 7 |
@@ -20,6 +20,12 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (2): only HRB, LZ
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-04-01
+- **Added:** INFY (Infosys) - Business Services / IT Services. Pre-ChatGPT $18.07, now $13.51 (-25.2%). Indian IT outsourcer whose labor-intensive model is threatened by AI coding/automation tools.
+- **Rejected:** VERX/Vertex Inc (AI adopter, not victim - launching AI copilots), DDOG/Datadog (up 63.8%), NMRK/Newmark (up 86.3%), EXPN.L/Experian (down only 8.3%), WIT/Wipro (down only 10.5%), PSON.L/Pearson (flat), TRI/Thomson Reuters (down 16.7% but weak), DOCS/Doximity (down 27.5% but more pharma budget issues than AI disruption).
+- **Evaluations used:** 10 of 15
+- **Search approaches used:** 3 of 5 (leads from memory, 2026 AI sell-off articles, Indian IT outsourcers)
 
 ## Session Log: 2026-03-31
 - **Added:** AI (C3.ai) - Software & SaaS / Enterprise AI Platform. Pre-ChatGPT $12.25, now $7.79 (-36.4%). Enterprise AI platform commoditized by foundation models and cloud-native AI services.
