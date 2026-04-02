@@ -30,3 +30,11 @@
 | PSON.L | Pearson | Flat (up 0.5%) from pre-ChatGPT. Not disrupted. | 2026-04-01 |
 | NMRK | Newmark Group | Up 86.3% from pre-ChatGPT. Not disrupted. | 2026-04-01 |
 | QLYS | Qualys | Down 27% from pre-ChatGPT, but cybersecurity AI disruption angle is weak. | 2026-03-31 |
+| TECHM.NS | Tech Mahindra | Up 47.1% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
+| HCLTECH.NS | HCL Technologies | Up 40.6% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
+| TCS.NS | TCS | Down only 19.8% from pre-ChatGPT. Decline too modest. | 2026-04-02 |
+| WDAY | Workday | Down only 9.9% from pre-ChatGPT. Decline too small. | 2026-04-02 |
+| SNOW | Snowflake | Up 12.1% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
+| DOCS | Doximity | Down 28.7% but company is AI adopter not victim - CEO bullish on AI, 300K clinicians using AI tools. Decline from pharma budget delays. | 2026-04-02 |
+| MTTR | Matterport | No yfinance data available, possibly delisted. | 2026-04-02 |
+| EVBG | Everbridge | No yfinance data available, possibly delisted. | 2026-04-02 |

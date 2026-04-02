@@ -30,6 +30,10 @@
 - **Result:** Found INFY (Infosys, -25.2%). VERX is an AI adopter (rejected). DDOG and NMRK are up significantly. WIT/EXPN.L/PSON.L declines too small. DOCS/TRI saved as leads.
 - **Verdict:** Indian IT outsourcers are a productive vein - Infosys has a clear AI disruption narrative (Nifty IT index crashed 32%). The broader 2026 sell-off articles (CNBC, Motley Fool) are good for generating candidates but many blue-chip names (DDOG, NMRK) are still well above pre-ChatGPT. Healthcare (DOCS) and professional info (TRI) are borderline - worth monitoring.
 
+### 2026-04-02: Leads from memory + SaaSpocalypse research + small-cap SaaS screening
+- **Result:** Found SMWB (Similarweb, -45.2%). Asian IT outsourcers (TECHM.NS, HCLTECH.NS) are up. TCS.NS down only 19.8%. DOCS is AI adopter. Large-cap SaaSpocalypse victims (WDAY, SNOW) still above or near pre-ChatGPT.
+- **Verdict:** Small-cap SaaS screening via the SaaSpocalypse narrative is productive. Companies whose core data signals are being undermined by AI (like Similarweb's web traffic analytics) have a stronger disruption case than companies just caught in a sector rotation. The "AI zero-click" theme (AI reducing web traffic) is a new disruption vector worth exploring further. Semrush (SEMR) is a natural next candidate.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)

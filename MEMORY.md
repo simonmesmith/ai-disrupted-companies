@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 55 (as of 2026-04-01)
-- **Last updated:** 2026-04-01
+- **Company count:** 56 (as of 2026-04-02)
+- **Last updated:** 2026-04-02
 
 ## Category Distribution
 | Category | Count |
@@ -10,7 +10,7 @@
 | Business Services | 17 |
 | Software & SaaS | 12 |
 | Content & Media | 8 |
-| Research & Analytics | 7 |
+| Research & Analytics | 8 |
 | Marketing & Advertising | 5 |
 | Education | 2 |
 | Freelance Marketplaces | 2 |
@@ -20,6 +20,12 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (2): only HRB, LZ
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-04-02
+- **Added:** SMWB (Similarweb) - Research & Analytics / Digital Analytics. Pre-ChatGPT $4.87, now $2.67 (-45.2%). AI zero-click search reducing web traffic Similarweb measures; competitive intelligence being commoditized by AI.
+- **Rejected:** TECHM.NS (up 47%), HCLTECH.NS (up 40.6%), TCS.NS (down 19.8% - modest), WDAY (down 9.9% - modest), SNOW (up 12.1%), PLTR (up 1969%), DOCS (AI adopter, not victim - CEO bullish on AI), MTTR/EVBG (delisted).
+- **Evaluations used:** 10 of 15
+- **Search approaches used:** 3 of 5 (leads from memory, SaaSpocalypse research, small-cap SaaS screening)
 
 ## Session Log: 2026-04-01
 - **Added:** INFY (Infosys) - Business Services / IT Services. Pre-ChatGPT $18.07, now $13.51 (-25.2%). Indian IT outsourcer whose labor-intensive model is threatened by AI coding/automation tools.
