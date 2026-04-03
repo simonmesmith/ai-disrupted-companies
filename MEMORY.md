@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 56 (as of 2026-04-02)
-- **Last updated:** 2026-04-02
+- **Company count:** 57 (as of 2026-04-03)
+- **Last updated:** 2026-04-03
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 17 |
-| Software & SaaS | 12 |
+| Software & SaaS | 13 |
 | Content & Media | 8 |
 | Research & Analytics | 8 |
 | Marketing & Advertising | 5 |
@@ -20,6 +20,13 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (2): only HRB, LZ
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-04-03
+- **Added:** MNDY (monday.com) - Software & SaaS / Project Management. Pre-ChatGPT $98.43, now $68.34 (-30.6%). AI agents threatening seat-based project management SaaS; 21% single-day plunge during SaaSpocalypse; weak 2026 guidance.
+- **Rejected:** SEMR (up 31.6%, being acquired by Adobe), TRI (down only 16.5%), CBRE (up 78.7%), JLL (up 88.8%), HPP (down 92% but office REIT not AI), SLG (up 9.2%), GDYN (AI adopter not victim - AI revenue up 30%).
+- **Also checked:** INTU (still up 13.7%), BOX (-11.8%), ESTC (-14.1%), PATH (-4.5%), ZI (delisted), DOCN (up 227%), TWLO (up 186%), DOCU (up 8.6%).
+- **Evaluations used:** 7 of 15
+- **Search approaches used:** 2 of 5 (leads from memory, SaaSpocalypse specific victims)
 
 ## Session Log: 2026-04-02
 - **Added:** SMWB (Similarweb) - Research & Analytics / Digital Analytics. Pre-ChatGPT $4.87, now $2.67 (-45.2%). AI zero-click search reducing web traffic Similarweb measures; competitive intelligence being commoditized by AI.

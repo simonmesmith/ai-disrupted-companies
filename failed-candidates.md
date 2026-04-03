@@ -38,3 +38,6 @@
 | DOCS | Doximity | Down 28.7% but company is AI adopter not victim - CEO bullish on AI, 300K clinicians using AI tools. Decline from pharma budget delays. | 2026-04-02 |
 | MTTR | Matterport | No yfinance data available, possibly delisted. | 2026-04-02 |
 | EVBG | Everbridge | No yfinance data available, possibly delisted. | 2026-04-02 |
+| SEMR | Semrush | Up 31.6% from pre-ChatGPT. Being acquired by Adobe for $12/share. | 2026-04-03 |
+| GDYN | Grid Dynamics | AI adopter not victim - AI revenue up 30% YoY. Stock down 51.6% but decline is growth deceleration, not AI disruption. | 2026-04-03 |
+| HPP | Hudson Pacific Properties | Down 92% but decline is secular office REIT collapse, not AI-specific. | 2026-04-03 |

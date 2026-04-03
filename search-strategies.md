@@ -34,6 +34,10 @@
 - **Result:** Found SMWB (Similarweb, -45.2%). Asian IT outsourcers (TECHM.NS, HCLTECH.NS) are up. TCS.NS down only 19.8%. DOCS is AI adopter. Large-cap SaaSpocalypse victims (WDAY, SNOW) still above or near pre-ChatGPT.
 - **Verdict:** Small-cap SaaS screening via the SaaSpocalypse narrative is productive. Companies whose core data signals are being undermined by AI (like Similarweb's web traffic analytics) have a stronger disruption case than companies just caught in a sector rotation. The "AI zero-click" theme (AI reducing web traffic) is a new disruption vector worth exploring further. Semrush (SEMR) is a natural next candidate.
 
+### 2026-04-03: Leads from memory + SaaSpocalypse specific victims
+- **Result:** Found MNDY (monday.com, -30.6%). SEMR is up 31.6% and being acquired by Adobe. TRI still only -16.5%. Office REITs (CBRE, JLL) are way up. GDYN is an AI adopter. Checked many SaaS names (INTU, BOX, ESTC, PATH, DOCN, TWLO, DOCU) — most are up or only modestly down.
+- **Verdict:** The SaaSpocalypse is mostly a 2026 phenomenon — companies that were already well above pre-ChatGPT prices got knocked down but many are still above. The strongest candidates are task-specific SaaS (project management, work OS) where AI agents directly replace the manual workflows the product automates. MNDY was a clear hit with the same thesis as TEAM. Many blue-chip SaaS names (TWLO, DOCN, DOCU) have actually recovered strongly from earlier dips.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)
