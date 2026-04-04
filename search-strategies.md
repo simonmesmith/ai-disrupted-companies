@@ -38,6 +38,10 @@
 - **Result:** Found MNDY (monday.com, -30.6%). SEMR is up 31.6% and being acquired by Adobe. TRI still only -16.5%. Office REITs (CBRE, JLL) are way up. GDYN is an AI adopter. Checked many SaaS names (INTU, BOX, ESTC, PATH, DOCN, TWLO, DOCU) — most are up or only modestly down.
 - **Verdict:** The SaaSpocalypse is mostly a 2026 phenomenon — companies that were already well above pre-ChatGPT prices got knocked down but many are still above. The strongest candidates are task-specific SaaS (project management, work OS) where AI agents directly replace the manual workflows the product automates. MNDY was a clear hit with the same thesis as TEAM. Many blue-chip SaaS names (TWLO, DOCN, DOCU) have actually recovered strongly from earlier dips.
 
+### 2026-04-04: Leads from memory + SaaSpocalypse victims + sector searches
+- **Result:** Found MTCH (Match Group, -31%). Checked SMAR (delisted), TRI (-16.5%, still too modest), PCTY (-48.4% but AI angle weak), APPN (-33.8% but misconception), CSGP (-48.9% but not AI-driven), TNET (-44.7% but healthcare costs not AI), insurance brokers (all up).
+- **Verdict:** Many companies with large price declines don't qualify because the decline isn't AI-driven (CSGP=housing, TNET=healthcare costs, PCTY=valuation compression with strong fundamentals). Online dating remains a productive vein — MTCH fits alongside BMBL with the same AI companion / fake profile thesis. Insurance brokers had a big scare from OpenAI's insurance app but haven't actually fallen below pre-ChatGPT levels.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)

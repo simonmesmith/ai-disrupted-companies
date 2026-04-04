@@ -41,3 +41,8 @@
 | SEMR | Semrush | Up 31.6% from pre-ChatGPT. Being acquired by Adobe for $12/share. | 2026-04-03 |
 | GDYN | Grid Dynamics | AI adopter not victim - AI revenue up 30% YoY. Stock down 51.6% but decline is growth deceleration, not AI disruption. | 2026-04-03 |
 | HPP | Hudson Pacific Properties | Down 92% but decline is secular office REIT collapse, not AI-specific. | 2026-04-03 |
+| SMAR | Smartsheet | Delisted/taken private, no yfinance data available. | 2026-04-04 |
+| PCTY | Paylocity | Down 48.4% but AI disruption angle weak — revenue growing 14%, 92% retention, actively acquiring (Airbase), expanding with AI features. | 2026-04-04 |
+| APPN | Appian | Down 33.8% but analysts say AI risk is market misconception — backend process automation, not chatbot-style automation. | 2026-04-04 |
+| CSGP | CoStar Group | Down 48.9% but decline driven by Homes.com spending controversy, weak housing market, and Google competition, not AI specifically. | 2026-04-04 |
+| TNET | TriNet Group | Down 44.7% but decline driven by healthcare cost inflation and client retention issues, not AI disruption. WSE fell 10% due to health fee repricing. | 2026-04-04 |

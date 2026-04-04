@@ -1,15 +1,15 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 57 (as of 2026-04-03)
-- **Last updated:** 2026-04-03
+- **Company count:** 58 (as of 2026-04-04)
+- **Last updated:** 2026-04-04
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 17 |
 | Software & SaaS | 13 |
-| Content & Media | 8 |
+| Content & Media | 9 |
 | Research & Analytics | 8 |
 | Marketing & Advertising | 5 |
 | Education | 2 |
@@ -20,6 +20,12 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (2): only HRB, LZ
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-04-04
+- **Added:** MTCH (Match Group) - Content & Media / Online Dating. Pre-ChatGPT $45.53, now $31.44 (-31%). AI companions competing with dating apps, AI-generated fake profiles eroding trust, Gen Z abandoning dating platforms.
+- **Rejected:** SMAR (Smartsheet, delisted/taken private), TRI (Thomson Reuters, only -16.5%), PCTY (Paylocity, -48.4% but AI disruption angle weak - growing 14%, 92% retention), APPN (Appian, -33.8% but market misconception per analysts), CSGP (CoStar, -48.9% but decline is Homes.com spending + housing market, not AI), TNET (TriNet, -44.7% but decline is healthcare cost inflation, not AI), insurance brokers (WTW/AJG/AON all above pre-ChatGPT).
+- **Evaluations used:** ~12 of 15
+- **Search approaches used:** 3 of 5 (leads from memory, SaaSpocalypse victims, sector-specific searches - insurance brokers, financial services, education)
 
 ## Session Log: 2026-04-03
 - **Added:** MNDY (monday.com) - Software & SaaS / Project Management. Pre-ChatGPT $98.43, now $68.34 (-30.6%). AI agents threatening seat-based project management SaaS; 21% single-day plunge during SaaSpocalypse; weak 2026 guidance.
