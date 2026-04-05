@@ -1,16 +1,16 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 58 (as of 2026-04-04)
-- **Last updated:** 2026-04-04
+- **Company count:** 59 (as of 2026-04-05)
+- **Last updated:** 2026-04-05
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 17 |
 | Software & SaaS | 13 |
+| Research & Analytics | 9 |
 | Content & Media | 9 |
-| Research & Analytics | 8 |
 | Marketing & Advertising | 5 |
 | Education | 2 |
 | Freelance Marketplaces | 2 |
@@ -20,6 +20,12 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (2): only HRB, LZ
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-04-05
+- **Added:** FDS (FactSet Research Systems) - Research & Analytics / Financial Data & Analytics. Pre-ChatGPT $433.64, now $227.68 (-47.5%). AI commoditizing premium financial data terminals, SaaSpocalypse hit financial data stocks hard.
+- **Rejected:** SDGR (Schrodinger, AI beneficiary not victim - revenue growing 23%, partnering with Lilly/Manas AI), VRSK (Verisk, up 7.1%), MSCI (up 16.4%), MORN (Morningstar, down 24.8% but business resilient - revenue/income growing, AI disruption angle weak).
+- **Evaluations used:** 5 of 15
+- **Search approaches used:** 2 of 5 (leads from memory, financial data/analytics sector search)
 
 ## Session Log: 2026-04-04
 - **Added:** MTCH (Match Group) - Content & Media / Online Dating. Pre-ChatGPT $45.53, now $31.44 (-31%). AI companions competing with dating apps, AI-generated fake profiles eroding trust, Gen Z abandoning dating platforms.

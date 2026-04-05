@@ -46,3 +46,7 @@
 | APPN | Appian | Down 33.8% but analysts say AI risk is market misconception — backend process automation, not chatbot-style automation. | 2026-04-04 |
 | CSGP | CoStar Group | Down 48.9% but decline driven by Homes.com spending controversy, weak housing market, and Google competition, not AI specifically. | 2026-04-04 |
 | TNET | TriNet Group | Down 44.7% but decline driven by healthcare cost inflation and client retention issues, not AI disruption. WSE fell 10% due to health fee repricing. | 2026-04-04 |
+| SDGR | Schrodinger | AI beneficiary not victim — revenue growing 23.3%, partnering with Lilly and Manas AI, analysts bullish ($25 median target). Drug discovery platform enhanced by AI, not disrupted. | 2026-04-05 |
+| VRSK | Verisk Analytics | Up 7.1% from pre-ChatGPT. Not disrupted. | 2026-04-05 |
+| MSCI | MSCI Inc | Up 16.4% from pre-ChatGPT. Not disrupted. | 2026-04-05 |
+| MORN | Morningstar | Down 24.8% from pre-ChatGPT but business resilient — revenue $2.4B, operating income growing. AI disruption angle weak, decline more sector rotation than structural. | 2026-04-05 |

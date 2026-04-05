@@ -42,11 +42,15 @@
 - **Result:** Found MTCH (Match Group, -31%). Checked SMAR (delisted), TRI (-16.5%, still too modest), PCTY (-48.4% but AI angle weak), APPN (-33.8% but misconception), CSGP (-48.9% but not AI-driven), TNET (-44.7% but healthcare costs not AI), insurance brokers (all up).
 - **Verdict:** Many companies with large price declines don't qualify because the decline isn't AI-driven (CSGP=housing, TNET=healthcare costs, PCTY=valuation compression with strong fundamentals). Online dating remains a productive vein — MTCH fits alongside BMBL with the same AI companion / fake profile thesis. Insurance brokers had a big scare from OpenAI's insurance app but haven't actually fallen below pre-ChatGPT levels.
 
+### 2026-04-05: Leads from memory + financial data/analytics sector search
+- **Result:** Found FDS (FactSet, -47.5%). SDGR is AI beneficiary (rejected). VRSK and MSCI are up. MORN down 24.8% but business resilient.
+- **Verdict:** Financial data/analytics is a productive new vein. FactSet has a clear AI disruption narrative — premium financial data terminals being commoditized by AI tools that can synthesize data and build models. The "Claude Crash" of Feb 2026 specifically hit financial data stocks. MORN worth monitoring if decline deepens past 30%.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)
 - **Legal services / document review** companies disrupted by AI
-- **Financial data / analytics** companies (Bloomberg competitors, data providers)
 - **Healthcare IT** companies where AI is replacing manual processes
 - **Competitors of existing list companies** (look at peers of CHGG, EPAM, SSTK, etc.)
 - **Small-cap software companies** in niches being commoditized by AI (e.g., simple automation, basic analytics)
+- **More financial data peers** — MORN (Morningstar, -24.8%, monitor), S&P Global (SPGI), Moody's (MCO)
