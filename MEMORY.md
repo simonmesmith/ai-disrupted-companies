@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 59 (as of 2026-04-05)
-- **Last updated:** 2026-04-05
+- **Company count:** 60 (as of 2026-04-06)
+- **Last updated:** 2026-04-06
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 17 |
-| Software & SaaS | 13 |
+| Software & SaaS | 14 |
 | Research & Analytics | 9 |
 | Content & Media | 9 |
 | Marketing & Advertising | 5 |
@@ -20,6 +20,12 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (2): only HRB, LZ
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-04-06
+- **Added:** GTLB (GitLab) - Software & SaaS / DevOps / Developer Tools. Pre-ChatGPT $38.39, now $22.76 (-40.7%). AI coding agents (Copilot, Cursor, Claude Code, Devin) reducing developer seats, OpenAI building GitHub clone, SaaSpocalypse hit hard.
+- **Rejected:** LPLA (LPL Financial, up 25.5%), SCHW (Charles Schwab, up 22.1%), DUOL (Duolingo, up 47.6%), MDB (MongoDB, up 78.5%), ZS (Zscaler, up 3.8%), WDAY (Workday, only -7.7%), MORN (Morningstar, still -24.8% - borderline), NEWR (New Relic, delisted/private)
+- **Evaluations used:** 9 of 15
+- **Search approaches used:** 3 of 5 (leads from memory, legal tech/SaaSpocalypse research, financial broker-dealers + SaaS screening)
 
 ## Session Log: 2026-04-05
 - **Added:** FDS (FactSet Research Systems) - Research & Analytics / Financial Data & Analytics. Pre-ChatGPT $433.64, now $227.68 (-47.5%). AI commoditizing premium financial data terminals, SaaSpocalypse hit financial data stocks hard.

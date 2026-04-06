@@ -50,3 +50,7 @@
 | VRSK | Verisk Analytics | Up 7.1% from pre-ChatGPT. Not disrupted. | 2026-04-05 |
 | MSCI | MSCI Inc | Up 16.4% from pre-ChatGPT. Not disrupted. | 2026-04-05 |
 | MORN | Morningstar | Down 24.8% from pre-ChatGPT but business resilient — revenue $2.4B, operating income growing. AI disruption angle weak, decline more sector rotation than structural. | 2026-04-05 |
+| LPLA | LPL Financial | Up 25.5% from pre-ChatGPT despite AI fears about Altruist's Hazel AI tool. Revenue at record $4.93B. | 2026-04-06 |
+| SCHW | Charles Schwab | Up 22.1% from pre-ChatGPT. Not disrupted. | 2026-04-06 |
+| NEWR | New Relic | Delisted/taken private (Francisco Partners acquisition). | 2026-04-06 |
+| WDAY | Workday | Down only 7.7% from pre-ChatGPT. Decline too small despite 2026 sell-off. | 2026-04-06 |

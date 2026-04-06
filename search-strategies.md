@@ -46,6 +46,10 @@
 - **Result:** Found FDS (FactSet, -47.5%). SDGR is AI beneficiary (rejected). VRSK and MSCI are up. MORN down 24.8% but business resilient.
 - **Verdict:** Financial data/analytics is a productive new vein. FactSet has a clear AI disruption narrative — premium financial data terminals being commoditized by AI tools that can synthesize data and build models. The "Claude Crash" of Feb 2026 specifically hit financial data stocks. MORN worth monitoring if decline deepens past 30%.
 
+### 2026-04-06: Leads + legal tech/SaaSpocalypse + financial broker-dealers + SaaS screening
+- **Result:** Found GTLB (GitLab, -40.7%). Financial broker-dealers (LPLA, SCHW) all up significantly despite AI scare. WDAY still only -7.7%. MORN still -24.8%. NEWR delisted. ZS flat. DUOL/MDB still well above pre-ChatGPT.
+- **Verdict:** DevOps/developer tools is a productive new angle — GitLab has a strong AI disruption narrative with AI coding agents directly threatening seat-based licensing. Financial broker-dealers had a scare from Altruist's Hazel AI but fundamentals remain strong and stocks recovered. The CNBC "most at risk" list is useful for generating candidates but many flagged stocks (DUOL, MDB) remain well above pre-ChatGPT prices.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)

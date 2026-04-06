@@ -8,3 +8,5 @@
 - **SaaSpocalypse small-cap victims** - The 2026 sell-off hit small-cap SaaS harder than large-cap. Look for narrow task-specific software with limited data moats.
 - **ESTC (Elastic)** - Down 14.1% from pre-ChatGPT. Worth monitoring if decline deepens.
 - **Legal tech / document review** - Still largely unexplored. AI automating contract review, due diligence. Anthropic's Claude Cowork legal tools triggered SaaSpocalypse.
+- **Logistics/trucking stocks** - CNBC flagged as next AI disruption wave. Worth screening.
+- **DUOL (Duolingo)** - Still up 47.6% from pre-ChatGPT but down 42% in 2026. Could qualify if decline continues.
