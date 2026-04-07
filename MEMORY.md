@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 60 (as of 2026-04-06)
-- **Last updated:** 2026-04-06
+- **Company count:** 61 (as of 2026-04-07)
+- **Last updated:** 2026-04-07
 
 ## Category Distribution
 | Category | Count |
@@ -14,12 +14,18 @@
 | Marketing & Advertising | 5 |
 | Education | 2 |
 | Freelance Marketplaces | 2 |
-| Legal & Tax | 2 |
+| Legal & Tax | 3 |
 
 ## Thin Categories (good targets for next session)
 - Education (2): only CHGG, COUR
-- Legal & Tax (2): only HRB, LZ
+- Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-04-07
+- **Added:** LAW (CS Disco) - Legal & Tax / Legal Tech. Pre-ChatGPT $7.25, now $3.77 (-48.0%). Legal eDiscovery platform disrupted by AI-native legal tools (Harvey, Legora). Stock plunged 20% on Legora news. SaaSpocalypse hit legal tech hard.
+- **Rejected:** MORN (still only -23.2%), DUOL (still up 49.2%), PATH (-5.3% too small), BOX (-11.2% too small), ESTC (-14.3% too small), TRI (-16.1% too small)
+- **Evaluations used:** 7 of 15
+- **Search approaches used:** 2 of 5 (leads from memory, legal tech/AI disruption web search)
 
 ## Session Log: 2026-04-06
 - **Added:** GTLB (GitLab) - Software & SaaS / DevOps / Developer Tools. Pre-ChatGPT $38.39, now $22.76 (-40.7%). AI coding agents (Copilot, Cursor, Claude Code, Devin) reducing developer seats, OpenAI building GitHub clone, SaaSpocalypse hit hard.

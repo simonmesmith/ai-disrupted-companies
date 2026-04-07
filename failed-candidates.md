@@ -54,3 +54,6 @@
 | SCHW | Charles Schwab | Up 22.1% from pre-ChatGPT. Not disrupted. | 2026-04-06 |
 | NEWR | New Relic | Delisted/taken private (Francisco Partners acquisition). | 2026-04-06 |
 | WDAY | Workday | Down only 7.7% from pre-ChatGPT. Decline too small despite 2026 sell-off. | 2026-04-06 |
+| PATH | UiPath | Down only 5.3% from pre-ChatGPT. Decline too small. | 2026-04-07 |
+| BOX | Box | Down only 11.2% from pre-ChatGPT. Decline too small. | 2026-04-07 |
+| ESTC | Elastic | Down only 14.3% from pre-ChatGPT. Decline too small. | 2026-04-07 |
