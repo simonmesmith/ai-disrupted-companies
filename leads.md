@@ -1,12 +1,9 @@
 # Leads for Next Session
 
 ## Promising Candidates to Evaluate
-- **MORN (Morningstar)** - Down 24.8% from pre-ChatGPT (-50% over past year). Financial data/analytics peer of FDS. Business still growing but AI commoditization risk. Monitor if decline deepens past 30%.
-- **TRI (Thomson Reuters)** - Down 16.5% from pre-ChatGPT (stable). Professional information company. Articles say "down 58% from high." Could qualify if decline deepens past 25%.
-- **TCS.NS (TCS)** - Down 19.8% from pre-ChatGPT. Largest Indian IT outsourcer. Worth monitoring if decline deepens past 25%.
-- **Healthcare IT companies** - Sector showed resilience but individual companies may qualify.
+- **KFRC (Kforce)** - Down 41.5% from pre-ChatGPT ($50.60 -> $29.61). IT staffing company, peer of ASGN/RHI/MAN. Revenue down 5% in 2025, AI encroachment on IT staffing demand. Seeking Alpha: "AI Encroachment And Stagnant Labour Market Continues To Stifle Growth." Strong candidate.
+- **MORN (Morningstar)** - Down 23.2% from pre-ChatGPT. Financial data/analytics peer of FDS. Monitor if decline deepens past 30%.
+- **TRI (Thomson Reuters)** - Down 18.1% from pre-ChatGPT. Monitor if decline deepens past 25%.
+- **TCS.NS (TCS)** - Down 19.8% from pre-ChatGPT. Largest Indian IT outsourcer. Monitor if decline deepens past 25%.
 - **SaaSpocalypse small-cap victims** - The 2026 sell-off hit small-cap SaaS harder than large-cap. Look for narrow task-specific software with limited data moats.
-- **ESTC (Elastic)** - Down 14.3% from pre-ChatGPT. Worth monitoring if decline deepens past 25%.
-- **Legal tech / document review** - LAW (CS Disco) added. Look for more: Everlaw (private), Nuix (NXL.AX on ASX), or other public legal tech companies.
-- **Logistics/trucking stocks** - CNBC flagged as next AI disruption wave. Worth screening.
-- **DUOL (Duolingo)** - Still up 47.6% from pre-ChatGPT but down 42% in 2026. Could qualify if decline continues.
+- **DUOL (Duolingo)** - Still up 44.6% from pre-ChatGPT but down significantly in 2026. Monitor.

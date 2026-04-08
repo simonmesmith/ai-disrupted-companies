@@ -57,3 +57,10 @@
 | PATH | UiPath | Down only 5.3% from pre-ChatGPT. Decline too small. | 2026-04-07 |
 | BOX | Box | Down only 11.2% from pre-ChatGPT. Decline too small. | 2026-04-07 |
 | ESTC | Elastic | Down only 14.3% from pre-ChatGPT. Decline too small. | 2026-04-07 |
+| NXL.AX | Nuix | Up 91.4% from pre-ChatGPT. AI beneficiary, not disrupted. | 2026-04-08 |
+| SPGI | S&P Global | Up 27.3% from pre-ChatGPT. Not disrupted. | 2026-04-08 |
+| CHRW | C.H. Robinson | Up 85.3% from pre-ChatGPT. Trucking/logistics AI scare was temporary. | 2026-04-08 |
+| RXO | RXO Inc | Down only 15% from pre-ChatGPT. Decline too small. | 2026-04-08 |
+| UDMY | Udemy | Down 66.2% but being acquired by Coursera ($2.5B). AI creating reskilling demand, not disrupting. | 2026-04-08 |
+| EGHT | 8x8 Inc | Down 59.1% but AI is a growth driver (167% YoY ICA growth), not a disruptor. Decline from UCaaS competition. | 2026-04-08 |
+| ANSS | Ansys | Appears delisted/acquired by Synopsys. No yfinance data. | 2026-04-08 |

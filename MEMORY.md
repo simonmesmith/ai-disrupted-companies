@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 61 (as of 2026-04-07)
-- **Last updated:** 2026-04-07
+- **Company count:** 62 (as of 2026-04-08)
+- **Last updated:** 2026-04-08
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 17 |
-| Software & SaaS | 14 |
+| Software & SaaS | 15 |
 | Research & Analytics | 9 |
 | Content & Media | 9 |
 | Marketing & Advertising | 5 |
@@ -20,6 +20,13 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-04-08
+- **Added:** NICE (NICE Ltd) - Software & SaaS / Contact Center Software. Pre-ChatGPT $186.75, now $111.78 (-40.1%). Contact center software leader disrupted by AI chatbots/voice agents replacing human agents. Stock at lowest since 2019, spent $955M on Cognigy acquisition to pivot.
+- **Rejected:** MORN (still -23.2%), TRI (-18.1%, still too small), DUOL (still +44.6%), NXL.AX (+91.4%, AI beneficiary), SPGI (+27.3%), trucking/logistics stocks (CHRW +85%, RXO -15% too small, LSTR +5.5%, EXPD +33%, XPO +432%, JBHT +25%), UDMY (-66.2% but being acquired by Coursera, AI creating demand not disrupting), EGHT (-59.1% but AI is a growth driver not disruptor), PTC (+16.9%), ANSS (delisted/acquired by Synopsys)
+- **Also identified:** KFRC (Kforce, -41.5%) - IT staffing, strong AI disruption angle. Saved as lead.
+- **Evaluations used:** 14 of 15
+- **Search approaches used:** 4 of 5 (leads from memory, trucking/logistics AI disruption, healthcare IT/SaaSpocalypse research, contact center/staffing/UCaaS screening)
 
 ## Session Log: 2026-04-07
 - **Added:** LAW (CS Disco) - Legal & Tax / Legal Tech. Pre-ChatGPT $7.25, now $3.77 (-48.0%). Legal eDiscovery platform disrupted by AI-native legal tools (Harvey, Legora). Stock plunged 20% on Legora news. SaaSpocalypse hit legal tech hard.

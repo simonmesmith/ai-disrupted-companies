@@ -50,6 +50,10 @@
 - **Result:** Found GTLB (GitLab, -40.7%). Financial broker-dealers (LPLA, SCHW) all up significantly despite AI scare. WDAY still only -7.7%. MORN still -24.8%. NEWR delisted. ZS flat. DUOL/MDB still well above pre-ChatGPT.
 - **Verdict:** DevOps/developer tools is a productive new angle — GitLab has a strong AI disruption narrative with AI coding agents directly threatening seat-based licensing. Financial broker-dealers had a scare from Altruist's Hazel AI but fundamentals remain strong and stocks recovered. The CNBC "most at risk" list is useful for generating candidates but many flagged stocks (DUOL, MDB) remain well above pre-ChatGPT prices.
 
+### 2026-04-08: Leads + trucking/logistics + contact center/staffing/UCaaS screening
+- **Result:** Found NICE (NICE Ltd, -40.1%). Trucking/logistics was a dead end (all major stocks up 5-432% from pre-ChatGPT despite Feb 2026 AI scare). UDMY down 66% but being acquired by Coursera and AI is a tailwind. EGHT down 59% but AI is growth driver. KFRC (Kforce, -41.5%) identified as strong lead for next session.
+- **Verdict:** Trucking/logistics AI disruption was a media hype event — stocks recovered quickly. Contact center software remains a productive vein (NICE joins FIVN). IT staffing (KFRC) is a strong next candidate — peer of existing ASGN/RHI/MAN. UCaaS companies (8x8) are struggling but more from competition than AI disruption specifically.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)
