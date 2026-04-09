@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 62 (as of 2026-04-08)
-- **Last updated:** 2026-04-08
+- **Company count:** 63 (as of 2026-04-09)
+- **Last updated:** 2026-04-09
 
 ## Category Distribution
 | Category | Count |
 |---|---|
-| Business Services | 17 |
+| Business Services | 18 |
 | Software & SaaS | 15 |
 | Research & Analytics | 9 |
 | Content & Media | 9 |
@@ -20,6 +20,11 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-04-09
+- **Added:** KFRC (Kforce Inc) - Business Services / IT Staffing & Consulting. Pre-ChatGPT $50.60, now $29.31 (-42.1%). IT staffing firm disrupted by AI coding tools reducing demand for contract IT workers. Revenue -5.4%, EPS -22%. Was top lead from previous session.
+- **Evaluations used:** 1 of 15
+- **Search approaches used:** 1 of 5 (leads from memory)
 
 ## Session Log: 2026-04-08
 - **Added:** NICE (NICE Ltd) - Software & SaaS / Contact Center Software. Pre-ChatGPT $186.75, now $111.78 (-40.1%). Contact center software leader disrupted by AI chatbots/voice agents replacing human agents. Stock at lowest since 2019, spent $955M on Cognigy acquisition to pivot.
