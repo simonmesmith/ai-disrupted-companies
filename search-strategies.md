@@ -54,6 +54,10 @@
 - **Result:** Found NICE (NICE Ltd, -40.1%). Trucking/logistics was a dead end (all major stocks up 5-432% from pre-ChatGPT despite Feb 2026 AI scare). UDMY down 66% but being acquired by Coursera and AI is a tailwind. EGHT down 59% but AI is growth driver. KFRC (Kforce, -41.5%) identified as strong lead for next session.
 - **Verdict:** Trucking/logistics AI disruption was a media hype event — stocks recovered quickly. Contact center software remains a productive vein (NICE joins FIVN). IT staffing (KFRC) is a strong next candidate — peer of existing ASGN/RHI/MAN. UCaaS companies (8x8) are struggling but more from competition than AI disruption specifically.
 
+### 2026-04-10: Leads from memory + customer engagement + edtech + local services screening
+- **Result:** Found ANGI (Angi Inc, -65.0% split-adjusted). Leads all still too modest (MORN -25.7%, TRI -21.4%, TCS.NS -17.4%). VRNT delisted. YELP only -13.7%. LRN +152.5% (beneficiary). BRZE only -15.1%. NRDY -58.5% with strong AI angle but stabilizing (returned to growth Q4 2025).
+- **Verdict:** Google AI Overviews / search-driven-traffic disruption is a productive theme — ANGI joins TRIP and ZD as traffic-dependent businesses crushed by AI Overviews. The "search-click death spiral" (organic CTR -61% since mid-2024) is a powerful structural force that may surface more candidates. Edtech pivot stories (NRDY) are hard to qualify because many have stabilized after initial AI shock. Local services / lead-gen marketplaces (Yelp, Angi) have varying exposure — the ones with thin pay-to-play moats are most exposed. Future angles: 2dine review sites, job boards (Dice Holdings?), niche directories.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)

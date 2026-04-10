@@ -64,3 +64,8 @@
 | UDMY | Udemy | Down 66.2% but being acquired by Coursera ($2.5B). AI creating reskilling demand, not disrupting. | 2026-04-08 |
 | EGHT | 8x8 Inc | Down 59.1% but AI is a growth driver (167% YoY ICA growth), not a disruptor. Decline from UCaaS competition. | 2026-04-08 |
 | ANSS | Ansys | Appears delisted/acquired by Synopsys. No yfinance data. | 2026-04-08 |
+| VRNT | Verint Systems | Delisted, possibly acquired/going private. No yfinance data. | 2026-04-10 |
+| YELP | Yelp | Down only 13.7% from pre-ChatGPT. Too modest despite AI search threat. | 2026-04-10 |
+| NRDY | Nerdy/Varsity Tutors | Down 58.5% and AI angle is strong (ChatGPT vs tutoring), but Q4 2025 returned to 2% growth with positive EBITDA. Stabilizing, not structurally declining. Borderline — re-evaluate if decline resumes. | 2026-04-10 |
+| LRN | Stride Inc | Up 152.5% from pre-ChatGPT. AI beneficiary, not disrupted. | 2026-04-10 |
+| BRZE | Braze | Down only 15.1% from pre-ChatGPT. Too modest. | 2026-04-10 |

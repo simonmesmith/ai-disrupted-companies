@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 63 (as of 2026-04-09)
-- **Last updated:** 2026-04-09
+- **Company count:** 64 (as of 2026-04-10)
+- **Last updated:** 2026-04-10
 
 ## Category Distribution
 | Category | Count |
@@ -10,7 +10,7 @@
 | Business Services | 18 |
 | Software & SaaS | 15 |
 | Research & Analytics | 9 |
-| Content & Media | 9 |
+| Content & Media | 10 |
 | Marketing & Advertising | 5 |
 | Education | 2 |
 | Freelance Marketplaces | 2 |
@@ -20,6 +20,20 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (2): only FVRR, UPWK
+
+## Session Log: 2026-04-10
+- **Added:** ANGI (Angi Inc) - Content & Media / Online Reviews / Local Services. Pre-ChatGPT $20.60 (split-adjusted), now $7.20 (-65.0%). Home services marketplace whose Google search-driven traffic has been crushed by AI Overviews (same thesis as TRIP, ZD). Revenue -13% YoY to $1.03B, 350 layoffs (12.5% of workforce) explicitly citing 'AI-driven efficiency improvements'. Management blamed 'continued declines in Google SEO and network channels.' 1:10 reverse split March 2025 handled by yfinance.
+- **Rejected:**
+  - MORN (Morningstar) - down only 25.7% from pre-ChatGPT, still too modest.
+  - TRI (Thomson Reuters) - down only 21.4%, still too modest.
+  - TCS.NS (TCS) - down only 17.4%, still too modest.
+  - VRNT (Verint Systems) - delisted (acquired by Cognyte/going private).
+  - YELP - down only 13.7%, too modest.
+  - NRDY (Nerdy/Varsity Tutors) - down 58.5% with AI angle (ChatGPT vs tutoring), but Q4 2025 returned to 2% growth and positive EBITDA. Company is stabilizing, not structurally declining. Borderline — save as lead if decline resumes.
+  - LRN (Stride) - up 152.5% (AI beneficiary).
+  - BRZE (Braze) - down only 15.1%.
+- **Evaluations used:** 10 of 15
+- **Search approaches used:** 2 of 5 (leads from memory, customer engagement + edtech + local services screening)
 
 ## Session Log: 2026-04-09
 - **Added:** KFRC (Kforce Inc) - Business Services / IT Staffing & Consulting. Pre-ChatGPT $50.60, now $29.31 (-42.1%). IT staffing firm disrupted by AI coding tools reducing demand for contract IT workers. Revenue -5.4%, EPS -22%. Was top lead from previous session.
