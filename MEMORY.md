@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 64 (as of 2026-04-10)
-- **Last updated:** 2026-04-10
+- **Company count:** 65 (as of 2026-04-11)
+- **Last updated:** 2026-04-11
 
 ## Category Distribution
 | Category | Count |
@@ -13,13 +13,20 @@
 | Content & Media | 10 |
 | Marketing & Advertising | 5 |
 | Education | 2 |
-| Freelance Marketplaces | 2 |
+| Freelance Marketplaces | 3 |
 | Legal & Tax | 3 |
 
 ## Thin Categories (good targets for next session)
 - Education (2): only CHGG, COUR
 - Legal & Tax (3): HRB, LZ, LAW
-- Freelance Marketplaces (2): only FVRR, UPWK
+- Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
+
+## Session Log: 2026-04-11
+- **Added:** FLN.AX (Freelancer Limited) - Freelance Marketplaces / Freelance Platform. Pre-ChatGPT A$0.26, now A$0.135 (-48.1%). Sydney-listed peer of FVRR/UPWK; writing/coding/design marketplace categories being automated by LLMs. FY2025 profit recovery driven entirely by non-marketplace Escrow.com and Loadshift segments. Founder Matt Barrie dollar-averaging into weakness.
+- **Rejected:** LRN (Stride, up 152% — K-12 online school is post-COVID beneficiary), SKIL (Skillsoft, reverse stock split 1-for-20 Oct 2023 creates LivePerson-style distortion).
+- **Also evaluated:** NRDY (Nerdy/Varsity Tutors, -58.6%) — strong AI disruption angle and clearly qualifies on price, but prior 2026-04-10 session flagged it as stabilizing (Q4 2025 returned to 2% growth with positive EBITDA). Deferred to that judgment; left in leads for future re-evaluation if decline resumes.
+- **Evaluations used:** 4 of 15
+- **Search approaches used:** 1 of 5 (thin-category targeting: Education + Freelance Marketplaces)
 
 ## Session Log: 2026-04-10
 - **Added:** ANGI (Angi Inc) - Content & Media / Online Reviews / Local Services. Pre-ChatGPT $20.60 (split-adjusted), now $7.20 (-65.0%). Home services marketplace whose Google search-driven traffic has been crushed by AI Overviews (same thesis as TRIP, ZD). Revenue -13% YoY to $1.03B, 350 layoffs (12.5% of workforce) explicitly citing 'AI-driven efficiency improvements'. Management blamed 'continued declines in Google SEO and network channels.' 1:10 reverse split March 2025 handled by yfinance.

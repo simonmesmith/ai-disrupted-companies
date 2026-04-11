@@ -7,3 +7,5 @@
 - **NRDY (Nerdy/Varsity Tutors)** - Down 58.5% with strong AI angle (ChatGPT vs tutoring), but stabilizing (Q4 2025 +2%, positive EBITDA). Re-evaluate if decline resumes. Education category is thin.
 - **SaaSpocalypse small-cap victims** - The 2026 sell-off hit small-cap SaaS harder than large-cap. Look for narrow task-specific software with limited data moats.
 - **DUOL (Duolingo)** - Still up 44.6% from pre-ChatGPT but down significantly in 2026. Monitor.
+- **Legal & Tax thin category** - still only 3 companies (HRB, LZ, LAW). Look for tax prep peers, immigration/document filing platforms, or legal research tools beyond LAW.
+- **International EdTech** - Education category stays thin at 2. Look at UK/European/Asian online learning plays beyond Pearson (flat).

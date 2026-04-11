@@ -69,3 +69,4 @@
 | NRDY | Nerdy/Varsity Tutors | Down 58.5% and AI angle is strong (ChatGPT vs tutoring), but Q4 2025 returned to 2% growth with positive EBITDA. Stabilizing, not structurally declining. Borderline — re-evaluate if decline resumes. | 2026-04-10 |
 | LRN | Stride Inc | Up 152.5% from pre-ChatGPT. AI beneficiary, not disrupted. | 2026-04-10 |
 | BRZE | Braze | Down only 15.1% from pre-ChatGPT. Too modest. | 2026-04-10 |
+| SKIL | Skillsoft | 1-for-20 reverse stock split in Oct 2023 distorts yfinance data. Genuine AI disruption angle (corporate learning content threatened by ChatGPT/Copilot), but reverse-split red flag (LivePerson precedent). | 2026-04-11 |
