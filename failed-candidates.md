@@ -70,3 +70,6 @@
 | LRN | Stride Inc | Up 152.5% from pre-ChatGPT. AI beneficiary, not disrupted. | 2026-04-10 |
 | BRZE | Braze | Down only 15.1% from pre-ChatGPT. Too modest. | 2026-04-10 |
 | SKIL | Skillsoft | 1-for-20 reverse stock split in Oct 2023 distorts yfinance data. Genuine AI disruption angle (corporate learning content threatened by ChatGPT/Copilot), but reverse-split red flag (LivePerson precedent). | 2026-04-11 |
+| CTSH | Cognizant | Up 2.6% from pre-ChatGPT. Not disrupted despite being INFY/EPAM peer. | 2026-04-12 |
+| WIX | Wix | Down only 23.0% from pre-ChatGPT. Decline too modest. | 2026-04-12 |
+| DAY | Dayforce/Ceridian | No yfinance data available, ticker may have changed. | 2026-04-12 |

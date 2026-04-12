@@ -62,6 +62,10 @@
 - **Result:** Found ANGI (Angi Inc, -65.0% split-adjusted). Leads all still too modest (MORN -25.7%, TRI -21.4%, TCS.NS -17.4%). VRNT delisted. YELP only -13.7%. LRN +152.5% (beneficiary). BRZE only -15.1%. NRDY -58.5% with strong AI angle but stabilizing (returned to growth Q4 2025).
 - **Verdict:** Google AI Overviews / search-driven-traffic disruption is a productive theme — ANGI joins TRIP and ZD as traffic-dependent businesses crushed by AI Overviews. The "search-click death spiral" (organic CTR -61% since mid-2024) is a powerful structural force that may surface more candidates. Edtech pivot stories (NRDY) are hard to qualify because many have stabilized after initial AI shock. Local services / lead-gen marketplaces (Yelp, Angi) have varying exposure — the ones with thin pay-to-play moats are most exposed. Future angles: 2dine review sites, job boards (Dice Holdings?), niche directories.
 
+### 2026-04-12: Leads from memory + IT operations / website builders / HCM screening
+- **Result:** Found PD (PagerDuty, -72.5%). Leads re-checked: NRDY still -58.8% (stabilizing), MORN still -27.0% (below threshold). Rejected CTSH (+2.6%, not disrupted), WIX (-23.0%, too modest), DAY (no yfinance data).
+- **Verdict:** IT Operations / incident management is a productive new angle — PagerDuty has one of the strongest AI disruption narratives on the list because incident triage/routing/remediation is exactly the kind of structured workflow AI agents automate best. The Anthropic Managed Agents connection makes the disruption thesis extremely direct. Website builders (WIX) are down modestly but not enough — likely because AI website generation tools create new users as well as displacing existing ones. IT outsourcers are split: Indian names (INFY, TCS) declining while US/European peers (CTSH, Accenture) are resilient. Healthcare IT confirmed as largely defensive during AI sell-off — skip for now.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)

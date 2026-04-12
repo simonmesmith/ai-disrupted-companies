@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 65 (as of 2026-04-11)
-- **Last updated:** 2026-04-11
+- **Company count:** 66 (as of 2026-04-12)
+- **Last updated:** 2026-04-12
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 18 |
-| Software & SaaS | 15 |
+| Software & SaaS | 16 |
 | Research & Analytics | 9 |
 | Content & Media | 10 |
 | Marketing & Advertising | 5 |
@@ -20,6 +20,13 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
+
+## Session Log: 2026-04-12
+- **Added:** PD (PagerDuty) - Software & SaaS / IT Operations. Pre-ChatGPT $20.81, now $5.73 (-72.5%). Incident management platform disrupted by autonomous AI agents that auto-triage and remediate issues. Anthropic's Managed Agents announcement triggered 8.7% single-day drop. Revenue growth stalled at 2.7% YoY. Stock hitting new lows in April 2026.
+- **Leads re-checked:** NRDY (still -58.8%, stabilizing with 2% growth and targeting breakeven EBITDA — deferred again but remains strong lead if decline resumes), MORN (still -27.0%, below 30% threshold).
+- **Rejected:** CTSH (Cognizant, +2.6% — not disrupted), WIX (-23.0% — decline too modest), DAY/Dayforce (no yfinance data, possibly ticker changed).
+- **Evaluations used:** 6 of 15 (NRDY, MORN, PD, CTSH, WIX, DAY)
+- **Search approaches used:** 2 of 5 (leads from memory, new candidate screening across IT operations/website builders/HCM)
 
 ## Session Log: 2026-04-11
 - **Added:** FLN.AX (Freelancer Limited) - Freelance Marketplaces / Freelance Platform. Pre-ChatGPT A$0.26, now A$0.135 (-48.1%). Sydney-listed peer of FVRR/UPWK; writing/coding/design marketplace categories being automated by LLMs. FY2025 profit recovery driven entirely by non-marketplace Escrow.com and Loadshift segments. Founder Matt Barrie dollar-averaging into weakness.
