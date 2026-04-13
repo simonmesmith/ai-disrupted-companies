@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 66 (as of 2026-04-12)
-- **Last updated:** 2026-04-12
+- **Company count:** 67 (as of 2026-04-13)
+- **Last updated:** 2026-04-13
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 18 |
-| Software & SaaS | 16 |
+| Software & SaaS | 17 |
 | Research & Analytics | 9 |
 | Content & Media | 10 |
 | Marketing & Advertising | 5 |
@@ -20,6 +20,13 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
+
+## Session Log: 2026-04-13
+- **Added:** QLYS (Qualys) - Software & SaaS / Cybersecurity. Pre-ChatGPT $121.05, now $78.59 (-35.1%). Cloud vulnerability management platform whose core scanning business is being commoditized by AI tools — Anthropic's Mythos AI model can autonomously discover vulnerabilities in production code. 13% single-day plunge on Mythos news, 12% further drop on April 9 selloff. Weaker 2026 guidance. Previously rejected (2026-03-31) at -27% with "weak AI disruption angle" but the angle has since become very concrete with Mythos and decline has deepened.
+- **Re-evaluated:** NRDY (Nerdy/Varsity Tutors) - still -58.0% ($2.10 -> $0.88). Full-year 2025 revenue down 5.91%, 22% headcount cuts, stock at 52-week lows. Q4 2025 showed 2% growth but 2026 guidance essentially flat ($180-190M). Still borderline — "stabilizing via restructuring" vs "structurally declining." Remains a lead, especially for the thin Education category.
+- **Batch checked:** HOOD (+661%), IBM (+79%), DOCN (+186%), CRWD (+186%) — all way up. ZUO, PRFT, SUMO — all delisted/no data.
+- **Evaluations used:** 4 of 15 (NRDY, QLYS, HOOD/IBM/DOCN/CRWD batch, ZUO/PRFT/SUMO batch)
+- **Search approaches used:** 2 of 5 (leads from memory, SaaSpocalypse/cybersecurity AI disruption research)
 
 ## Session Log: 2026-04-12
 - **Added:** PD (PagerDuty) - Software & SaaS / IT Operations. Pre-ChatGPT $20.81, now $5.73 (-72.5%). Incident management platform disrupted by autonomous AI agents that auto-triage and remediate issues. Anthropic's Managed Agents announcement triggered 8.7% single-day drop. Revenue growth stalled at 2.7% YoY. Stock hitting new lows in April 2026.

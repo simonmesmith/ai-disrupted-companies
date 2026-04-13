@@ -73,3 +73,9 @@
 | CTSH | Cognizant | Up 2.6% from pre-ChatGPT. Not disrupted despite being INFY/EPAM peer. | 2026-04-12 |
 | WIX | Wix | Down only 23.0% from pre-ChatGPT. Decline too modest. | 2026-04-12 |
 | DAY | Dayforce/Ceridian | No yfinance data available, ticker may have changed. | 2026-04-12 |
+| HOOD | Robinhood | Up 661% from pre-ChatGPT. Not disrupted. | 2026-04-13 |
+| IBM | IBM | Up 79% from pre-ChatGPT. Not disrupted. | 2026-04-13 |
+| DOCN | DigitalOcean | Up 186% from pre-ChatGPT. Not disrupted. | 2026-04-13 |
+| ZUO | Zuora | No yfinance data, possibly delisted. | 2026-04-13 |
+| PRFT | Perficient | No yfinance data, possibly delisted/acquired. | 2026-04-13 |
+| SUMO | Sumo Logic | No yfinance data, possibly delisted/acquired. | 2026-04-13 |
