@@ -10,5 +10,5 @@
 - **Legal & Tax thin category** - still only 3 companies (HRB, LZ, LAW). Look for tax prep peers, immigration/document filing platforms, or legal research tools beyond LAW.
 - **Education thin category** - still only 2 companies (CHGG, COUR). NRDY is the top lead. Also look at UK/European/Asian online learning plays.
 - **Healthcare IT** - Largely defensive during 2026 sell-off, but worth checking individual names like medical coding or clinical documentation companies.
-- **Cybersecurity peers of QLYS** - Tenable (TENB), Rapid7 (RPD) may have similar AI vulnerability scanning disruption. Check prices.
+- **TENB (Tenable)** - Down 53.2% from pre-ChatGPT ($37.17 -> $17.41). Same Mythos/AI vulnerability scanning disruption as QLYS and RPD. No reverse splits. Strong candidate — evaluate fully next session.
 - **NRDY re-evaluation** - If Q1 2026 earnings (expected May/June) show revenue decline resuming or 2026 guidance gets cut, add to Education category.

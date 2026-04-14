@@ -70,6 +70,10 @@
 - **Result:** Found QLYS (Qualys, -35.1%). NRDY re-evaluated at -58.0% — full-year 2025 revenue down 5.91%, 22% headcount cuts, but deferred again as 2026 guidance is flat (not declining). Batch-checked HOOD (+661%), IBM (+79%), DOCN (+186%), CRWD (+186%) — all up. ZUO, PRFT, SUMO all delisted.
 - **Verdict:** Cybersecurity is a productive new vein — the Anthropic Mythos AI vulnerability scanning model created a very specific and direct disruption thesis for vulnerability management companies. QLYS was previously rejected at -27% with "weak AI disruption angle" but the Mythos catalyst made the angle concrete and the stock has fallen further. Worth checking QLYS peers (Tenable TENB, Rapid7 RPD) next session. The SaaSpocalypse continues to surface candidates when combined with specific AI product launches that threaten particular niches. Many candidates from the general selloff (HOOD, IBM, DOCN, CRWD) are still well above pre-ChatGPT prices — the selloff targets are not universally below pre-ChatGPT.
 
+### 2026-04-14: Leads from memory — cybersecurity peers of QLYS
+- **Result:** Found RPD (Rapid7, -81.0%). Also checked TENB (Tenable, -53.2%) — strong candidate saved as lead. MORN still -23.3% (below threshold). NRDY still -56.7%.
+- **Verdict:** The cybersecurity vulnerability management vein continues to be productive. RPD is the most dramatic decline on the list at -81%, with the same Mythos AI disruption thesis as QLYS but compounded by flat revenue, a guidance cut, and the specialist-vs-platform dynamic (Morgan Stanley preferring platform winners). TENB is the obvious next candidate from this vein at -53.2%. The pattern of checking peers of recently added companies (QLYS → RPD, TENB) remains one of the most efficient search strategies — low effort, high hit rate.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)

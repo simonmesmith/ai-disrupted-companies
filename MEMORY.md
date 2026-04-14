@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 67 (as of 2026-04-13)
-- **Last updated:** 2026-04-13
+- **Company count:** 68 (as of 2026-04-14)
+- **Last updated:** 2026-04-14
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 18 |
-| Software & SaaS | 17 |
+| Software & SaaS | 18 |
 | Research & Analytics | 9 |
 | Content & Media | 10 |
 | Marketing & Advertising | 5 |
@@ -20,6 +20,13 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
+
+## Session Log: 2026-04-14
+- **Added:** RPD (Rapid7) - Software & SaaS / Cybersecurity. Pre-ChatGPT $27.52, now $5.24 (-81.0%). Cybersecurity platform disrupted by AI autonomous vulnerability scanning (Anthropic Mythos). 6.7% single-day drop on Mythos news, 33.6% crash after guidance cut, 61.5% down YTD. Revenue flat, guidance cut to $835-843M. Acquired Kenzo Security (agentic AI) defensively. Found via leads (cybersecurity peers of QLYS).
+- **Also checked:** TENB (Tenable) - down 53.2% from pre-ChatGPT ($37.17 -> $17.41). Same Mythos disruption angle as QLYS/RPD. Strong candidate — saved as lead.
+- **Re-checked:** MORN (Morningstar) - still -23.3%, below 30% threshold. NRDY - still -56.7%.
+- **Evaluations used:** 4 of 15 (TENB, RPD, NRDY, MORN)
+- **Search approaches used:** 1 of 5 (leads from memory — cybersecurity peers of QLYS)
 
 ## Session Log: 2026-04-13
 - **Added:** QLYS (Qualys) - Software & SaaS / Cybersecurity. Pre-ChatGPT $121.05, now $78.59 (-35.1%). Cloud vulnerability management platform whose core scanning business is being commoditized by AI tools — Anthropic's Mythos AI model can autonomously discover vulnerabilities in production code. 13% single-day plunge on Mythos news, 12% further drop on April 9 selloff. Weaker 2026 guidance. Previously rejected (2026-03-31) at -27% with "weak AI disruption angle" but the angle has since become very concrete with Mythos and decline has deepened.
