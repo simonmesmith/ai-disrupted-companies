@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 68 (as of 2026-04-14)
-- **Last updated:** 2026-04-14
+- **Company count:** 69 (as of 2026-04-15)
+- **Last updated:** 2026-04-15
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 18 |
-| Software & SaaS | 18 |
+| Software & SaaS | 19 |
 | Research & Analytics | 9 |
 | Content & Media | 10 |
 | Marketing & Advertising | 5 |
@@ -20,6 +20,11 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
+
+## Session Log: 2026-04-15
+- **Added:** TENB (Tenable Holdings) - Software & SaaS / Cybersecurity. Pre-ChatGPT $37.17, now $17.87 (-51.9%). Third cybersecurity stock (after QLYS, RPD) added on Anthropic Claude Mythos AI disruption thesis. 8% single-day drop on Mythos news, 52-week low in Jan 2026 on 'platform paradox' (CrowdStrike/Palo Alto/Microsoft crowding out specialists). Beat Q4 2025 but market prices in structural AI commoditization. Was top lead from 2026-04-14 session.
+- **Evaluations used:** 1 of 15 (TENB)
+- **Search approaches used:** 1 of 5 (leads from memory)
 
 ## Session Log: 2026-04-14
 - **Added:** RPD (Rapid7) - Software & SaaS / Cybersecurity. Pre-ChatGPT $27.52, now $5.24 (-81.0%). Cybersecurity platform disrupted by AI autonomous vulnerability scanning (Anthropic Mythos). 6.7% single-day drop on Mythos news, 33.6% crash after guidance cut, 61.5% down YTD. Revenue flat, guidance cut to $835-843M. Acquired Kenzo Security (agentic AI) defensively. Found via leads (cybersecurity peers of QLYS).
