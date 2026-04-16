@@ -79,3 +79,9 @@
 | ZUO | Zuora | No yfinance data, possibly delisted. | 2026-04-13 |
 | PRFT | Perficient | No yfinance data, possibly delisted/acquired. | 2026-04-13 |
 | SUMO | Sumo Logic | No yfinance data, possibly delisted/acquired. | 2026-04-13 |
+| MCO | Moody's | Up 58.6% from pre-ChatGPT. AI beneficiary. | 2026-04-16 |
+| PEGA | Pegasystems | Up 140% from pre-ChatGPT. AI beneficiary (agentic workflow automation tailwind). | 2026-04-16 |
+| YOU.L | YouGov | Down 79% from pre-ChatGPT but primary drivers are CPS/GfK acquisition indigestion, GWI/Morning Consult price pressure, and management turnover (CEO departed <1yr). AI framed as opportunity by management, not threat. | 2026-04-16 |
+| SCOR | comScore | Down 71.4% but decline is capital structure/dilution story (1:20 reverse split Dec 2023, Charter/Cerberus preferred recap in Jan 2026 gave preferred holders 81.8% of shares). Core TV/CTV currency business arguably benefits from AI measurement demand. Not an AI disruption story. | 2026-04-16 |
+| PHR | Phreesia | Down 65% from pre-ChatGPT but decline is pharma/Life Sciences spending weakness + MFN drug pricing concerns, not AI. Management frames AI as tailwind (launched VoiceAI, ProviderConnect AI). Ambient scribes (Abridge, Suki) don't directly compete with patient intake. | 2026-04-16 |
+| EVH | Evolent Health | Down 89% but decline is medical cost trend headwinds in value-based care specialty benefits management, not AI disruption. | 2026-04-16 |

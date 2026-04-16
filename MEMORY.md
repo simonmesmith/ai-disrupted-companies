@@ -1,15 +1,15 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 69 (as of 2026-04-15)
-- **Last updated:** 2026-04-15
+- **Company count:** 69 (as of 2026-04-16)
+- **Last updated:** 2026-04-16
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 18 |
 | Software & SaaS | 19 |
-| Research & Analytics | 9 |
+| Research & Analytics | 10 |
 | Content & Media | 10 |
 | Marketing & Advertising | 5 |
 | Education | 2 |
@@ -20,6 +20,13 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
+
+## Session Log: 2026-04-16
+- **Added:** HCAT (Health Catalyst) - Research & Analytics / Healthcare Analytics. Pre-ChatGPT $9.63, now $1.23 (-87.2%). Healthcare analytics platform for hospitals disrupted by Epic embedding native AI analytics, AI-native competitors (Komodo, Abridge, Ambience) capturing budget, and Databricks+GenAI enabling hospital DIY analytics. Piper Sandler downgrade Nov 2025 (PT $8->$4) citing customer churn and low NRR; $178M net loss 2025 with goodwill impairment; declined to give FY2026 guidance; Q1 2026 guides to revenue decline. Same sector as DH (Definitive Healthcare). Peer thesis.
+- **Rejected:** YELP (-9.1%, too modest), MCO (up 58.6%), PEGA (up 140%), YOU.L (-79% but decline dominated by CPS/GfK acquisition indigestion + management turnover, not AI), SCOR (-71.4% but decline is Charter/Cerberus preferred recap dilution, not AI), MORN (repeatedly borderline at -22%, business resilient), PHR (-65% but decline is pharma/Life Sciences spending weakness + MFN pricing, not AI; AI actually framed as tailwind by management), EVH (-89%, value-based care, not AI), CCCC (-64%, AI insurance tech, likely AI beneficiary — didn't fully investigate), APPS (-80%, mobile ad tech, didn't fully investigate).
+- **Context:** Initially attempted to add ANGI (Angi Inc) but discovered it had already been added on 2026-04-10. Local working directory was 6 companies stale; had to rebase to origin/main.
+- **Evaluations used:** ~11 of 15 (YELP, MORN, MCO, PEGA, YOU.L, SCOR, ANGI-duplicate, HCAT, PHR, plus batch checks of EVH/CCCC/APPS).
+- **Search approaches used:** 2 of 5 (AI Overviews/market research/financial data peers; healthcare IT)
 
 ## Session Log: 2026-04-15
 - **Added:** TENB (Tenable Holdings) - Software & SaaS / Cybersecurity. Pre-ChatGPT $37.17, now $17.87 (-51.9%). Third cybersecurity stock (after QLYS, RPD) added on Anthropic Claude Mythos AI disruption thesis. 8% single-day drop on Mythos news, 52-week low in Jan 2026 on 'platform paradox' (CrowdStrike/Palo Alto/Microsoft crowding out specialists). Beat Q4 2025 but market prices in structural AI commoditization. Was top lead from 2026-04-14 session.
