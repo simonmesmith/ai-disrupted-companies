@@ -85,3 +85,8 @@
 | SCOR | comScore | Down 71.4% but decline is capital structure/dilution story (1:20 reverse split Dec 2023, Charter/Cerberus preferred recap in Jan 2026 gave preferred holders 81.8% of shares). Core TV/CTV currency business arguably benefits from AI measurement demand. Not an AI disruption story. | 2026-04-16 |
 | PHR | Phreesia | Down 65% from pre-ChatGPT but decline is pharma/Life Sciences spending weakness + MFN drug pricing concerns, not AI. Management frames AI as tailwind (launched VoiceAI, ProviderConnect AI). Ambient scribes (Abridge, Suki) don't directly compete with patient intake. | 2026-04-16 |
 | EVH | Evolent Health | Down 89% but decline is medical cost trend headwinds in value-based care specialty benefits management, not AI disruption. | 2026-04-16 |
+| SABR | Sabre Corporation | Down 69.9% but decline is legacy GDS disruption from NDC/direct airline distribution + massive debt/interest burden, not AI. Company actually pivoting TO AI (agentic AI travel platform). | 2026-04-17 |
+| APPS | Digital Turbine | Down 70.5% but decline from Apple privacy changes and weak mobile advertising market, not AI. AI actually helping margins (DTiQ platform). | 2026-04-17 |
+| TRVG | trivago | Down only 12.4% from pre-ChatGPT. Too modest. | 2026-04-17 |
+| LOPE | Grand Canyon Education | Up 55.9% from pre-ChatGPT. Not disrupted. | 2026-04-17 |
+| MORN | Morningstar | Recovered to only -7.8% from pre-ChatGPT (was -27% earlier). Business resilient, stock rebounding. | 2026-04-17 |

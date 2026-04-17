@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 69 (as of 2026-04-16)
-- **Last updated:** 2026-04-16
+- **Company count:** 70 (as of 2026-04-17)
+- **Last updated:** 2026-04-17
 
 ## Category Distribution
 | Category | Count |
@@ -11,7 +11,7 @@
 | Software & SaaS | 19 |
 | Research & Analytics | 10 |
 | Content & Media | 10 |
-| Marketing & Advertising | 5 |
+| Marketing & Advertising | 6 |
 | Education | 2 |
 | Freelance Marketplaces | 3 |
 | Legal & Tax | 3 |
@@ -20,6 +20,13 @@
 - Education (2): only CHGG, COUR
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
+
+## Session Log: 2026-04-17
+- **Added:** YEXT (Yext Inc) - Marketing & Advertising / Digital Presence. Pre-ChatGPT $5.26, now $3.62 (-31.2%). Digital presence/listings management platform disrupted by AI search (ChatGPT, Google AI Overviews, Perplexity) answering business queries directly, reducing value of managing listings across directories. 45% of consumers now use AI for local recommendations (up from 6%). Organic revenue declining 2-4% annually. NRR at 86%. Small customer ARR down 14.3%. Multiple analyst downgrades. Guidance suspended. Workforce cut ~20% across 2023-2024.
+- **Rejected:** SABR (Sabre Corp, -69.9%) — decline driven by legacy GDS disruption from NDC/direct airline distribution + debt burden, not AI. APPS (Digital Turbine, -70.5%) — decline from Apple privacy changes and weak mobile ad market, not AI (AI actually helping margins via DTiQ). TRVG (trivago, -12.4%) — too modest. AVDX (AvidXchange) — delisted. LOPE (Grand Canyon Education) — up 55.9%. STGR (Stagwell) — no yfinance data. MORN (Morningstar) — recovered to only -7.8% (was -27% previously).
+- **Evaluations used:** 7 of 15 (NRDY, MORN, YEXT, APPS, SABR, TRVG, LOPE; AVDX/STGR had no data)
+- **Search approaches used:** 2 of 5 (leads from memory; new candidate screening across digital presence/travel tech/education)
+- **Notable:** MORN has recovered significantly (now -7.8% vs -27% earlier). Remove from active monitoring. NRDY still at -54.7% but was $0.95 (slightly up from $0.88 when last checked) — still stabilizing.
 
 ## Session Log: 2026-04-16
 - **Added:** HCAT (Health Catalyst) - Research & Analytics / Healthcare Analytics. Pre-ChatGPT $9.63, now $1.23 (-87.2%). Healthcare analytics platform for hospitals disrupted by Epic embedding native AI analytics, AI-native competitors (Komodo, Abridge, Ambience) capturing budget, and Databricks+GenAI enabling hospital DIY analytics. Piper Sandler downgrade Nov 2025 (PT $8->$4) citing customer churn and low NRR; $178M net loss 2025 with goodwill impairment; declined to give FY2026 guidance; Q1 2026 guides to revenue decline. Same sector as DH (Definitive Healthcare). Peer thesis.

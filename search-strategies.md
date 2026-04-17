@@ -78,11 +78,14 @@
 - **Result:** Found HCAT (Health Catalyst, -87.2%) — peer of DH in Healthcare Analytics. Rejected many: YELP (-9%, too modest), MCO (+58%), PEGA (+140%), YOU.L (-79% but acquisition/management not AI), SCOR (-71% but capital structure dilution not AI), MORN (still weak AI angle), PHR (-65% but pharma/MFN pricing not AI; AI is tailwind for mgmt), EVH (-89% but medical cost trends not AI). Initially attempted to add ANGI but found it was already added on 2026-04-10 — local working directory was stale (6 companies behind). Had to rebase to origin/main.
 - **Verdict:** Healthcare IT is a productive vein after all — HCAT fits squarely as a peer of DH with the same thesis (AI commoditizing healthcare analytics; Epic embedding native AI; AI-native startups like Komodo/Abridge/Ambience capturing budget; Databricks+GenAI enabling DIY analytics). HCAT's management downplays AI and emphasizes platform migration, but the underlying dynamics are AI-driven. Many large stock drops in healthcare are NOT AI-driven (EVH medical costs, PHR pharma budgets) — always dig into primary cause. Lesson learned: always git pull before starting a session — local state was 6 days stale, caused ANGI duplicate attempt.
 
+### 2026-04-17: Leads from memory + new candidate screening (digital presence, travel tech, education)
+- **Result:** Found YEXT (Yext Inc, -31.2%) — digital presence/listings management platform disrupted by AI search reducing value of traditional search listings. 45% of consumers now use AI for local recommendations. Organic revenue declining 2-4% annually. NRR 86%. Guidance suspended. Rejected SABR (-69.9%, GDS/debt not AI), APPS (-70.5%, Apple privacy not AI), TRVG (-12.4%, too modest), LOPE (+55.9%), MORN (recovered to -7.8%).
+- **Verdict:** The "AI search disruption" theme continues to produce candidates — YEXT joins TRIP, ZD, and ANGI as businesses whose value proposition is eroded by AI answering queries directly instead of directing users to traditional search results/listings. The key differentiator is whether the decline is truly AI-driven vs other factors (SABR=debt, APPS=Apple privacy). MORN has recovered significantly and should be dropped from monitoring. Travel tech (SABR, TRVG) didn't yield results — SABR is a debt/GDS story and TRVG's decline is too modest. For-profit education (LOPE) is thriving. AvidXchange (AVDX) and Stagwell (STGR) appear delisted — don't revisit.
+
 ## Untried / Ideas for Next Session
-- **Education companies** beyond CHGG and COUR (e.g., for-profit education, tutoring platforms)
+- **Education companies** beyond CHGG and COUR (e.g., tutoring platforms — NRDY still top lead)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)
 - **Legal services / document review** companies disrupted by AI
-- **Healthcare IT** companies where AI is replacing manual processes
 - **Competitors of existing list companies** (look at peers of CHGG, EPAM, SSTK, etc.)
 - **Small-cap software companies** in niches being commoditized by AI (e.g., simple automation, basic analytics)
-- **More financial data peers** — MORN (Morningstar, -24.8%, monitor), S&P Global (SPGI), Moody's (MCO)
+- **More "AI search death spiral" victims** — businesses reliant on search traffic that AI is eliminating (classified ads, directory sites, niche review platforms)
