@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 71 (as of 2026-04-18)
+- **Company count:** 72 (as of 2026-04-18)
 - **Last updated:** 2026-04-18
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 18 |
-| Software & SaaS | 19 |
+| Software & SaaS | 20 |
 | Research & Analytics | 10 |
 | Content & Media | 10 |
 | Marketing & Advertising | 6 |
@@ -22,9 +22,11 @@
 - Education (3): CHGG, COUR, NRDY
 
 ## Session Log: 2026-04-18
-- **Added:** NRDY (Nerdy Inc / Varsity Tutors) - Education / EdTech. Pre-ChatGPT $2.10, now $0.94 (-55.2%). Online tutoring platform disrupted by free AI tutoring (ChatGPT, Claude, Gemini) replacing paid human tutors. FY2025 revenue down 5.91% ($190M → $179M). 22% workforce cuts. NYSE non-compliance notice March 2026 for sub-$1 trading (previously regained compliance Dec 2024 but fell below again). Had to rebuild entire platform as "AI-native" (Live+AI). Q4 2025 showed brief 2% uptick but Q1 2026 guidance flat. Danelfin AI Score 3/10 (Sell). Previously deferred as "stabilizing" but stabilization narrative has collapsed — stock hit $0.82 lows, NYSE notice confirms structural decline. Education category was very thin (only CHGG, COUR).
-- **Evaluations used:** 1 of 15 (NRDY)
-- **Search approaches used:** 1 of 5 (leads from memory)
+- **Added:** NRDY (Nerdy Inc / Varsity Tutors) - Education / EdTech. Pre-ChatGPT $2.10, now $0.94 (-55.2%). Online tutoring platform disrupted by free AI tutoring (ChatGPT, Claude, Gemini) replacing paid human tutors. FY2025 revenue down 5.91% ($190M → $179M). 22% workforce cuts. NYSE non-compliance notice March 2026 for sub-$1 trading. Previously deferred as "stabilizing" but stabilization narrative collapsed. Education category was very thin (only CHGG, COUR).
+- **Added:** DOMO (Domo Inc) - Software & SaaS / Business Intelligence. Pre-ChatGPT $13.41, now $3.80 (-71.7%). Cloud BI platform whose core analytics/dashboard business is being commoditized by ChatGPT, Claude, and AI coding tools. Seeking Alpha: "AI Is Making This Company Obsolete." Revenue stagnant at ~$317M. Board launched strategic alternatives review (exploring sale) Feb 2026. Founder/CEO stepped back. DA Davidson cut PT to $3.50. $126M debt, $43M cash. Pivoting to AI Agent Builder but core BI model is structurally disrupted.
+- **New leads from research agent:** CRNC (Cerence, -51.1% — automotive voice AI disrupted by ChatGPT/Siri), KNOS.L (Kainos Group, -45.5% — UK IT services peer of EPAM/DAVA/GLOB), RCH.L (Reach plc, -43.8% — UK publisher, AI search killing traffic), APX.AX (Appen, -35.3% — AI training data company disrupted by better AI reducing need for human labels). DOCU borderline at +2.6%.
+- **Evaluations used:** 2 of 15 (NRDY, DOMO)
+- **Search approaches used:** 2 of 5 (leads from memory, web research for new candidates via agent)
 
 ## Session Log: 2026-04-17
 - **Added:** YEXT (Yext Inc) - Marketing & Advertising / Digital Presence. Pre-ChatGPT $5.26, now $3.62 (-31.2%). Digital presence/listings management platform disrupted by AI search (ChatGPT, Google AI Overviews, Perplexity) answering business queries directly, reducing value of managing listings across directories. 45% of consumers now use AI for local recommendations (up from 6%). Organic revenue declining 2-4% annually. NRR at 86%. Small customer ARR down 14.3%. Multiple analyst downgrades. Guidance suspended. Workforce cut ~20% across 2023-2024.
