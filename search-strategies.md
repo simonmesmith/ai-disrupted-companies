@@ -82,6 +82,10 @@
 - **Result:** Found YEXT (Yext Inc, -31.2%) — digital presence/listings management platform disrupted by AI search reducing value of traditional search listings. 45% of consumers now use AI for local recommendations. Organic revenue declining 2-4% annually. NRR 86%. Guidance suspended. Rejected SABR (-69.9%, GDS/debt not AI), APPS (-70.5%, Apple privacy not AI), TRVG (-12.4%, too modest), LOPE (+55.9%), MORN (recovered to -7.8%).
 - **Verdict:** The "AI search disruption" theme continues to produce candidates — YEXT joins TRIP, ZD, and ANGI as businesses whose value proposition is eroded by AI answering queries directly instead of directing users to traditional search results/listings. The key differentiator is whether the decline is truly AI-driven vs other factors (SABR=debt, APPS=Apple privacy). MORN has recovered significantly and should be dropped from monitoring. Travel tech (SABR, TRVG) didn't yield results — SABR is a debt/GDS story and TRVG's decline is too modest. For-profit education (LOPE) is thriving. AvidXchange (AVDX) and Stagwell (STGR) appear delisted — don't revisit.
 
+### 2026-04-18: Leads from memory (NRDY)
+- **Result:** Found NRDY (Nerdy/Varsity Tutors, -55.2%). Previously deferred multiple times as "stabilizing" but NYSE non-compliance notice (March 2026) and continued stock decline to $0.82 lows confirmed structural decline. Education category was very thin (only 2 companies).
+- **Verdict:** The leads file's "re-evaluate if decline resumes" flag paid off. NRDY had been deferred since 2026-04-10 when it appeared to be stabilizing after Q4 2025's 2% growth. The NYSE compliance notice and continued stock weakness made the case clear. Lesson: "stabilization" after a structural disruption is often temporary — one quarter of modest growth doesn't reverse a 6% annual revenue decline and the fundamental displacement of paid tutoring by free AI tools.
+
 ## Untried / Ideas for Next Session
 - **Education companies** beyond CHGG and COUR (e.g., tutoring platforms — NRDY still top lead)
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)

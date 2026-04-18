@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 70 (as of 2026-04-17)
-- **Last updated:** 2026-04-17
+- **Company count:** 71 (as of 2026-04-18)
+- **Last updated:** 2026-04-18
 
 ## Category Distribution
 | Category | Count |
@@ -12,14 +12,19 @@
 | Research & Analytics | 10 |
 | Content & Media | 10 |
 | Marketing & Advertising | 6 |
-| Education | 2 |
+| Education | 3 |
 | Freelance Marketplaces | 3 |
 | Legal & Tax | 3 |
 
 ## Thin Categories (good targets for next session)
-- Education (2): only CHGG, COUR
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
+- Education (3): CHGG, COUR, NRDY
+
+## Session Log: 2026-04-18
+- **Added:** NRDY (Nerdy Inc / Varsity Tutors) - Education / EdTech. Pre-ChatGPT $2.10, now $0.94 (-55.2%). Online tutoring platform disrupted by free AI tutoring (ChatGPT, Claude, Gemini) replacing paid human tutors. FY2025 revenue down 5.91% ($190M → $179M). 22% workforce cuts. NYSE non-compliance notice March 2026 for sub-$1 trading (previously regained compliance Dec 2024 but fell below again). Had to rebuild entire platform as "AI-native" (Live+AI). Q4 2025 showed brief 2% uptick but Q1 2026 guidance flat. Danelfin AI Score 3/10 (Sell). Previously deferred as "stabilizing" but stabilization narrative has collapsed — stock hit $0.82 lows, NYSE notice confirms structural decline. Education category was very thin (only CHGG, COUR).
+- **Evaluations used:** 1 of 15 (NRDY)
+- **Search approaches used:** 1 of 5 (leads from memory)
 
 ## Session Log: 2026-04-17
 - **Added:** YEXT (Yext Inc) - Marketing & Advertising / Digital Presence. Pre-ChatGPT $5.26, now $3.62 (-31.2%). Digital presence/listings management platform disrupted by AI search (ChatGPT, Google AI Overviews, Perplexity) answering business queries directly, reducing value of managing listings across directories. 45% of consumers now use AI for local recommendations (up from 6%). Organic revenue declining 2-4% annually. NRR at 86%. Small customer ARR down 14.3%. Multiple analyst downgrades. Guidance suspended. Workforce cut ~20% across 2023-2024.
