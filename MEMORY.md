@@ -1,16 +1,16 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 72 (as of 2026-04-18)
-- **Last updated:** 2026-04-18
+- **Company count:** 73 (as of 2026-04-19)
+- **Last updated:** 2026-04-19
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 18 |
 | Software & SaaS | 20 |
+| Content & Media | 11 |
 | Research & Analytics | 10 |
-| Content & Media | 10 |
 | Marketing & Advertising | 6 |
 | Education | 3 |
 | Freelance Marketplaces | 3 |
@@ -20,6 +20,12 @@
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
 - Education (3): CHGG, COUR, NRDY
+
+## Session Log: 2026-04-19
+- **Added:** RCH.L (Reach plc) - Content & Media / Digital Publishing. Pre-ChatGPT 119.28p, now 67.00p (-43.8%). UK's largest commercial news publisher (Daily Mirror, Daily Express, Daily Star). Google traffic plunged 46% in 2025. Digital revenue down 7.8% in Q4 2025. £222.8M non-cash impairment charge. 600+ roles at risk. NPR called AI search impact "extinction-level event." Same thesis as BZFD, ZD, TRIP. Was a lead from 2026-04-18 session.
+- **Evaluated but not added:** CRNC (Cerence Inc) — down 51.1% from pre-ChatGPT, but AI disruption angle is muddy. Revenue decline driven primarily by Toyota contract termination, not purely AI displacement. Cerence is actively partnering with ChatGPT/Microsoft (integrated into Volkswagen), not being replaced by it. Goldman Sachs raised PT from $10 to $11 (Neutral). Still powers 51% of cars produced. Moved to failed candidates.
+- **Evaluations used:** 2 of 15 (CRNC, RCH.L)
+- **Search approaches used:** 1 of 5 (leads from memory)
 
 ## Session Log: 2026-04-18
 - **Added:** NRDY (Nerdy Inc / Varsity Tutors) - Education / EdTech. Pre-ChatGPT $2.10, now $0.94 (-55.2%). Online tutoring platform disrupted by free AI tutoring (ChatGPT, Claude, Gemini) replacing paid human tutors. FY2025 revenue down 5.91% ($190M → $179M). 22% workforce cuts. NYSE non-compliance notice March 2026 for sub-$1 trading. Previously deferred as "stabilizing" but stabilization narrative collapsed. Education category was very thin (only CHGG, COUR).

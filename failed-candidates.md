@@ -90,3 +90,4 @@
 | TRVG | trivago | Down only 12.4% from pre-ChatGPT. Too modest. | 2026-04-17 |
 | LOPE | Grand Canyon Education | Up 55.9% from pre-ChatGPT. Not disrupted. | 2026-04-17 |
 | MORN | Morningstar | Recovered to only -7.8% from pre-ChatGPT (was -27% earlier). Business resilient, stock rebounding. | 2026-04-17 |
+| CRNC | Cerence Inc | Down 51.1% but AI disruption angle is muddy. Revenue decline primarily from Toyota contract termination, not pure AI displacement. Cerence actively partnering with ChatGPT/Microsoft (powers VW integration), not being replaced. Goldman Sachs raised PT to $11 (Neutral). Still powers 51% of cars produced. OEM price pressure is real but not clearly AI-caused. | 2026-04-19 |
