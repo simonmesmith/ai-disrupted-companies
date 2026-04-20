@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 73 (as of 2026-04-19)
-- **Last updated:** 2026-04-19
+- **Company count:** 74 (as of 2026-04-20)
+- **Last updated:** 2026-04-20
 
 ## Category Distribution
 | Category | Count |
 |---|---|
-| Business Services | 18 |
+| Business Services | 19 |
 | Software & SaaS | 20 |
 | Content & Media | 11 |
 | Research & Analytics | 10 |
@@ -20,6 +20,11 @@
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
 - Education (3): CHGG, COUR, NRDY
+
+## Session Log: 2026-04-20
+- **Added:** KNOS.L (Kainos Group plc) - Business Services / IT Services. Pre-ChatGPT 1609.62p, now 877.00p (-45.5%). Belfast-headquartered IT services company, peer of EPAM/DAVA/GLOB/CAP.PA. Digital Services revenue down 7%, profit down 15%, 190 staff cut. Stock crashed 40% in 3 months during SaaSpocalypse. Motley Fool: "AI enabler or AI victim?" Deutsche Bank downgraded to Hold. AI projects up 61% to £41.1M but can't offset services decline. Was top lead from 2026-04-18 session.
+- **Evaluations used:** 1 of 15 (KNOS.L)
+- **Search approaches used:** 1 of 5 (leads from memory)
 
 ## Session Log: 2026-04-19
 - **Added:** RCH.L (Reach plc) - Content & Media / Digital Publishing. Pre-ChatGPT 119.28p, now 67.00p (-43.8%). UK's largest commercial news publisher (Daily Mirror, Daily Express, Daily Star). Google traffic plunged 46% in 2025. Digital revenue down 7.8% in Q4 2025. £222.8M non-cash impairment charge. 600+ roles at risk. NPR called AI search impact "extinction-level event." Same thesis as BZFD, ZD, TRIP. Was a lead from 2026-04-18 session.
