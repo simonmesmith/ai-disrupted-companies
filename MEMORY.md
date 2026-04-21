@@ -1,15 +1,15 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 74 (as of 2026-04-20)
-- **Last updated:** 2026-04-20
+- **Company count:** 75 (as of 2026-04-21)
+- **Last updated:** 2026-04-21
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Business Services | 19 |
 | Software & SaaS | 20 |
-| Content & Media | 11 |
+| Content & Media | 12 |
 | Research & Analytics | 10 |
 | Marketing & Advertising | 6 |
 | Education | 3 |
@@ -20,6 +20,13 @@
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
 - Education (3): CHGG, COUR, NRDY
+
+## Session Log: 2026-04-21
+- **Added:** FUTR.L (Future plc) - Content & Media / Digital Publishing. Pre-ChatGPT 1482.36p, now 344.40p (-76.8%). UK digital publisher (~230 brands: TechRadar, Tom's Guide, PC Gamer, GamesRadar+). Business model depends on Google search traffic driving readers to product reviews/buying guides where they click affiliate links. AI Overviews answer product comparison queries directly, destroying click-through. Barclays downgraded, cut PT 55% (640p to 285p), citing "dual structural headwinds from Agentic AI and New Media." EBITDA margin collapsed from 30% to guided 24-25%. Organic revenue -6.5%, audience -20%. FY26/28 EPS estimates cut 20%/36%. Peer of RCH.L, ZD, TRIP, BZFD in the "AI search death spiral" theme. Found via research agent web search.
+- **Rejected:** CRNC (Cerence, -49.4%) — automotive voice AI company but actually recovering (FY26 revenue guidance up 23%, strong Q1, new OEM wins). DXC (DXC Technology, -54.4%) — IT services but "AI is accelerant, not cause" — company was in secular decline long before ChatGPT. DHX (DHI Group/Dice, -46.3%) — tech job board but management frames AI as tailwind (more AI jobs), decline mainly from soft tech hiring environment. LEE (Lee Enterprises, -54.7%) — local newspapers but secular print decline, not AI-specific. EVCM (EverCommerce, +92.7%) — up. INFA (Informatica) — delisted. GCI (Gannett) — delisted. HSII (Heidrick & Struggles) — delisted. KFY (Korn Ferry, +30.6%) — up. SGE.L (Sage, +15.7%) — up. XRO.AX (Xero, +19.4%) — up. IHRT (iHeartMedia, -45.1%) — radio company, decline is from secular cord-cutting/streaming, not AI. PWSC (PowerSchool) — delisted. APX.AX (Appen, -31.2%) — AI training data company, modest decline.
+- **Note:** NRDY was already added by another session (2026-04-18). Discovered this when my initial commit conflicted with remote. Also DOMO, RCH.L, KNOS.L were added since last session. Had to pull/rebase before finding a new candidate.
+- **Evaluations used:** ~12 of 15 (NRDY price check, CRNC, DXC, DHX, APX.AX, LEE, EVCM, INFA, GCI, HSII, KFY, SGE.L, XRO.AX, IHRT, PWSC, RGP, FUTR.L)
+- **Search approaches used:** 3 of 5 (leads from memory/NRDY, broad candidate screening across IT services/automotive AI/job boards/publishers/accounting, research agent web search for SaaSpocalypse victims)
 
 ## Session Log: 2026-04-20
 - **Added:** KNOS.L (Kainos Group plc) - Business Services / IT Services. Pre-ChatGPT 1609.62p, now 877.00p (-45.5%). Belfast-headquartered IT services company, peer of EPAM/DAVA/GLOB/CAP.PA. Digital Services revenue down 7%, profit down 15%, 190 staff cut. Stock crashed 40% in 3 months during SaaSpocalypse. Motley Fool: "AI enabler or AI victim?" Deutsche Bank downgraded to Hold. AI projects up 61% to £41.1M but can't offset services decline. Was top lead from 2026-04-18 session.

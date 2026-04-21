@@ -86,10 +86,15 @@
 - **Result:** Found NRDY (Nerdy/Varsity Tutors, -55.2%) and DOMO (Domo Inc, -71.7%). Also identified 4 strong leads: CRNC (-51.1%, automotive voice AI), KNOS.L (-45.5%, UK IT services), RCH.L (-43.8%, UK publisher), APX.AX (-35.3%, AI training data).
 - **Verdict:** The leads file's "re-evaluate if decline resumes" flag paid off for NRDY — NYSE non-compliance notice (March 2026) and $0.82 lows confirmed structural decline despite Q4 2025's brief 2% growth. Lesson: "stabilization" after a structural disruption is often temporary. DOMO was a new find via web research — Seeking Alpha's "AI Is Making This Company Obsolete" article and the strategic alternatives review made the case clear. Business Intelligence SaaS is a productive new angle — BI platforms that provide dashboards and visualizations are among the most directly commoditized by ChatGPT/Claude, which can generate charts and insights conversationally. The research agent produced 4 verified new leads across automotive AI (CRNC), UK IT services (KNOS.L), UK publishing (RCH.L), and AI data annotation (APX.AX) — all with confirmed price drops and no reverse splits.
 
+### 2026-04-21: Research agent + broad candidate screening + "AI search death spiral" UK publishers
+- **Result:** Found FUTR.L (Future plc, -76.8%) — UK digital publisher (TechRadar, Tom's Guide, PC Gamer) whose affiliate/ecommerce revenue model is being destroyed by Google AI Overviews. Barclays downgraded, cut PT 55%. EBITDA margin collapsed from 30% to 24-25%. Rejected many: CRNC (recovering), DXC (secular decline predates AI), DHX (mixed AI angle), LEE (secular print decline), IHRT (streaming not AI), plus many delisted/up companies. Research agent identified FUTR.L, PCTY, DHX, and ETSY as top candidates.
+- **Verdict:** The "AI search death spiral" theme continues to be the most productive vein for new candidates — FUTR.L joins RCH.L, BZFD, ZD, TRIP, ANGI, and YEXT. The key insight is that different publisher sub-models face different degrees of disruption: FUTR.L's high-margin affiliate/ecommerce model (product reviews → purchase clicks) is more exposed than RCH.L's news advertising model because AI Overviews directly answer the product comparison queries that drive affiliate clicks. The research agent was very efficient — it parallelized web searches and returned 5 ranked candidates with disruption narratives in one shot. Using agents for broad exploration and then manually verifying the top pick is a productive workflow. Many companies with large stock declines (DXC, LEE, IHRT) don't qualify because the decline isn't AI-driven — always dig into primary cause.
+
 ## Untried / Ideas for Next Session
-- **Education companies** beyond CHGG and COUR (e.g., tutoring platforms — NRDY still top lead)
+- **Consulting staffing** — RGP (Resources Connection) is down 74.6% and needs investigation
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)
 - **Legal services / document review** companies disrupted by AI
 - **Competitors of existing list companies** (look at peers of CHGG, EPAM, SSTK, etc.)
 - **Small-cap software companies** in niches being commoditized by AI (e.g., simple automation, basic analytics)
-- **More "AI search death spiral" victims** — businesses reliant on search traffic that AI is eliminating (classified ads, directory sites, niche review platforms)
+- **E-commerce marketplaces** — ETSY down ~47% with AI-generated products flooding platform
+- **HCM/Payroll peers** — PCTY (Paylocity) may have deteriorated enough for inclusion alongside PAYC

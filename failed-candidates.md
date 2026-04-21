@@ -91,3 +91,9 @@
 | LOPE | Grand Canyon Education | Up 55.9% from pre-ChatGPT. Not disrupted. | 2026-04-17 |
 | MORN | Morningstar | Recovered to only -7.8% from pre-ChatGPT (was -27% earlier). Business resilient, stock rebounding. | 2026-04-17 |
 | CRNC | Cerence Inc | Down 51.1% but AI disruption angle is muddy. Revenue decline primarily from Toyota contract termination, not pure AI displacement. Cerence actively partnering with ChatGPT/Microsoft (powers VW integration), not being replaced. Goldman Sachs raised PT to $11 (Neutral). Still powers 51% of cars produced. OEM price pressure is real but not clearly AI-caused. | 2026-04-19 |
+| DXC | DXC Technology | Down 54.4% but "AI is accelerant, not cause" — company in secular decline long before ChatGPT (revenue from $21B to $13B). Already 7 IT services companies on list. | 2026-04-21 |
+| DHX | DHI Group/Dice.com | Down 46.3% but management frames AI as tailwind (more AI jobs). Dice revenue -17% mainly from soft tech hiring environment, not AI displacement specifically. | 2026-04-21 |
+| LEE | Lee Enterprises | Down 54.7% but local newspaper decline is secular print/digital transition, not AI-specific. | 2026-04-21 |
+| IHRT | iHeartMedia | Down 45.1% but radio decline from streaming/cord-cutting, not AI disruption. | 2026-04-21 |
+| APX.AX | Appen Limited | Down 31.2% — AI training data company disrupted by synthetic data, but decline modest. | 2026-04-21 |
+| RGP | Resources Connection | Down 74.6% — consulting staffing. Need to investigate if AI-driven or cyclical. | 2026-04-21 |
