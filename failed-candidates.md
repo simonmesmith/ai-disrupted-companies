@@ -96,4 +96,4 @@
 | LEE | Lee Enterprises | Down 54.7% but local newspaper decline is secular print/digital transition, not AI-specific. | 2026-04-21 |
 | IHRT | iHeartMedia | Down 45.1% but radio decline from streaming/cord-cutting, not AI disruption. | 2026-04-21 |
 | APX.AX | Appen Limited | Down 31.2% — AI training data company disrupted by synthetic data, but decline modest. | 2026-04-21 |
-| RGP | Resources Connection | Down 74.6% — consulting staffing. Need to investigate if AI-driven or cyclical. | 2026-04-21 |
+| ETSY | Etsy | Down 46.5% but primary decline is Temu/Shein/TikTok Shop competition, not AI. AI-generated product flooding is secondary. Active buyers fell from 92M to 86.5M. Etsy partnering with OpenAI as beneficiary. | 2026-04-22 |

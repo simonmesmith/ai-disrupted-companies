@@ -90,8 +90,11 @@
 - **Result:** Found FUTR.L (Future plc, -76.8%) — UK digital publisher (TechRadar, Tom's Guide, PC Gamer) whose affiliate/ecommerce revenue model is being destroyed by Google AI Overviews. Barclays downgraded, cut PT 55%. EBITDA margin collapsed from 30% to 24-25%. Rejected many: CRNC (recovering), DXC (secular decline predates AI), DHX (mixed AI angle), LEE (secular print decline), IHRT (streaming not AI), plus many delisted/up companies. Research agent identified FUTR.L, PCTY, DHX, and ETSY as top candidates.
 - **Verdict:** The "AI search death spiral" theme continues to be the most productive vein for new candidates — FUTR.L joins RCH.L, BZFD, ZD, TRIP, ANGI, and YEXT. The key insight is that different publisher sub-models face different degrees of disruption: FUTR.L's high-margin affiliate/ecommerce model (product reviews → purchase clicks) is more exposed than RCH.L's news advertising model because AI Overviews directly answer the product comparison queries that drive affiliate clicks. The research agent was very efficient — it parallelized web searches and returned 5 ranked candidates with disruption narratives in one shot. Using agents for broad exploration and then manually verifying the top pick is a productive workflow. Many companies with large stock declines (DXC, LEE, IHRT) don't qualify because the decline isn't AI-driven — always dig into primary cause.
 
+### 2026-04-22: Leads from memory (RGP, ETSY)
+- **Result:** Found RGP (Resources Connection, -74.9%). ETSY rejected — AI is secondary to Temu/Shein competition.
+- **Verdict:** Consulting/professional staffing is a confirmed productive vein — RGP joins RHI, MAN, KFRC, KELYA, TBI in the staffing cluster. The key differentiator was CEO explicitly acknowledging AI reducing demand for operational accounting contract roles, plus Seeking Alpha's "structural threats from automation" downgrade. ETSY's AI-generated product flooding is real but not the primary decline driver.
+
 ## Untried / Ideas for Next Session
-- **Consulting staffing** — RGP (Resources Connection) is down 74.6% and needs investigation
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)
 - **Legal services / document review** companies disrupted by AI
 - **Competitors of existing list companies** (look at peers of CHGG, EPAM, SSTK, etc.)

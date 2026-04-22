@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 75 (as of 2026-04-21)
-- **Last updated:** 2026-04-21
+- **Company count:** 76 (as of 2026-04-22)
+- **Last updated:** 2026-04-22
 
 ## Category Distribution
 | Category | Count |
 |---|---|
-| Business Services | 19 |
+| Business Services | 20 |
 | Software & SaaS | 20 |
 | Content & Media | 12 |
 | Research & Analytics | 10 |
@@ -20,6 +20,12 @@
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
 - Education (3): CHGG, COUR, NRDY
+
+## Session Log: 2026-04-22
+- **Added:** RGP (Resources Connection Inc) - Business Services / Staffing & Recruitment. Pre-ChatGPT $16.12, now $4.05 (-74.9%). Professional consulting staffing firm placing finance, accounting, and transformation consultants. CEO acknowledged on earnings calls that AI is reducing client demand for operational accounting contract roles. On-Demand Talent segment revenue down 33% in a single quarter. Seeking Alpha downgraded to Sell citing "structural threats from automation." Revenue declining 7+ consecutive quarters. Was a lead from 2026-04-21 session.
+- **Rejected:** ETSY (-46.5%) — AI is a secondary factor (AI-generated products flooding marketplace), primary decline driver is competition from Temu/Shein/TikTok Shop. Active buyers fell from 92M to 86.5M. Etsy actually partnering with OpenAI/ChatGPT. Not an AI disruption story.
+- **Evaluations used:** 2 of 15 (RGP, ETSY)
+- **Search approaches used:** 1 of 5 (leads from memory)
 
 ## Session Log: 2026-04-21
 - **Added:** FUTR.L (Future plc) - Content & Media / Digital Publishing. Pre-ChatGPT 1482.36p, now 344.40p (-76.8%). UK digital publisher (~230 brands: TechRadar, Tom's Guide, PC Gamer, GamesRadar+). Business model depends on Google search traffic driving readers to product reviews/buying guides where they click affiliate links. AI Overviews answer product comparison queries directly, destroying click-through. Barclays downgraded, cut PT 55% (640p to 285p), citing "dual structural headwinds from Agentic AI and New Media." EBITDA margin collapsed from 30% to guided 24-25%. Organic revenue -6.5%, audience -20%. FY26/28 EPS estimates cut 20%/36%. Peer of RCH.L, ZD, TRIP, BZFD in the "AI search death spiral" theme. Found via research agent web search.
