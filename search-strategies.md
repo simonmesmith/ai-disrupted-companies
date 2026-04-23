@@ -94,10 +94,14 @@
 - **Result:** Found RGP (Resources Connection, -74.9%). ETSY rejected — AI is secondary to Temu/Shein competition.
 - **Verdict:** Consulting/professional staffing is a confirmed productive vein — RGP joins RHI, MAN, KFRC, KELYA, TBI in the staffing cluster. The key differentiator was CEO explicitly acknowledging AI reducing demand for operational accounting contract roles, plus Seeking Alpha's "structural threats from automation" downgrade. ETSY's AI-generated product flooding is real but not the primary decline driver.
 
+### 2026-04-23: Broad SaaS batch screening + research agent for new candidates
+- **Result:** Found BL (BlackLine, -52.2%) — accounting automation SaaS whose financial close workflows are being commoditized by AI-native competitors (FloQast, DOKKA) and ERP-embedded AI. Market share fell 24.4% to 18.2%. NRR 92%. Multiple analyst downgrades citing AI seat compression. Rejected TTD (-52%, valuation reset + agency conflicts, not AI). Research agent identified SPSC (-59%, EDI automation), VERI (-59%, AI platform obsoleted), and AMPL (-50%, product analytics) as strong leads.
+- **Verdict:** Batch price screening of ~40 tickers across multiple categories followed by deep-dive research on decliners is efficient. The key is confirming the AI angle — many SaaS stocks are down 40-50% but for non-AI reasons (TTD = agency conflicts, PLTK = gaming macro). BlackLine had the clearest AI disruption narrative with concrete evidence: AI-native competitors actively taking market share, NRR below 100%, and analyst downgrades specifically citing AI seat compression. The "accounting automation" space is a productive new subcategory — AI can automate reconciliations, journal entries, and close checklists, directly threatening per-seat accounting software.
+
 ## Untried / Ideas for Next Session
-- **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)
+- **SPSC (SPS Commerce)** — Rothschild Redbin explicitly downgraded on AI risk, "low technical moat" since rules-based EDI automation is exactly what AI excels at
+- **VERI (Veritone)** — AI platform commoditized by foundation models, going concern, mirrors C3.ai
 - **Legal services / document review** companies disrupted by AI
-- **Competitors of existing list companies** (look at peers of CHGG, EPAM, SSTK, etc.)
-- **Small-cap software companies** in niches being commoditized by AI (e.g., simple automation, basic analytics)
-- **E-commerce marketplaces** — ETSY down ~47% with AI-generated products flooding platform
+- **Small-cap software companies** in niches being commoditized by AI
 - **HCM/Payroll peers** — PCTY (Paylocity) may have deteriorated enough for inclusion alongside PAYC
+- **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)
