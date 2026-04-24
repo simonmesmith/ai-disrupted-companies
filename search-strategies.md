@@ -98,10 +98,13 @@
 - **Result:** Found BL (BlackLine, -52.2%) — accounting automation SaaS whose financial close workflows are being commoditized by AI-native competitors (FloQast, DOKKA) and ERP-embedded AI. Market share fell 24.4% to 18.2%. NRR 92%. Multiple analyst downgrades citing AI seat compression. Rejected TTD (-52%, valuation reset + agency conflicts, not AI). Research agent identified SPSC (-59%, EDI automation), VERI (-59%, AI platform obsoleted), and AMPL (-50%, product analytics) as strong leads.
 - **Verdict:** Batch price screening of ~40 tickers across multiple categories followed by deep-dive research on decliners is efficient. The key is confirming the AI angle — many SaaS stocks are down 40-50% but for non-AI reasons (TTD = agency conflicts, PLTK = gaming macro). BlackLine had the clearest AI disruption narrative with concrete evidence: AI-native competitors actively taking market share, NRR below 100%, and analyst downgrades specifically citing AI seat compression. The "accounting automation" space is a productive new subcategory — AI can automate reconciliations, journal entries, and close checklists, directly threatening per-seat accounting software.
 
+### 2026-04-24: Failed-candidate re-evaluation + broad batch screening + multiple sector searches
+- **Result:** Found APX.AX (Appen Limited, -36.9%) — AI training data company disrupted by synthetic data and clients bringing labeling in-house. Previously rejected at -31.2% on Apr 21, decline deepened. Rejected ~12 candidates: PRGS (-46.6%, sector sentiment), TTGT (-88.3%, Informa acquisition), SPSC (-60%, Amazon policy), WK (-31.1%, AI adopter growing 20%), ETSY (-47.9%, Temu/Shein), AMPL (-51.8%, AI beneficiary growing 17%), UDMY (-70.7%, being acquired), PCTY (-51.4%, strong growth), TTD (-51.8%, Amazon competition).
+- **Verdict:** At 79 companies, finding new qualifying companies is genuinely difficult. Most significant stock declines are NOT primarily AI-driven. The most productive strategy this session was re-evaluating a borderline failed candidate whose price dropped further (APX.AX: -31.2% → -36.9%). The "ironic AI casualty" pattern (companies that helped build AI being destroyed by it) remains a useful angle — APX.AX joins LPSN and C3.ai. Key lesson: many SaaS stocks with 40-50% declines (WK, AMPL, PCTY) are actually growing revenue strongly — the declines are SaaSpocalypse sentiment, not structural AI disruption. Always verify fundamentals before assuming AI causation.
+
 ## Untried / Ideas for Next Session
-- **SPSC (SPS Commerce)** — Rothschild Redbin explicitly downgraded on AI risk, "low technical moat" since rules-based EDI automation is exactly what AI excels at
-- **VERI (Veritone)** — AI platform commoditized by foundation models, going concern, mirrors C3.ai
+- **VERI (Veritone)** — AI platform commoditized by foundation models, going concern, mirrors C3.ai. TOP LEAD.
+- **SPSC (SPS Commerce)** — Analyst AI risk downgrade exists, but Apr 24 evaluation found Amazon/downsell as primary driver. Re-evaluate if AI angle confirmed.
 - **Legal services / document review** companies disrupted by AI
-- **Small-cap software companies** in niches being commoditized by AI
-- **HCM/Payroll peers** — PCTY (Paylocity) may have deteriorated enough for inclusion alongside PAYC
+- **Re-evaluate failed candidates** — APX.AX pattern shows borderline candidates can qualify as prices drop. Check SCOR (-75.8%), DHX (-46.3%), SNAP (-43.1%) periodically.
 - **Asian/European market IT outsourcers** (check London, Tokyo, Hong Kong exchanges)

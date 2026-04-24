@@ -95,6 +95,12 @@
 | DHX | DHI Group/Dice.com | Down 46.3% but management frames AI as tailwind (more AI jobs). Dice revenue -17% mainly from soft tech hiring environment, not AI displacement specifically. | 2026-04-21 |
 | LEE | Lee Enterprises | Down 54.7% but local newspaper decline is secular print/digital transition, not AI-specific. | 2026-04-21 |
 | IHRT | iHeartMedia | Down 45.1% but radio decline from streaming/cord-cutting, not AI disruption. | 2026-04-21 |
-| APX.AX | Appen Limited | Down 31.2% — AI training data company disrupted by synthetic data, but decline modest. | 2026-04-21 |
+| APX.AX | Appen Limited | ~~Down 31.2% — AI training data company disrupted by synthetic data, but decline modest.~~ **ADDED 2026-04-24** — decline deepened to -36.9%, strong ironic AI disruption angle. | 2026-04-21 |
+| PRGS | Progress Software | Down 46.6% but decline is SaaSpocalypse sector sentiment, not specific AI disruption. Raised 2026 outlook and expanded AI offerings. | 2026-04-24 |
+| TTGT | TechTarget | Down 88.3% but decline heavily driven by Informa acquisition integration ($900M goodwill impairment), not cleanly AI. Pro-forma revenue -5.8%. | 2026-04-24 |
+| SPSC | SPS Commerce | Down 60% but decline from Amazon policy changes and customer downsells, not AI. Management views as temporary. | 2026-04-24 |
+| WK | Workiva | Down 31.1% but AI adopter — growing 20% YoY, 97%/113% retention, launched AI GRC platform. Projecting $1B revenue 2026. | 2026-04-24 |
+| AMPL | Amplitude | Down 51.8% but AI beneficiary — growing 17%, six quarters accelerating ARR, launched Agentic AI Analytics. SaaSpocalypse sentiment. | 2026-04-24 |
+| PCTY | Paylocity | Down 51.4% but 14% recurring revenue growth, 92% retention, actively acquiring (Grayscale Labs for AI recruiting). Not AI-disrupted. | 2026-04-24 |
 | ETSY | Etsy | Down 46.5% but primary decline is Temu/Shein/TikTok Shop competition, not AI. AI-generated product flooding is secondary. Active buyers fell from 92M to 86.5M. Etsy partnering with OpenAI as beneficiary. | 2026-04-22 |
 | TTD | Trade Desk | Down 52% but decline is primarily valuation reset + agency conflicts (Publicis, WPP, Dentsu distancing). Revenue still growing 19%. AI is a competitive factor (Google Performance Max, Meta Advantage+) but TTD is an active AI adopter (Koa Agents). Not an AI disruption story. | 2026-04-23 |

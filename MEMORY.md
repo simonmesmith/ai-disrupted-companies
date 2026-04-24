@@ -1,15 +1,15 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 77 (as of 2026-04-23)
-- **Last updated:** 2026-04-23
+- **Company count:** 79 (as of 2026-04-24)
+- **Last updated:** 2026-04-24
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Software & SaaS | 21 |
 | Business Services | 20 |
-| Content & Media | 12 |
+| Content & Media | 13 |
 | Research & Analytics | 10 |
 | Marketing & Advertising | 6 |
 | Education | 3 |
@@ -20,6 +20,13 @@
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
 - Education (3): CHGG, COUR, NRDY
+
+## Session Log: 2026-04-24
+- **Added:** APX.AX (Appen Limited) - Content & Media / AI Data Labeling. Pre-ChatGPT A$2.46, now A$1.55 (-36.9%). AI training data company disrupted by the AI it helped build — synthetic data, self-supervised learning, and clients (notably Google) bringing labeling in-house. Revenue declined 14.4% from US$270M to US$231M. Google terminated A$82.8M annual contract in March 2024. Among the most ironic AI casualties alongside LPSN and C3.ai. Found via re-evaluation of failed candidate from Apr 21 (decline deepened from -31.2% to -36.9%).
+- **Rejected:** PRGS (Progress Software, -46.6%) — decline is SaaSpocalypse sector sentiment, not specific AI disruption. Raised 2026 outlook. TTGT (TechTarget, -88.3%) — decline heavily driven by Informa acquisition integration + $900M goodwill impairment, not cleanly AI. SPSC (SPS Commerce, -60%) — decline from Amazon policy changes and customer downsells, not AI. Management views as temporary. WK (Workiva, -31.1%) — AI adopter, growing 20% YoY, 97%/113% retention, projecting $1B revenue 2026. ETSY (Etsy, -47.9%) — primary decline from Temu/Shein competition, not AI (confirmed by separate Apr 22 session). AMPL (Amplitude, -51.8%) — AI beneficiary, growing 17%, six quarters accelerating ARR. UDMY (Udemy, -70.7%) — being acquired by Coursera in all-stock deal. PCTY (Paylocity, -51.4%) — 14% revenue growth, 92% retention, actively acquiring with AI features. TTD (Trade Desk, -51.8%) — revenue growing 19%, decline from Amazon competition + macro, AI is opportunity (Koa Agents). NRDY attempted but already added by prior session.
+- **Evaluations used:** ~12 of 15 (NRDY, PRGS, TTGT, SPSC, WK, ETSY, AMPL, UDMY, PCTY, TTD, APX.AX, plus many batch price checks)
+- **Search approaches used:** 4 of 5 (leads from memory, SaaSpocalypse victims, failed-candidate re-evaluation, broad batch screening across multiple sectors)
+- **Observation:** At 79 companies the list is highly comprehensive. Finding new qualifying companies is increasingly difficult — most significant stock declines are NOT primarily AI-driven (ETSY=Temu competition, TTD=Amazon competition, CSGP=housing market, TNET=healthcare costs). The easy AI disruption stories have been captured. Best remaining strategy is re-evaluating failed candidates as prices drop further (APX.AX worked this session). Also worth monitoring DUOL, TRI, and TCS.NS if declines deepen.
 
 ## Session Log: 2026-04-23
 - **Added:** BL (BlackLine Inc) - Software & SaaS / Accounting Automation. Pre-ChatGPT $63.86, now $30.50 (-52.2%). Cloud accounting automation platform whose financial close workflows are being commoditized by AI-native competitors. FloQast (~3,500 customers, $1.6B valuation) undercuts at ~1/3 the price with AI-powered close automation. DOKKA built AI-first close platform. ERP vendors (Oracle, SAP, Sage) embedding AI close automation directly. Market share fell 24.4% to 18.2% in one year. NRR dropped to 92%. Customer count declined by 30 in Q4 2025. Revenue growth decelerated to 8%. Multiple analyst downgrades (Citi, BMO, DA Davidson) citing AI seat compression. Found via batch screening of SaaS stocks below pre-ChatGPT prices.
