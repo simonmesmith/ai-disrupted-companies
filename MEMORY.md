@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 79 (as of 2026-04-24)
-- **Last updated:** 2026-04-24
+- **Company count:** 80 (as of 2026-04-25)
+- **Last updated:** 2026-04-25
 
 ## Category Distribution
 | Category | Count |
 |---|---|
-| Software & SaaS | 21 |
+| Software & SaaS | 22 |
 | Business Services | 20 |
 | Content & Media | 13 |
 | Research & Analytics | 10 |
@@ -20,6 +20,11 @@
 - Legal & Tax (3): HRB, LZ, LAW
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
 - Education (3): CHGG, COUR, NRDY
+
+## Session Log: 2026-04-25
+- **Added:** VERI (Veritone Inc) - Software & SaaS / Enterprise AI Platform. Pre-ChatGPT $5.60, now $2.23 (-60.2%). Enterprise AI platform (aiWARE) commoditized by foundation models from OpenAI/Anthropic/Google — same "AI company destroyed by better AI" pattern as C3.ai and LivePerson. Revenue collapsed ~30% ($133M → $93M), going concern warning, $45.6M convertible notes maturing Nov 2026 vs $43M cash. Was top lead from prior session.
+- **Evaluations used:** 1 of 15 (VERI)
+- **Search approaches used:** 1 of 5 (leads from memory)
 
 ## Session Log: 2026-04-24
 - **Added:** APX.AX (Appen Limited) - Content & Media / AI Data Labeling. Pre-ChatGPT A$2.46, now A$1.55 (-36.9%). AI training data company disrupted by the AI it helped build — synthetic data, self-supervised learning, and clients (notably Google) bringing labeling in-house. Revenue declined 14.4% from US$270M to US$231M. Google terminated A$82.8M annual contract in March 2024. Among the most ironic AI casualties alongside LPSN and C3.ai. Found via re-evaluation of failed candidate from Apr 21 (decline deepened from -31.2% to -36.9%).
