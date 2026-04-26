@@ -104,3 +104,11 @@
 | PCTY | Paylocity | Down 51.4% but 14% recurring revenue growth, 92% retention, actively acquiring (Grayscale Labs for AI recruiting). Not AI-disrupted. | 2026-04-24 |
 | ETSY | Etsy | Down 46.5% but primary decline is Temu/Shein/TikTok Shop competition, not AI. AI-generated product flooding is secondary. Active buyers fell from 92M to 86.5M. Etsy partnering with OpenAI as beneficiary. | 2026-04-22 |
 | TTD | Trade Desk | Down 52% but decline is primarily valuation reset + agency conflicts (Publicis, WPP, Dentsu distancing). Revenue still growing 19%. AI is a competitive factor (Google Performance Max, Meta Advantage+) but TTD is an active AI adopter (Koa Agents). Not an AI disruption story. | 2026-04-23 |
+| PUBM | PubMatic | Down 35.8% but AI is a tailwind (AgenticOS, 250+ deals). Decline from DSP partner losses, not AI disruption. Beat Q4 2025 estimates. | 2026-04-26 |
+| CCSI | Consensus Cloud Solutions | Down 51.8% but transitioning TO AI (Clarity AI data extraction), not disrupted by it. Fax business maturity, not AI disruption. | 2026-04-26 |
+| PLTK | Playtika | Down 56% but mobile gaming maturity, flat revenue ($2.76B), 15% staff cuts for cost structure. AI used for efficiency, not disrupting gaming. | 2026-04-26 |
+| BLKB | Blackbaud | Down 35.8% but SaaSpocalypse sentiment. Fundamentals improving — return to profitability, Rule of 40 achieved early. AI capabilities expanding. | 2026-04-26 |
+| CINT | CI&T | Down 41.9% but AI beneficiary — growing 19.3% YoY (5 consecutive quarters of double-digit organic growth). 2026 guide 12-16%. | 2026-04-26 |
+| PYPL | PayPal | Down 34.6% but decline from Apple Pay/Stripe/Shop Pay competition and eBay transition, not AI. Payments competition predates ChatGPT. | 2026-04-26 |
+| RMAX | RE/MAX | Down 58.2% but decline from high mortgage rates, low transaction volumes, agent defections to Compass/eXp. Housing market story, not AI. | 2026-04-26 |
+| CCRN | Cross Country Healthcare | Down 71.5% but post-COVID travel nursing normalization + failed Aya merger + $77.9M goodwill impairment. Not AI-related. | 2026-04-26 |

@@ -21,6 +21,13 @@
 - Freelance Marketplaces (3): FVRR, UPWK, FLN.AX
 - Education (3): CHGG, COUR, NRDY
 
+## Session Log: 2026-04-26 (zero-find session)
+- **Added:** None. At 80 companies, qualifying candidates are very scarce.
+- **Evaluated (full research):** PUBM (AI tailwind not disruption, AgenticOS), CCSI (-51.8% but transitioning to AI not disrupted by it), PLTK (-56% but mobile gaming maturity not AI), BLKB (-35.8% but SaaSpocalypse sentiment, fundamentals improving), CINT (-41.9% but growing 19% YoY, AI beneficiary), DHX (-50.5%, re-evaluated, still weak AI angle)
+- **Batch screened 50+ tickers including:** SNAP (-42.5%, TikTok competition not AI), PYPL (-34.6%, fintech competition not AI), RMAX (-58.2%, housing market not AI), CCRN (-71.5%, post-COVID travel nursing not AI), NCNO (-29.2%, modest), plus MDB (+78%), TWLO (+214%), SHOP (+239%), DUOL (+55%), INTU (+6.9%), EXPE (+148%), ZS (+0.5%), ADSK (+21.7%), PINS (-17%), DBX (+6.6%), SFIX (+0.8%), many delisted (DNB, ENV, ZI, PRFT, STER, HSON, OB)
+- **Search approaches used:** 5 of 5 (leads from memory, fresh sector screening across real estate/gaming/fintech/nonprofit SaaS/healthcare staffing/European IT, SaaSpocalypse victim research via CNBC/Insider Monkey/Capwolf, failed candidate re-evaluation, targeted web searches for new AI disruption victims)
+- **Key observation:** At 80 companies, the list is genuinely comprehensive. Most remaining large stock declines are NOT primarily AI-driven. The gap between "stock is down" and "stock is down because of AI" is the binding constraint. Borderline candidates like NCNO (-29.2% banking SaaS), CRTO (-27.1% ad retargeting) exist but either the decline is too modest or the AI angle is secondary. Many previously borderline leads (DOCU, DUOL, INTU) have recovered or stayed above pre-ChatGPT. Many more companies have been acquired/delisted (DNB, ENV, ZI, HSON, STER, PRFT).
+
 ## Session Log: 2026-04-25
 - **Added:** VERI (Veritone Inc) - Software & SaaS / Enterprise AI Platform. Pre-ChatGPT $5.60, now $2.23 (-60.2%). Enterprise AI platform (aiWARE) commoditized by foundation models from OpenAI/Anthropic/Google — same "AI company destroyed by better AI" pattern as C3.ai and LivePerson. Revenue collapsed ~30% ($133M → $93M), going concern warning, $45.6M convertible notes maturing Nov 2026 vs $43M cash. Was top lead from prior session.
 - **Evaluations used:** 1 of 15 (VERI)
