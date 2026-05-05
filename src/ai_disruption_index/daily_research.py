@@ -11,10 +11,10 @@ import re
 from datetime import date
 from pathlib import Path
 
-from company_data import category_distribution, read_companies, read_typed_companies
-from update_prices import fetch_prices
+from .company_data import category_distribution, read_companies, read_typed_companies
+from .update_prices import fetch_prices
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).resolve().parents[2]
 LEADS_PATH = ROOT / "leads.md"
 MEMORY_PATH = ROOT / "MEMORY.md"
 FAILED_PATH = ROOT / "failed-candidates.md"
@@ -88,7 +88,7 @@ def build_brief(include_prices=False):
             "2. Evaluate one candidate at a time with current web evidence and yfinance prices.",
             "3. Stop at 15 candidate evaluations, 5 search approaches, or after the configured failure pattern.",
             "4. Only append a company after checking duplicate ticker and likely duplicate name.",
-            "5. Run `uv run python validate_csv.py` and `uv run pytest` after code/data changes.",
+            "5. Run `uv run ai-index-validate` and `uv run pytest` after code/data changes.",
             "6. Update MEMORY.md, failed-candidates.md, search-strategies.md, and leads.md before committing.",
             "",
             "## Files To Read First",

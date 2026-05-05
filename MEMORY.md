@@ -27,6 +27,11 @@
 - **Automation:** GitHub Actions now runs on a weekday post-market schedule in addition to push/manual triggers, so price refresh + deploy can happen daily without an LLM session.
 - **Observation:** Current CSV contains 79 companies, not 80 as this memory file previously stated. Research & Analytics has 9 entries.
 
+## Session Log: 2026-05-05 (Codex-only repo cleanup)
+- **Added:** No companies. Reorganized Python implementation into `src/ai_disruption_index/`, moved tests into `tests/`, and added `ai-index-*` CLI scripts.
+- **Deleted:** Legacy Claude support files and tracked assistant hook configs. `.claude/` and `.codex/` are now ignored local-only folders.
+- **Automation:** GitHub Actions now calls package scripts and watches `src/**`, `tests/**`, `pyproject.toml`, and `uv.lock`. The lockfile is tracked for reproducible installs.
+
 ## Session Log: 2026-04-26 (zero-find session)
 - **Added:** None. At 80 companies, qualifying candidates are very scarce.
 - **Evaluated (full research):** PUBM (AI tailwind not disruption, AgenticOS), CCSI (-51.8% but transitioning to AI not disrupted by it), PLTK (-56% but mobile gaming maturity not AI), BLKB (-35.8% but SaaSpocalypse sentiment, fundamentals improving), CINT (-41.9% but growing 19% YoY, AI beneficiary), DHX (-50.5%, re-evaluated, still weak AI angle)

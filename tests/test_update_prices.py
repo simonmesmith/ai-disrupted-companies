@@ -1,14 +1,17 @@
 """Tests for update_prices.py."""
 
-import csv
-import tempfile
-from pathlib import Path
 from unittest.mock import patch
 
 import pandas as pd
 import pytest
 
-from update_prices import fetch_prices, parse_price, read_companies, update_rows, write_companies
+from ai_disruption_index.update_prices import (
+    fetch_prices,
+    parse_price,
+    read_companies,
+    update_rows,
+    write_companies,
+)
 
 SAMPLE_CSV = """ticker,name,category,subcategory,description,disruption,price_prechatgpt,price_now,change_percentage
 CHGG,Chegg Inc,Education,EdTech,desc,disruption,$28.11,$0.45,-0.9839914621
@@ -118,14 +121,14 @@ class TestFetchPrices:
     def test_empty_tickers(self):
         assert fetch_prices([]) == {}
 
-    @patch("update_prices.yf.download")
+    @patch("ai_disruption_index.update_prices.yf.download")
     def test_single_ticker(self, mock_download):
         df = pd.DataFrame({"Close": [42.50]}, index=pd.DatetimeIndex(["2026-03-20"]))
         mock_download.return_value = df
         result = fetch_prices(["CHGG"])
         assert result == {"CHGG": 42.50}
 
-    @patch("update_prices.yf.download")
+    @patch("ai_disruption_index.update_prices.yf.download")
     def test_multiple_tickers(self, mock_download):
         arrays = [["Close", "Close"], ["CHGG", "EPAM"]]
         tuples = list(zip(*arrays))
@@ -136,7 +139,7 @@ class TestFetchPrices:
         assert result["CHGG"] == pytest.approx(0.50)
         assert result["EPAM"] == pytest.approx(140.00)
 
-    @patch("update_prices.yf.download")
+    @patch("ai_disruption_index.update_prices.yf.download")
     def test_empty_download(self, mock_download):
         mock_download.return_value = pd.DataFrame()
         result = fetch_prices(["FAKE"])

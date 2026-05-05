@@ -8,9 +8,11 @@ on:
     branches: [main]
     paths:
       - companies.csv
-      - generate_page.py
-      - generate_og_image.py
+      - src/**
+      - tests/**
       - template.html
+      - pyproject.toml
+      - uv.lock
   workflow_dispatch:
 
 permissions:
@@ -29,8 +31,8 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
-      - name: Validate CSV (no duplicate tickers)
-        run: uv run python validate_csv.py
+      - name: Validate CSV
+        run: uv run ai-index-validate
 
   update-prices:
     needs: validate-csv
@@ -44,7 +46,7 @@ jobs:
         run: uv sync
 
       - name: Update prices
-        run: uv run python update_prices.py
+        run: uv run ai-index-update-prices
 
       - name: Commit and push updated prices
         run: |
@@ -77,7 +79,7 @@ jobs:
         run: git pull origin main
 
       - name: Generate page
-        run: uv run python generate_page.py
+        run: uv run ai-index-generate-page
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4

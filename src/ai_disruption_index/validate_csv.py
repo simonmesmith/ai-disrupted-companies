@@ -3,7 +3,7 @@
 
 import sys
 
-from company_data import (
+from .company_data import (
     CSV_PATH,
     FIELDNAMES,
     normalize_name,
@@ -72,8 +72,9 @@ def validate(path=CSV_PATH):
 
         expected_change = (current_price - pre_price) / pre_price
         # Current prices are stored to two decimals, while yfinance-derived
-        # change percentages may have been calculated from more precise prices.
-        if abs(change - expected_change) > 0.01:
+        # change percentages may have been calculated from the unrounded close.
+        rounding_tolerance = max(0.001, 0.005 / pre_price)
+        if abs(change - expected_change) > rounding_tolerance:
             errors.append(
                 f"Row {i} change_percentage {change} does not match prices "
                 f"({expected_change})"

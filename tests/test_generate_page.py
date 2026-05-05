@@ -3,7 +3,7 @@
 import json
 import pytest
 
-from generate_page import (
+from ai_disruption_index.generate_page import (
     build_payload,
     compute_group_stats,
     compute_index,
@@ -67,7 +67,7 @@ class TestParsePrice:
 
 class TestReadCompanies:
     def test_reads_and_parses(self, csv_path, monkeypatch):
-        monkeypatch.setattr("generate_page.CSV_PATH", csv_path)
+        monkeypatch.setattr("ai_disruption_index.generate_page.CSV_PATH", csv_path)
         companies = read_companies()
         assert len(companies) == 3
         assert companies[0]["ticker"] == "CHGG"
@@ -172,7 +172,7 @@ class TestGenerateHtml:
         template.write_text("<html><script>const DATA = {{ DATA_JSON }};</script></html>")
         payload = {"test": "value", "num": 42, "index_value": 0.35, "company_count": 3}
 
-        import generate_page
+        from ai_disruption_index import generate_page
         orig = generate_page.TEMPLATE_PATH
         generate_page.TEMPLATE_PATH = template
         try:
@@ -194,7 +194,7 @@ class TestGenerateHtml:
         template.write_text(self.TEMPLATE_WITH_META)
         payload = {"index_value": 0.42, "company_count": 10}
 
-        import generate_page
+        from ai_disruption_index import generate_page
         orig = generate_page.TEMPLATE_PATH
         generate_page.TEMPLATE_PATH = template
         try:
@@ -212,7 +212,7 @@ class TestGenerateHtml:
         template.write_text(self.TEMPLATE_WITH_META)
         payload = {"index_value": 0.35, "company_count": 47}
 
-        import generate_page
+        from ai_disruption_index import generate_page
         orig = generate_page.TEMPLATE_PATH
         generate_page.TEMPLATE_PATH = template
         try:
@@ -228,7 +228,7 @@ class TestGenerateHtml:
         template.write_text(self.TEMPLATE_WITH_META)
         payload = {"index_value": 0.50, "company_count": 20}
 
-        import generate_page
+        from ai_disruption_index import generate_page
         orig = generate_page.TEMPLATE_PATH
         generate_page.TEMPLATE_PATH = template
         try:

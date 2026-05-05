@@ -32,15 +32,15 @@ Requires [uv](https://docs.astral.sh/uv/):
 ```bash
 uv sync --all-extras
 uv run pytest
-uv run python update_prices.py
-uv run python generate_page.py
+uv run ai-index-update-prices
+uv run ai-index-generate-page
 ```
 
 For the daily Codex research loop:
 
 ```bash
-uv run python daily_research.py          # deterministic brief from CSV + memory
-uv run python daily_research.py --prices # also checks latest yfinance prices for leads
+uv run ai-index-daily-brief          # deterministic brief from CSV + memory
+uv run ai-index-daily-brief --prices # also checks latest yfinance prices for leads
 ```
 
 The daily GitHub Action handles price refresh and deployment. Use Codex for the LLM-heavy part: researching one candidate at a time, proving the AI disruption thesis, and updating `companies.csv` plus the memory files when a candidate qualifies.

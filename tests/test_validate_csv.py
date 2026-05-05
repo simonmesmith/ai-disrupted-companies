@@ -1,6 +1,10 @@
 """Tests for validate_csv.py."""
 
-from validate_csv import find_duplicate_names, find_duplicate_tickers, validate
+from ai_disruption_index.validate_csv import (
+    find_duplicate_names,
+    find_duplicate_tickers,
+    validate,
+)
 
 CLEAN_CSV = """\
 ticker,name,category,subcategory,description,disruption,price_prechatgpt,price_now,change_percentage

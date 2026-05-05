@@ -5,7 +5,7 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).resolve().parents[2]
 OUTPUT_PATH = ROOT / "docs" / "og-image.png"
 
 # Image dimensions (standard OG image size)

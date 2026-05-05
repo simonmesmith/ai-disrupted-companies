@@ -6,7 +6,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from company_data import (
+from .company_data import (
     CSV_PATH,
     compute_group_stats,
     compute_index,
@@ -14,7 +14,7 @@ from company_data import (
     read_typed_companies,
 )
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).resolve().parents[2]
 TEMPLATE_PATH = ROOT / "template.html"
 OUTPUT_PATH = ROOT / "docs" / "index.html"
 
@@ -113,7 +113,7 @@ def main():
     OUTPUT_PATH.write_text(html)
     print(f"Wrote {OUTPUT_PATH} ({len(html):,} bytes)")
 
-    from generate_og_image import generate as generate_og_image
+    from .generate_og_image import generate as generate_og_image
 
     generate_og_image(payload)
 

@@ -6,7 +6,7 @@ import re
 import statistics
 from pathlib import Path
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).resolve().parents[2]
 CSV_PATH = ROOT / "companies.csv"
 
 FIELDNAMES = [

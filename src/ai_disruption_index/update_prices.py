@@ -3,7 +3,7 @@
 
 import yfinance as yf
 
-from company_data import CSV_PATH, parse_price, read_companies, write_companies
+from .company_data import CSV_PATH, parse_price, read_companies, write_companies
 
 
 def fetch_prices(tickers):

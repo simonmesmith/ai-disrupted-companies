@@ -32,7 +32,7 @@ This repo tracks publicly traded companies whose stock price has fallen below it
 
 ### Step 3: Add qualifying companies
 - **Before adding any company, check for duplicate tickers.** Read `companies.csv` and verify the ticker does not already exist (case-insensitive). Also verify the company name is not already listed under a different ticker (e.g., different exchange). Never add a ticker that is already in the CSV.
-- Run `uv run python validate_csv.py` after editing to confirm no duplicates were introduced.
+- Run `uv run ai-index-validate` after editing to confirm no duplicates were introduced.
 - Append to `companies.csv` with all fields (see CSV schema below).
 - Commit and push. GitHub Actions handles price updates and site deployment automatically.
 
@@ -43,7 +43,7 @@ This repo tracks publicly traded companies whose stock price has fallen below it
 - Move any unevaluated promising candidates to `leads.md`.
 - If you hit a limit and stopped early, note that so the next session knows to continue.
 
-Do not run `update_prices.py` or `generate_page.py` manually unless explicitly asked — the automation handles it.
+Do not run `ai-index-update-prices` or `ai-index-generate-page` manually unless explicitly asked — the automation handles it.
 
 ---
 
@@ -59,25 +59,21 @@ All Python commands should use `uv run` to ensure the venv is active:
 
 ```bash
 uv run pytest
-uv run python update_prices.py
-uv run python generate_page.py
-uv run python daily_research.py
+uv run ai-index-update-prices
+uv run ai-index-generate-page
+uv run ai-index-daily-brief
 ```
 
 ## Folder Structure
 
 ```
 ├── companies.csv              # Master list (source of truth)
-├── company_data.py            # Shared CSV schema, parsing, and aggregate helpers
-├── update_prices.py           # Bulk price updater (yfinance)
-├── test_update_prices.py      # Tests for price updater
-├── generate_page.py           # Static site generator
-├── test_generate_page.py      # Tests for page generator
-├── daily_research.py          # Deterministic Codex daily research brief
+├── src/ai_disruption_index/   # Python package for data, validation, price updates, and site generation
+├── tests/                     # Pytest suite
 ├── template.html              # HTML/CSS/JS template for the site
-├── pyproject.toml             # Python dependencies (uv)
+├── pyproject.toml             # Python dependencies and CLI scripts
+├── uv.lock                    # Locked dependency graph for reproducible runs
 ├── AGENTS.md                  # Codex instructions
-├── CLAUDE.md                  # Legacy pointer for Claude users
 ├── README.md                  # Public-facing project description
 ├── docs/                      # GitHub Pages output (index.html is generated, not committed)
 └── .github/workflows/         # GitHub Actions: price updates + site deployment
@@ -142,7 +138,7 @@ current_price = stock.history(period='1d')['Close'].iloc[-1]
 
 ### Gotchas
 
-- **DUPLICATE TICKERS** — Before adding ANY company, search `companies.csv` for the ticker (case-insensitive) AND the company name. A company may already be listed under a different ticker variant (e.g., different exchange suffix). If it's already there, skip it. Run `uv run python validate_csv.py` after every edit to catch duplicates. CI will block pushes with duplicate tickers.
+- **DUPLICATE TICKERS** — Before adding ANY company, search `companies.csv` for the ticker (case-insensitive) AND the company name. A company may already be listed under a different ticker variant (e.g., different exchange suffix). If it's already there, skip it. Run `uv run ai-index-validate` after every edit to catch duplicates. CI will block pushes with duplicate tickers.
 - **Reverse stock splits** distort yfinance's adjusted data (e.g., LivePerson had a 1:15 split). Always check.
 - **Delisted/acquired tickers** — verify the ticker is still active (e.g., ZoomInfo went private, Perficient was acquired).
 - **CSV format** — standard comma-delimited with double-quoted fields containing commas. Use the Edit tool to append rows.
@@ -217,7 +213,7 @@ At the **end** of every company search session (whether successful or not), upda
 
 ### GitHub Actions (`.github/workflows/update-and-generate.yml`)
 
-Triggered on push to `main` when `companies.csv`, `generate_page.py`, `generate_og_image.py`, or `template.html` change.
+Triggered on push to `main` when `companies.csv`, `src/**`, `tests/**`, `template.html`, `pyproject.toml`, or `uv.lock` change.
 
 Also triggered on a weekday schedule after US market close so the published index can refresh daily even when no new company is added.
 
@@ -233,8 +229,8 @@ The site is deployed using the GitHub Pages action (not served from a committed 
 ### Running Locally
 
 ```bash
-uv run python update_prices.py     # Refresh prices
-uv run python generate_page.py     # Generate docs/index.html locally
-uv run python daily_research.py    # Prepare deterministic Codex research brief
+uv run ai-index-update-prices      # Refresh prices
+uv run ai-index-generate-page      # Generate docs/index.html locally
+uv run ai-index-daily-brief        # Prepare deterministic Codex research brief
 uv run pytest                       # Run all tests
 ```

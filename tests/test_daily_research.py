@@ -1,6 +1,6 @@
 """Tests for daily_research.py."""
 
-from daily_research import extract_leads
+from ai_disruption_index.daily_research import extract_leads
 
 
 def test_extract_leads(tmp_path):
