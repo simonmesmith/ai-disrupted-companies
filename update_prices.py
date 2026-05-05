@@ -1,25 +1,9 @@
 #!/usr/bin/env python3
 """Update price_now and change_percentage for all companies in companies.csv."""
 
-import csv
-import sys
-from pathlib import Path
-
 import yfinance as yf
 
-CSV_PATH = Path(__file__).parent / "companies.csv"
-
-
-def parse_price(s):
-    """Parse a price string, stripping $, commas, and whitespace."""
-    return float(s.replace("$", "").replace(",", "").strip())
-
-
-def read_companies(path=CSV_PATH):
-    """Read companies.csv and return (fieldnames, rows)."""
-    with open(path, newline="") as f:
-        reader = csv.DictReader(f)
-        return reader.fieldnames, list(reader)
+from company_data import CSV_PATH, parse_price, read_companies, write_companies
 
 
 def fetch_prices(tickers):
@@ -57,22 +41,14 @@ def update_rows(rows, prices):
         old_price = row["price_now"]
         new_price = prices[ticker]
         pre_price = parse_price(row["price_prechatgpt"])
+        if pre_price <= 0:
+            print(f"  WARNING: Invalid pre-ChatGPT price for {ticker}, keeping old value")
+            continue
         change_pct = (new_price - pre_price) / pre_price
         row["price_now"] = f"{new_price:.2f}"
         row["change_percentage"] = str(change_pct)
         changes.append((ticker, old_price, row["price_now"]))
     return changes
-
-
-def write_companies(fieldnames, rows, path=CSV_PATH):
-    """Write rows back to companies.csv."""
-    with open(path, "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames, quoting=csv.QUOTE_MINIMAL)
-        writer.writeheader()
-        writer.writerows(rows)
-    # Ensure trailing newline
-    with open(path, "a") as f:
-        pass
 
 
 def main():

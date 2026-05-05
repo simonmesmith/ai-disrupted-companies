@@ -1,6 +1,9 @@
 name: Update prices and deploy page
 
 on:
+  schedule:
+    # Weekdays after US market close; yfinance will use the latest available close.
+    - cron: "20 23 * * 1-5"
   push:
     branches: [main]
     paths:

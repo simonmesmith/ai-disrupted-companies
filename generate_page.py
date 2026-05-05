@@ -1,57 +1,27 @@
 #!/usr/bin/env python3
 """Generate docs/index.html from companies.csv and template.html."""
 
-import csv
 import html
 import json
-import statistics
 from datetime import datetime, timezone
 from pathlib import Path
 
+from company_data import (
+    CSV_PATH,
+    compute_group_stats,
+    compute_index,
+    parse_price,
+    read_typed_companies,
+)
+
 ROOT = Path(__file__).parent
-CSV_PATH = ROOT / "companies.csv"
 TEMPLATE_PATH = ROOT / "template.html"
 OUTPUT_PATH = ROOT / "docs" / "index.html"
 
 
-def parse_price(s):
-    """Parse a price string, stripping $, commas, and whitespace."""
-    return float(s.replace("$", "").replace(",", "").strip())
-
-
 def read_companies():
     """Read companies.csv and return list of dicts with numeric fields parsed."""
-    with open(CSV_PATH, newline="") as f:
-        rows = list(csv.DictReader(f))
-    for row in rows:
-        row["price_prechatgpt"] = parse_price(row["price_prechatgpt"])
-        row["price_now"] = parse_price(row["price_now"])
-        row["change_percentage"] = float(row["change_percentage"])
-    return rows
-
-
-def compute_index(companies):
-    """Compute equal-weighted index value: mean of (price_now / price_prechatgpt)."""
-    ratios = [c["price_now"] / c["price_prechatgpt"] for c in companies]
-    return statistics.mean(ratios)
-
-
-def compute_group_stats(companies, key):
-    """Compute aggregate stats grouped by a field (category or subcategory)."""
-    groups = {}
-    for c in companies:
-        name = c[key]
-        if name not in groups:
-            groups[name] = []
-        groups[name].append(c["change_percentage"])
-    return [
-        {
-            "name": name,
-            "count": len(changes),
-            "avg_change": statistics.mean(changes),
-        }
-        for name, changes in groups.items()
-    ]
+    return read_typed_companies(CSV_PATH)
 
 
 def build_payload(companies):
