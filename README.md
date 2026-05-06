@@ -39,8 +39,12 @@ uv run ai-index-generate-page
 For the daily Codex research loop:
 
 ```bash
+git status --short --branch
+git pull --rebase origin main       # sync before reading CSV/memory
 uv run ai-index-daily-brief          # deterministic brief from CSV + memory
 uv run ai-index-daily-brief --prices # also checks latest yfinance prices for leads
 ```
 
 The daily GitHub Action handles price refresh and deployment. Use Codex for the LLM-heavy part: researching one candidate at a time, proving the AI disruption thesis, and updating `companies.csv` plus the memory files when a candidate qualifies.
+
+Before pushing a Codex research commit, run `git pull --rebase origin main` again. The scheduled price-refresh workflow can commit while research is in progress; if `companies.csv` conflicts, keep the remote refreshed existing rows and reapply only the new company row.

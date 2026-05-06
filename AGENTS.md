@@ -6,11 +6,34 @@
 
 Always commit and push to the **`main`** branch. Never use `master`.
 
+Before starting any research, edits, or price checks, sync the local workspace:
+
+```bash
+git status --short --branch
+git pull --rebase origin main
+```
+
+If the worktree is dirty before you begin, inspect the changes and avoid overwriting them. If the dirty changes are unrelated and already committed work is not required, stop and report the blocker rather than researching against stale files.
+
+Before pushing your final commit, sync again because the daily GitHub Action may have committed refreshed prices while you were working:
+
+```bash
+git pull --rebase origin main
+git push origin main
+```
+
+If the final rebase conflicts in `companies.csv`, prefer the remote version for existing rows because it likely contains newer automated prices, then reapply only your intended new company row and memory-file changes. Re-run validation and tests after resolving the rebase.
+
 ## What This Project Does
 
 This repo tracks publicly traded companies whose stock price has fallen below its November 29, 2022 close (the day before ChatGPT launched) because AI is disrupting their core business. The master list lives in `companies.csv`. An interactive dashboard is deployed automatically via GitHub Pages.
 
 ## When Asked to Find a New Company
+
+### Step 0: Sync `main`
+1. Run `git status --short --branch`.
+2. Run `git pull --rebase origin main` before reading `companies.csv` or memory files.
+3. Confirm the branch is `main` and aligned with `origin/main`.
 
 ### Step 1: Prepare (read memory + CSV)
 1. Read `companies.csv` to see what's currently covered.
@@ -34,7 +57,8 @@ This repo tracks publicly traded companies whose stock price has fallen below it
 - **Before adding any company, check for duplicate tickers.** Read `companies.csv` and verify the ticker does not already exist (case-insensitive). Also verify the company name is not already listed under a different ticker (e.g., different exchange). Never add a ticker that is already in the CSV.
 - Run `uv run ai-index-validate` after editing to confirm no duplicates were introduced.
 - Append to `companies.csv` with all fields (see CSV schema below).
-- Commit and push. GitHub Actions handles price updates and site deployment automatically.
+- Commit, then run `git pull --rebase origin main` before pushing. If remote price updates conflict with your local `companies.csv`, keep the remote refreshed existing rows and reapply only the new company row.
+- Push to `origin main`. GitHub Actions handles price updates and site deployment automatically.
 
 ### Step 4: Update memory
 - Update `MEMORY.md` with new company count and category distribution.
@@ -43,7 +67,7 @@ This repo tracks publicly traded companies whose stock price has fallen below it
 - Move any unevaluated promising candidates to `leads.md`.
 - If you hit a limit and stopped early, note that so the next session knows to continue.
 
-Do not run `ai-index-update-prices` or `ai-index-generate-page` manually unless explicitly asked — the automation handles it.
+Do not run `ai-index-update-prices` or `ai-index-generate-page` manually unless explicitly asked — the automation handles it. If explicitly asked to run `ai-index-update-prices`, expect a higher chance of a later rebase conflict with the scheduled price-refresh workflow and use the conflict rule above.
 
 ---
 
