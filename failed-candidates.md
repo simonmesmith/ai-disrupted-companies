@@ -112,3 +112,9 @@
 | PYPL | PayPal | Down 34.6% but decline from Apple Pay/Stripe/Shop Pay competition and eBay transition, not AI. Payments competition predates ChatGPT. | 2026-04-26 |
 | RMAX | RE/MAX | Down 58.2% but decline from high mortgage rates, low transaction volumes, agent defections to Compass/eXp. Housing market story, not AI. | 2026-04-26 |
 | CCRN | Cross Country Healthcare | Down 71.5% but post-COVID travel nursing normalization + failed Aya merger + $77.9M goodwill impairment. Not AI-related. | 2026-04-26 |
+| TRI | Thomson Reuters | Down ~21.6% from pre-ChatGPT on 2026-05-06, still too modest despite Claude Cowork/legal AI catalyst. Monitor only if decline deepens materially. | 2026-05-06 |
+| DOCU | DocuSign | Still above pre-ChatGPT (+4.7%). Plausible e-signature commoditization thesis, but price does not qualify. | 2026-05-06 |
+| NCNO | nCino | Down ~29.9% but not AI-disrupted: FY2026 ACV +17%, net retention 112%, record bookings, and management says demand for AI banking capabilities is accelerating. | 2026-05-06 |
+| SFIX | Stitch Fix | Down only ~4.1% from pre-ChatGPT. AI styling thesis plausible but decline far too modest. | 2026-05-06 |
+| CRTO | Criteo | Down ~36.2%, but decline is tied to retail-media client scope reductions, ad-spend pressure, and margin/capex concerns; company is an AI/OpenAI ad integration partner rather than primarily disrupted by AI. | 2026-05-06 |
+| DUOL | Duolingo | Still far above pre-ChatGPT (+57.4%) despite 2026 selloff. Does not qualify. | 2026-05-06 |

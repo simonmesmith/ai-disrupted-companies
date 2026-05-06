@@ -1,16 +1,14 @@
 # Leads for Next Session
 
-## Promising Candidates to Evaluate
-- **TRI (Thomson Reuters)** - Down 16.9% from pre-ChatGPT. Monitor if decline deepens past 25-30%. Repeatedly borderline. Anthropic Claude Cowork launch caused 15.83% single-day drop.
-- **DOCU (DocuSign)** - At +3.7% from pre-ChatGPT. Citi downgraded April 2026. Monitor weekly — could cross below.
-- **NCNO (nCino)** - Down 29.2% from pre-ChatGPT. Banking SaaS (loan origination, account opening). AI could automate underwriting/document review. Needs deeper research into whether AI is genuinely displacing nCino or just SaaSpocalypse sentiment.
-- **SFIX (Stitch Fix)** - At +0.8% from pre-ChatGPT. AI styling recommendations could disrupt human stylist model. Monitor if it crosses below.
-- **CRTO (Criteo)** - Down 27.1%. Ad retargeting disrupted by Google Performance Max / Meta Advantage+ AI targeting. Modest decline.
-- **DUOL (Duolingo)** - Still +55.4% above pre-ChatGPT despite being down 42% in 2026. Not close to qualifying yet.
-- **Legal & Tax thin category** - still only 3 companies. No new candidates found. Most legal/tax companies are either private, acquired, or above pre-ChatGPT.
+## Promising Candidates to Monitor
+- **TRI (Thomson Reuters)** — Down ~21.6% from pre-ChatGPT on 2026-05-06, still too modest. Monitor if it deepens past ~30%; Anthropic Claude Cowork caused a prior 15.83% single-day drop.
+- **DOCU (DocuSign)** — Still above pre-ChatGPT (+4.7% on 2026-05-06). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
+- **SFIX (Stitch Fix)** — Slightly below pre-ChatGPT (-4.1% on 2026-05-06), but decline is too modest. AI styling could threaten the human stylist model if fundamentals deteriorate further.
+- **Legal & Tax thin category** — Still only 3 companies. No new candidate found; most legal/tax companies are private, acquired, or above pre-ChatGPT.
 - **Re-evaluate failed candidates periodically** — APX.AX pattern from Apr 24 shows borderline candidates can qualify as prices drop further.
 
 ## Notes
-- Many leads from prior sessions have been consumed or are stale: PUBM evaluated (AI tailwind), SPSC evaluated (Amazon/downsells), VERI added (Apr 25)
-- Many companies have been acquired/delisted since last checked: DNB, ENV, ZI, HSON, STER, PRFT, OB, RDFN, SWI
-- At 80 companies, finding new qualifying candidates is the hardest it's been. The binding constraint is proving AI is the PRIMARY cause of decline, not just a factor.
+- **NCNO** and **CRTO** were evaluated on 2026-05-06 and moved to failed candidates; do not retry soon unless fundamentals or the AI thesis changes materially.
+- **DUOL** remains far above pre-ChatGPT despite education disruption concerns.
+- **TEP.PA** was added from the international BPO/contact-center peer angle; that cluster is now saturated.
+- At 80 companies, proving AI as the primary cause remains the binding constraint.
