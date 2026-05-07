@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 80 (as of 2026-05-06)
-- **Last updated:** 2026-05-06
+- **Company count:** 81 (as of 2026-05-07)
+- **Last updated:** 2026-05-07
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Software & SaaS | 22 |
-| Business Services | 21 |
+| Business Services | 22 |
 | Content & Media | 13 |
 | Research & Analytics | 9 |
 | Marketing & Advertising | 6 |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-07
+- **Added:** HAS.L (Hays plc) — Business Services / Staffing & Recruitment. Pre-ChatGPT 118.10p, current 35.08p (-70.3%). UK-listed global specialist recruiter exposed to AI automation of white-collar hiring, resume screening, candidate ranking, initial interviews, and client in-housing of matching workflows. Bloomberg/Los Angeles Times coverage explicitly tied AI automation to staffing-industry pressure and singled out Hays's white-collar exposure; Hays's own 2026 salary guide shows AI adoption reducing hiring needs through role replacement and upskilling over new hiring.
+- **Rejected from leads:** TRI (-20.5%, too modest), DOCU (+9.9%, above pre-ChatGPT), SFIX (-4.8%, too modest), DUOL (+64.8%, far above pre-ChatGPT). DND.TO (Dye & Durham) was price-qualified (-77.4%) and yfinance-compatible but rejected because current company/earnings sources point to market softness, customer turnover, debt/governance strain, and legal-software transformation rather than AI as the primary disruption cause.
+- **Search approaches used:** 2 of 5 (lead re-checks; thin Legal & Tax via DND.TO; then international staffing peers where HAS.L qualified).
+- **Observation:** The leads still mostly fail on price. Legal software remains a thin but difficult category because the public names either already exist, trade above pre-ChatGPT, or have non-AI primary causes. International staffing peers remain a viable but increasingly saturated vein; use a high evidence bar and avoid adding every down recruiter unless AI automation is clearly tied to the business-model pressure.
 
 ## Session Log: 2026-05-06
 - **Added:** TEP.PA (Teleperformance SE) — Business Services / BPO / Contact Centers. Pre-ChatGPT EUR 214.00, current EUR 61.94 (-71.1%). French global customer experience/BPO leader with ~490,000 employees. Reuters/CNBC tied the 2024 share plunge directly to AI call-center automation fears after Klarna said its OpenAI-powered assistant handled two-thirds of service chats, equivalent to 700 full-time agents. Company previously said 20-30% of activities could be automated and is now pivoting to TP.ai FAB, 500+ AI projects, an AI-native CEO, and a Chief AI Officer.

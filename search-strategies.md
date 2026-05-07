@@ -111,6 +111,11 @@
 - **Rejected:** TRI (-21.6%, too modest), DOCU (+4.7%, above pre-ChatGPT), NCNO (-29.9% but AI beneficiary with ACV +17% and 112% net retention), SFIX (-4.1%, too modest), CRTO (-36.2% but client-scope/ad-spend issue and AI partnership), DUOL (+57.4%).
 - **Verdict:** International peers of proven disruption clusters can still work after broad searches look exhausted. The key was checking a non-US BPO giant not already represented, while avoiding a duplicate with unrelated TEP.L. BPO/contact centers are now saturated; future sessions should focus on thin categories or watchlist candidates crossing the price threshold.
 
+### 2026-05-07: Leads re-check + thin legal software + international staffing peers
+- **Result:** Found HAS.L (Hays plc, -70.3%) — UK global specialist recruiter exposed to AI automation of white-collar hiring and recruiting workflows. Bloomberg/Los Angeles Times coverage tied AI automation to staffing-industry pressure and specifically flagged Hays's white-collar exposure; Hays's own 2026 hiring guide shows AI adoption, role replacement, and upskilling-over-hiring trends that reduce placement volume.
+- **Rejected:** TRI (-20.5%, too modest), DOCU (+9.9%, above pre-ChatGPT), SFIX (-4.8%, too modest), DUOL (+64.8%, above pre-ChatGPT), DND.TO (-77.4% but primary cause is market softness/customer turnover/debt/governance rather than AI).
+- **Verdict:** Lead re-checks remain necessary but mostly fail on price. Legal & Tax is still thin, but Dye & Durham showed why price-qualified legal software names can still fail the primary-cause test. International staffing peers are a live but saturated vein; prioritize names where external analysts or company data connect AI automation to lower hiring/recruiting volumes, not just macro weakness.
+
 ## Untried / Ideas for Next Session
 - **Monitor DOCU and SFIX** — both barely above pre-ChatGPT (+3.7% and +0.8%). If they dip below, both have plausible AI disruption angles (e-signature commoditization; AI styling replacing human stylists).
 - **Monitor TRI (Thomson Reuters)** — at -16.9%, still too modest but the Anthropic Claude Cowork catalyst caused a 15.83% single-day crash. Could deepen.
@@ -118,3 +123,4 @@
 - **Re-evaluate failed candidates periodically** — prices continue to move. Check borderline candidates quarterly.
 - **New SaaS categories going through "SaaSpocalypse to structural decline" transition** — some stocks currently dismissed as "SaaSpocalypse sentiment" may turn out to have genuine structural AI disruption as time reveals fundamentals deteriorating (not just multiples compressing).
 - **International exchanges beyond LSE/Euronext/ASX** — TSX (Canadian), JSE (South African), and HKEX (Hong Kong) peers remain mostly unexplored; Euronext/BPO produced TEP.PA on 2026-05-06.
+- **European staffing peers** — PAGE.L, RWA.L, ADEN.SW, and RAND.AS are price-qualified or likely close, but the category is saturated. Evaluate only if there is strong evidence that AI automation, not just weak hiring macro, is driving the decline.

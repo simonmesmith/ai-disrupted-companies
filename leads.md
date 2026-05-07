@@ -11,4 +11,6 @@
 - **NCNO** and **CRTO** were evaluated on 2026-05-06 and moved to failed candidates; do not retry soon unless fundamentals or the AI thesis changes materially.
 - **DUOL** remains far above pre-ChatGPT despite education disruption concerns.
 - **TEP.PA** was added from the international BPO/contact-center peer angle; that cluster is now saturated.
-- At 80 companies, proving AI as the primary cause remains the binding constraint.
+- **HAS.L** was added from the international staffing peer angle on 2026-05-07; staffing/recruitment is now also saturated.
+- **European staffing peers:** PAGE.L, RWA.L, ADEN.SW, and RAND.AS have large price declines, but only evaluate if fresh evidence shows AI automation is a primary cause rather than weak hiring macro.
+- At 81 companies, proving AI as the primary cause remains the binding constraint.

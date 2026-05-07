@@ -118,3 +118,8 @@
 | SFIX | Stitch Fix | Down only ~4.1% from pre-ChatGPT. AI styling thesis plausible but decline far too modest. | 2026-05-06 |
 | CRTO | Criteo | Down ~36.2%, but decline is tied to retail-media client scope reductions, ad-spend pressure, and margin/capex concerns; company is an AI/OpenAI ad integration partner rather than primarily disrupted by AI. | 2026-05-06 |
 | DUOL | Duolingo | Still far above pre-ChatGPT (+57.4%) despite 2026 selloff. Does not qualify. | 2026-05-06 |
+| TRI | Thomson Reuters | Rechecked after sync: down ~20.5% from pre-ChatGPT, still too modest despite legal AI catalyst. | 2026-05-07 |
+| DOCU | DocuSign | Rechecked after sync: up ~9.9% from pre-ChatGPT, so price does not qualify. | 2026-05-07 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~4.8% from pre-ChatGPT, far too modest. | 2026-05-07 |
+| DUOL | Duolingo | Rechecked after sync: up ~64.8% from pre-ChatGPT, so price does not qualify. | 2026-05-07 |
+| DND.TO | Dye & Durham | Price qualifies (-77.4%) and ticker is active, but rejected because current evidence points to market softness, customer turnover, debt/governance strain, and legal software transformation rather than AI as the primary cause. | 2026-05-07 |
