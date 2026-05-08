@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 81 (as of 2026-05-07)
-- **Last updated:** 2026-05-07
+- **Company count:** 82 (as of 2026-05-08)
+- **Last updated:** 2026-05-08
 
 ## Category Distribution
 | Category | Count |
@@ -11,7 +11,7 @@
 | Business Services | 22 |
 | Content & Media | 13 |
 | Research & Analytics | 9 |
-| Marketing & Advertising | 6 |
+| Marketing & Advertising | 7 |
 | Education | 3 |
 | Freelance Marketplaces | 3 |
 | Legal & Tax | 3 |
@@ -25,6 +25,11 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-08
+- **Added:** SFOR.L (S4 Capital plc) — Marketing & Advertising / Ad Services / Agencies. Pre-ChatGPT 192.20p, current 44.75p (-76.7%). Digital advertising agency group whose 2025 annual report shows revenue down 11.0% and net revenue down 10.8%, while explicitly citing technology-client priorities shifting toward AI capex rather than marketing. MediaPost reported continued client caution and tech clients focused on AI developments instead of marketing budgets; Q1 2026 net revenue fell another 8.9% reported / 5.0% like-for-like. Martin Sorrell described agentic AI as fundamentally challenging the agency model, with strategic and creative work under attack and fewer people needed as automation accelerates.
+- **Rejected / skipped:** TRI (-22.3%, too modest), DOCU (+5.7%, above pre-ChatGPT), SFIX (-8.5%, too modest), DUOL (+61.3%, above pre-ChatGPT), NOTE (price collapse but 1:12 reverse split and company frames AI as its product/infrastructure pivot rather than primary disruption), IAC (+8.9%), GCI (delisted/no yfinance data), NYT (+128.1%), SCHL (-2.1%), FRSH/ASAN/CXM/SSTK already present in CSV.
+- **Observation:** The escalated initial sync fast-forwarded the repo and revealed that upstream had already added several candidates that broad screening would otherwise have duplicated. The successful angle was not another staffing peer but a digital advertising agency where AI is both pulling client budgets away from marketing services and automating the agency labor stack.
 
 ## Session Log: 2026-05-07
 - **Added:** HAS.L (Hays plc) — Business Services / Staffing & Recruitment. Pre-ChatGPT 118.10p, current 35.08p (-70.3%). UK-listed global specialist recruiter exposed to AI automation of white-collar hiring, resume screening, candidate ranking, initial interviews, and client in-housing of matching workflows. Bloomberg/Los Angeles Times coverage explicitly tied AI automation to staffing-industry pressure and singled out Hays's white-collar exposure; Hays's own 2026 salary guide shows AI adoption reducing hiring needs through role replacement and upskilling over new hiring.

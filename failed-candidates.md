@@ -123,3 +123,12 @@
 | SFIX | Stitch Fix | Rechecked after sync: down only ~4.8% from pre-ChatGPT, far too modest. | 2026-05-07 |
 | DUOL | Duolingo | Rechecked after sync: up ~64.8% from pre-ChatGPT, so price does not qualify. | 2026-05-07 |
 | DND.TO | Dye & Durham | Price qualifies (-77.4%) and ticker is active, but rejected because current evidence points to market softness, customer turnover, debt/governance strain, and legal software transformation rather than AI as the primary cause. | 2026-05-07 |
+| TRI | Thomson Reuters | Rechecked after sync: down ~22.3% from pre-ChatGPT, still too modest despite legal AI catalyst. | 2026-05-08 |
+| DOCU | DocuSign | Rechecked after sync: up ~5.7% from pre-ChatGPT, so price does not qualify. | 2026-05-08 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~8.5% from pre-ChatGPT, far too modest. | 2026-05-08 |
+| DUOL | Duolingo | Rechecked after sync: up ~61.3% from pre-ChatGPT, so price does not qualify. | 2026-05-08 |
+| NOTE | FiscalNote | Price collapse is dramatic but a 1:12 reverse split creates a red flag, and current company materials frame AI as FiscalNote's product/API infrastructure pivot rather than a primary external disruption cause. | 2026-05-08 |
+| IAC | IAC Inc | Up ~8.9% from pre-ChatGPT. Dotdash Meredith / AI-search idea does not pass the price test at parent-company level. | 2026-05-08 |
+| GCI | Gannett | No yfinance data available; appears delisted or ticker unavailable. | 2026-05-08 |
+| NYT | New York Times Co | Up ~128.1% from pre-ChatGPT. Not disrupted despite AI-search/publisher concerns. | 2026-05-08 |
+| SCHL | Scholastic | Down only ~2.1% from pre-ChatGPT. Does not qualify. | 2026-05-08 |
