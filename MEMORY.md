@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 82 (as of 2026-05-08)
-- **Last updated:** 2026-05-08
+- **Company count:** 83 (as of 2026-05-11)
+- **Last updated:** 2026-05-11
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Software & SaaS | 22 |
-| Business Services | 22 |
+| Business Services | 23 |
 | Content & Media | 13 |
 | Research & Analytics | 9 |
 | Marketing & Advertising | 7 |
@@ -25,6 +25,11 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-11
+- **Added:** PAGE.L (PageGroup plc) — Business Services / Staffing & Recruitment. Pre-ChatGPT 480.60p, current 134.00p (-72.1%). UK-listed recruiter exposed to AI automation of sourcing, resume screening, candidate ranking, matching, and preliminary interviews. Bloomberg/Los Angeles Times coverage tied AI directly to staffing-industry disintermediation and noted BNP Paribas Exane's underperform rating on PageGroup due to automation risk. FT coverage argued AI agents can scour vacancies and LinkedIn profiles and specifically described PageGroup as more exposed than Robert Walters because of lower-tier administrative placements. PageGroup's own Q1 2026 update showed gross profit down 4.9% constant currency, EMEA down 9.2%, UK down 11.4%, and permanent recruitment down 14% in the UK.
+- **Rejected / skipped:** TRI (-22.1%, too modest), DOCU (+5.2%, above pre-ChatGPT), SFIX (-11.0%, too modest), DUOL (+60.4%, above pre-ChatGPT). RWA.L, ADEN.SW, and RAND.AS are price-qualified staffing peers but were left as leads after PAGE.L qualified; evaluate only if fresh company-specific AI-disruption evidence is strong enough to avoid overloading the already saturated staffing category.
+- **Observation:** European staffing remains productive only at a high evidence bar. PAGE.L was cleaner than a generic macro recruiter add because recent third-party coverage explicitly tied PageGroup to automation risk and highlighted its exposure to lower-tier administrative placements. The session used 8 candidate price checks and 1 deep evaluation.
 
 ## Session Log: 2026-05-08
 - **Added:** SFOR.L (S4 Capital plc) — Marketing & Advertising / Ad Services / Agencies. Pre-ChatGPT 192.20p, current 44.75p (-76.7%). Digital advertising agency group whose 2025 annual report shows revenue down 11.0% and net revenue down 10.8%, while explicitly citing technology-client priorities shifting toward AI capex rather than marketing. MediaPost reported continued client caution and tech clients focused on AI developments instead of marketing budgets; Q1 2026 net revenue fell another 8.9% reported / 5.0% like-for-like. Martin Sorrell described agentic AI as fundamentally challenging the agency model, with strategic and creative work under attack and fewer people needed as automation accelerates.

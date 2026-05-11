@@ -132,3 +132,7 @@
 | GCI | Gannett | No yfinance data available; appears delisted or ticker unavailable. | 2026-05-08 |
 | NYT | New York Times Co | Up ~128.1% from pre-ChatGPT. Not disrupted despite AI-search/publisher concerns. | 2026-05-08 |
 | SCHL | Scholastic | Down only ~2.1% from pre-ChatGPT. Does not qualify. | 2026-05-08 |
+| TRI | Thomson Reuters | Rechecked after sync: down ~22.1% from pre-ChatGPT, still too modest despite legal AI catalyst. | 2026-05-11 |
+| DOCU | DocuSign | Rechecked after sync: up ~5.2% from pre-ChatGPT, so price does not qualify. | 2026-05-11 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~11.0% from pre-ChatGPT, far too modest. | 2026-05-11 |
+| DUOL | Duolingo | Rechecked after sync: up ~60.4% from pre-ChatGPT, so price does not qualify. | 2026-05-11 |
