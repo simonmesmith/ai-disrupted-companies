@@ -6,7 +6,7 @@
 
 Always commit and push to the **`main`** branch. Never use `master`.
 
-Before starting any research, edits, or price checks, sync the local workspace:
+Before starting any research, edits, or price checks, sync the local workspace. GitHub network commands are required for this workflow; when the tool surface supports sandbox escalation, actually request escalation on the command. Do not infer that escalation is unavailable from stale context. Only stop for an escalation blocker after an escalated command attempt is rejected by the tool/platform.
 
 ```bash
 git status --short --branch
@@ -21,6 +21,8 @@ Before pushing your final commit, sync again because the daily GitHub Action may
 git pull --rebase origin main
 git push origin main
 ```
+
+Use escalated permissions for both final network commands when available. If a non-escalated GitHub network command fails with DNS, host-resolution, `FETCH_HEAD`, filesystem sandbox, or similar permission errors, retry the exact same command with sandbox escalation before deciding the run is blocked.
 
 If the final rebase conflicts in `companies.csv`, prefer the remote version for existing rows because it likely contains newer automated prices, then reapply only your intended new company row and memory-file changes. Re-run validation and tests after resolving the rebase.
 
