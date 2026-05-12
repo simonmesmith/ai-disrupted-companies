@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 83 (as of 2026-05-11)
-- **Last updated:** 2026-05-11
+- **Company count:** 84 (as of 2026-05-12)
+- **Last updated:** 2026-05-12
 
 ## Category Distribution
 | Category | Count |
@@ -10,7 +10,7 @@
 | Software & SaaS | 22 |
 | Business Services | 23 |
 | Content & Media | 13 |
-| Research & Analytics | 9 |
+| Research & Analytics | 10 |
 | Marketing & Advertising | 7 |
 | Education | 3 |
 | Freelance Marketplaces | 3 |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-12
+- **Added:** GTM (ZoomInfo Technologies Inc) — Research & Analytics / Professional Information. Former ZI ticker changed to GTM in May 2025; yfinance-compatible under GTM with no split distortion. Pre-ChatGPT $26.53, current ~$4.14 (-84.4%). Barron's framed the May 12, 2026 plunge after Q1 results as AI claiming another market-intelligence victim: ZoomInfo cut FY2026 revenue guidance from $1.247-1.267B to $1.185-1.205B, with analysts downgrading on AI-related disruption, competitive pressure, elongated sales cycles, and purchasing pauses from AI/agentic confusion. The thesis is that generative/agentic AI can now research accounts, enrich contacts, draft outreach, score leads, and orchestrate GTM workflows inside CRMs and productivity suites, compressing standalone B2B data/prospecting subscriptions.
+- **Rejected / skipped:** TRI (-23.5%, still too modest), DOCU (+3.2%, above pre-ChatGPT), SFIX (-16.8%, too modest), DUOL (+61.1%, above pre-ChatGPT), old ZI ticker (no yfinance data after ticker change; use GTM), IPS.PA (-32.5% but Ipsos's current evidence points to mild organic growth/Q1 miss and AI transformation rather than primary AI disruption), YOU.L (already rejected), GFK.DE/NLSN/MCHP.L (no active yfinance data). RWA.L, ADEN.SW, and RAND.AS remain price-qualified staffing peers but were not added because the staffing category is saturated and the fresh company-specific AI evidence was weaker/less direct than GTM; RWA.L in particular showed Q1 sequential improvement and FT described it as better positioned than PageGroup.
+- **Search approaches used:** 2 of 5 (lead/staffing re-check; research/market-intelligence screen). Candidate evaluations stayed within the 15-company session limit.
+- **Observation:** Live news can produce cleaner candidates than stale watchlist names. ZoomInfo/GTM was a strong add because the ticker-change issue was solvable, the price collapse was severe, and the same-day analyst coverage tied the guidance cut directly to AI/agentic confusion and disruption risk. Avoid adding more staffing peers unless evidence is substantially stronger than generic automation pressure.
 
 ## Session Log: 2026-05-11
 - **Added:** PAGE.L (PageGroup plc) — Business Services / Staffing & Recruitment. Pre-ChatGPT 480.60p, current 134.00p (-72.1%). UK-listed recruiter exposed to AI automation of sourcing, resume screening, candidate ranking, matching, and preliminary interviews. Bloomberg/Los Angeles Times coverage tied AI directly to staffing-industry disintermediation and noted BNP Paribas Exane's underperform rating on PageGroup due to automation risk. FT coverage argued AI agents can scour vacancies and LinkedIn profiles and specifically described PageGroup as more exposed than Robert Walters because of lower-tier administrative placements. PageGroup's own Q1 2026 update showed gross profit down 4.9% constant currency, EMEA down 9.2%, UK down 11.4%, and permanent recruitment down 14% in the UK.

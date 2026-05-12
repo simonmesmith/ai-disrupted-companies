@@ -136,3 +136,15 @@
 | DOCU | DocuSign | Rechecked after sync: up ~5.2% from pre-ChatGPT, so price does not qualify. | 2026-05-11 |
 | SFIX | Stitch Fix | Rechecked after sync: down only ~11.0% from pre-ChatGPT, far too modest. | 2026-05-11 |
 | DUOL | Duolingo | Rechecked after sync: up ~60.4% from pre-ChatGPT, so price does not qualify. | 2026-05-11 |
+| TRI | Thomson Reuters | Rechecked after sync: down ~23.5% from pre-ChatGPT, still too modest despite legal AI catalyst. | 2026-05-12 |
+| DOCU | DocuSign | Rechecked after sync: up ~3.2% from pre-ChatGPT, so price does not qualify. | 2026-05-12 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~16.8% from pre-ChatGPT, far too modest. | 2026-05-12 |
+| DUOL | Duolingo | Rechecked after sync: up ~61.1% from pre-ChatGPT, so price does not qualify. | 2026-05-12 |
+| ZI | ZoomInfo Technologies | Former ticker has no yfinance data after May 2025 ticker change. Use active Nasdaq ticker GTM instead; GTM was added 2026-05-12. | 2026-05-12 |
+| IPS.PA | Ipsos | Down ~32.5% and active, but rejected for now because evidence points to mild organic growth/Q1 Americas weakness and AI transformation strategy rather than primary AI disruption. | 2026-05-12 |
+| GFK.DE | GfK | No yfinance data; delisted/private. | 2026-05-12 |
+| NLSN | Nielsen | No yfinance data; delisted/private. | 2026-05-12 |
+| MCHP.L | M&C Saatchi | No yfinance data under MCHP.L. | 2026-05-12 |
+| RWA.L | Robert Walters | Price-qualified (-84.2%) but not added: staffing/recruitment category is saturated, Q1 2026 showed sequential improvement, and FT described Robert Walters as better positioned than PageGroup against AI disintermediation. | 2026-05-12 |
+| ADEN.SW | Adecco Group | Price-qualified (-43.4%) but not added: current company materials frame AI/agentic AI as a productivity and transformation lever, while analyst concerns remain broad staffing technology risk rather than clean company-specific AI disruption. | 2026-05-12 |
+| RAND.AS | Randstad | Price-qualified (-53.7%) but not added: company-specific evidence is mixed, with Randstad emphasizing AI-driven demand for skilled trades and AI-enabled matching rather than a primary AI-disruption decline. | 2026-05-12 |
