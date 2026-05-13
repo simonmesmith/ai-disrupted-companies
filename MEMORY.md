@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 84 (as of 2026-05-12)
-- **Last updated:** 2026-05-12
+- **Company count:** 84 (as of 2026-05-13)
+- **Last updated:** 2026-05-13
 
 ## Category Distribution
 | Category | Count |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-13
+- **Added:** No companies. Required escalated `git pull --rebase origin main` succeeded after persistent git approvals were added; repo was already up to date.
+- **Rejected / skipped:** Lead re-checks still failed the full bar: TRI is only about -23.0% on adjusted yfinance pricing despite the legal-AI catalyst and has a capital-return/share-consolidation history that makes the raw decline look larger; DOCU (+1.0%) and DUOL (+54.7%) are above pre-ChatGPT; SFIX (-19.2%) remains too modest. Staffing peers RWA.L, ADEN.SW, and RAND.AS remain price-qualified but were skipped again because staffing is saturated and the company-specific AI evidence remains weaker/mixed. Digital advertising agency peers STGW (-18.2%), Dentsu/4324.T (-23.6%), Hakuhodo/2433.T (-12.6%), IPG (no active yfinance data after merger/delisting), Publicis/PUB.PA (+36.2%), and Havas/HAVAS.AS (no pre-ChatGPT history) did not qualify. AI-search/affiliate checks produced NRDS (-40.5%) as price-qualified, but NerdWallet was rejected because Q1 2026 revenue grew 6%, profitability improved, management cited organic search headwinds only in certain verticals, and management frames AI/LLM distribution as a mixed or potential advantage rather than primary disruption. Other AI-search names failed price gates: TREE (+55.3%), MONY.L (-10.3%), AUTO.L (-13.3%), RMV.L (-25.6%), NWSA (+48.0%), SCHL (+4.4%), YELP (-24.0%), CARG (+152.2%), CARS (-26.8%), PRCH (+365.3%), QNST (-15.4%), EEX (+32.6%), EVER (+72.1%).
+- **Search approaches used:** 3 of 5 (lead/staffing re-check; international ad/marketing peers; AI-search/affiliate-content businesses). Stopped after the screens produced no clean primary-AI-disruption candidate.
+- **Observation:** The remaining pool is now extremely narrow. Avoid forcing NRDS unless future filings or analyst coverage tie organic-search/AI Overview pressure to broad revenue deterioration rather than vertical mix. Continue to prioritize live news catalysts like GTM where AI is explicitly tied to guidance cuts, downgrades, or customer buying freezes.
 
 ## Session Log: 2026-05-12
 - **Added:** GTM (ZoomInfo Technologies Inc) — Research & Analytics / Professional Information. Former ZI ticker changed to GTM in May 2025; yfinance-compatible under GTM with no split distortion. Pre-ChatGPT $26.53, current ~$4.14 (-84.4%). Barron's framed the May 12, 2026 plunge after Q1 results as AI claiming another market-intelligence victim: ZoomInfo cut FY2026 revenue guidance from $1.247-1.267B to $1.185-1.205B, with analysts downgrading on AI-related disruption, competitive pressure, elongated sales cycles, and purchasing pauses from AI/agentic confusion. The thesis is that generative/agentic AI can now research accounts, enrich contacts, draft outreach, score leads, and orchestrate GTM workflows inside CRMs and productivity suites, compressing standalone B2B data/prospecting subscriptions.

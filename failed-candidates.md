@@ -148,3 +148,10 @@
 | RWA.L | Robert Walters | Price-qualified (-84.2%) but not added: staffing/recruitment category is saturated, Q1 2026 showed sequential improvement, and FT described Robert Walters as better positioned than PageGroup against AI disintermediation. | 2026-05-12 |
 | ADEN.SW | Adecco Group | Price-qualified (-43.4%) but not added: current company materials frame AI/agentic AI as a productivity and transformation lever, while analyst concerns remain broad staffing technology risk rather than clean company-specific AI disruption. | 2026-05-12 |
 | RAND.AS | Randstad | Price-qualified (-53.7%) but not added: company-specific evidence is mixed, with Randstad emphasizing AI-driven demand for skilled trades and AI-enabled matching rather than a primary AI-disruption decline. | 2026-05-12 |
+| TRI | Thomson Reuters | Rechecked after sync: down ~23.0% on adjusted yfinance pricing, still too modest despite legal AI catalyst; raw-price comparisons overstate decline because of capital-return/share-consolidation effects. | 2026-05-13 |
+| DOCU | DocuSign | Rechecked after sync: up ~1.0% from pre-ChatGPT, so price does not qualify. | 2026-05-13 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~19.2% from pre-ChatGPT, still too modest. | 2026-05-13 |
+| DUOL | Duolingo | Rechecked after sync: up ~54.7% from pre-ChatGPT, so price does not qualify. | 2026-05-13 |
+| STGW | Stagwell | Down only ~18.2% from pre-ChatGPT. Digital agency AI thesis plausible, but price decline is too modest. | 2026-05-13 |
+| 4324.T | Dentsu Group | Down only ~23.6% from pre-ChatGPT. Advertising agency AI thesis plausible, but price decline is too modest. | 2026-05-13 |
+| NRDS | NerdWallet | Price-qualified (-40.5%) but rejected for now: Q1 2026 revenue grew 6%, profitability improved, and management frames AI/LLM distribution as mixed or potentially advantageous; organic-search headwinds are not yet a broad primary AI-disruption story. | 2026-05-13 |

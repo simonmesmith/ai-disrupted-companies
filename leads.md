@@ -1,13 +1,14 @@
 # Leads for Next Session
 
 ## Promising Candidates to Monitor
-- **TRI (Thomson Reuters)** — Down ~22.1% from pre-ChatGPT on 2026-05-11, still too modest. Monitor if it deepens past ~30%; Anthropic Claude Cowork caused a prior 15.83% single-day drop.
-- **DOCU (DocuSign)** — Still above pre-ChatGPT (+5.2% on 2026-05-11). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
-- **SFIX (Stitch Fix)** — Slightly below pre-ChatGPT (-11.0% on 2026-05-11), but decline is too modest. AI styling could threaten the human stylist model if fundamentals deteriorate further.
+- **TRI (Thomson Reuters)** — Down ~23.0% on adjusted yfinance pricing on 2026-05-13, still too modest. Raw-price comparisons can overstate the decline because of capital-return/share-consolidation effects; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
+- **DOCU (DocuSign)** — Still above pre-ChatGPT (+1.0% on 2026-05-13). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
+- **SFIX (Stitch Fix)** — Below pre-ChatGPT (-19.2% on 2026-05-13), but decline is too modest. AI styling could threaten the human stylist model if fundamentals deteriorate further.
 - **Legal & Tax thin category** — Still only 3 companies. No new candidate found; most legal/tax companies are private, acquired, or above pre-ChatGPT.
 - **Re-evaluate failed candidates periodically** — APX.AX pattern from Apr 24 shows borderline candidates can qualify as prices drop further.
-- **European staffing peers:** RWA.L (Robert Walters), ADEN.SW (Adecco), and RAND.AS (Randstad) were price-qualified again on 2026-05-12 but not added because staffing/recruitment is saturated and the fresh evidence was weaker than GTM. Only retry if there is new company-specific evidence that AI automation is the primary driver, not just weak hiring macro or broad technology risk.
+- **European staffing peers:** RWA.L (Robert Walters), ADEN.SW (Adecco), and RAND.AS (Randstad) were price-qualified again on 2026-05-13 but not added because staffing/recruitment is saturated and the fresh evidence remains weaker/mixed. Only retry if there is new company-specific evidence that AI automation is the primary driver, not just weak hiring macro or broad technology risk.
 - **IPS.PA (Ipsos)** — Down ~32.5% from pre-ChatGPT on 2026-05-12, but current evidence points to mild organic growth, Americas/Q1 weakness, and AI as transformation rather than primary disruption. Revisit only if AI/synthetic respondents or AI-native research tools become explicitly tied to revenue pressure.
+- **NRDS (NerdWallet)** — Price-qualified at about -40.5% on 2026-05-13, but rejected for now because Q1 2026 still showed revenue growth and improved profitability while management described AI/LLM distribution as mixed or potentially advantageous. Revisit only if organic-search/AI Overview pressure becomes broad enough to drive sustained revenue decline.
 
 ## Notes
 - **NCNO** and **CRTO** were evaluated on 2026-05-06 and moved to failed candidates; do not retry soon unless fundamentals or the AI thesis changes materially.
