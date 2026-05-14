@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 84 (as of 2026-05-13)
-- **Last updated:** 2026-05-13
+- **Company count:** 85 (as of 2026-05-14)
+- **Last updated:** 2026-05-14
 
 ## Category Distribution
 | Category | Count |
 |---|---|
-| Software & SaaS | 22 |
+| Software & SaaS | 23 |
 | Business Services | 23 |
 | Content & Media | 13 |
 | Research & Analytics | 10 |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-14
+- **Added:** WIX (Wix.com Ltd) — Software & SaaS / Website Builder. Pre-ChatGPT $84.55, current ~$54.47 (-35.6%). Previously rejected on 2026-04-12 when the adjusted decline was only ~23%, but the May 13, 2026 Q1 selloff pushed it below the threshold. No yfinance split distortion. The AI thesis is the "vibe coding" / AI website-builder threat: consumer-friendly AI coding and design tools can create websites and lightweight apps from prompts, lowering switching costs and pressuring conventional website-builder and agency-partner workflows. RBC downgraded Wix to Sector Perform after Q1 2026, cut PT from $90 to $60, and cited competitive concerns from AI consumer-level coding tools; Partner weakness was described as the clearest signal of coding headwinds affecting the business. Wix is pivoting via Base44 and Harmony, but that pivot is also creating margin pressure and uncertainty.
+- **Rejected / rechecked:** TRI remains too modest at about -24.6% on adjusted yfinance pricing; DOCU (+1.6%) and DUOL (+62.6%) are above pre-ChatGPT; SFIX is only about -17.0%. WIX passed after the fresh Q1 2026 drop.
+- **Search approaches used:** 2 of 5 (lead re-check; user-suggested Wix / AI website-builder live catalyst).
+- **Observation:** Failed-candidate re-evaluation worked again. WIX was not clean enough in April, but a fresh analyst/news catalyst tied the new drawdown to AI/vibe-coding risk and Partner-channel weakness. Be careful to frame WIX as a market repricing and margin/partner-channel pressure story rather than a revenue-collapse story, since Q1 2026 revenue and bookings still grew mid-teens.
 
 ## Session Log: 2026-05-13
 - **Added:** No companies. Required escalated `git pull --rebase origin main` succeeded after persistent git approvals were added; repo was already up to date.

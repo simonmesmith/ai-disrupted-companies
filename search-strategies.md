@@ -136,6 +136,11 @@
 - **Rejected / skipped:** NRDS, TRI, DOCU, SFIX, DUOL, STGW, 4324.T, 2433.T, IPG, PUB.PA, HAVAS.AS, and a broader AI-search price screen where TREE, MONY.L, AUTO.L, RMV.L, NWSA, SCHL, YELP, CARG, CARS, PRCH, QNST, EEX, and EVER failed price gates or were not primary AI-disruption stories.
 - **Verdict:** Do not force AI-search names merely because organic traffic is pressured. The clean adds require either clear revenue deterioration tied to AI Overviews/search disintermediation or analyst/company commentary tying AI to guidance cuts. Live-news catalyst screening remains better than broad stale watchlists at this stage.
 
+### 2026-05-14: Lead re-check + user-suggested Wix live catalyst
+- **Result:** Found WIX (Wix.com, -35.6%). WIX had been rejected on 2026-04-12 when the adjusted decline was only ~23%, but the May 13 Q1 2026 selloff pushed it below the price gate. The current catalyst is clearer than the April version: analysts tied the drop/downgrade to AI/vibe-coding competition, customer acquisition/churn/pricing-pressure concerns, and Partner-channel weakness as a signal of coding headwinds. Wix still has mid-teens revenue/bookings growth, so the add should be framed as a market repricing of an incumbent website-builder workflow under AI commoditization pressure rather than a current revenue-collapse story.
+- **Rejected / rechecked:** TRI (~-24.6%, still too modest on adjusted yfinance pricing), DOCU (+1.6%), SFIX (~-17.0%), DUOL (+62.6%).
+- **Verdict:** Failed-candidate re-evaluation remains valuable when there is a fresh price move and a current analyst/news catalyst. Website builders/vibe coding are now a live category, but use a high bar: distinguish AI-driven demand/pricing/channel pressure from companies that are merely investing in AI as a growth product.
+
 ## Untried / Ideas for Next Session
 - **Monitor DOCU and SFIX** — DOCU is still above pre-ChatGPT (+1.0% on 2026-05-13), while SFIX is only modestly below (-19.2%). Both have plausible AI disruption angles only if price/fundamentals deteriorate materially.
 - **Monitor TRI (Thomson Reuters)** — at about -23.0% adjusted on 2026-05-13, still too modest but the Anthropic Claude Cowork catalyst caused a 15.83% single-day crash. Could deepen; use adjusted yfinance pricing because raw comparisons overstate the decline.

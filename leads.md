@@ -18,4 +18,5 @@
 - **SFOR.L** was added from the digital advertising agency angle on 2026-05-08. Look for other ad-services names only where AI is clearly tied to client budget shift, creative/workflow automation, or agency labor-hour compression.
 - **PAGE.L** was added from the European staffing peer angle on 2026-05-11. Do not re-add. The remaining peer bar should be even higher because Business Services / Staffing & Recruitment is now crowded.
 - **GTM** was added on 2026-05-12 after ZoomInfo's former ZI ticker issue was resolved. Do not retry ZI; use GTM for any future checks.
-- At 84 companies, proving AI as the primary cause remains the binding constraint.
+- **WIX** was added on 2026-05-14 after the May 13 Q1 selloff pushed it below pre-ChatGPT and analysts tied Partner weakness to AI/vibe-coding pressure. Do not retry the old 2026-04-12 failed-candidate entry.
+- At 85 companies, proving AI as the primary cause remains the binding constraint.
