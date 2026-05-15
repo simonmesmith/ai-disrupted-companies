@@ -155,3 +155,14 @@
 | STGW | Stagwell | Down only ~18.2% from pre-ChatGPT. Digital agency AI thesis plausible, but price decline is too modest. | 2026-05-13 |
 | 4324.T | Dentsu Group | Down only ~23.6% from pre-ChatGPT. Advertising agency AI thesis plausible, but price decline is too modest. | 2026-05-13 |
 | NRDS | NerdWallet | Price-qualified (-40.5%) but rejected for now: Q1 2026 revenue grew 6%, profitability improved, and management frames AI/LLM distribution as mixed or potentially advantageous; organic-search headwinds are not yet a broad primary AI-disruption story. | 2026-05-13 |
+| TRI | Thomson Reuters | Rechecked after sync: down ~24.2% on adjusted yfinance pricing, still too modest despite legal AI catalyst; raw comparisons remain distorted by capital-return/share-consolidation effects. | 2026-05-15 |
+| DOCU | DocuSign | Rechecked after sync: up ~3.6% from pre-ChatGPT, so price does not qualify. | 2026-05-15 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~17.8% from pre-ChatGPT, still too modest. | 2026-05-15 |
+| DUOL | Duolingo | Rechecked after sync: up ~63.3% from pre-ChatGPT, so price does not qualify. | 2026-05-15 |
+| NCNO | nCino | Now price-qualified (-39.6%) but rejected again: latest FY2026 results showed record gross ACV bookings, 112% net retention, guidance beats, and demand for AI banking capabilities; AI is a product tailwind, not the primary disruption cause. | 2026-05-15 |
+| IPS.PA | Ipsos | Rechecked after sync: adjusted yfinance decline is only ~25.4%, so it no longer clears the price gate; prior AI-primary-cause concerns still apply. | 2026-05-15 |
+| PINS | Pinterest | Wedbush named it a potential AI loser, but current adjusted decline is only ~19.9%, so price does not qualify. | 2026-05-15 |
+| TTD | The Trade Desk | Price-qualified (-57.1%) but rejected again: fresh downgrades cite weak Q2 guidance, agency fallout, competitive pressure, ad-spend headwinds, Kokai AI pricing friction, and unproven AI ad opportunity; AI/open-internet risk is relevant but not yet the clean primary cause. | 2026-05-15 |
+| NOW | ServiceNow | Rechecked from application-software AI-risk screen: up ~18.0% from pre-ChatGPT on split-adjusted pricing, so price does not qualify. | 2026-05-15 |
+| WDAY | Workday | Rechecked from Jefferies AI-risk downgrade screen: down only ~14.2% from pre-ChatGPT, so price does not qualify. | 2026-05-15 |
+| PCOR | Procore Technologies | Rechecked from Jefferies screen: up ~5.1% from pre-ChatGPT and described by the analyst as better positioned, so not an AI-disruption candidate. | 2026-05-15 |

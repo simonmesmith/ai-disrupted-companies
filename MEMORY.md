@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 85 (as of 2026-05-14)
-- **Last updated:** 2026-05-14
+- **Company count:** 85 (as of 2026-05-15)
+- **Last updated:** 2026-05-15
 
 ## Category Distribution
 | Category | Count |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-15
+- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with scheduled price refreshes. Standing leads still failed the full bar: TRI -24.2% adjusted and SFIX -17.8% were too modest; DOCU (+3.6%) and DUOL (+63.3%) remained above pre-ChatGPT. NCNO is now price-qualified at -39.6%, but current filings/earnings coverage show record gross ACV bookings, 112% net retention, and demand for AI banking capabilities, so it remains an AI beneficiary/transition story rather than an AI-disrupted one. RWA.L, ADEN.SW, and RAND.AS remain price-qualified staffing names but were not added because staffing/recruitment is saturated and prior company-specific evidence remains mixed. IPS.PA no longer passed the price gate on adjusted yfinance pricing.
+- **Analyst/live-catalyst screen:** Wedbush/Investing.com AI-loser coverage surfaced PINS, TTD, and NICE; NICE is already in the CSV, PINS was only -19.9%, and TTD was price-qualified at -57.1% but rejected again. Fresh May 2026 downgrades point to weak Q2 guidance, agency fallout, competitive pressure, pricing friction around Kokai AI, and an unproven AI ad opportunity. AI/open-internet pressure is relevant, but the evidence is still too mixed to call AI the primary disruption driver while revenue continues growing.
+- **Search approaches used:** 2 of 5 (standing leads/staffing/market-intelligence re-check; named analyst AI-loser/live downgrade screen). Stopped at the 15-candidate evaluation cap.
+- **Observation:** The cleanest current path is still live catalyst monitoring. Do not force broad software/ad-tech decliners unless the fresh evidence ties guidance cuts or revenue deterioration directly to AI displacement, not just valuation compression, macro ad weakness, or generic competitive pressure.
 
 ## Session Log: 2026-05-14
 - **Added:** WIX (Wix.com Ltd) — Software & SaaS / Website Builder. Pre-ChatGPT $84.55, current ~$54.47 (-35.6%). Previously rejected on 2026-04-12 when the adjusted decline was only ~23%, but the May 13, 2026 Q1 selloff pushed it below the threshold. No yfinance split distortion. The AI thesis is the "vibe coding" / AI website-builder threat: consumer-friendly AI coding and design tools can create websites and lightweight apps from prompts, lowering switching costs and pressuring conventional website-builder and agency-partner workflows. RBC downgraded Wix to Sector Perform after Q1 2026, cut PT from $90 to $60, and cited competitive concerns from AI consumer-level coding tools; Partner weakness was described as the clearest signal of coding headwinds affecting the business. Wix is pivoting via Base44 and Harmony, but that pivot is also creating margin pressure and uncertainty.
