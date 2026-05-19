@@ -1,11 +1,12 @@
 # Leads for Next Session
 
 ## Promising Candidates to Monitor
-- **TRI (Thomson Reuters)** — Down ~24.2% on adjusted yfinance pricing on 2026-05-15, still too modest. Raw-price comparisons can overstate the decline because of capital-return/share-consolidation effects; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
-- **DOCU (DocuSign)** — Still above pre-ChatGPT (+3.6% on 2026-05-15). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
-- **SFIX (Stitch Fix)** — Below pre-ChatGPT (-17.8% on 2026-05-15), but decline is too modest. AI styling could threaten the human stylist model if fundamentals deteriorate further.
+- **TRI (Thomson Reuters)** — Down ~22.6% on adjusted yfinance pricing on 2026-05-19, still too modest. Raw-price comparisons can overstate the decline because of capital-return/share-consolidation effects; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
+- **DOCU (DocuSign)** — Above pre-ChatGPT (+15.1% on 2026-05-19). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
+- **SFIX (Stitch Fix)** — Below pre-ChatGPT (-20.8% on 2026-05-19), but decline is too modest. AI styling could threaten the human stylist model if fundamentals deteriorate further.
 - **Legal & Tax thin category** — Still only 3 companies. No new candidate found; most legal/tax companies are private, acquired, or above pre-ChatGPT.
-- **Re-evaluate failed candidates periodically** — APX.AX pattern from Apr 24 shows borderline candidates can qualify as prices drop further.
+- **Re-evaluate failed candidates periodically** — APX.AX/WIX patterns show borderline candidates can qualify as prices drop further.
+- **Translation/localization peers** — STG.AX was added on 2026-05-19. This under-saturated vein may still have public peers, but require explicit evidence of legacy human translation volume/revenue being replaced by AI workflows.
 - **European staffing peers:** RWA.L (Robert Walters), ADEN.SW (Adecco), and RAND.AS (Randstad) were price-qualified again on 2026-05-13 but not added because staffing/recruitment is saturated and the fresh evidence remains weaker/mixed. Only retry if there is new company-specific evidence that AI automation is the primary driver, not just weak hiring macro or broad technology risk.
 - **IPS.PA (Ipsos)** — No longer price-qualified on 2026-05-15 adjusted yfinance pricing (-25.4%). Previously rejected because current evidence points to mild organic growth, Americas/Q1 weakness, and AI as transformation rather than primary disruption.
 - **NRDS (NerdWallet)** — Price-qualified at about -40.5% on 2026-05-13, but rejected for now because Q1 2026 still showed revenue growth and improved profitability while management described AI/LLM distribution as mixed or potentially advantageous. Revisit only if organic-search/AI Overview pressure becomes broad enough to drive sustained revenue decline.
@@ -20,4 +21,5 @@
 - **PAGE.L** was added from the European staffing peer angle on 2026-05-11. Do not re-add. The remaining peer bar should be even higher because Business Services / Staffing & Recruitment is now crowded.
 - **GTM** was added on 2026-05-12 after ZoomInfo's former ZI ticker issue was resolved. Do not retry ZI; use GTM for any future checks.
 - **WIX** was added on 2026-05-14 after the May 13 Q1 selloff pushed it below pre-ChatGPT and analysts tied Partner weakness to AI/vibe-coding pressure. Do not retry the old 2026-04-12 failed-candidate entry.
-- At 85 companies, proving AI as the primary cause remains the binding constraint.
+- **STG.AX** was added on 2026-05-19 from the translation/localization peer angle. Do not retry.
+- At 86 companies, proving AI as the primary cause remains the binding constraint.

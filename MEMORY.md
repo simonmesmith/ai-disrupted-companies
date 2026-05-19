@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 85 (as of 2026-05-15)
-- **Last updated:** 2026-05-15
+- **Company count:** 86 (as of 2026-05-19)
+- **Last updated:** 2026-05-19
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Software & SaaS | 23 |
-| Business Services | 23 |
+| Business Services | 24 |
 | Content & Media | 13 |
 | Research & Analytics | 10 |
 | Marketing & Advertising | 7 |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-19
+- **Added:** STG.AX (Straker Limited) — Business Services / Translation & Localization. Pre-ChatGPT A$1.27, current A$0.255 (-79.9%). Active ASX ticker with no split actions in yfinance. Straker is a small but clean translation/localization add: its FY2025 annual report says legacy translation services are declining, Language Services revenue fell 24%, and legacy Language Services dropped from 81% to 68% of revenue as the company shifts to high-margin AI-driven services. FY2026 H1 revenue fell another 15.3% to NZD 19.3M, with management citing reduced language-services volume, pricing pressure, efficiency gains shared with clients, and attrition in the traditional enterprise TMS business. The company is pivoting to Verify, SwiftBridge AI, Tiri small-language-model products, and IBM token-based AI billing, while production headcount has fallen more than 50% over two years.
+- **Rejected / rechecked:** Standing leads failed again: TRI (-22.6%) and SFIX (-20.8%) remain too modest, while DOCU (+15.1%) and DUOL (+77.3%) are above pre-ChatGPT. Agentic/application software checks failed price gates: PATH (-6.1%), NOW (+36.6%), WDAY (-5.5%). AI-search/travel/review checks failed price gates or primary-cause tests: IAC (+2.8%), EXPE (+116.8%), TRST.L (+150.7%), YELP (-21.3%). SEEK/SEK.AX was price-qualified (-37.2%) but rejected because current evidence is mixed: AI jitters exist, but Zhaopin impairment, weak job ad volumes, and management's own AI-enhanced yield/product framing make it less clean than existing staffing/job-marketplace names.
+- **Search approaches used:** 4 of 5 (standing leads; live analyst/SaaS catalyst screen; AI-search/review/travel screen; international translation/localization peer screen). Candidate evaluations stayed within the 15-company cap.
+- **Observation:** Translation/localization is a productive under-saturated category when the company has explicit evidence of legacy human translation revenue being cannibalized by AI workflows. Straker was stronger than another staffing add because its own filings quantify the legacy translation decline and the AI-led revenue-model pivot.
 
 ## Session Log: 2026-05-15
 - **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with scheduled price refreshes. Standing leads still failed the full bar: TRI -24.2% adjusted and SFIX -17.8% were too modest; DOCU (+3.6%) and DUOL (+63.3%) remained above pre-ChatGPT. NCNO is now price-qualified at -39.6%, but current filings/earnings coverage show record gross ACV bookings, 112% net retention, and demand for AI banking capabilities, so it remains an AI beneficiary/transition story rather than an AI-disrupted one. RWA.L, ADEN.SW, and RAND.AS remain price-qualified staffing names but were not added because staffing/recruitment is saturated and prior company-specific evidence remains mixed. IPS.PA no longer passed the price gate on adjusted yfinance pricing.

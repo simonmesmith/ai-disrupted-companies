@@ -166,3 +166,10 @@
 | NOW | ServiceNow | Rechecked from application-software AI-risk screen: up ~18.0% from pre-ChatGPT on split-adjusted pricing, so price does not qualify. | 2026-05-15 |
 | WDAY | Workday | Rechecked from Jefferies AI-risk downgrade screen: down only ~14.2% from pre-ChatGPT, so price does not qualify. | 2026-05-15 |
 | PCOR | Procore Technologies | Rechecked from Jefferies screen: up ~5.1% from pre-ChatGPT and described by the analyst as better positioned, so not an AI-disruption candidate. | 2026-05-15 |
+| PATH | UiPath | Rechecked from agentic-AI/software screen: down only ~6.1% from pre-ChatGPT, so price does not qualify. | 2026-05-19 |
+| IAC | IAC Inc | Rechecked after Q1 2026 filing tied lower Core Sessions to Google AI Overviews; parent stock is still up ~2.8% from pre-ChatGPT, so price does not qualify. | 2026-05-19 |
+| EXPE | Expedia Group | AI travel-agent concern is plausible, but stock is up ~116.8% from pre-ChatGPT, so price does not qualify. | 2026-05-19 |
+| TRST.L | Trustpilot Group | Review-platform AI/fake-review concern is plausible, but stock is up ~150.7% from pre-ChatGPT and current materials frame AI as a trust/product capability, not disruption. | 2026-05-19 |
+| YELP | Yelp Inc | Rechecked from AI fake-review / local-search screen: down only ~21.3% from pre-ChatGPT, so price does not qualify. | 2026-05-19 |
+| SEK.AX | SEEK Limited | Price-qualified (-37.2%) but rejected: AI jitters around recruitment marketplaces exist, yet current evidence is mixed with Zhaopin impairment, weak job-ad volumes, macro hiring sensitivity, and management framing AI as improving yield and product performance. Staffing/job-marketplace category is already crowded. | 2026-05-19 |
+| 6098.T | Recruit Holdings | Rechecked from international recruitment marketplace screen: up ~124.0% from pre-ChatGPT, so price does not qualify. | 2026-05-19 |
