@@ -173,3 +173,13 @@
 | YELP | Yelp Inc | Rechecked from AI fake-review / local-search screen: down only ~21.3% from pre-ChatGPT, so price does not qualify. | 2026-05-19 |
 | SEK.AX | SEEK Limited | Price-qualified (-37.2%) but rejected: AI jitters around recruitment marketplaces exist, yet current evidence is mixed with Zhaopin impairment, weak job-ad volumes, macro hiring sensitivity, and management framing AI as improving yield and product performance. Staffing/job-marketplace category is already crowded. | 2026-05-19 |
 | 6098.T | Recruit Holdings | Rechecked from international recruitment marketplace screen: up ~124.0% from pre-ChatGPT, so price does not qualify. | 2026-05-19 |
+| TRI | Thomson Reuters | Rechecked after sync: down only ~19.7% on adjusted yfinance pricing and still distorted by capital-return/share-consolidation effects, so price decline remains too modest. | 2026-05-20 |
+| DOCU | DocuSign | Rechecked after sync: up ~9.3% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~21.9% from pre-ChatGPT, still too modest despite plausible AI styling pressure. | 2026-05-20 |
+| DUOL | Duolingo | Rechecked after sync: up ~64.2% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
+| ZOO.L | ZOO Digital Group | Price-qualified (-94.3%) and in localization/dubbing, but rejected because current evidence points mainly to streaming-industry flux, strike/post-strike production mix, and licensed-content shifts reducing dubbing demand rather than AI as the primary cause. | 2026-05-20 |
+| 2483.T | Honyaku Center | Translation/localization peer check: up ~66.0% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
+| OKTA | Okta | Live AI-risk software screen: up ~67.9% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
+| NET | Cloudflare | Live AI-risk software screen: up ~366.7% from pre-ChatGPT and current evidence frames AI as an efficiency/product tailwind, so price does not qualify. | 2026-05-20 |
+| DT | Dynatrace | Live AI-risk software screen: up ~9.1% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
+| IBM | IBM | Rechecked from AI/software screen: up ~70.3% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |

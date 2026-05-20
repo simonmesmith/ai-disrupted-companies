@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 86 (as of 2026-05-19)
-- **Last updated:** 2026-05-19
+- **Company count:** 87 (as of 2026-05-20)
+- **Last updated:** 2026-05-20
 
 ## Category Distribution
 | Category | Count |
 |---|---|
-| Software & SaaS | 23 |
+| Software & SaaS | 24 |
 | Business Services | 24 |
 | Content & Media | 13 |
 | Research & Analytics | 10 |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-20
+- **Added:** TMV.DE (TeamViewer SE) — Software & SaaS / Remote Support. Pre-ChatGPT EUR 12.175, current EUR 5.69 (-53.3%). Active Frankfurt ticker, no ChatGPT-era split actions, and no duplicate TeamViewer row. The AI thesis is remote-support workflow compression: AI agents and LLM-powered support tools can diagnose, document, and resolve standard endpoint issues before a human technician needs to launch a remote-control session. Bernstein cut estimates in February 2026 on AI disruption risk, saying AI can replicate a significant portion of the value above remote connectivity, while TeamViewer guided FY2026 constant-currency revenue growth of only 0-3%. Barclays downgraded in March 2026 after an AI-risk review, saying TeamViewer screened among the most exposed European software names because it does not control the full IT workflow and could be replaced or commoditized as AI-enabled ITSM platforms automate support directly.
+- **Rejected / rechecked:** Standing leads failed again: TRI (-19.7% adjusted and split/capital-return distorted), SFIX (-21.9%) too modest, DOCU (+9.3%) and DUOL (+64.2%) above pre-ChatGPT. Staffing peers RWA.L, ADEN.SW, and RAND.AS remained price-qualified but were not added because staffing/recruitment is saturated and evidence remains weaker/mixed. IPS.PA was still too modest (-26.1%); NRDS (-38.9%) and TTD (-57.9%) remain price-qualified but were not re-added because prior primary-cause objections still hold. Translation/localization follow-up found ZOO.L price-qualified (-94.3%) but rejected because the current evidence points mainly to streaming-industry flux, strike/post-strike production mix, and licensed-content shifts rather than AI as the primary cause; Honyaku Center/2483.T was up 66.0%. Broader live AI-risk checks found OKTA, NET, DT, and IBM all above pre-ChatGPT.
+- **Search approaches used:** 3 of 5 (standing leads and saturated staffing checks; translation/localization peer follow-up; live European/software AI-risk catalyst screen). Candidate evaluations stayed within the 15-company cap.
+- **Observation:** Live analyst AI-risk coverage can still surface clean software adds when the price gate is met and the risk is tied to a specific workflow being automated. TeamViewer is stronger than generic SaaSpocalypse names because two analyst notes connected AI agents directly to remote-support/ITSM workflow displacement and low-single-digit growth expectations. ZOO.L should not be forced without clearer proof that AI, rather than media-production cyclicality and streaming-content mix, is the primary driver.
 
 ## Session Log: 2026-05-19
 - **Added:** STG.AX (Straker Limited) — Business Services / Translation & Localization. Pre-ChatGPT A$1.27, current A$0.255 (-79.9%). Active ASX ticker with no split actions in yfinance. Straker is a small but clean translation/localization add: its FY2025 annual report says legacy translation services are declining, Language Services revenue fell 24%, and legacy Language Services dropped from 81% to 68% of revenue as the company shifts to high-margin AI-driven services. FY2026 H1 revenue fell another 15.3% to NZD 19.3M, with management citing reduced language-services volume, pricing pressure, efficiency gains shared with clients, and attrition in the traditional enterprise TMS business. The company is pivoting to Verify, SwiftBridge AI, Tiri small-language-model products, and IBM token-based AI billing, while production headcount has fallen more than 50% over two years.

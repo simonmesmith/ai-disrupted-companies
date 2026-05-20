@@ -11,6 +11,7 @@
 - **IPS.PA (Ipsos)** — No longer price-qualified on 2026-05-15 adjusted yfinance pricing (-25.4%). Previously rejected because current evidence points to mild organic growth, Americas/Q1 weakness, and AI as transformation rather than primary disruption.
 - **NRDS (NerdWallet)** — Price-qualified at about -40.5% on 2026-05-13, but rejected for now because Q1 2026 still showed revenue growth and improved profitability while management described AI/LLM distribution as mixed or potentially advantageous. Revisit only if organic-search/AI Overview pressure becomes broad enough to drive sustained revenue decline.
 - **TTD (The Trade Desk)** — Price-qualified at about -57.1% on 2026-05-15 and has analyst AI/open-internet concern, but rejected again because the current evidence is mixed: agency fallout, competitive pressure, ad-spend headwinds, Kokai AI pricing friction, and still-growing revenue. Revisit only if future filings or downgrades explicitly tie sustained revenue deterioration to AI-driven ad buying/search displacement.
+- **ZOO.L (ZOO Digital Group)** — Price-qualified at about -94.3% on 2026-05-20 and in a relevant localization/dubbing market, but rejected for now because the strongest current evidence points to streaming-industry flux, strike/post-strike production mix, and licensed-content shifts suppressing dubbing demand rather than AI as the primary driver. Revisit only if filings or analyst coverage explicitly tie revenue deterioration to AI dubbing/localization replacing paid services.
 
 ## Notes
 - **NCNO** and **CRTO** were evaluated on 2026-05-06 and moved to failed candidates; do not retry soon unless fundamentals or the AI thesis changes materially.
@@ -22,4 +23,5 @@
 - **GTM** was added on 2026-05-12 after ZoomInfo's former ZI ticker issue was resolved. Do not retry ZI; use GTM for any future checks.
 - **WIX** was added on 2026-05-14 after the May 13 Q1 selloff pushed it below pre-ChatGPT and analysts tied Partner weakness to AI/vibe-coding pressure. Do not retry the old 2026-04-12 failed-candidate entry.
 - **STG.AX** was added on 2026-05-19 from the translation/localization peer angle. Do not retry.
-- At 86 companies, proving AI as the primary cause remains the binding constraint.
+- **TMV.DE** was added on 2026-05-20 from the live European/software AI-risk catalyst angle. Do not retry.
+- At 87 companies, proving AI as the primary cause remains the binding constraint.
