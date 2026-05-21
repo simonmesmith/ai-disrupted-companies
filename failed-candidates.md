@@ -183,3 +183,11 @@
 | NET | Cloudflare | Live AI-risk software screen: up ~366.7% from pre-ChatGPT and current evidence frames AI as an efficiency/product tailwind, so price does not qualify. | 2026-05-20 |
 | DT | Dynatrace | Live AI-risk software screen: up ~9.1% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
 | IBM | IBM | Rechecked from AI/software screen: up ~70.3% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
+| TRI | Thomson Reuters | Rechecked after sync: down only ~21.0% on adjusted yfinance pricing and still distorted by capital-return/share-consolidation effects, so price decline remains too modest. | 2026-05-21 |
+| DOCU | DocuSign | Rechecked after sync: up ~8.1% from pre-ChatGPT, so price does not qualify. | 2026-05-21 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~15.6% from pre-ChatGPT, still too modest despite plausible AI styling pressure. | 2026-05-21 |
+| DUOL | Duolingo | Rechecked after sync: up ~58.8% from pre-ChatGPT, so price does not qualify. | 2026-05-21 |
+| DCBO | Docebo | Price-qualified (-42.9%) but rejected: latest Q1 2026 results showed double-digit revenue/subscription growth, raised full-year guidance, strong free cash flow, and enterprise demand for its AI workforce-readiness platform. AI is currently a demand driver, not the primary disruption cause. | 2026-05-21 |
+| DATA.L | GlobalData | Price-qualified (-41.4%) but rejected for now: current materials frame GlobalData as an AI-enabled intelligence/productivity platform and do not yet show AI as the primary cause of revenue deterioration or guidance pressure. | 2026-05-21 |
+| RXT | Rackspace Technology | Down only ~13.2% from pre-ChatGPT, so price does not qualify. | 2026-05-21 |
+| SAA.L | M&C Saatchi | Down only ~1.2% from pre-ChatGPT, so price does not qualify despite digital-agency AI concerns. | 2026-05-21 |

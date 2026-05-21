@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 87 (as of 2026-05-20)
-- **Last updated:** 2026-05-20
+- **Company count:** 88 (as of 2026-05-21)
+- **Last updated:** 2026-05-21
 
 ## Category Distribution
 | Category | Count |
@@ -10,7 +10,7 @@
 | Software & SaaS | 24 |
 | Business Services | 24 |
 | Content & Media | 13 |
-| Research & Analytics | 10 |
+| Research & Analytics | 11 |
 | Marketing & Advertising | 7 |
 | Education | 3 |
 | Freelance Marketplaces | 3 |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-21
+- **Added:** CINT.ST (Cint Group AB) — Research & Analytics / Market Research. Pre-ChatGPT SEK 46.42, current SEK 5.88 (-87.3%). Active Stockholm ticker, no yfinance split distortion, and no duplicate Cint row. The AI thesis is survey-sample marketplace compression: synthetic research and AI personas give marketers faster, cheaper directional answers than traditional human-panel studies, while AI/bot respondents make opt-in survey panels harder to police. Cint's own Q1 2026 report said Cint Exchange sales were still down 5.1% in constant currency and described new respondent-vetting layers to screen for AI and bot respondents; Cint's data leader also warned that AI and synthetic modeling will massively disrupt the traditional question-and-answer research model and that brands may bypass research if it is not fast and cost-effective.
+- **Rejected / rechecked:** Standing leads failed again: TRI (-21.0%) and SFIX (-15.6%) too modest; DOCU (+8.1%) and DUOL (+58.8%) above pre-ChatGPT. DCBO was price-qualified (-42.9%) but rejected because Q1 2026 results showed double-digit growth, raised guidance, and AI workforce-readiness demand rather than disruption. DATA.L (-41.4%) and YOU.L (-77.2%) remain market-research/professional-information monitors, but current evidence still frames AI mostly as a platform/product opportunity or is muddied by prior non-AI execution/acquisition issues. RXT (-13.2%), SAA.L (-1.2%), ALBFR.PA (+23.2%), SOP.PA (+2.4%), AKAM (+59.8%), APP (+3,594%), RAMP (+80.3%), and PAY (+150.8%) failed price gates or did not support an AI-disruption thesis.
+- **Search approaches used:** 4 of 5 (standing lead re-check; market-research/survey-sample screen; corporate-learning/LMS screen; European software/ad-services/professional-information spot checks). Candidate evaluations stayed within the 15-company cap.
+- **Observation:** Market research remains usable, but only where AI changes both customer behavior and the data supply chain. Cint was stronger than YouGov or GlobalData because its core business is paid access to opt-in human respondents, and the current evidence ties AI directly to both substitution risk (synthetic research) and panel-quality cost (AI/bot respondents).
 
 ## Session Log: 2026-05-20
 - **Added:** TMV.DE (TeamViewer SE) — Software & SaaS / Remote Support. Pre-ChatGPT EUR 12.175, current EUR 5.69 (-53.3%). Active Frankfurt ticker, no ChatGPT-era split actions, and no duplicate TeamViewer row. The AI thesis is remote-support workflow compression: AI agents and LLM-powered support tools can diagnose, document, and resolve standard endpoint issues before a human technician needs to launch a remote-control session. Bernstein cut estimates in February 2026 on AI disruption risk, saying AI can replicate a significant portion of the value above remote connectivity, while TeamViewer guided FY2026 constant-currency revenue growth of only 0-3%. Barclays downgraded in March 2026 after an AI-risk review, saying TeamViewer screened among the most exposed European software names because it does not control the full IT workflow and could be replaced or commoditized as AI-enabled ITSM platforms automate support directly.

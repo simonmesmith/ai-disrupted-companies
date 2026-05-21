@@ -24,4 +24,5 @@
 - **WIX** was added on 2026-05-14 after the May 13 Q1 selloff pushed it below pre-ChatGPT and analysts tied Partner weakness to AI/vibe-coding pressure. Do not retry the old 2026-04-12 failed-candidate entry.
 - **STG.AX** was added on 2026-05-19 from the translation/localization peer angle. Do not retry.
 - **TMV.DE** was added on 2026-05-20 from the live European/software AI-risk catalyst angle. Do not retry.
-- At 87 companies, proving AI as the primary cause remains the binding constraint.
+- **CINT.ST** was added on 2026-05-21 from the market-research/survey-sample angle. Do not retry.
+- At 88 companies, proving AI as the primary cause remains the binding constraint.
