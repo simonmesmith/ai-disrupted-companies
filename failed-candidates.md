@@ -191,3 +191,4 @@
 | DATA.L | GlobalData | Price-qualified (-41.4%) but rejected for now: current materials frame GlobalData as an AI-enabled intelligence/productivity platform and do not yet show AI as the primary cause of revenue deterioration or guidance pressure. | 2026-05-21 |
 | RXT | Rackspace Technology | Down only ~13.2% from pre-ChatGPT, so price does not qualify. | 2026-05-21 |
 | SAA.L | M&C Saatchi | Down only ~1.2% from pre-ChatGPT, so price does not qualify despite digital-agency AI concerns. | 2026-05-21 |
+| KNOS.L | Kainos Group | Price-qualified (-45.3%) but rejected: FY2026 results showed revenue up 17%, product ARR up 23%, and AI/data project revenue up 11%, so AI appears to be a demand/product driver rather than the primary disruption cause. | 2026-05-25 |

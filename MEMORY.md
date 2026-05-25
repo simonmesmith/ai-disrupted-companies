@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 88 (as of 2026-05-21)
-- **Last updated:** 2026-05-21
+- **Company count:** 88 (as of 2026-05-25)
+- **Last updated:** 2026-05-25
 
 ## Category Distribution
 | Category | Count |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-25
+- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices and an already-present RCH.L row, so Reach was not duplicated.
+- **Rejected / rechecked:** Standing leads still failed: TRI (-18.7%) and SFIX (-12.8%) were too modest, while DOCU (+11.2%) and DUOL (+60.1%) remained above pre-ChatGPT. RCH.L was price-qualified and had a strong AI-search/publisher thesis, but it was already in `companies.csv`. KNOS.L was price-qualified (-45.3%) but rejected because FY2026 results showed 17% revenue growth, 23% product ARR growth, and AI/data project revenue up 11%, making AI a demand/product driver rather than the primary disruption cause. DATA.L, YOU.L, ZOO.L, RWA.L, ADEN.SW, RAND.AS, NRDS, and TTD remain price-qualified monitors with prior primary-cause or saturation objections still holding.
+- **Search approaches used:** 3 of 5 (standing lead re-check; duplicate/AI-search publisher follow-up via RCH.L; UK IT-services/market-intelligence spot screen). Candidate evaluations exceeded the nominal 15-check cap because the price screen was broader than intended; no further research was done after KNOS.L failed.
+- **Observation:** The required sync can surface already-added companies, so duplicate checks remain essential before doing deep research. The most promising new path remains fresh company-level catalysts where AI is tied to revenue deterioration or guidance pressure; broad IT-services names with growing AI revenue should not be forced.
 
 ## Session Log: 2026-05-21
 - **Added:** CINT.ST (Cint Group AB) — Research & Analytics / Market Research. Pre-ChatGPT SEK 46.42, current SEK 5.88 (-87.3%). Active Stockholm ticker, no yfinance split distortion, and no duplicate Cint row. The AI thesis is survey-sample marketplace compression: synthetic research and AI personas give marketers faster, cheaper directional answers than traditional human-panel studies, while AI/bot respondents make opt-in survey panels harder to police. Cint's own Q1 2026 report said Cint Exchange sales were still down 5.1% in constant currency and described new respondent-vetting layers to screen for AI and bot respondents; Cint's data leader also warned that AI and synthetic modeling will massively disrupt the traditional question-and-answer research model and that brands may bypass research if it is not fast and cost-effective.
