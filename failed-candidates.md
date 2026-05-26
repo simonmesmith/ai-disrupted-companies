@@ -192,3 +192,11 @@
 | RXT | Rackspace Technology | Down only ~13.2% from pre-ChatGPT, so price does not qualify. | 2026-05-21 |
 | SAA.L | M&C Saatchi | Down only ~1.2% from pre-ChatGPT, so price does not qualify despite digital-agency AI concerns. | 2026-05-21 |
 | KNOS.L | Kainos Group | Price-qualified (-45.3%) but rejected: FY2026 results showed revenue up 17%, product ARR up 23%, and AI/data project revenue up 11%, so AI appears to be a demand/product driver rather than the primary disruption cause. | 2026-05-25 |
+| TRI | Thomson Reuters | Rechecked after sync: down only ~19.9% on adjusted yfinance pricing and still distorted by capital-return/share-consolidation effects, so price decline remains too modest. | 2026-05-26 |
+| DOCU | DocuSign | Rechecked after sync: up ~11.0% from pre-ChatGPT, so price does not qualify. | 2026-05-26 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~9.2% from pre-ChatGPT, still too modest despite plausible AI styling pressure. | 2026-05-26 |
+| DUOL | Duolingo | Rechecked after sync: up ~61.5% from pre-ChatGPT, so price does not qualify. | 2026-05-26 |
+| HUBS | HubSpot | Down ~29.3% and fresh analyst downgrades cite AI-agent go-to-market execution risk, but it remains just short of the price gate and Q1 2026 revenue growth was still strong. Monitor if it crosses below ~-30% with clearer AI-disruption fundamentals. | 2026-05-26 |
+| NIITLTD.NS | NIIT Limited | Price-qualified (-78.0%) but rejected: stock history is muddied by restructuring/demerger context, while current results and company commentary frame AI-led skilling and deep-skilling programs as demand growth rather than primary external disruption. | 2026-05-26 |
+| ALIT | Alight | Price-qualified (-89.0%) but rejected: recent decline appears driven by impairment, execution issues, dividend suspension, and operational reset; current materials frame AI as an operating-model/product investment rather than the primary disruption cause. | 2026-05-26 |
+| CARS | Cars.com | Barely price-qualified (-31.3%) but rejected: Q1 2026 revenue was essentially flat with profitability improving, and AI is presented as a marketplace/product feature rather than a clear cause of revenue deterioration. | 2026-05-26 |

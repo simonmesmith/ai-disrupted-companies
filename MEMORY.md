@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 88 (as of 2026-05-25)
-- **Last updated:** 2026-05-25
+- **Company count:** 89 (as of 2026-05-26)
+- **Last updated:** 2026-05-26
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Software & SaaS | 24 |
-| Business Services | 24 |
+| Business Services | 25 |
 | Content & Media | 13 |
 | Research & Analytics | 11 |
 | Marketing & Advertising | 7 |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-26
+- **Added:** ACN (Accenture plc) — Business Services / IT Services. Pre-ChatGPT $272.75, current $176.70 (-35.2%). Active NYSE ticker, no yfinance split distortion, and no duplicate Accenture row. The AI thesis is professional-services delivery compression: generative and agentic AI can automate coding, testing, documentation, support, and process-analysis work that historically supported large consulting and systems-integration teams. Reuters reported that Anthropic/Palantir automation claims fuelled fears of compressed project timelines and labor-intensive IT-services disruption, while Guggenheim warned AI efficiency gains could shrink engagement sizes and disintermediate systems-integration work. Accenture says AI is a long-term growth opportunity, so this is framed as a market repricing of the legacy billable-services model rather than current revenue collapse.
+- **Rejected / rechecked:** Standing leads failed again: TRI (-19.9%) and SFIX (-9.2%) were too modest, while DOCU (+11.0%) and DUOL (+61.5%) remained above pre-ChatGPT. HUBS was close (-29.3%) and had fresh AI-agent go-to-market downgrade risk, but did not clear the price gate. NIITLTD.NS was price-qualified (-78.0%) but rejected because the stock is distorted by restructuring/demerger context and current evidence frames AI-led skilling as demand growth. ALIT was price-qualified (-89.0%) but rejected because the primary pressure appears to be impairment, execution, dividend suspension, and operational reset, with AI framed as an efficiency/product initiative. CARS was barely price-qualified (-31.3%) but rejected because current results are flat/stabilizing and AI appears as a product feature rather than primary disruption.
+- **Search approaches used:** 3 of 5 (standing lead re-check; live software/AI-agent downgrade screen; broad IT-services/BPO/education/platform price screen). Candidate evaluations stayed within the 15-company cap.
+- **Observation:** Large-cap IT services can still qualify when the price gate finally catches up to the AI-labor-arbitrage thesis, but the bar should stay high because many service firms now present AI as both threat and growth engine. For future sessions, prefer fresh analyst or filing evidence that explicitly connects AI automation to engagement-size pressure, revenue deflation, or guidance risk.
 
 ## Session Log: 2026-05-25
 - **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices and an already-present RCH.L row, so Reach was not duplicated.

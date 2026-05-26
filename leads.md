@@ -1,9 +1,9 @@
 # Leads for Next Session
 
 ## Promising Candidates to Monitor
-- **TRI (Thomson Reuters)** — Down ~18.7% on adjusted yfinance pricing on 2026-05-25, still too modest. Raw-price comparisons can overstate the decline because of capital-return/share-consolidation effects; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
-- **DOCU (DocuSign)** — Above pre-ChatGPT (+11.2% on 2026-05-25). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
-- **SFIX (Stitch Fix)** — Below pre-ChatGPT (-12.8% on 2026-05-25), but decline is too modest. AI styling could threaten the human stylist model if fundamentals deteriorate further.
+- **TRI (Thomson Reuters)** — Down ~19.9% on adjusted yfinance pricing on 2026-05-26, still too modest. Raw-price comparisons can overstate the decline because of capital-return/share-consolidation effects; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
+- **DOCU (DocuSign)** — Above pre-ChatGPT (+11.0% on 2026-05-26). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
+- **SFIX (Stitch Fix)** — Below pre-ChatGPT (-9.2% on 2026-05-26), but decline is too modest. AI styling could threaten the human stylist model if fundamentals deteriorate further.
 - **Legal & Tax thin category** — Still only 3 companies. No new candidate found; most legal/tax companies are private, acquired, or above pre-ChatGPT.
 - **Re-evaluate failed candidates periodically** — APX.AX/WIX patterns show borderline candidates can qualify as prices drop further.
 - **Translation/localization peers** — STG.AX was added on 2026-05-19. This under-saturated vein may still have public peers, but require explicit evidence of legacy human translation volume/revenue being replaced by AI workflows.
@@ -15,7 +15,7 @@
 
 ## Notes
 - **NCNO** and **CRTO** were evaluated on 2026-05-06 and moved to failed candidates; do not retry soon unless fundamentals or the AI thesis changes materially.
-- **DUOL** remains far above pre-ChatGPT despite education disruption concerns (+63.3% on 2026-05-15).
+- **DUOL** remains far above pre-ChatGPT despite education disruption concerns (+61.5% on 2026-05-26).
 - **TEP.PA** was added from the international BPO/contact-center peer angle; that cluster is now saturated.
 - **HAS.L** was added from the international staffing peer angle on 2026-05-07; staffing/recruitment is now also saturated.
 - **SFOR.L** was added from the digital advertising agency angle on 2026-05-08. Look for other ad-services names only where AI is clearly tied to client budget shift, creative/workflow automation, or agency labor-hour compression.
@@ -25,4 +25,5 @@
 - **STG.AX** was added on 2026-05-19 from the translation/localization peer angle. Do not retry.
 - **TMV.DE** was added on 2026-05-20 from the live European/software AI-risk catalyst angle. Do not retry.
 - **CINT.ST** was added on 2026-05-21 from the market-research/survey-sample angle. Do not retry.
-- At 88 companies, proving AI as the primary cause remains the binding constraint.
+- **ACN** was added on 2026-05-26 from the IT-services / AI-labor-compression angle. Do not retry.
+- At 89 companies, proving AI as the primary cause remains the binding constraint.
