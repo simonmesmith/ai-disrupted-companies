@@ -200,3 +200,8 @@
 | NIITLTD.NS | NIIT Limited | Price-qualified (-78.0%) but rejected: stock history is muddied by restructuring/demerger context, while current results and company commentary frame AI-led skilling and deep-skilling programs as demand growth rather than primary external disruption. | 2026-05-26 |
 | ALIT | Alight | Price-qualified (-89.0%) but rejected: recent decline appears driven by impairment, execution issues, dividend suspension, and operational reset; current materials frame AI as an operating-model/product investment rather than the primary disruption cause. | 2026-05-26 |
 | CARS | Cars.com | Barely price-qualified (-31.3%) but rejected: Q1 2026 revenue was essentially flat with profitability improving, and AI is presented as a marketplace/product feature rather than a clear cause of revenue deterioration. | 2026-05-26 |
+| TRI | Thomson Reuters | Rechecked after sync: down ~28.9% on adjusted yfinance pricing, close but still short of the price gate; raw comparisons remain distorted by capital-return/share-consolidation effects. | 2026-05-27 |
+| DOCU | DocuSign | Rechecked after sync: up ~10.5% from pre-ChatGPT, so price does not qualify. | 2026-05-27 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~6.7% from pre-ChatGPT, far too modest despite plausible AI styling pressure. | 2026-05-27 |
+| DUOL | Duolingo | Rechecked after sync: up ~63.6% from pre-ChatGPT, so price does not qualify. | 2026-05-27 |
+| HUBS | HubSpot | Rechecked after sync: down ~28.2% and still just short of the price gate despite plausible AI-agent go-to-market pressure. | 2026-05-27 |

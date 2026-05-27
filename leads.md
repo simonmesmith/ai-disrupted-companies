@@ -1,9 +1,9 @@
 # Leads for Next Session
 
 ## Promising Candidates to Monitor
-- **TRI (Thomson Reuters)** — Down ~19.9% on adjusted yfinance pricing on 2026-05-26, still too modest. Raw-price comparisons can overstate the decline because of capital-return/share-consolidation effects; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
-- **DOCU (DocuSign)** — Above pre-ChatGPT (+11.0% on 2026-05-26). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
-- **SFIX (Stitch Fix)** — Below pre-ChatGPT (-9.2% on 2026-05-26), but decline is too modest. AI styling could threaten the human stylist model if fundamentals deteriorate further.
+- **TRI (Thomson Reuters)** — Down ~28.9% on adjusted yfinance pricing on 2026-05-27, still just short of the price gate. Raw-price comparisons can overstate the decline because of capital-return/share-consolidation effects; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
+- **DOCU (DocuSign)** — Above pre-ChatGPT (+10.5% on 2026-05-27). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
+- **SFIX (Stitch Fix)** — Below pre-ChatGPT (-6.7% on 2026-05-27), but decline is too modest. AI styling could threaten the human stylist model if fundamentals deteriorate further.
 - **Legal & Tax thin category** — Still only 3 companies. No new candidate found; most legal/tax companies are private, acquired, or above pre-ChatGPT.
 - **Re-evaluate failed candidates periodically** — APX.AX/WIX patterns show borderline candidates can qualify as prices drop further.
 - **Translation/localization peers** — STG.AX was added on 2026-05-19. This under-saturated vein may still have public peers, but require explicit evidence of legacy human translation volume/revenue being replaced by AI workflows.
@@ -26,4 +26,5 @@
 - **TMV.DE** was added on 2026-05-20 from the live European/software AI-risk catalyst angle. Do not retry.
 - **CINT.ST** was added on 2026-05-21 from the market-research/survey-sample angle. Do not retry.
 - **ACN** was added on 2026-05-26 from the IT-services / AI-labor-compression angle. Do not retry.
-- At 89 companies, proving AI as the primary cause remains the binding constraint.
+- **4324.T** was added on 2026-05-27 from the ad-services / agency-model-compression angle after Dentsu crossed the price gate. Do not retry.
+- At 90 companies, proving AI as the primary cause remains the binding constraint.

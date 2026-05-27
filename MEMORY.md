@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 89 (as of 2026-05-26)
-- **Last updated:** 2026-05-26
+- **Company count:** 90 (as of 2026-05-27)
+- **Last updated:** 2026-05-27
 
 ## Category Distribution
 | Category | Count |
@@ -11,7 +11,7 @@
 | Business Services | 25 |
 | Content & Media | 13 |
 | Research & Analytics | 11 |
-| Marketing & Advertising | 7 |
+| Marketing & Advertising | 8 |
 | Education | 3 |
 | Freelance Marketplaces | 3 |
 | Legal & Tax | 3 |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-27
+- **Added:** 4324.T (Dentsu Group Inc) — Marketing & Advertising / Ad Services / Agencies. Pre-ChatGPT JPY 4,450, current JPY 3,091 (-30.5%). Active Tokyo ticker, no yfinance split distortion, and no duplicate Dentsu row. The AI thesis is agency-model compression: generative and agentic AI can automate planning, targeting, creative production, media buying, optimization, research, and signal processing that historically supported billable agency labor and intermediary fees. Dentsu's own 2026 writing says AI is changing the fabric of marketing work and automating core agency workflows; industry coverage tied Dentsu UK to the broader shift away from time-and-materials economics as AI reduced creative-agency headcount and media spend moved directly to technology platforms. FY2025 net revenue declined slightly, the Americas were weak, goodwill impairment was large, and FY2026 organic growth guidance was only 0-1%. Dentsu is investing heavily in AI For Growth, but the pivot confirms the pressure on legacy agency economics.
+- **Rejected / rechecked:** Standing leads failed again: TRI (-28.9%) and HUBS (-28.2%) were close but still did not clear the price gate; SFIX (-6.7%) was too modest; DOCU (+10.5%) and DUOL (+63.6%) were above pre-ChatGPT. Previously monitored price-qualified names such as NRDS, TTD, DATA.L, YOU.L, ZOO.L, RWA.L, ADEN.SW, RAND.AS, DCBO, NCNO, and DND.TO were re-screened but left under prior primary-cause or saturation objections. Dentsu/4324.T had previously failed the price gate but now clears it narrowly.
+- **Search approaches used:** 2 of 5 (standing lead re-check; prior ad-agency peer follow-up). Candidate evaluations stayed within the 15-company cap.
+- **Observation:** Previously rejected ad-agency peers can qualify once the price gate moves, but the evidence bar should stay high. Dentsu works because it is an agency-holding-company peer of existing WPP/OMC/SFOR entries, and current evidence ties AI directly to agency workflow automation, media-platform bypass, headcount pressure, and weak international growth rather than just generic ad-market softness.
 
 ## Session Log: 2026-05-26
 - **Added:** ACN (Accenture plc) — Business Services / IT Services. Pre-ChatGPT $272.75, current $176.70 (-35.2%). Active NYSE ticker, no yfinance split distortion, and no duplicate Accenture row. The AI thesis is professional-services delivery compression: generative and agentic AI can automate coding, testing, documentation, support, and process-analysis work that historically supported large consulting and systems-integration teams. Reuters reported that Anthropic/Palantir automation claims fuelled fears of compressed project timelines and labor-intensive IT-services disruption, while Guggenheim warned AI efficiency gains could shrink engagement sizes and disintermediate systems-integration work. Accenture says AI is a long-term growth opportunity, so this is framed as a market repricing of the legacy billable-services model rather than current revenue collapse.
