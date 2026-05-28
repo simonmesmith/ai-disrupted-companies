@@ -205,3 +205,9 @@
 | SFIX | Stitch Fix | Rechecked after sync: down only ~6.7% from pre-ChatGPT, far too modest despite plausible AI styling pressure. | 2026-05-27 |
 | DUOL | Duolingo | Rechecked after sync: up ~63.6% from pre-ChatGPT, so price does not qualify. | 2026-05-27 |
 | HUBS | HubSpot | Rechecked after sync: down ~28.2% and still just short of the price gate despite plausible AI-agent go-to-market pressure. | 2026-05-27 |
+| TRI | Thomson Reuters | Rechecked after sync: down ~28.7% on adjusted yfinance pricing, close but still short of the price gate; raw comparisons remain distorted by capital-return/share-consolidation effects. | 2026-05-28 |
+| DOCU | DocuSign | Rechecked after sync: up ~12.8% from pre-ChatGPT, so price does not qualify. | 2026-05-28 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~4.1% from pre-ChatGPT, far too modest despite plausible AI styling pressure. | 2026-05-28 |
+| DUOL | Duolingo | Rechecked after sync: up ~66.4% from pre-ChatGPT, so price does not qualify. | 2026-05-28 |
+| HUBS | HubSpot | Rechecked after sync: down ~26.7% and still short of the price gate despite plausible AI-agent go-to-market pressure. | 2026-05-28 |
+| WKL.AS | Wolters Kluwer | Strong legal/professional-information AI-risk candidate and price-qualified, but duplicate check showed it is already present in `companies.csv`; do not re-add. | 2026-05-28 |
