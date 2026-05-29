@@ -112,34 +112,14 @@
 | PYPL | PayPal | Down 34.6% but decline from Apple Pay/Stripe/Shop Pay competition and eBay transition, not AI. Payments competition predates ChatGPT. | 2026-04-26 |
 | RMAX | RE/MAX | Down 58.2% but decline from high mortgage rates, low transaction volumes, agent defections to Compass/eXp. Housing market story, not AI. | 2026-04-26 |
 | CCRN | Cross Country Healthcare | Down 71.5% but post-COVID travel nursing normalization + failed Aya merger + $77.9M goodwill impairment. Not AI-related. | 2026-04-26 |
-| TRI | Thomson Reuters | Down ~21.6% from pre-ChatGPT on 2026-05-06, still too modest despite Claude Cowork/legal AI catalyst. Monitor only if decline deepens materially. | 2026-05-06 |
-| DOCU | DocuSign | Still above pre-ChatGPT (+4.7%). Plausible e-signature commoditization thesis, but price does not qualify. | 2026-05-06 |
 | NCNO | nCino | Down ~29.9% but not AI-disrupted: FY2026 ACV +17%, net retention 112%, record bookings, and management says demand for AI banking capabilities is accelerating. | 2026-05-06 |
-| SFIX | Stitch Fix | Down only ~4.1% from pre-ChatGPT. AI styling thesis plausible but decline far too modest. | 2026-05-06 |
 | CRTO | Criteo | Down ~36.2%, but decline is tied to retail-media client scope reductions, ad-spend pressure, and margin/capex concerns; company is an AI/OpenAI ad integration partner rather than primarily disrupted by AI. | 2026-05-06 |
-| DUOL | Duolingo | Still far above pre-ChatGPT (+57.4%) despite 2026 selloff. Does not qualify. | 2026-05-06 |
-| TRI | Thomson Reuters | Rechecked after sync: down ~20.5% from pre-ChatGPT, still too modest despite legal AI catalyst. | 2026-05-07 |
-| DOCU | DocuSign | Rechecked after sync: up ~9.9% from pre-ChatGPT, so price does not qualify. | 2026-05-07 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~4.8% from pre-ChatGPT, far too modest. | 2026-05-07 |
-| DUOL | Duolingo | Rechecked after sync: up ~64.8% from pre-ChatGPT, so price does not qualify. | 2026-05-07 |
 | DND.TO | Dye & Durham | Price qualifies (-77.4%) and ticker is active, but rejected because current evidence points to market softness, customer turnover, debt/governance strain, and legal software transformation rather than AI as the primary cause. | 2026-05-07 |
-| TRI | Thomson Reuters | Rechecked after sync: down ~22.3% from pre-ChatGPT, still too modest despite legal AI catalyst. | 2026-05-08 |
-| DOCU | DocuSign | Rechecked after sync: up ~5.7% from pre-ChatGPT, so price does not qualify. | 2026-05-08 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~8.5% from pre-ChatGPT, far too modest. | 2026-05-08 |
-| DUOL | Duolingo | Rechecked after sync: up ~61.3% from pre-ChatGPT, so price does not qualify. | 2026-05-08 |
 | NOTE | FiscalNote | Price collapse is dramatic but a 1:12 reverse split creates a red flag, and current company materials frame AI as FiscalNote's product/API infrastructure pivot rather than a primary external disruption cause. | 2026-05-08 |
 | IAC | IAC Inc | Up ~8.9% from pre-ChatGPT. Dotdash Meredith / AI-search idea does not pass the price test at parent-company level. | 2026-05-08 |
 | GCI | Gannett | No yfinance data available; appears delisted or ticker unavailable. | 2026-05-08 |
 | NYT | New York Times Co | Up ~128.1% from pre-ChatGPT. Not disrupted despite AI-search/publisher concerns. | 2026-05-08 |
 | SCHL | Scholastic | Down only ~2.1% from pre-ChatGPT. Does not qualify. | 2026-05-08 |
-| TRI | Thomson Reuters | Rechecked after sync: down ~22.1% from pre-ChatGPT, still too modest despite legal AI catalyst. | 2026-05-11 |
-| DOCU | DocuSign | Rechecked after sync: up ~5.2% from pre-ChatGPT, so price does not qualify. | 2026-05-11 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~11.0% from pre-ChatGPT, far too modest. | 2026-05-11 |
-| DUOL | Duolingo | Rechecked after sync: up ~60.4% from pre-ChatGPT, so price does not qualify. | 2026-05-11 |
-| TRI | Thomson Reuters | Rechecked after sync: down ~23.5% from pre-ChatGPT, still too modest despite legal AI catalyst. | 2026-05-12 |
-| DOCU | DocuSign | Rechecked after sync: up ~3.2% from pre-ChatGPT, so price does not qualify. | 2026-05-12 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~16.8% from pre-ChatGPT, far too modest. | 2026-05-12 |
-| DUOL | Duolingo | Rechecked after sync: up ~61.1% from pre-ChatGPT, so price does not qualify. | 2026-05-12 |
 | ZI | ZoomInfo Technologies | Former ticker has no yfinance data after May 2025 ticker change. Use active Nasdaq ticker GTM instead; GTM was added 2026-05-12. | 2026-05-12 |
 | IPS.PA | Ipsos | Down ~32.5% and active, but rejected for now because evidence points to mild organic growth/Q1 Americas weakness and AI transformation strategy rather than primary AI disruption. | 2026-05-12 |
 | GFK.DE | GfK | No yfinance data; delisted/private. | 2026-05-12 |
@@ -148,17 +128,9 @@
 | RWA.L | Robert Walters | Price-qualified (-84.2%) but not added: staffing/recruitment category is saturated, Q1 2026 showed sequential improvement, and FT described Robert Walters as better positioned than PageGroup against AI disintermediation. | 2026-05-12 |
 | ADEN.SW | Adecco Group | Price-qualified (-43.4%) but not added: current company materials frame AI/agentic AI as a productivity and transformation lever, while analyst concerns remain broad staffing technology risk rather than clean company-specific AI disruption. | 2026-05-12 |
 | RAND.AS | Randstad | Price-qualified (-53.7%) but not added: company-specific evidence is mixed, with Randstad emphasizing AI-driven demand for skilled trades and AI-enabled matching rather than a primary AI-disruption decline. | 2026-05-12 |
-| TRI | Thomson Reuters | Rechecked after sync: down ~23.0% on adjusted yfinance pricing, still too modest despite legal AI catalyst; raw-price comparisons overstate decline because of capital-return/share-consolidation effects. | 2026-05-13 |
-| DOCU | DocuSign | Rechecked after sync: up ~1.0% from pre-ChatGPT, so price does not qualify. | 2026-05-13 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~19.2% from pre-ChatGPT, still too modest. | 2026-05-13 |
-| DUOL | Duolingo | Rechecked after sync: up ~54.7% from pre-ChatGPT, so price does not qualify. | 2026-05-13 |
 | STGW | Stagwell | Down only ~18.2% from pre-ChatGPT. Digital agency AI thesis plausible, but price decline is too modest. | 2026-05-13 |
 | 4324.T | Dentsu Group | Down only ~23.6% from pre-ChatGPT. Advertising agency AI thesis plausible, but price decline is too modest. | 2026-05-13 |
 | NRDS | NerdWallet | Price-qualified (-40.5%) but rejected for now: Q1 2026 revenue grew 6%, profitability improved, and management frames AI/LLM distribution as mixed or potentially advantageous; organic-search headwinds are not yet a broad primary AI-disruption story. | 2026-05-13 |
-| TRI | Thomson Reuters | Rechecked after sync: down ~24.2% on adjusted yfinance pricing, still too modest despite legal AI catalyst; raw comparisons remain distorted by capital-return/share-consolidation effects. | 2026-05-15 |
-| DOCU | DocuSign | Rechecked after sync: up ~3.6% from pre-ChatGPT, so price does not qualify. | 2026-05-15 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~17.8% from pre-ChatGPT, still too modest. | 2026-05-15 |
-| DUOL | Duolingo | Rechecked after sync: up ~63.3% from pre-ChatGPT, so price does not qualify. | 2026-05-15 |
 | NCNO | nCino | Now price-qualified (-39.6%) but rejected again: latest FY2026 results showed record gross ACV bookings, 112% net retention, guidance beats, and demand for AI banking capabilities; AI is a product tailwind, not the primary disruption cause. | 2026-05-15 |
 | IPS.PA | Ipsos | Rechecked after sync: adjusted yfinance decline is only ~25.4%, so it no longer clears the price gate; prior AI-primary-cause concerns still apply. | 2026-05-15 |
 | PINS | Pinterest | Wedbush named it a potential AI loser, but current adjusted decline is only ~19.9%, so price does not qualify. | 2026-05-15 |
@@ -173,41 +145,35 @@
 | YELP | Yelp Inc | Rechecked from AI fake-review / local-search screen: down only ~21.3% from pre-ChatGPT, so price does not qualify. | 2026-05-19 |
 | SEK.AX | SEEK Limited | Price-qualified (-37.2%) but rejected: AI jitters around recruitment marketplaces exist, yet current evidence is mixed with Zhaopin impairment, weak job-ad volumes, macro hiring sensitivity, and management framing AI as improving yield and product performance. Staffing/job-marketplace category is already crowded. | 2026-05-19 |
 | 6098.T | Recruit Holdings | Rechecked from international recruitment marketplace screen: up ~124.0% from pre-ChatGPT, so price does not qualify. | 2026-05-19 |
-| TRI | Thomson Reuters | Rechecked after sync: down only ~19.7% on adjusted yfinance pricing and still distorted by capital-return/share-consolidation effects, so price decline remains too modest. | 2026-05-20 |
-| DOCU | DocuSign | Rechecked after sync: up ~9.3% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~21.9% from pre-ChatGPT, still too modest despite plausible AI styling pressure. | 2026-05-20 |
-| DUOL | Duolingo | Rechecked after sync: up ~64.2% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
 | ZOO.L | ZOO Digital Group | Price-qualified (-94.3%) and in localization/dubbing, but rejected because current evidence points mainly to streaming-industry flux, strike/post-strike production mix, and licensed-content shifts reducing dubbing demand rather than AI as the primary cause. | 2026-05-20 |
 | 2483.T | Honyaku Center | Translation/localization peer check: up ~66.0% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
 | OKTA | Okta | Live AI-risk software screen: up ~67.9% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
 | NET | Cloudflare | Live AI-risk software screen: up ~366.7% from pre-ChatGPT and current evidence frames AI as an efficiency/product tailwind, so price does not qualify. | 2026-05-20 |
 | DT | Dynatrace | Live AI-risk software screen: up ~9.1% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
 | IBM | IBM | Rechecked from AI/software screen: up ~70.3% from pre-ChatGPT, so price does not qualify. | 2026-05-20 |
-| TRI | Thomson Reuters | Rechecked after sync: down only ~21.0% on adjusted yfinance pricing and still distorted by capital-return/share-consolidation effects, so price decline remains too modest. | 2026-05-21 |
-| DOCU | DocuSign | Rechecked after sync: up ~8.1% from pre-ChatGPT, so price does not qualify. | 2026-05-21 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~15.6% from pre-ChatGPT, still too modest despite plausible AI styling pressure. | 2026-05-21 |
-| DUOL | Duolingo | Rechecked after sync: up ~58.8% from pre-ChatGPT, so price does not qualify. | 2026-05-21 |
 | DCBO | Docebo | Price-qualified (-42.9%) but rejected: latest Q1 2026 results showed double-digit revenue/subscription growth, raised full-year guidance, strong free cash flow, and enterprise demand for its AI workforce-readiness platform. AI is currently a demand driver, not the primary disruption cause. | 2026-05-21 |
 | DATA.L | GlobalData | Price-qualified (-41.4%) but rejected for now: current materials frame GlobalData as an AI-enabled intelligence/productivity platform and do not yet show AI as the primary cause of revenue deterioration or guidance pressure. | 2026-05-21 |
 | RXT | Rackspace Technology | Down only ~13.2% from pre-ChatGPT, so price does not qualify. | 2026-05-21 |
 | SAA.L | M&C Saatchi | Down only ~1.2% from pre-ChatGPT, so price does not qualify despite digital-agency AI concerns. | 2026-05-21 |
 | KNOS.L | Kainos Group | Price-qualified (-45.3%) but rejected: FY2026 results showed revenue up 17%, product ARR up 23%, and AI/data project revenue up 11%, so AI appears to be a demand/product driver rather than the primary disruption cause. | 2026-05-25 |
-| TRI | Thomson Reuters | Rechecked after sync: down only ~19.9% on adjusted yfinance pricing and still distorted by capital-return/share-consolidation effects, so price decline remains too modest. | 2026-05-26 |
-| DOCU | DocuSign | Rechecked after sync: up ~11.0% from pre-ChatGPT, so price does not qualify. | 2026-05-26 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~9.2% from pre-ChatGPT, still too modest despite plausible AI styling pressure. | 2026-05-26 |
-| DUOL | Duolingo | Rechecked after sync: up ~61.5% from pre-ChatGPT, so price does not qualify. | 2026-05-26 |
-| HUBS | HubSpot | Down ~29.3% and fresh analyst downgrades cite AI-agent go-to-market execution risk, but it remains just short of the price gate and Q1 2026 revenue growth was still strong. Monitor if it crosses below ~-30% with clearer AI-disruption fundamentals. | 2026-05-26 |
 | NIITLTD.NS | NIIT Limited | Price-qualified (-78.0%) but rejected: stock history is muddied by restructuring/demerger context, while current results and company commentary frame AI-led skilling and deep-skilling programs as demand growth rather than primary external disruption. | 2026-05-26 |
 | ALIT | Alight | Price-qualified (-89.0%) but rejected: recent decline appears driven by impairment, execution issues, dividend suspension, and operational reset; current materials frame AI as an operating-model/product investment rather than the primary disruption cause. | 2026-05-26 |
 | CARS | Cars.com | Barely price-qualified (-31.3%) but rejected: Q1 2026 revenue was essentially flat with profitability improving, and AI is presented as a marketplace/product feature rather than a clear cause of revenue deterioration. | 2026-05-26 |
-| TRI | Thomson Reuters | Rechecked after sync: down ~28.9% on adjusted yfinance pricing, close but still short of the price gate; raw comparisons remain distorted by capital-return/share-consolidation effects. | 2026-05-27 |
-| DOCU | DocuSign | Rechecked after sync: up ~10.5% from pre-ChatGPT, so price does not qualify. | 2026-05-27 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~6.7% from pre-ChatGPT, far too modest despite plausible AI styling pressure. | 2026-05-27 |
-| DUOL | Duolingo | Rechecked after sync: up ~63.6% from pre-ChatGPT, so price does not qualify. | 2026-05-27 |
-| HUBS | HubSpot | Rechecked after sync: down ~28.2% and still just short of the price gate despite plausible AI-agent go-to-market pressure. | 2026-05-27 |
-| TRI | Thomson Reuters | Rechecked after sync: down ~28.7% on adjusted yfinance pricing, close but still short of the price gate; raw comparisons remain distorted by capital-return/share-consolidation effects. | 2026-05-28 |
-| DOCU | DocuSign | Rechecked after sync: up ~12.8% from pre-ChatGPT, so price does not qualify. | 2026-05-28 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~4.1% from pre-ChatGPT, far too modest despite plausible AI styling pressure. | 2026-05-28 |
-| DUOL | Duolingo | Rechecked after sync: up ~66.4% from pre-ChatGPT, so price does not qualify. | 2026-05-28 |
-| HUBS | HubSpot | Rechecked after sync: down ~26.7% and still short of the price gate despite plausible AI-agent go-to-market pressure. | 2026-05-28 |
 | WKL.AS | Wolters Kluwer | Strong legal/professional-information AI-risk candidate and price-qualified, but duplicate check showed it is already present in `companies.csv`; do not re-add. | 2026-05-28 |
+| TRI | Thomson Reuters | Rechecked after sync: down only ~20.0% on adjusted yfinance pricing; capital-return/dividend-adjusted data no longer puts it close to the price gate. | 2026-05-29 |
+| DOCU | DocuSign | Rechecked after sync: up ~14.0% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~5.3% from pre-ChatGPT, far too modest despite plausible AI styling pressure. | 2026-05-29 |
+| DUOL | Duolingo | Rechecked after sync: up ~63.3% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
+| HUBS | HubSpot | Rechecked after sync: down ~26.6% and still short of the price gate despite plausible AI-agent go-to-market pressure. | 2026-05-29 |
+| STGW | Stagwell | Rechecked from ad-agency AI disruption peer screen: down only ~2.8% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
+| 2433.T | Hakuhodo DY Holdings | Rechecked from ad-agency AI disruption peer screen: down only ~8.5% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
+| BYIT.L | Bytes Technology Group | AI budget-shift and Microsoft incentive risks are relevant, but adjusted yfinance decline is only ~10.4%, so price does not qualify. | 2026-05-29 |
+| RNG | RingCentral | Contact-center/UCaaS AI disruption concern does not pass the price gate; stock is up ~20.6% from pre-ChatGPT. | 2026-05-29 |
+| ZM | Zoom Communications | Contact-center/UCaaS AI disruption concern does not pass the price gate; stock is up ~43.6% from pre-ChatGPT. | 2026-05-29 |
+| TCS.NS | Tata Consultancy Services | Indian IT-services AI-disruption thesis is plausible, but adjusted yfinance decline is only ~25.1% and still short of the price gate. | 2026-05-29 |
+| WIT | Wipro | Rechecked from Indian IT-services AI-risk screen: down only ~4.2% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
+| MPHASIS.NS | Mphasis | Rechecked from Indian IT-services AI-risk screen: up ~21.3% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
+| LTIM.NS | LTIMindtree | No yfinance data under LTIM.NS in this run; ticker unavailable or changed. | 2026-05-29 |
+| COFORGE.NS | Coforge | Rechecked from Indian IT-services AI-risk screen: up ~86.2% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
+| PERSISTENT.NS | Persistent Systems | Rechecked from Indian IT-services AI-risk screen: up ~164.3% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
+| TECHM.NS | Tech Mahindra | Rechecked from Indian IT-services AI-risk screen: up ~51.5% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |

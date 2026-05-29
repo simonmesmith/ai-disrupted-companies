@@ -181,9 +181,13 @@
 - **Rejected / skipped:** TRI (-28.7%), HUBS (-26.7%), SFIX (-4.1%), DOCU (+12.8%), DUOL (+66.4%), WKL.AS already listed, FDS and IT already listed, and REL.L/RELX, LSEG.L, EXPN.L, MCO, SPGI, PUB.PA, 6701.T, 6702.T, 4307.T, 6501.T, 4768.T, and 9735.T failed price gates or magnitude tests. 9613.T had no yfinance data.
 - **Verdict:** Professional-information/legal AI is a real and already validated theme, but the obvious public names are now mostly already captured or still above the baseline. Future work should use this screen only for fresh live catalysts, and should avoid broad batch checks that can burn the candidate-evaluation cap quickly.
 
+### 2026-05-29: Zero-find run — leads plus focused live-catalyst screen
+- **Result:** No companies added. Initial sync fast-forwarded scheduled price refreshes. Standing leads still failed the price gate or magnitude test: TRI (~-20.0% adjusted), HUBS (~-26.6%), SFIX (~-5.3%), DOCU (+14.0%), and DUOL (+63.3%). A focused live-catalyst screen covering recent AI-risk downgrades and adjacent peers also found no qualifying stock.
+- **Rejected / skipped:** STGW (-2.8%), Hakuhodo/2433.T (-8.5%), Bytes/BYIT.L (-10.4%), RingCentral/RNG (+20.6%), Zoom/ZM (+43.6%), TCS.NS (-25.1%), WIT (-4.2%), Mphasis/MPHASIS.NS (+21.3%), Coforge/COFORGE.NS (+86.2%), Persistent/PERSISTENT.NS (+164.3%), and Tech Mahindra/TECHM.NS (+51.5%) failed price gates. LTIM.NS had no yfinance data under that ticker.
+- **Verdict:** Do not spend another near-term session on broad Indian IT-services or agency peer batches unless a specific name crosses the price gate or has fresh evidence of AI directly pressuring guidance. TCS is the closest new IT-services monitor, but at about -25% it remains below the threshold and the category is already crowded.
+
 ## Untried / Ideas for Next Session
-- **Monitor DOCU and SFIX** — DOCU is still above pre-ChatGPT (+1.0% on 2026-05-13), while SFIX is only modestly below (-19.2%). Both have plausible AI disruption angles only if price/fundamentals deteriorate materially.
-- **Monitor TRI (Thomson Reuters)** — at about -23.0% adjusted on 2026-05-13, still too modest but the Anthropic Claude Cowork catalyst caused a 15.83% single-day crash. Could deepen; use adjusted yfinance pricing because raw comparisons overstate the decline.
+- **Monitor standing leads sparingly** — As of 2026-05-29, TRI (~-20.0% adjusted), HUBS (~-26.6%), SFIX (~-5.3%), DOCU (+14.0%), and DUOL (+63.3%) do not qualify. Recheck only after major price moves or fresh operating evidence.
 - **NCNO (nCino)** — now price-qualified but rejected on 2026-05-15 because latest results show AI-powered banking demand and strong ACV/retention. Do not retry soon unless fundamentals turn and the cause is external AI displacement.
 - **Re-evaluate failed candidates periodically** — prices continue to move. Check borderline candidates quarterly.
 - **New SaaS categories going through "SaaSpocalypse to structural decline" transition** — some stocks currently dismissed as "SaaSpocalypse sentiment" may turn out to have genuine structural AI disruption as time reveals fundamentals deteriorating (not just multiples compressing).

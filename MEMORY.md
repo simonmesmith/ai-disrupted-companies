@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 90 (as of 2026-05-28)
-- **Last updated:** 2026-05-28
+- **Company count:** 90 (as of 2026-05-29)
+- **Last updated:** 2026-05-29
 
 ## Category Distribution
 | Category | Count |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-05-29
+- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing leads failed again on adjusted yfinance pricing: TRI was down only about -20.0% after capital-return/dividend adjustments, HUBS was about -26.6%, SFIX was about -5.3%, while DOCU (+14.0%) and DUOL (+63.3%) were above pre-ChatGPT.
+- **Rejected / skipped:** A focused live-catalyst/AI-risk screen found no clean add. STGW (-2.8%), Hakuhodo/2433.T (-8.5%), Bytes/BYIT.L (-10.4%), RingCentral/RNG (+20.6%), Zoom/ZM (+43.6%), TCS.NS (-25.1%), WIT (-4.2%), Mphasis/MPHASIS.NS (+21.3%), Coforge/COFORGE.NS (+86.2%), Persistent/PERSISTENT.NS (+164.3%), and Tech Mahindra/TECHM.NS (+51.5%) failed price gates; LTIM.NS had no yfinance data under that ticker. TCS is the closest IT-services peer but still short of the price gate and the category is saturated.
+- **Search approaches used:** 2 of 5 (standing lead re-check; focused live-catalyst screen covering AI-risk software, agency, contact-center/UCaaS, Microsoft reseller, and Indian IT-services peers). Stopped after the screen hit the candidate-effort boundary without a qualifying company.
+- **Observation:** The price gate remains the main blocker among fresh AI-risk names. Next sessions should avoid broad IT-services batches unless a specific stock has crossed the threshold or fresh coverage ties AI directly to revenue/guidance pressure; HUBS and TRI remain monitor-only until they clearly clear the adjusted price gate.
 
 ## Session Log: 2026-05-28
 - **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing leads failed again: TRI was close but still short of the adjusted price gate at about -28.7%; HUBS was also close at about -26.7%; SFIX was only about -4.1%; DOCU (+12.8%) and DUOL (+66.4%) were above pre-ChatGPT.
