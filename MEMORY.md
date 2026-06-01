@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 90 (as of 2026-05-29)
-- **Last updated:** 2026-05-29
+- **Company count:** 90 (as of 2026-06-01)
+- **Last updated:** 2026-06-01
 
 ## Category Distribution
 | Category | Count |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-06-01
+- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing leads failed again on adjusted yfinance pricing: TRI (-14.5%), HUBS (-15.3%), and SFIX (-6.5%) were too modest, while DOCU (+23.6%) and DUOL (+75.2%) were above pre-ChatGPT.
+- **Rejected / skipped:** Thin-category education screen found no clean add. AFYA (+3.2%), LAUR (+231.9%), TAL (+74.5%), GOTU (+63.3%), DAO (+177.9%), LRN (+163.3%), STRA (+5.5%), and PRDO (+139.5%) failed price gates; ATGE had no active yfinance price data after the Adtalem/ADT ticker change context. YQ was price-qualified (-52.9%) but rejected because its 2021-2023 collapse was driven by China's tutoring regulation/business-model reset, the ADS has a 1:5 reverse split, and current company materials frame AI as a new product initiative rather than the primary cause of disruption.
+- **Search approaches used:** 2 of 5 (standing lead re-check; thin Education / tutoring / for-profit education screen). Stopped at the 15-candidate evaluation cap with no qualifying company.
+- **Observation:** Education remains thin but difficult: public names are either already covered, thriving, delisted/ticker-changed, or dominated by regulatory/post-COVID dynamics rather than AI. Next sessions should continue to prefer fresh catalyst screens and only recheck standing leads after major price moves.
 
 ## Session Log: 2026-05-29
 - **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing leads failed again on adjusted yfinance pricing: TRI was down only about -20.0% after capital-return/dividend adjustments, HUBS was about -26.6%, SFIX was about -5.3%, while DOCU (+14.0%) and DUOL (+63.3%) were above pre-ChatGPT.
@@ -135,10 +141,3 @@
 - **Added:** None. At ~80 companies, qualifying candidates are very scarce.
 - **Evaluated:** PUBM, CCSI, PLTK, BLKB, CINT, DHX plus broad batch screens across SaaS, real estate, gaming, fintech, ad tech, healthcare staffing, European IT, education, and insurance.
 - **Observation:** Most remaining large stock declines are NOT primarily AI-driven. The gap between "stock is down" and "stock is down because of AI" is the binding constraint.
-
-## Session Log: 2026-04-25
-- **Added:** VERI (Veritone Inc) — Software & SaaS / Enterprise AI Platform. AI platform commoditized by foundation models; revenue collapse, going-concern warning, and heavy debt made it a clean "AI company disrupted by better AI" case.
-
-## Session Log: 2026-04-24
-- **Added:** APX.AX (Appen Limited) — Content & Media / AI Data Labeling. AI training data company disrupted by synthetic data and customers bringing labeling in-house; Google contract termination was decisive.
-- **Observation:** Re-evaluating borderline failed candidates can work as prices move, but most SaaS decliners remain sentiment or macro stories rather than AI disruption.

@@ -2,10 +2,6 @@
 
 ## Tried
 
-### 2026-03-25: Evaluate leads from memory (TWOU, BAND, DV, IAS)
-- **Result:** Found DV (DoubleVerify, -60%). TWOU bankrupt/delisted, BAND is AI beneficiary, IAS has yfinance data issues.
-- **Verdict:** Leads file was productive. DV was a strong find. Always check leads first.
-
 ### 2026-03-24: BPO / IT Services companies disrupted by AI
 - **Result:** Found CNDT (Conduent). Also checked TWKS and TIXT but both delisted.
 - **Verdict:** Productive. BPO space still has candidates. CNXC, TTEC, TASK, and now CNDT cover the major public BPO players.
@@ -186,8 +182,12 @@
 - **Rejected / skipped:** STGW (-2.8%), Hakuhodo/2433.T (-8.5%), Bytes/BYIT.L (-10.4%), RingCentral/RNG (+20.6%), Zoom/ZM (+43.6%), TCS.NS (-25.1%), WIT (-4.2%), Mphasis/MPHASIS.NS (+21.3%), Coforge/COFORGE.NS (+86.2%), Persistent/PERSISTENT.NS (+164.3%), and Tech Mahindra/TECHM.NS (+51.5%) failed price gates. LTIM.NS had no yfinance data under that ticker.
 - **Verdict:** Do not spend another near-term session on broad Indian IT-services or agency peer batches unless a specific name crosses the price gate or has fresh evidence of AI directly pressuring guidance. TCS is the closest new IT-services monitor, but at about -25% it remains below the threshold and the category is already crowded.
 
+### 2026-06-01: Zero-find run — leads plus thin education screen
+- **Result:** No companies added. Standing leads failed on adjusted prices: TRI (-14.5%), HUBS (-15.3%), and SFIX (-6.5%) were too modest, while DOCU and DUOL were above pre-ChatGPT. Education/thin-category screen also failed: AFYA, LAUR, TAL, GOTU, DAO, LRN, STRA, and PRDO failed price gates; ATGE had no active yfinance data; YQ was price-qualified but rejected because China tutoring regulation, a 1:5 ADS reverse split, and AI-as-product positioning made it non-clean.
+- **Verdict:** Education is still thin but low-yield. Do not force Chinese tutoring or for-profit education names unless the post-ChatGPT decline is clearly attributable to AI rather than regulation, post-COVID normalization, or company-specific business-model resets.
+
 ## Untried / Ideas for Next Session
-- **Monitor standing leads sparingly** — As of 2026-05-29, TRI (~-20.0% adjusted), HUBS (~-26.6%), SFIX (~-5.3%), DOCU (+14.0%), and DUOL (+63.3%) do not qualify. Recheck only after major price moves or fresh operating evidence.
+- **Monitor standing leads sparingly** — As of 2026-06-01, TRI (~-14.5% adjusted), HUBS (~-15.3%), SFIX (~-6.5%), DOCU (+23.6%), and DUOL (+75.2%) do not qualify. Recheck only after major price moves or fresh operating evidence.
 - **NCNO (nCino)** — now price-qualified but rejected on 2026-05-15 because latest results show AI-powered banking demand and strong ACV/retention. Do not retry soon unless fundamentals turn and the cause is external AI displacement.
 - **Re-evaluate failed candidates periodically** — prices continue to move. Check borderline candidates quarterly.
 - **New SaaS categories going through "SaaSpocalypse to structural decline" transition** — some stocks currently dismissed as "SaaSpocalypse sentiment" may turn out to have genuine structural AI disruption as time reveals fundamentals deteriorating (not just multiples compressing).

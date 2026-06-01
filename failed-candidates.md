@@ -177,3 +177,18 @@
 | COFORGE.NS | Coforge | Rechecked from Indian IT-services AI-risk screen: up ~86.2% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
 | PERSISTENT.NS | Persistent Systems | Rechecked from Indian IT-services AI-risk screen: up ~164.3% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
 | TECHM.NS | Tech Mahindra | Rechecked from Indian IT-services AI-risk screen: up ~51.5% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
+| TRI | Thomson Reuters | Rechecked after sync: down only ~14.5% on adjusted yfinance pricing; still does not clear the price gate, and capital-return/dividend adjustments remain a distortion risk. | 2026-06-01 |
+| DOCU | DocuSign | Rechecked after sync: up ~23.6% from pre-ChatGPT, so price does not qualify. | 2026-06-01 |
+| SFIX | Stitch Fix | Rechecked after sync: down only ~6.5% from pre-ChatGPT, far too modest despite plausible AI styling pressure. | 2026-06-01 |
+| HUBS | HubSpot | Rechecked after sync: down only ~15.3% from pre-ChatGPT and no longer close to the price gate despite AI-agent go-to-market pressure. | 2026-06-01 |
+| DUOL | Duolingo | Rechecked after sync: up ~75.2% from pre-ChatGPT, so price does not qualify. | 2026-06-01 |
+| AFYA | Afya Limited | Thin education screen: up ~3.2% from pre-ChatGPT; price does not qualify. | 2026-06-01 |
+| LAUR | Laureate Education | Thin education screen: up ~231.9% from pre-ChatGPT; price does not qualify. | 2026-06-01 |
+| ATGE | Adtalem Global Education | Thin education screen: no active yfinance data under ATGE after ticker/company-history changes; cannot qualify under this ticker. | 2026-06-01 |
+| TAL | TAL Education Group | Thin education screen: up ~74.5% from pre-ChatGPT; price does not qualify. | 2026-06-01 |
+| GOTU | Gaotu Techedu | Thin education screen: up ~63.3% from pre-ChatGPT; price does not qualify. | 2026-06-01 |
+| YQ | 17 Education & Technology Group | Price-qualified (~-52.9%) but rejected: decline is dominated by China's tutoring-regulation/business-model reset, a 1:5 ADS reverse split, and current materials frame AI as a new product initiative rather than primary disruption. | 2026-06-01 |
+| DAO | Youdao | Thin education screen: up ~177.9% from pre-ChatGPT; price does not qualify. | 2026-06-01 |
+| LRN | Stride Inc | Thin education screen: up ~163.3% from pre-ChatGPT; price does not qualify. | 2026-06-01 |
+| STRA | Strategic Education | Thin education screen: up ~5.5% from pre-ChatGPT; price does not qualify and still does not fit AI-disruption thesis. | 2026-06-01 |
+| PRDO | Perdoceo Education | Thin education screen: up ~139.5% from pre-ChatGPT; price does not qualify. | 2026-06-01 |
