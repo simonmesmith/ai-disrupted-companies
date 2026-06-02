@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 90 (as of 2026-06-01)
-- **Last updated:** 2026-06-01
+- **Last updated:** 2026-06-02
 
 ## Category Distribution
 | Category | Count |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-06-02
+- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing/monitor lead checks still failed the full bar: TRI (-15.1%), SFIX (-7.6%), and HUBS (-17.8%) were too modest, while DOCU (+21.8%) and DUOL (+65.8%) remained above pre-ChatGPT. Price-qualified monitors RWA.L, ADEN.SW, RAND.AS, NRDS, TTD, ZOO.L, DATA.L, and YOU.L stayed under prior saturation or primary-cause objections; TCS.NS no longer cleared the price gate.
+- **Rejected / skipped:** A fresh Citi application-software AI-risk screen surfaced CCC (CCC Intelligent Solutions). CCC was active, yfinance-compatible, not duplicated, had no split actions, and was price-qualified (-44.1%), but was rejected because current company/earnings evidence frames AI as a material growth driver: Q1 2026 revenue grew about 12%, full-year guidance was raised, net retention remained above 100%, and AI solutions represented about 10% of revenue / a roughly $120M annualized run rate.
+- **Search approaches used:** 2 of 5 (standing/monitor lead re-check; fresh application-software AI-risk downgrade screen). Stopped after the formal candidate-evaluation budget was effectively consumed with no qualifying company.
+- **Observation:** Broad AI-risk downgrade screens can surface price-qualified names, but many are being repriced for sector architecture risk while current fundamentals still show AI-enabled growth. CCC should not be retried soon unless revenue/retention turns down and external evidence ties deterioration to AI-native claims automation bypassing its platform.
 
 ## Session Log: 2026-06-01
 - **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing leads failed again on adjusted yfinance pricing: TRI (-14.5%), HUBS (-15.3%), and SFIX (-6.5%) were too modest, while DOCU (+23.6%) and DUOL (+75.2%) were above pre-ChatGPT.

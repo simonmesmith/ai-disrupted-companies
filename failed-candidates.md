@@ -192,3 +192,4 @@
 | LRN | Stride Inc | Thin education screen: up ~163.3% from pre-ChatGPT; price does not qualify. | 2026-06-01 |
 | STRA | Strategic Education | Thin education screen: up ~5.5% from pre-ChatGPT; price does not qualify and still does not fit AI-disruption thesis. | 2026-06-01 |
 | PRDO | Perdoceo Education | Thin education screen: up ~139.5% from pre-ChatGPT; price does not qualify. | 2026-06-01 |
+| CCC | CCC Intelligent Solutions | Price-qualified (-44.1%) and no split actions, but rejected because current evidence frames AI as a revenue and margin driver: Q1 2026 revenue grew ~12%, guidance was raised, net retention stayed above 100%, and AI solutions reached ~10% of revenue / ~$120M annualized run rate. | 2026-06-02 |
