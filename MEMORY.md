@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 90 (as of 2026-06-01)
-- **Last updated:** 2026-06-02
+- **Last updated:** 2026-06-03
 
 ## Category Distribution
 | Category | Count |
@@ -25,6 +25,12 @@
 - `leads.md` — current watchlist and next-session candidates.
 - `failed-candidates.md` — rejected candidates and reasons; check before re-evaluating.
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
+
+## Session Log: 2026-06-03
+- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing leads still failed the price gate or magnitude test: TRI (-20.3%), HUBS (-21.6%), and SFIX (-8.0%) were too modest, while DOCU (+18.5%) and DUOL (+65.8%) remained above pre-ChatGPT. Price-qualified monitor names RWA.L, ADEN.SW, RAND.AS, NRDS, TTD, ZOO.L, DATA.L, and YOU.L remained under prior saturation or primary-cause objections.
+- **Rejected / skipped:** Thin-category / international screen found no clean add. KARNOV.ST had no active yfinance data and appears unavailable/delisted. ALFRE.PA (Freelance.com) was active, not duplicated, had no split distortion, and was price-qualified (-58.8%), but was rejected because company filings point to market slowdown, price/margin pressure, and AI deployment as part of a transformation plan rather than external AI disruption as the primary cause. BOL.ST and ALM.MC failed price gates; ASC.L was price-qualified but outside the index thesis, with no primary AI-disruption case pursued.
+- **Search approaches used:** 3 of 5 (standing/monitor lead re-check; thin Legal & Tax / Nordic professional-information spot check; fringe Freelance Marketplace / European small-cap screen). Stopped under the candidate-evaluation budget with no qualifying company.
+- **Observation:** Freelance Marketplace remains thin but should not be stretched to enterprise talent/intermediation names without company-specific evidence that AI is reducing mission volume, take rate, or guidance. ALFRE.PA is a useful false positive: price-qualified, but filings describe AI as a 2026 deployment lever and blame pressure on a difficult independent-talent market.
 
 ## Session Log: 2026-06-02
 - **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing/monitor lead checks still failed the full bar: TRI (-15.1%), SFIX (-7.6%), and HUBS (-17.8%) were too modest, while DOCU (+21.8%) and DUOL (+65.8%) remained above pre-ChatGPT. Price-qualified monitors RWA.L, ADEN.SW, RAND.AS, NRDS, TTD, ZOO.L, DATA.L, and YOU.L stayed under prior saturation or primary-cause objections; TCS.NS no longer cleared the price gate.
