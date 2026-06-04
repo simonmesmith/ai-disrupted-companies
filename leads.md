@@ -1,11 +1,11 @@
 # Leads for Next Session
 
 ## Promising Candidates to Monitor
-- **TRI (Thomson Reuters)** — Down ~20.3% on adjusted yfinance pricing on 2026-06-03, still not close to the price gate after capital-return/dividend-adjusted data moved. Raw-price comparisons can overstate the decline because of capital-return/share-consolidation effects; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
-- **DOCU (DocuSign)** — Above pre-ChatGPT (+18.5% on 2026-06-03). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
-- **SFIX (Stitch Fix)** — Below pre-ChatGPT (-8.0% on 2026-06-03), but decline is far too modest. AI styling could threaten the human stylist model if fundamentals deteriorate further.
-- **HUBS (HubSpot)** — Down ~21.6% on adjusted yfinance pricing on 2026-06-03 and still not close to the price gate despite plausible AI-agent go-to-market pressure. Revisit only if it crosses below ~-30% and fundamentals show churn, pricing, retention, or guidance pressure tied to AI agents.
-- **ALFRE.PA (Freelance.com)** — Price-qualified (-58.8% on 2026-06-03), active, no duplicate, no split distortion. Not added on 2026-06-03 because independent analyst evidence was not yet found, but this is an obvious AI-disruption watchlist candidate: pricing/margin weakness in a freelance/external-talent intermediary may reflect clients using AI for more work and questioning expensive human freelancers. Be skeptical of company self-positioning that frames AI only as a transformation lever.
+- **TRI (Thomson Reuters)** — Down ~25.8% on adjusted yfinance pricing on 2026-06-04, still below the price gate after capital-return/dividend-adjusted data moved. Raw-price comparisons can overstate the decline because of capital-return/share-consolidation effects; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
+- **DOCU (DocuSign)** — Above pre-ChatGPT (+21.2% on 2026-06-04). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
+- **SFIX (Stitch Fix)** — Below pre-ChatGPT (-6.0% on 2026-06-04), but decline is far too modest. AI styling could threaten the human stylist model if fundamentals deteriorate further.
+- **HUBS (HubSpot)** — Down ~17.3% on adjusted yfinance pricing on 2026-06-04 and still not close to the price gate despite plausible AI-agent go-to-market pressure. Revisit only if it crosses below ~-30% and fundamentals show churn, pricing, retention, or guidance pressure tied to AI agents.
+- **ALFRE.PA (Freelance.com)** — **ADDED 2026-06-04.** Do not retry. Qualified after follow-up found external Ramp Economics Lab evidence that businesses are shifting spend from online labor marketplaces to AI model providers, matching Freelance.com's own organic slowdown, lower billing rates, reduced independent-worker usage, and margin pressure.
 - **Legal & Tax thin category** — Still only 3 companies. No new candidate found; most legal/tax companies are private, acquired, already listed through adjacent categories, or above pre-ChatGPT. WKL.AS was rechecked on 2026-05-28 and is already in the CSV under Research & Analytics / Professional Information.
 - **Re-evaluate failed candidates periodically** — APX.AX/WIX patterns show borderline candidates can qualify as prices drop further. For AI-exposed workflows, do not over-weight company claims that AI is not hurting them when pricing/margin pressure and stock-market timing point toward disruption.
 - **Translation/localization peers** — STG.AX was added on 2026-05-19. This under-saturated vein may still have public peers, but require explicit evidence of legacy human translation volume/revenue being replaced by AI workflows.
@@ -17,7 +17,7 @@
 
 ## Notes
 - **NCNO** and **CRTO** were evaluated on 2026-05-06 and moved to failed candidates; do not retry soon unless fundamentals or the AI thesis changes materially.
-- **DUOL** remains far above pre-ChatGPT despite education disruption concerns (+65.8% on 2026-06-03).
+- **DUOL** remains far above pre-ChatGPT despite education disruption concerns (+67.6% on 2026-06-04).
 - **TEP.PA** was added from the international BPO/contact-center peer angle; that cluster is now saturated.
 - **HAS.L** was added from the international staffing peer angle on 2026-05-07; staffing/recruitment is now also saturated.
 - **SFOR.L** was added from the digital advertising agency angle on 2026-05-08. Look for other ad-services names only where AI is clearly tied to client budget shift, creative/workflow automation, or agency labor-hour compression.

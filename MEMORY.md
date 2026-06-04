@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 90 (as of 2026-06-01)
-- **Last updated:** 2026-06-03
+- **Company count:** 91 (as of 2026-06-04)
+- **Last updated:** 2026-06-04
 
 ## Category Distribution
 | Category | Count |
@@ -13,7 +13,7 @@
 | Research & Analytics | 11 |
 | Marketing & Advertising | 8 |
 | Education | 3 |
-| Freelance Marketplaces | 3 |
+| Freelance Marketplaces | 4 |
 | Legal & Tax | 3 |
 
 ## Thin Categories (good targets for next session)
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-04
+- **Added:** ALFRE.PA (Freelance.com SA) — Freelance Marketplaces / Freelance Platform. Pre-ChatGPT EUR 7.07, current EUR 2.77 (-60.8%). Active Euronext Paris ticker, no duplicate row, and no split distortion in yfinance. The successful evidence bridge was Ramp Economics Lab's firm-level payments research showing spend shifting from online labor marketplaces to AI model providers: labor-marketplace spend share fell from 0.66% of total spend in Q4 2021 to 0.10% in Q1 2026, AI model-provider spend rose to nearly 6%, and 58.5% of businesses that used freelancers in 2022 had stopped entirely by Q1 2026. Freelance.com's own results show the related pressure: 2025 revenue was essentially flat despite acquisitions, organic revenue declined 3%, French organic revenue declined 6%, EBITDA fell 12%, and management cited clients reducing independent-worker usage, lower billing rates, unfavorable mix, and margin pressure. Q1 2026 returned to modest 4% organic growth, but the stock remains deeply below the pre-ChatGPT close as investors price in permanent compression of broad external-talent intermediation.
+- **Rejected / rechecked:** Standing leads failed again on adjusted yfinance pricing: TRI (-25.8%) remained below the price gate and has dividend/capital-return distortion risk; DOCU (+21.2%) and DUOL (+67.6%) were above pre-ChatGPT; SFIX (-6.0%) and HUBS (-17.3%) were too modest.
+- **Search approaches used:** 1 of 5 (standing lead re-check plus deep follow-up on the ALFRE.PA freelance-marketplace lead). Candidate evaluations stayed well within the 15-company cap.
+- **Observation:** The 2026-06-03 evidence-weighting correction worked: ALFRE.PA qualified when paired with external Ramp labor-substitution data rather than dismissed solely because management frames AI and external talent as a transformation opportunity. Freelance Marketplaces is less thin now, so future adds in the category should require similarly concrete evidence of mission/spend/pricing pressure.
 
 ## Session Log: 2026-06-03
 - **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing leads still failed the price gate or magnitude test: TRI (-20.3%), HUBS (-21.6%), and SFIX (-8.0%) were too modest, while DOCU (+18.5%) and DUOL (+65.8%) remained above pre-ChatGPT. Price-qualified monitor names RWA.L, ADEN.SW, RAND.AS, NRDS, TTD, ZOO.L, DATA.L, and YOU.L remained under prior saturation or primary-cause objections.
