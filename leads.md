@@ -9,6 +9,7 @@
 - **Legal & Tax thin category** — Still only 3 companies. No new candidate found; most legal/tax companies are private, acquired, already listed through adjacent categories, or above pre-ChatGPT. WKL.AS was rechecked on 2026-05-28 and is already in the CSV under Research & Analytics / Professional Information.
 - **Re-evaluate failed candidates periodically** — APX.AX/WIX patterns show borderline candidates can qualify as prices drop further. For AI-exposed workflows, do not over-weight company claims that AI is not hurting them when pricing/margin pressure and stock-market timing point toward disruption.
 - **Translation/localization peers** — STG.AX was added on 2026-05-19. This under-saturated vein may still have public peers, but require explicit evidence of legacy human translation volume/revenue being replaced by AI workflows.
+- **TCS.NS (Tata Consultancy Services)** — **ADDED 2026-06-05.** Do not retry. Previously failed the price gate, but qualified after falling to roughly -35.3% versus Nov. 29, 2022; the add used Reuters/Jefferies evidence on AI-led application-services revenue compression plus TCS's first full-year dollar-revenue decline since listing and large headcount reset.
 - **European staffing peers:** RWA.L (Robert Walters), ADEN.SW (Adecco), and RAND.AS (Randstad) were price-qualified again on 2026-05-13 but not added because staffing/recruitment is saturated and the fresh evidence remains weaker/mixed. Only retry if there is new company-specific evidence that AI automation is the primary driver, not just weak hiring macro or broad technology risk.
 - **IPS.PA (Ipsos)** — No longer price-qualified on 2026-05-15 adjusted yfinance pricing (-25.4%). Previously rejected because current evidence points to mild organic growth, Americas/Q1 weakness, and AI as transformation rather than primary disruption.
 - **NRDS (NerdWallet)** — Price-qualified at about -40.5% on 2026-05-13, but rejected for now because Q1 2026 still showed revenue growth and improved profitability while management described AI/LLM distribution as mixed or potentially advantageous. Revisit only if organic-search/AI Overview pressure becomes broad enough to drive sustained revenue decline.
@@ -29,4 +30,5 @@
 - **CINT.ST** was added on 2026-05-21 from the market-research/survey-sample angle. Do not retry.
 - **ACN** was added on 2026-05-26 from the IT-services / AI-labor-compression angle. Do not retry.
 - **4324.T** was added on 2026-05-27 from the ad-services / agency-model-compression angle after Dentsu crossed the price gate. Do not retry.
-- At 90 companies, proving AI as the primary cause remains the binding constraint.
+- **TCS.NS** was added on 2026-06-05 from the Indian IT-services / application-services compression angle after it crossed the price gate. Do not retry.
+- At 92 companies, proving AI as the primary cause remains the binding constraint.

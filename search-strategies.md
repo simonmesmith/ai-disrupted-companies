@@ -2,26 +2,6 @@
 
 ## Tried
 
-### 2026-03-24: BPO / IT Services companies disrupted by AI
-- **Result:** Found CNDT (Conduent). Also checked TWKS and TIXT but both delisted.
-- **Verdict:** Productive. BPO space still has candidates. CNXC, TTEC, TASK, and now CNDT cover the major public BPO players.
-
-### 2026-03-26: Evaluate leads + 2026 software/AI sell-off research
-- **Result:** Found IT (Gartner, -56%). Also evaluated IAS (beneficiary), PRDO/STRA (thriving), DUOL/INTU (above pre-ChatGPT), HUBS (mild decline, strong fundamentals), U (Unity, -50.6% but borderline).
-- **Verdict:** The 2026 SaaS sell-off is a rich hunting ground. Many big names (DUOL, INTU) are down significantly in 2026 but haven't yet fallen below pre-ChatGPT prices. Unity is close and worth monitoring. Gartner was a clear winner with strong AI disruption narrative.
-
-### 2026-03-29: Leads from memory + European IT outsourcers
-- **Result:** Found CAP.PA (Capgemini, -40.9%). Figma rejected (IPO'd 2025, no pre-ChatGPT price).
-- **Verdict:** European IT outsourcers are a productive vein. The 2026 software sell-off hit European IT services hard. Dassault Systèmes, SAP, and RELX are worth checking next session.
-
-### 2026-03-30: Leads from memory (DSY.PA, SAP, RELX.L)
-- **Result:** Found DSY.PA (Dassault Systèmes, -50.7%). SAP is up 59% (AI beneficiary). RELX.L has no yfinance data.
-- **Verdict:** Leads file continues to be productive. European enterprise software is a rich vein — DSY.PA had a clear AI disruption narrative with record single-day plunge.
-
-### 2026-03-31: Leads from memory + 2026 sell-off research + sector searches
-- **Result:** Found AI (C3.ai, -36.4%). Evaluated ~13 candidates across multiple sectors.
-- **Verdict:** Most 2026 sell-off victims (NOW, CRM, SHOP) are still well above pre-ChatGPT prices. The companies most likely to qualify are those that were already declining AND got hit by AI disruption. C3.ai is a perfect example: an AI company made obsolete by better AI. European software peers of DSY.PA (Nemetschek) are actually thriving. Cybersecurity stocks (QLYS, S) are down modestly but the AI disruption angle is weak.
-
 ### 2026-04-01: Leads from memory + 2026 AI sell-off articles + Indian IT outsourcers
 - **Result:** Found INFY (Infosys, -25.2%). VERX is an AI adopter (rejected). DDOG and NMRK are up significantly. WIT/EXPN.L/PSON.L declines too small. DOCS/TRI saved as leads.
 - **Verdict:** Indian IT outsourcers are a productive vein - Infosys has a clear AI disruption narrative (Nifty IT index crashed 32%). The broader 2026 sell-off articles (CNBC, Motley Fool) are good for generating candidates but many blue-chip names (DDOG, NMRK) are still well above pre-ChatGPT. Healthcare (DOCS) and professional info (TRI) are borderline - worth monitoring.
@@ -198,12 +178,16 @@
 - **Result:** Found ALFRE.PA (Freelance.com SA, -60.8%). Standing leads failed again on price/magnitude. The successful move was to revisit the prior day's price-qualified Freelance.com lead with less weight on company self-positioning and more weight on external market data. Ramp Economics Lab's firm-level payments research showed businesses shifting spend from online labor marketplaces to AI model providers, with labor-marketplace spend share falling from 0.66% of total spend in Q4 2021 to 0.10% in Q1 2026 and 58.5% of 2022 freelancer-using businesses stopping entirely by Q1 2026. That external substitution pattern made Freelance.com's flat 2025 revenue, -3% organic growth, -6% French organic growth, lower billing rates, reduced independent-worker usage, and EBITDA margin pressure enough to qualify.
 - **Verdict:** Evidence-weighting corrections can produce adds when they identify the missing causal bridge. For freelance/external-talent platforms, Ramp-style spend data is stronger than generic freelancer sentiment and can support a primary AI-disruption thesis when paired with company-level pricing, organic growth, or margin deterioration. Do not add more freelance names without similarly concrete external substitution data or direct operating pressure.
 
+### 2026-06-05: Standing leads plus Indian IT-services monitor follow-up
+- **Result:** Found TCS.NS (Tata Consultancy Services Ltd, -35.3%). Standing and monitor price checks mostly failed or stayed under prior objections: TRI, DOCU, SFIX, HUBS, DUOL, BYIT.L, MONY.L, AUTO.L, RMV.L, QNST, YELP, MORN, SCHL, and GCI did not qualify on price/data. TCS had been the closest Indian IT-services monitor on 2026-05-29 and now crossed the price gate. Reuters and Jefferies evidence tied Indian IT-services pressure to AI automation, compressed project timelines, legacy application-services revenue deflation, and TCS's high application-services exposure. TCS's own FY2026 results showed dollar revenue down 0.5%, the first full-year dollar-revenue decline since listing, while headcount fell by 23,460 after a large layoff drive.
+- **Verdict:** Rechecking a specific prior monitor can work once the price gate moves, but broad Indian IT-services screens should remain limited. TCS is strong enough despite category saturation because it is the flagship Indian IT-services firm and now combines price qualification, direct AI-disruption analyst evidence, high application-services exposure, revenue decline, and headcount reduction. Treat future IT-services adds even more selectively.
+
 ## Untried / Ideas for Next Session
 - **Monitor standing leads sparingly** — As of 2026-06-03, TRI (~-20.3% adjusted), HUBS (~-21.6%), SFIX (~-8.0%), DOCU (+18.5%), and DUOL (+65.8%) do not qualify. Recheck only after major price moves or fresh operating evidence.
 - **NCNO (nCino)** — now price-qualified but rejected on 2026-05-15 because latest results show AI-powered banking demand and strong ACV/retention. Do not retry soon unless fundamentals turn and the cause is external AI displacement.
 - **Re-evaluate failed candidates periodically** — prices continue to move. Check borderline candidates quarterly.
 - **New SaaS categories going through "SaaSpocalypse to structural decline" transition** — some stocks currently dismissed as "SaaSpocalypse sentiment" may turn out to have genuine structural AI disruption as time reveals fundamentals deteriorating (not just multiples compressing).
-- **International exchanges beyond LSE/Euronext/ASX** — TSX (Canadian), JSE (South African), and HKEX (Hong Kong) peers remain mostly unexplored; Euronext/BPO produced TEP.PA on 2026-05-06.
+- **International exchanges beyond LSE/Euronext/ASX/NSE** — TSX (Canadian), JSE (South African), and HKEX (Hong Kong) peers remain mostly unexplored; Euronext/BPO produced TEP.PA on 2026-05-06 and NSE produced TCS.NS on 2026-06-05.
 - **Freelance Marketplace follow-ups** — ALFRE.PA was added on 2026-06-04. Look for additional names only where there is concrete external substitution data or filings showing pricing/margin/mission pressure consistent with clients substituting AI for freelancer work.
 - **European staffing peers** — RWA.L, ADEN.SW, and RAND.AS are price-qualified, but the category is saturated after HAS.L and PAGE.L and the 2026-05-12 review found mixed/weaker company-specific evidence. Evaluate only if there is strong new evidence that AI automation, not just weak hiring macro, is driving the decline.
 - **Market intelligence / sales intelligence peers** — GTM worked because AI was tied directly to sales-cycle hesitation, lowered guidance, downgrades, and pricing pressure. Look for similar evidence among B2B data, intent data, and professional-information vendors.

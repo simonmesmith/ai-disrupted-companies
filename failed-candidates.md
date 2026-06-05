@@ -8,7 +8,6 @@
 | OB | Outbrain | Appears delisted, no yfinance data available | 2026-03-24 |
 | TWOU | 2U | Filed Chapter 11 bankruptcy mid-2024, delisted from NASDAQ, went private | 2026-03-25 |
 | BAND | Bandwidth | AI is a tailwind (voice AI agents driving growth), not disrupted | 2026-03-25 |
-| IAS | Integral Ad Science | No yfinance data available, possible data issue | 2026-03-25 |
 | IAS | Integral Ad Science | AI beneficiary not victim - growing 16% YoY, launched AI-powered tools | 2026-03-26 |
 | PRDO | Perdoceo Education | Stock up 50% YoY ($35.16), thriving not disrupted | 2026-03-26 |
 | STRA | Strategic Education | Using AI for margin expansion, stock at $80.72, not disrupted | 2026-03-26 |
@@ -17,7 +16,6 @@
 | HUBS | HubSpot | Down 15.8% from pre-ChatGPT but growing 20% YoY, pivot to agentic platform working | 2026-03-26 |
 | FIG | Figma | IPO'd July 2025, no pre-ChatGPT price exists. Cannot qualify. | 2026-03-29 |
 | SAP | SAP | Stock up 59.3% from pre-ChatGPT price ($102.94 -> $164.02). AI beneficiary. | 2026-03-30 |
-| RELX.L | RELX | No yfinance data available for RELX.L ticker. Try alternate ticker. | 2026-03-30 |
 | RELX | RELX | All tickers (RELX, REL.L, REN.AS) show stock UP 8-26% from pre-ChatGPT. Not disrupted. | 2026-03-31 |
 | NEM.DE | Nemetschek | Stock up 40% from pre-ChatGPT. Not disrupted despite being DSY.PA peer. | 2026-03-31 |
 | NOW | ServiceNow | Up 32% from pre-ChatGPT despite 2026 sell-off. | 2026-03-31 |
@@ -32,7 +30,6 @@
 | QLYS | Qualys | Down 27% from pre-ChatGPT, but cybersecurity AI disruption angle is weak. | 2026-03-31 |
 | TECHM.NS | Tech Mahindra | Up 47.1% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
 | HCLTECH.NS | HCL Technologies | Up 40.6% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
-| TCS.NS | TCS | Down only 19.8% from pre-ChatGPT. Decline too modest. | 2026-04-02 |
 | WDAY | Workday | Down only 9.9% from pre-ChatGPT. Decline too small. | 2026-04-02 |
 | SNOW | Snowflake | Up 12.1% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
 | DOCS | Doximity | Down 28.7% but company is AI adopter not victim - CEO bullish on AI, 300K clinicians using AI tools. Decline from pharma budget delays. | 2026-04-02 |
@@ -53,7 +50,6 @@
 | LPLA | LPL Financial | Up 25.5% from pre-ChatGPT despite AI fears about Altruist's Hazel AI tool. Revenue at record $4.93B. | 2026-04-06 |
 | SCHW | Charles Schwab | Up 22.1% from pre-ChatGPT. Not disrupted. | 2026-04-06 |
 | NEWR | New Relic | Delisted/taken private (Francisco Partners acquisition). | 2026-04-06 |
-| WDAY | Workday | Down only 7.7% from pre-ChatGPT. Decline too small despite 2026 sell-off. | 2026-04-06 |
 | PATH | UiPath | Down only 5.3% from pre-ChatGPT. Decline too small. | 2026-04-07 |
 | BOX | Box | Down only 11.2% from pre-ChatGPT. Decline too small. | 2026-04-07 |
 | ESTC | Elastic | Down only 14.3% from pre-ChatGPT. Decline too small. | 2026-04-07 |
@@ -89,7 +85,6 @@
 | APPS | Digital Turbine | Down 70.5% but decline from Apple privacy changes and weak mobile advertising market, not AI. AI actually helping margins (DTiQ platform). | 2026-04-17 |
 | TRVG | trivago | Down only 12.4% from pre-ChatGPT. Too modest. | 2026-04-17 |
 | LOPE | Grand Canyon Education | Up 55.9% from pre-ChatGPT. Not disrupted. | 2026-04-17 |
-| MORN | Morningstar | Recovered to only -7.8% from pre-ChatGPT (was -27% earlier). Business resilient, stock rebounding. | 2026-04-17 |
 | CRNC | Cerence Inc | Down 51.1% but AI disruption angle is muddy. Revenue decline primarily from Toyota contract termination, not pure AI displacement. Cerence actively partnering with ChatGPT/Microsoft (powers VW integration), not being replaced. Goldman Sachs raised PT to $11 (Neutral). Still powers 51% of cars produced. OEM price pressure is real but not clearly AI-caused. | 2026-04-19 |
 | DXC | DXC Technology | Down 54.4% but "AI is accelerant, not cause" — company in secular decline long before ChatGPT (revenue from $21B to $13B). Already 7 IT services companies on list. | 2026-04-21 |
 | DHX | DHI Group/Dice.com | Down 46.3% but management frames AI as tailwind (more AI jobs). Dice revenue -17% mainly from soft tech hiring environment, not AI displacement specifically. | 2026-04-21 |
@@ -101,7 +96,6 @@
 | SPSC | SPS Commerce | Down 60% but decline from Amazon policy changes and customer downsells, not AI. Management views as temporary. | 2026-04-24 |
 | WK | Workiva | Down 31.1% but AI adopter — growing 20% YoY, 97%/113% retention, launched AI GRC platform. Projecting $1B revenue 2026. | 2026-04-24 |
 | AMPL | Amplitude | Down 51.8% but AI beneficiary — growing 17%, six quarters accelerating ARR, launched Agentic AI Analytics. SaaSpocalypse sentiment. | 2026-04-24 |
-| PCTY | Paylocity | Down 51.4% but 14% recurring revenue growth, 92% retention, actively acquiring (Grayscale Labs for AI recruiting). Not AI-disrupted. | 2026-04-24 |
 | ETSY | Etsy | Down 46.5% but primary decline is Temu/Shein/TikTok Shop competition, not AI. AI-generated product flooding is secondary. Active buyers fell from 92M to 86.5M. Etsy partnering with OpenAI as beneficiary. | 2026-04-22 |
 | TTD | Trade Desk | Down 52% but decline is primarily valuation reset + agency conflicts (Publicis, WPP, Dentsu distancing). Revenue still growing 19%. AI is a competitive factor (Google Performance Max, Meta Advantage+) but TTD is an active AI adopter (Koa Agents). Not an AI disruption story. | 2026-04-23 |
 | PUBM | PubMatic | Down 35.8% but AI is a tailwind (AgenticOS, 250+ deals). Decline from DSP partner losses, not AI disruption. Beat Q4 2025 estimates. | 2026-04-26 |
@@ -170,7 +164,7 @@
 | BYIT.L | Bytes Technology Group | AI budget-shift and Microsoft incentive risks are relevant, but adjusted yfinance decline is only ~10.4%, so price does not qualify. | 2026-05-29 |
 | RNG | RingCentral | Contact-center/UCaaS AI disruption concern does not pass the price gate; stock is up ~20.6% from pre-ChatGPT. | 2026-05-29 |
 | ZM | Zoom Communications | Contact-center/UCaaS AI disruption concern does not pass the price gate; stock is up ~43.6% from pre-ChatGPT. | 2026-05-29 |
-| TCS.NS | Tata Consultancy Services | Indian IT-services AI-disruption thesis is plausible, but adjusted yfinance decline is only ~25.1% and still short of the price gate. | 2026-05-29 |
+| TCS.NS | Tata Consultancy Services | ~~Indian IT-services AI-disruption thesis is plausible, but adjusted yfinance decline is only ~25.1% and still short of the price gate.~~ **ADDED 2026-06-05** after the adjusted decline deepened to about -35.3%; no split distortion, no duplicate, and current evidence showed AI-related application-services pressure plus TCS's first full-year dollar-revenue decline since listing. | 2026-05-29 |
 | WIT | Wipro | Rechecked from Indian IT-services AI-risk screen: down only ~4.2% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
 | MPHASIS.NS | Mphasis | Rechecked from Indian IT-services AI-risk screen: up ~21.3% from pre-ChatGPT, so price does not qualify. | 2026-05-29 |
 | LTIM.NS | LTIMindtree | No yfinance data under LTIM.NS in this run; ticker unavailable or changed. | 2026-05-29 |
