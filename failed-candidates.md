@@ -192,8 +192,7 @@
 | BOL.ST | Boliden | Nordic ticker spot check from legal/professional-information exploration: up ~71.6% from pre-ChatGPT and wrong sector, so price/thesis do not qualify. | 2026-06-03 |
 | ALM.MC | Alma Media | International media/professional-information spot check: up ~28.9% from pre-ChatGPT, so price does not qualify. | 2026-06-03 |
 | ASC.L | ASOS | Price-qualified (-58.3%) but rejected at screen stage because the decline is an online fashion/retail story, not a primary AI-disruption thesis. | 2026-06-03 |
-| TRI | Thomson Reuters | Rechecked after sync: down ~25.8% on adjusted yfinance pricing, still short of the price gate and still affected by dividend/capital-return distortion risk. | 2026-06-04 |
-| DOCU | DocuSign | Rechecked after sync: up ~21.2% from pre-ChatGPT, so price does not qualify. | 2026-06-04 |
-| SFIX | Stitch Fix | Rechecked after sync: down only ~6.0% from pre-ChatGPT, far too modest despite plausible AI styling pressure. | 2026-06-04 |
-| HUBS | HubSpot | Rechecked after sync: down only ~17.3% from pre-ChatGPT and not close to the price gate despite plausible AI-agent go-to-market pressure. | 2026-06-04 |
-| DUOL | Duolingo | Rechecked after sync: up ~67.6% from pre-ChatGPT, so price does not qualify. | 2026-06-04 |
+| TRI/DOCU/SFIX/HUBS/DUOL | Standing leads | Rechecked after sync: TRI (-27.0%) still below adjusted price gate and split/capital-return distorted; DOCU (+6.1%) and DUOL (+63.7%) above pre-ChatGPT; SFIX (-10.5%) and HUBS (-24.8%) too modest. | 2026-06-08 |
+| INTA | Intapp | Thin Legal & Tax / professional-information check: up ~12.3% from pre-ChatGPT, so price does not qualify. | 2026-06-08 |
+| IBEX/EXLS/BZ/HQI | BPO, analytics, and staffing peers | Narrow peer check failed price gates: IBEX +17.5%, EXLS -18.5%, BZ -14.8%, and HQI -20.6% versus pre-ChatGPT. | 2026-06-08 |
+| WNS | WNS Holdings | BPO peer check: no active yfinance price data in this run; appears unavailable/delisted after corporate-action context. | 2026-06-08 |

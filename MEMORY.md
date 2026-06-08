@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 92 (as of 2026-06-05)
-- **Last updated:** 2026-06-05
+- **Last updated:** 2026-06-08
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-08
+- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` from `origin/main` with refreshed prices and upstream-added `TASK` and `CNDT` rows, so both were duplicate skips when checked.
+- **Rejected / rechecked:** Standing leads still failed the full bar on yfinance pricing: TRI (-27.0%) remained below the adjusted price gate and has split/capital-return distortion risk; DOCU (+6.1%) and DUOL (+63.7%) were above pre-ChatGPT; SFIX (-10.5%) and HUBS (-24.8%) were too modest. Legal / professional-information checks did not work: INTA (+12.3%) failed price, while NOTE remained reverse-split distorted and previously rejected. BPO/contact-center peer checks also failed or duplicated: TASK and CNDT were already in `companies.csv`, G was already listed, IBEX (+17.5%), EXLS (-18.5%), BZ (-14.8%), and HQI (-20.6%) failed price gates, and WNS had no active yfinance data in this run.
+- **Search approaches used:** 4 of 5 (standing leads; thin Legal & Tax / professional-information checks; BPO/contact-center outsourcing peer checks; narrow staffing/job-marketplace follow-up). Stopped at the 15-candidate evaluation cap with no qualifying new company.
+- **Observation:** The initial fast-forward changed the opportunity set by adding TASK and CNDT upstream. BPO/contact-center is now more saturated, and remaining active peers either fail the price gate or already appear in the CSV. Next sessions should prioritize fresh live catalysts or genuinely underexplored exchange/sector pockets rather than broad BPO or staffing batches.
 
 ## Session Log: 2026-06-05
 - **Added:** TCS.NS (Tata Consultancy Services Ltd) — Business Services / IT Services. Pre-ChatGPT INR 3,397.35, current INR 2,198.90 (-35.3%). Active NSE yfinance ticker, no duplicate row, and no ChatGPT-era split distortion. TCS had failed the price gate on prior checks, but now qualifies after further share-price weakness. The AI thesis is large-scale IT-services delivery compression: Reuters reported that Anthropic and Palantir automation claims raised concerns about compressed project timelines and disruption to Indian IT services' labor-intensive model, with Jefferies warning AI could erode application-services revenue. TCS is especially exposed because analysts cited Tata Consultancy Services, Tech Mahindra, and LTIMindtree as having about 55-60% of revenue in application services. TCS reported FY2026 dollar revenue down 0.5%, its first full-year dollar-revenue decline since listing, and ended the year with 23,460 fewer employees after a large layoff drive. TCS also has material AI revenue and strong deal wins, so the row is framed as legacy effort-based delivery compression rather than a failure to participate in AI demand.
