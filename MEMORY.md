@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 92 (as of 2026-06-05)
-- **Last updated:** 2026-06-08
+- **Last updated:** 2026-06-09
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-09
+- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices only. A bounded 15-name yfinance pass rechecked standing leads and price-qualified monitors; no candidate cleared both the price and primary-cause bars.
+- **Rejected / rechecked:** Standing leads still failed: TRI (-20.3%) remains below the adjusted price gate with capital-return distortion risk; DOCU (+2.8%) and DUOL (+85.8%) were above pre-ChatGPT; SFIX (+1.4%) was above pre-ChatGPT in the latest adjusted check; HUBS (-27.3%) is still short of the price gate despite AI-agent pressure. NRDY was already listed. Other monitors were price-qualified but still not clean enough: TTD (-59.2%) has AI/open-internet risk but still lacks clear AI-driven sustained revenue deterioration; NRDS (-37.8%) still needs broader AI-search revenue evidence; DATA.L (-43.9%) and YOU.L (-77.2%) continue to frame AI as an intelligence/product advantage with current growth or investment rather than primary disruption; ZOO.L (-93.4%) remains muddied by streaming/localization cyclicality; RWA.L (-85.1%), ADEN.SW (-35.1%), and RAND.AS (-38.5%) remain saturated staffing names without fresh company-specific AI-primary evidence.
+- **Search approaches used:** 3 of 5 (standing lead re-check; price-qualified monitor recheck across ad tech, AI-search, market research, localization, and staffing; broad fresh AI-risk catalyst scan). Stopped at the 15-candidate evaluation cap with no qualifying company.
+- **Observation:** Today reinforced that many remaining price-qualified monitors are already known and blocked by primary-cause ambiguity rather than price. Near-term searches should prioritize genuinely fresh catalysts with explicit revenue/guidance pressure from AI, especially outside saturated BPO, staffing, IT services, and broad market-research screens.
 
 ## Session Log: 2026-06-08
 - **Added:** No companies. Required initial sync fast-forwarded `companies.csv` from `origin/main` with refreshed prices and upstream-added `TASK` and `CNDT` rows, so both were duplicate skips when checked.

@@ -2,8 +2,6 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
-| TWKS | Thoughtworks | Going private (Apax acquisition at $4.40/share), delisted | 2026-03-24 |
-| TIXT | Telus Digital Experience | Acquired by TELUS Oct 2025, delisted | 2026-03-24 |
 | XRX | Xerox | Down 89% but decline is secular printing decline, not AI-specific. AI angle too tenuous. | 2026-03-24 |
 | OB | Outbrain | Appears delisted, no yfinance data available | 2026-03-24 |
 | TWOU | 2U | Filed Chapter 11 bankruptcy mid-2024, delisted from NASDAQ, went private | 2026-03-25 |
@@ -196,3 +194,6 @@
 | INTA | Intapp | Thin Legal & Tax / professional-information check: up ~12.3% from pre-ChatGPT, so price does not qualify. | 2026-06-08 |
 | IBEX/EXLS/BZ/HQI | BPO, analytics, and staffing peers | Narrow peer check failed price gates: IBEX +17.5%, EXLS -18.5%, BZ -14.8%, and HQI -20.6% versus pre-ChatGPT. | 2026-06-08 |
 | WNS | WNS Holdings | BPO peer check: no active yfinance price data in this run; appears unavailable/delisted after corporate-action context. | 2026-06-08 |
+| TRI/DOCU/SFIX/HUBS/DUOL | Standing leads | Rechecked after sync: TRI (-20.3%) still below adjusted price gate and capital-return distorted; DOCU (+2.8%), SFIX (+1.4%), and DUOL (+85.8%) above pre-ChatGPT; HUBS (-27.3%) still short of the price gate. | 2026-06-09 |
+| TTD/NRDS/DATA.L/YOU.L/ZOO.L | Price-qualified monitors | Rechecked current prices and fresh sources. TTD and NRDS still lack clear AI-driven sustained revenue deterioration; DATA.L and YOU.L frame AI as an intelligence/product advantage with current growth or investment; ZOO.L remains muddied by streaming/localization cyclicality rather than AI as primary cause. | 2026-06-09 |
+| RWA.L/ADEN.SW/RAND.AS | European staffing peers | Rechecked current prices; all remain price-qualified, but staffing/recruitment is saturated and there was no fresh company-specific evidence that AI automation is the primary driver rather than hiring macro or broad technology risk. | 2026-06-09 |
