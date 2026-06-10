@@ -2,16 +2,6 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
-| XRX | Xerox | Down 89% but decline is secular printing decline, not AI-specific. AI angle too tenuous. | 2026-03-24 |
-| OB | Outbrain | Appears delisted, no yfinance data available | 2026-03-24 |
-| TWOU | 2U | Filed Chapter 11 bankruptcy mid-2024, delisted from NASDAQ, went private | 2026-03-25 |
-| BAND | Bandwidth | AI is a tailwind (voice AI agents driving growth), not disrupted | 2026-03-25 |
-| IAS | Integral Ad Science | AI beneficiary not victim - growing 16% YoY, launched AI-powered tools | 2026-03-26 |
-| PRDO | Perdoceo Education | Stock up 50% YoY ($35.16), thriving not disrupted | 2026-03-26 |
-| STRA | Strategic Education | Using AI for margin expansion, stock at $80.72, not disrupted | 2026-03-26 |
-| DUOL | Duolingo | Down 42% in 2026 but still 49% above pre-ChatGPT price ($66.59 -> $99.12) | 2026-03-26 |
-| INTU | Intuit | Down 34% YTD but still 15% above pre-ChatGPT price ($371.58 -> $426.86) | 2026-03-26 |
-| HUBS | HubSpot | Down 15.8% from pre-ChatGPT but growing 20% YoY, pivot to agentic platform working | 2026-03-26 |
 | FIG | Figma | IPO'd July 2025, no pre-ChatGPT price exists. Cannot qualify. | 2026-03-29 |
 | SAP | SAP | Stock up 59.3% from pre-ChatGPT price ($102.94 -> $164.02). AI beneficiary. | 2026-03-30 |
 | RELX | RELX | All tickers (RELX, REL.L, REN.AS) show stock UP 8-26% from pre-ChatGPT. Not disrupted. | 2026-03-31 |
@@ -197,3 +187,7 @@
 | TRI/DOCU/SFIX/HUBS/DUOL | Standing leads | Rechecked after sync: TRI (-20.3%) still below adjusted price gate and capital-return distorted; DOCU (+2.8%), SFIX (+1.4%), and DUOL (+85.8%) above pre-ChatGPT; HUBS (-27.3%) still short of the price gate. | 2026-06-09 |
 | TTD/NRDS/DATA.L/YOU.L/ZOO.L | Price-qualified monitors | Rechecked current prices and fresh sources. TTD and NRDS still lack clear AI-driven sustained revenue deterioration; DATA.L and YOU.L frame AI as an intelligence/product advantage with current growth or investment; ZOO.L remains muddied by streaming/localization cyclicality rather than AI as primary cause. | 2026-06-09 |
 | RWA.L/ADEN.SW/RAND.AS | European staffing peers | Rechecked current prices; all remain price-qualified, but staffing/recruitment is saturated and there was no fresh company-specific evidence that AI automation is the primary driver rather than hiring macro or broad technology risk. | 2026-06-09 |
+| TRI/DOCU/SFIX/HUBS/DUOL | Standing leads | Rechecked after sync: TRI (-21.2%), SFIX (-4.2%), and HUBS (-26.4%) failed magnitude/price gates; DOCU (+3.6%) and DUOL (+77.1%) were above pre-ChatGPT. | 2026-06-10 |
+| TIXT/TIXT.TO/ICFI/EGHT | CX, consulting, and UCaaS checks | TIXT tickers had no active yfinance data. ICFI was price-qualified (-31.5%) but lacked an AI-primary thesis; EGHT remained a competition/AI-product story rather than clear displacement despite a -55.0% decline. | 2026-06-10 |
+| NA9.DE/GFT.DE/ADN1.DE/ATE.PA | European IT and engineering services | Price-qualified but not added: category is saturated, and current evidence did not clearly tie revenue/guidance pressure to AI automation rather than broad IT-services/engineering-services weakness or company-specific cycles. | 2026-06-10 |
+| LEE/MDIA | Publisher and media checks | Price-qualified but rejected at screen stage because the primary story remains local media/radio secular pressure rather than a clean AI-search or generative-AI disruption thesis. | 2026-06-10 |
