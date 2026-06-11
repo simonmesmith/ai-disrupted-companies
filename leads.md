@@ -1,10 +1,10 @@
 # Leads for Next Session
 
 ## Promising Candidates to Monitor
-- **TRI (Thomson Reuters)** — Down ~20.3% on adjusted yfinance pricing on 2026-06-09, still below the price gate after capital-return/dividend-adjusted data moved. Raw-price comparisons can overstate the decline because of capital-return/share-consolidation effects; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
-- **DOCU (DocuSign)** — Above pre-ChatGPT (+2.8% on 2026-06-09). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
-- **SFIX (Stitch Fix)** — Above pre-ChatGPT (+1.4% on 2026-06-09). AI styling could threaten the human stylist model if fundamentals deteriorate further, but it no longer clears even a basic below-baseline screen.
-- **HUBS (HubSpot)** — Down ~27.3% on adjusted yfinance pricing on 2026-06-09 and still short of the price gate despite plausible AI-agent go-to-market pressure. Revisit only if it crosses below ~-30% and fundamentals show churn, pricing, retention, or guidance pressure tied to AI agents.
+- **TRI (Thomson Reuters)** — Down ~22.8% on adjusted yfinance pricing on 2026-06-11, still below the price gate after capital-return/dividend-adjusted data moved. Raw-price comparisons can overstate the decline because of capital-return/share-consolidation effects; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
+- **DOCU (DocuSign)** — Above pre-ChatGPT (+1.3% on 2026-06-11). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses below.
+- **SFIX (Stitch Fix)** — Above pre-ChatGPT (+10.3% on 2026-06-11). AI styling could threaten the human stylist model if fundamentals deteriorate further, but it no longer clears even a basic below-baseline screen.
+- **HUBS (HubSpot)** — **ADDED 2026-06-11.** Do not retry. Qualified after crossing the adjusted price gate at about -32.0% and fresh coverage tied the selloff to AI efficiency reducing seat demand and forcing outcome-based pricing / AI credits.
 - **ALFRE.PA (Freelance.com)** — **ADDED 2026-06-04.** Do not retry. Qualified after follow-up found external Ramp Economics Lab evidence that businesses are shifting spend from online labor marketplaces to AI model providers, matching Freelance.com's own organic slowdown, lower billing rates, reduced independent-worker usage, and margin pressure.
 - **Legal & Tax thin category** — Still only 3 companies. No new candidate found; most legal/tax companies are private, acquired, already listed through adjacent categories, reverse-split distorted, or above pre-ChatGPT. WKL.AS was rechecked on 2026-05-28 and is already in the CSV under Research & Analytics / Professional Information; INTA was above pre-ChatGPT on 2026-06-08 and NOTE remains reverse-split distorted.
 - **Re-evaluate failed candidates periodically** — APX.AX/WIX patterns show borderline candidates can qualify as prices drop further. For AI-exposed workflows, do not over-weight company claims that AI is not hurting them when pricing/margin pressure and stock-market timing point toward disruption.
@@ -31,6 +31,7 @@
 - **ACN** was added on 2026-05-26 from the IT-services / AI-labor-compression angle. Do not retry.
 - **4324.T** was added on 2026-05-27 from the ad-services / agency-model-compression angle after Dentsu crossed the price gate. Do not retry.
 - **TCS.NS** was added on 2026-06-05 from the Indian IT-services / application-services compression angle after it crossed the price gate. Do not retry.
+- **HUBS** was added on 2026-06-11 from the CRM / marketing automation seat-compression angle after it crossed the price gate. Do not retry.
 - **TASK** and **CNDT** were already present after the 2026-06-08 initial sync. Do not retry as fresh BPO/contact-center candidates.
 - The 2026-06-09 monitor pass also rechecked TTD, NRDS, DATA.L, YOU.L, ZOO.L, RWA.L, ADEN.SW, and RAND.AS. Several remain price-qualified, but none had fresh evidence strong enough to overcome prior primary-cause or category-saturation objections.
-- At 92 companies, proving AI as the primary cause remains the binding constraint.
+- At 93 companies, proving AI as the primary cause remains the binding constraint.

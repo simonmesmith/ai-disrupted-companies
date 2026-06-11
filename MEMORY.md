@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 92 (as of 2026-06-05)
-- **Last updated:** 2026-06-09
+- **Company count:** 93 (as of 2026-06-11)
+- **Last updated:** 2026-06-11
 
 ## Category Distribution
 | Category | Count |
 |---|---|
-| Software & SaaS | 24 |
+| Software & SaaS | 25 |
 | Business Services | 26 |
 | Content & Media | 13 |
 | Research & Analytics | 11 |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-11
+- **Added:** HUBS (HubSpot Inc) — Software & SaaS / CRM & Marketing Automation. Pre-ChatGPT $282.68, current $192.63 (-31.9%). Active yfinance ticker, no duplicate row, and no split actions. HubSpot crossed the price gate after a fresh one-day selloff; Barron's tied the drop to investor concern that HubSpot's AI efficiency push can reduce the number of human paid seats, forcing a shift toward outcome-based pricing, AI credits, and fewer seat minimums. The row is framed as AI cannibalization / market repricing of a seat-based go-to-market software model, not a current revenue-collapse story.
+- **Rejected / rechecked:** Standing leads were rechecked first. TRI (-22.8%) still failed the adjusted price gate; DOCU (+1.3%) and DUOL (+81.8%) were above pre-ChatGPT; SFIX (+10.3%) was above pre-ChatGPT. HUBS (-32.0%) crossed the price gate and had the strongest fresh AI-primary evidence.
+- **Search approaches used:** 1 of 5 (standing-lead recheck followed by source-backed deep dive on the newly price-qualified HUBS lead). Candidate evaluations stayed well under the 15-company cap.
+- **Observation:** The monitor discipline worked: HUBS was explicitly waiting for a price-gate cross plus AI-linked operating/model evidence. Future runs should continue to prefer standing leads only when price has moved materially, then source-backed catalysts over broad baskets.
 
 ## Session Log: 2026-06-10
 - **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices only. Standing leads still failed price/magnitude gates: TRI (-21.2%), DOCU (+3.6%), SFIX (-4.2%), HUBS (-26.4%), and DUOL (+77.1%).

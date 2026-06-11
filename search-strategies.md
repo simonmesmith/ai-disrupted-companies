@@ -2,10 +2,6 @@
 
 ## Tried
 
-### 2026-04-01: Leads from memory + 2026 AI sell-off articles + Indian IT outsourcers
-- **Result:** Found INFY (Infosys, -25.2%). VERX is an AI adopter (rejected). DDOG and NMRK are up significantly. WIT/EXPN.L/PSON.L declines too small. DOCS/TRI saved as leads.
-- **Verdict:** Indian IT outsourcers are a productive vein - Infosys has a clear AI disruption narrative (Nifty IT index crashed 32%). The broader 2026 sell-off articles (CNBC, Motley Fool) are good for generating candidates but many blue-chip names (DDOG, NMRK) are still well above pre-ChatGPT. Healthcare (DOCS) and professional info (TRI) are borderline - worth monitoring.
-
 ### 2026-04-02: Leads from memory + SaaSpocalypse research + small-cap SaaS screening
 - **Result:** Found SMWB (Similarweb, -45.2%). Asian IT outsourcers (TECHM.NS, HCLTECH.NS) are up. TCS.NS down only 19.8%. DOCS is AI adopter. Large-cap SaaSpocalypse victims (WDAY, SNOW) still above or near pre-ChatGPT.
 - **Verdict:** Small-cap SaaS screening via the SaaSpocalypse narrative is productive. Companies whose core data signals are being undermined by AI (like Similarweb's web traffic analytics) have a stronger disruption case than companies just caught in a sector rotation. The "AI zero-click" theme (AI reducing web traffic) is a new disruption vector worth exploring further. Semrush (SEMR) is a natural next candidate.
@@ -194,7 +190,11 @@
 - **Result:** No companies added. Standing leads still failed. Fresh screens found price-qualified names in IT services, consulting, UCaaS, and media, but none had a clean AI-primary causal bridge. TIXT had no active yfinance data; ICFI, EGHT, NA9.DE, GFT.DE, ADN1.DE, ATE.PA, LEE, and MDIA were rejected or deferred for primary-cause/category-saturation reasons.
 - **Verdict:** Broad yfinance baskets are now a poor fit because they exceed the candidate budget before producing enough causal evidence. Next runs should start from a narrow source-backed catalyst that already says AI is pressuring guidance, revenue, pricing, or usage, then check price and duplicates.
 
+### 2026-06-11: Standing lead price-gate cross
+- **Result:** Found HUBS (HubSpot Inc, -31.9%). Standing leads were checked first; TRI, DOCU, SFIX, and DUOL failed price gates. HUBS crossed the adjusted price gate and had fresh Barron's coverage tying the selloff to AI efficiency reducing paid seat demand and forcing outcome-based pricing / AI credits.
+- **Verdict:** Monitor-only leads can still pay off when the price gate moves and the causal evidence is fresh. For seat-based SaaS, the clean version of the thesis is AI reducing required human users and pressuring monetization, not just broad SaaS valuation compression.
+
 ## Untried / Ideas for Next Session
-- **Monitor standing leads sparingly** — As of 2026-06-10, TRI (~-21.2% adjusted), HUBS (~-26.4%), DOCU (+3.6%), SFIX (-4.2%), and DUOL (+77.1%) do not qualify. Recheck only after major price moves or fresh operating evidence.
+- **Monitor standing leads sparingly** — As of 2026-06-11, TRI (~-22.8% adjusted), DOCU (+1.3%), SFIX (+10.3%), and DUOL (+81.8%) do not qualify. HUBS qualified and was added. Recheck standing leads only after major price moves or fresh operating evidence.
 - **Fresh catalyst first** — Prioritize source-backed stories where AI is explicitly tied to guidance, revenue, pricing, usage, or staffing pressure before running price screens.
 - **International exchanges beyond LSE/Euronext/ASX/NSE** — TSX, JSE, and HKEX remain underexplored, but screen only from named AI-risk catalysts.
