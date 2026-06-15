@@ -1,15 +1,15 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 93 (as of 2026-06-11)
-- **Last updated:** 2026-06-11
+- **Company count:** 94 (as of 2026-06-15)
+- **Last updated:** 2026-06-15
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Software & SaaS | 25 |
 | Business Services | 26 |
-| Content & Media | 13 |
+| Content & Media | 14 |
 | Research & Analytics | 11 |
 | Marketing & Advertising | 8 |
 | Education | 3 |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-15
+- **Added:** LBG.L (LBG Media plc) — Content & Media / Digital Publishing. Pre-ChatGPT 56.5p, current 27.3p (-51.7%). Active yfinance ticker, no duplicate row, and no split actions. The AI thesis is publisher traffic compression: June 2026 coverage tied LBG's guidance cut and 41% first-half indirect-revenue decline to platform changes reducing website visits, explicitly including Google AI Overviews deterring click-throughs alongside Meta algorithm changes. The row is framed honestly as mixed platform/AI causality, but AI search is now a named contributor to the collapse of high-margin open-web advertising revenue.
+- **Rejected / rechecked:** Standing leads failed again on adjusted yfinance pricing: TRI (-21.6%) still did not clear the price gate after capital-return adjustments; DOCU (+1.2%), SFIX (+6.8%), and DUOL (+93.1%) were above pre-ChatGPT. Fresh AI-risk/friction checks found ADBE already listed, while CRM, ORCL, INTU, ADSK, DBX, RNG, ZM, FSLY, RAMP, APPF, and BRZE failed price gates; FRSH was already listed. UBER, DASH, MA, and AXP were named in an AI-agent friction-removal narrative but were all far above pre-ChatGPT prices.
+- **Search approaches used:** 3 of 5 (standing lead re-check; named software/AI-agent risk coverage; AI-search publisher/outlook-cut screen). Candidate evaluations stayed within the 15-company cap.
+- **Observation:** The successful path was a named publisher guidance-cut catalyst, not a broad basket. For future publisher adds, require a fresh company-level revenue/guidance hit that explicitly names AI search or AI answer engines; generic Meta/Google algorithm pressure alone should still fail.
 
 ## Session Log: 2026-06-12
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
@@ -137,9 +143,3 @@
 - **Rejected / rechecked:** Standing leads failed again: TRI (-22.6%) and SFIX (-20.8%) remain too modest, while DOCU (+15.1%) and DUOL (+77.3%) are above pre-ChatGPT. Agentic/application software checks failed price gates: PATH (-6.1%), NOW (+36.6%), WDAY (-5.5%). AI-search/travel/review checks failed price gates or primary-cause tests: IAC (+2.8%), EXPE (+116.8%), TRST.L (+150.7%), YELP (-21.3%). SEEK/SEK.AX was price-qualified (-37.2%) but rejected because current evidence is mixed: AI jitters exist, but Zhaopin impairment, weak job ad volumes, and management's own AI-enhanced yield/product framing make it less clean than existing staffing/job-marketplace names.
 - **Search approaches used:** 4 of 5 (standing leads; live analyst/SaaS catalyst screen; AI-search/review/travel screen; international translation/localization peer screen). Candidate evaluations stayed within the 15-company cap.
 - **Observation:** Translation/localization is a productive under-saturated category when the company has explicit evidence of legacy human translation revenue being cannibalized by AI workflows. Straker was stronger than another staffing add because its own filings quantify the legacy translation decline and the AI-led revenue-model pivot.
-
-## Session Log: 2026-05-15
-- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with scheduled price refreshes. Standing leads still failed the full bar: TRI -24.2% adjusted and SFIX -17.8% were too modest; DOCU (+3.6%) and DUOL (+63.3%) remained above pre-ChatGPT. NCNO is now price-qualified at -39.6%, but current filings/earnings coverage show record gross ACV bookings, 112% net retention, and demand for AI banking capabilities, so it remains an AI beneficiary/transition story rather than an AI-disrupted one. RWA.L, ADEN.SW, and RAND.AS remain price-qualified staffing names but were not added because staffing/recruitment is saturated and prior company-specific evidence remains mixed. IPS.PA no longer passed the price gate on adjusted yfinance pricing.
-- **Analyst/live-catalyst screen:** Wedbush/Investing.com AI-loser coverage surfaced PINS, TTD, and NICE; NICE is already in the CSV, PINS was only -19.9%, and TTD was price-qualified at -57.1% but rejected again. Fresh May 2026 downgrades point to weak Q2 guidance, agency fallout, competitive pressure, pricing friction around Kokai AI, and an unproven AI ad opportunity. AI/open-internet pressure is relevant, but the evidence is still too mixed to call AI the primary disruption driver while revenue continues growing.
-- **Search approaches used:** 2 of 5 (standing leads/staffing/market-intelligence re-check; named analyst AI-loser/live downgrade screen). Stopped at the 15-candidate evaluation cap.
-- **Observation:** The cleanest current path is still live catalyst monitoring. Do not force broad software/ad-tech decliners unless the fresh evidence ties guidance cuts or revenue deterioration directly to AI displacement, not just valuation compression, macro ad weakness, or generic competitive pressure.

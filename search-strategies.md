@@ -188,7 +188,11 @@
 - **Result:** No companies added. Standing leads failed after adjusted pricing; ADBE was already in the CSV; NOW/CRM/WDAY/ORCL/APP and most professional-information/data names failed price gates, while IT, CLVT, FDS, and TENB were already listed.
 - **Verdict:** Broad software/data yfinance batches are low-yield and can exceed the candidate budget. Next runs should require a named source-backed AI catalyst before checking a basket, and should duplicate-check obvious names first.
 
+### 2026-06-15: AI-search publisher guidance-cut screen
+- **Result:** Found LBG.L (LBG Media plc, -51.7%). Standing leads failed again. Broad software/AI-agent and friction-removal names mostly failed price gates or duplicated existing rows, but a publisher-specific guidance-cut story worked: LBG cut 2026 revenue/EBITDA expectations after indirect revenue fell 41%, with current coverage tying traffic weakness to Google AI Overviews as well as Meta algorithm changes.
+- **Verdict:** AI-search publisher candidates can still work when there is a fresh company-level revenue or guidance hit. Keep the bar high: AI Overviews or AI answer engines need to be explicitly named as part of the pressure, because generic platform algorithm changes alone are too broad.
+
 ## Untried / Ideas for Next Session
-- **Monitor standing leads sparingly** — As of 2026-06-12, TRI (~-24.5% adjusted), DOCU (-1.2%), SFIX (+3.7%), and DUOL (+78.9%) do not qualify. HUBS qualified and was added. Recheck standing leads only after major price moves or fresh operating evidence.
+- **Monitor standing leads sparingly** — As of 2026-06-15, TRI (~-21.6% adjusted), DOCU (+1.2%), SFIX (+6.8%), and DUOL (+93.1%) do not qualify. HUBS qualified and was added. Recheck standing leads only after major price moves or fresh operating evidence.
 - **Fresh catalyst first** — Prioritize source-backed stories where AI is explicitly tied to guidance, revenue, pricing, usage, or staffing pressure before running price screens.
 - **International exchanges beyond LSE/Euronext/ASX/NSE** — TSX, JSE, and HKEX remain underexplored, but screen only from named AI-risk catalysts.
