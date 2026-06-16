@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 94 (as of 2026-06-15)
-- **Last updated:** 2026-06-15
+- **Last updated:** 2026-06-16
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-16
+- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
+- **Rejected / rechecked:** Standing leads failed again on adjusted yfinance pricing: TRI (-23.2%) remained below the gate after capital-return/share-consolidation effects; DOCU (+0.8%), SFIX (+9.3%), and DUOL (+91.5%) failed price gates. A narrow publisher/search screen found FUTR.L and PERI already listed, while MONY.L, AUTO.L, RMV.L, QNST, YELP, and MORN failed price gates; LEE and MDIA remained non-clean local-media/radio stories. A bounded SaaS/legal/fintech check found ASAN, CXM, BILL, LAW, LZ, PAYC, PD, DOMO, and BL already listed; SSTK was already listed, and SST was reverse-split distorted.
+- **Search approaches used:** 4 of 5 (standing lead re-check; AI-search publisher/traffic screen; legal/thin-category spot check; bounded SaaS/fintech duplicate and price screen). Candidate evaluations hit the practical 15-company boundary with no clean non-duplicate add.
+- **Observation:** The binding constraint is now duplicate/primary-cause evidence, not raw price. Fresh publisher catalysts can still work, but today's best price-qualified names were already in the CSV or were muddied by non-AI secular decline, reverse splits, or healthy AI-as-product positioning.
 
 ## Session Log: 2026-06-15
 - **Added:** LBG.L (LBG Media plc) — Content & Media / Digital Publishing. Pre-ChatGPT 56.5p, current 27.3p (-51.7%). Active yfinance ticker, no duplicate row, and no split actions. The AI thesis is publisher traffic compression: June 2026 coverage tied LBG's guidance cut and 41% first-half indirect-revenue decline to platform changes reducing website visits, explicitly including Google AI Overviews deterring click-throughs alongside Meta algorithm changes. The row is framed honestly as mixed platform/AI causality, but AI search is now a named contributor to the collapse of high-margin open-web advertising revenue.
@@ -83,12 +89,6 @@
 - **Rejected / skipped:** Thin-category / international screen found no clean add. KARNOV.ST had no active yfinance data and appears unavailable/delisted. ALFRE.PA (Freelance.com) was active, not duplicated, had no split distortion, and was price-qualified (-58.8%), but was not added in this run because there was not yet independent analyst evidence tying the pricing/margin weakness directly to AI. Revisit with more skepticism of company self-positioning: the timing of the derating plus weakening pricing power is potentially meaningful AI-disruption evidence even if filings describe AI as a transformation lever. BOL.ST and ALM.MC failed price gates; ASC.L was price-qualified but outside the index thesis, with no primary AI-disruption case pursued.
 - **Search approaches used:** 3 of 5 (standing/monitor lead re-check; thin Legal & Tax / Nordic professional-information spot check; fringe Freelance Marketplace / European small-cap screen). Stopped under the candidate-evaluation budget with no qualifying company.
 - **Observation:** Freelance Marketplace remains thin, and ALFRE.PA should stay on the watchlist rather than be treated as a dead false positive. In future runs, give less weight to management's self-serving AI framing and more weight to independent analyst commentary, stock-market timing, and concrete evidence of pricing/margin pressure in AI-exposed freelance work.
-
-## Session Log: 2026-06-02
-- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing/monitor lead checks still failed the full bar: TRI (-15.1%), SFIX (-7.6%), and HUBS (-17.8%) were too modest, while DOCU (+21.8%) and DUOL (+65.8%) remained above pre-ChatGPT. Price-qualified monitors RWA.L, ADEN.SW, RAND.AS, NRDS, TTD, ZOO.L, DATA.L, and YOU.L stayed under prior saturation or primary-cause objections; TCS.NS no longer cleared the price gate.
-- **Rejected / skipped:** A fresh Citi application-software AI-risk screen surfaced CCC (CCC Intelligent Solutions). CCC was active, yfinance-compatible, not duplicated, had no split actions, and was price-qualified (-44.1%), but was rejected because current company/earnings evidence frames AI as a material growth driver: Q1 2026 revenue grew about 12%, full-year guidance was raised, net retention remained above 100%, and AI solutions represented about 10% of revenue / a roughly $120M annualized run rate.
-- **Search approaches used:** 2 of 5 (standing/monitor lead re-check; fresh application-software AI-risk downgrade screen). Stopped after the formal candidate-evaluation budget was effectively consumed with no qualifying company.
-- **Observation:** Broad AI-risk downgrade screens can surface price-qualified names, but many are being repriced for sector architecture risk while current fundamentals still show AI-enabled growth. CCC should not be retried soon unless revenue/retention turns down and external evidence ties deterioration to AI-native claims automation bypassing its platform.
 
 ## Session Log: 2026-06-01
 - **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing leads failed again on adjusted yfinance pricing: TRI (-14.5%), HUBS (-15.3%), and SFIX (-6.5%) were too modest, while DOCU (+23.6%) and DUOL (+75.2%) were above pre-ChatGPT.

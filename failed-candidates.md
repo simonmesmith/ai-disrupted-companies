@@ -3,12 +3,6 @@
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
 | FIG | Figma | IPO'd July 2025, no pre-ChatGPT price exists. Cannot qualify. | 2026-03-29 |
-| SAP | SAP | Stock up 59.3% from pre-ChatGPT price ($102.94 -> $164.02). AI beneficiary. | 2026-03-30 |
-| RELX | RELX | All tickers (RELX, REL.L, REN.AS) show stock UP 8-26% from pre-ChatGPT. Not disrupted. | 2026-03-31 |
-| NEM.DE | Nemetschek | Stock up 40% from pre-ChatGPT. Not disrupted despite being DSY.PA peer. | 2026-03-31 |
-| NOW | ServiceNow | Up 32% from pre-ChatGPT despite 2026 sell-off. | 2026-03-31 |
-| CRM | Salesforce | Up 23% from pre-ChatGPT despite 2026 sell-off. | 2026-03-31 |
-| S | SentinelOne | Down only 18% from pre-ChatGPT, weak AI disruption angle for cybersecurity. | 2026-03-31 |
 | VERX | Vertex Inc | AI adopter not victim - launching AI copilots, investing in AI startups (Kintsugi). Down 25.4% but actively leveraging AI. | 2026-04-01 |
 | DDOG | Datadog | Stock up 63.8% from pre-ChatGPT. AI beneficiary. | 2026-04-01 |
 | WIT | Wipro | Down only 10.5% from pre-ChatGPT. Decline too small. | 2026-04-01 |
@@ -197,3 +191,8 @@
 | IT/CLVT/FDS/VRSK/EFX/TRU/FICO/MCO/MSCI/SPGI/TENB | Data, professional-information, and cybersecurity checks | IT, CLVT, FDS, and TENB were already listed or duplicated; VRSK, EFX, TRU, FICO, MCO, MSCI, and SPGI failed price gates. | 2026-06-12 |
 | TRI/DOCU/SFIX/DUOL | Standing leads | Rechecked after sync: TRI (-21.6%) still failed the adjusted price gate; DOCU (+1.2%), SFIX (+6.8%), and DUOL (+93.1%) were above pre-ChatGPT. | 2026-06-15 |
 | ADBE/CRM/ORCL/INTU/ADSK/DBX/RNG/ZM/FSLY/RAMP/APPF/FRSH/BRZE/UBER/DASH/MA/AXP | Software, AI-agent, and friction-removal checks | ADBE and FRSH were already listed. CRM, ORCL, INTU, ADSK, DBX, RNG, ZM, FSLY, RAMP, APPF, BRZE, UBER, DASH, MA, and AXP failed price gates despite current AI-agent or software-risk narratives. | 2026-06-15 |
+| TRI/DOCU/SFIX/DUOL | Standing leads | Rechecked after sync: TRI (-23.2%) still failed the adjusted price gate after capital-return/share-consolidation effects; DOCU (+0.8%), SFIX (+9.3%), and DUOL (+91.5%) failed price gates. | 2026-06-16 |
+| MONY.L/AUTO.L/RMV.L/QNST/YELP/MORN/BYIT.L/STGW/2433.T | Publisher, search, software-reseller, and ad-agency checks | Narrow AI-search/workflow screen failed price gates: MONY.L -4.1%, AUTO.L -15.2%, RMV.L -20.0%, QNST -7.2%, YELP -21.2%, MORN -23.7%, BYIT.L -13.4%, STGW -7.9%, and 2433.T -7.8%. | 2026-06-16 |
+| FUTR.L/SSTK/PERI | AI-search / stock-media / ad-tech duplicates | All were price-qualified or plausible AI-disruption names, but duplicate checks showed each is already present in `companies.csv`; do not re-add. | 2026-06-16 |
+| SST | System1 Inc | Price-qualified but rejected at screen stage because a 1:10 reverse split in June 2025 makes the stock-history comparison distorted, and the current evidence was not clean enough to overcome that red flag. | 2026-06-16 |
+| DOTD.L | dotdigital Group | Price-qualified (-52.0%) but rejected at screen stage: no fresh source-backed evidence tied revenue/guidance pressure primarily to AI displacement rather than broader marketing-automation softness or company-specific factors. | 2026-06-16 |
