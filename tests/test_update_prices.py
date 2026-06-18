@@ -96,6 +96,15 @@ class TestUpdateRows:
         update_rows(rows, prices)
         assert float(rows[0]["change_percentage"]) == pytest.approx(-0.25)
 
+    def test_calculates_change_percentage_from_written_price(self):
+        rows = [
+            {"ticker": "LOW", "price_prechatgpt": "0.26", "price_now": "0.13", "change_percentage": "-0.5"},
+        ]
+        prices = {"LOW": 0.125}
+        update_rows(rows, prices)
+        assert rows[0]["price_now"] == "0.12"
+        assert float(rows[0]["change_percentage"]) == pytest.approx((0.12 - 0.26) / 0.26)
+
     def test_missing_ticker_keeps_old_value(self, capsys):
         rows = [
             {"ticker": "MISSING", "price_prechatgpt": "100.00", "price_now": "50.00", "change_percentage": "-0.5"},

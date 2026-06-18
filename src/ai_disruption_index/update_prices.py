@@ -39,7 +39,7 @@ def update_rows(rows, prices):
             print(f"  WARNING: No price data for {ticker}, keeping old value")
             continue
         old_price = row["price_now"]
-        new_price = prices[ticker]
+        new_price = round(prices[ticker], 2)
         pre_price = parse_price(row["price_prechatgpt"])
         if pre_price <= 0:
             print(f"  WARNING: Invalid pre-ChatGPT price for {ticker}, keeping old value")
