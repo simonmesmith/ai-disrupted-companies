@@ -1,9 +1,9 @@
 # Leads for Next Session
 
 ## Promising Candidates to Monitor
-- **TRI (Thomson Reuters)** — Down ~22.3% on adjusted yfinance pricing on 2026-06-17, still below the price gate after capital-return/share-consolidation effects. Raw-price comparisons can overstate the decline; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
-- **DOCU (DocuSign)** — Roughly flat/slightly above pre-ChatGPT (+0.2% on 2026-06-17). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses materially lower.
-- **SFIX (Stitch Fix)** — Above pre-ChatGPT (+9.3% on 2026-06-17). AI styling could threaten the human stylist model if fundamentals deteriorate further, but it no longer clears even a basic below-baseline screen.
+- **TRI (Thomson Reuters)** — Down ~25.5% on adjusted yfinance pricing on 2026-06-18, still below the price gate after capital-return/share-consolidation effects. Raw-price comparisons can overstate the decline; monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
+- **DOCU (DocuSign)** — Down only ~6.0% from pre-ChatGPT on 2026-06-18. Citi downgrade and e-signature commoditization thesis are plausible only if price crosses materially lower.
+- **SFIX (Stitch Fix)** — Above pre-ChatGPT (+2.0% on 2026-06-18). AI styling could threaten the human stylist model if fundamentals deteriorate further, but it no longer clears even a basic below-baseline screen.
 - **HUBS (HubSpot)** — **ADDED 2026-06-11.** Do not retry. Qualified after crossing the adjusted price gate at about -32.0% and fresh coverage tied the selloff to AI efficiency reducing seat demand and forcing outcome-based pricing / AI credits.
 - **ALFRE.PA (Freelance.com)** — **ADDED 2026-06-04.** Do not retry. Qualified after follow-up found external Ramp Economics Lab evidence that businesses are shifting spend from online labor marketplaces to AI model providers, matching Freelance.com's own organic slowdown, lower billing rates, reduced independent-worker usage, and margin pressure.
 - **Legal & Tax thin category** — Still only 3 companies. No new candidate found; most legal/tax companies are private, acquired, already listed through adjacent categories, reverse-split distorted, or above pre-ChatGPT. WKL.AS was rechecked on 2026-05-28 and is already in the CSV under Research & Analytics / Professional Information; INTA was above pre-ChatGPT on 2026-06-08 and NOTE remains reverse-split distorted.

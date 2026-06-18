@@ -8,7 +8,6 @@
 | WIT | Wipro | Down only 10.5% from pre-ChatGPT. Decline too small. | 2026-04-01 |
 | EXPN.L | Experian | Down only 8.3% from pre-ChatGPT. Decline too small. | 2026-04-01 |
 | PSON.L | Pearson | Flat (up 0.5%) from pre-ChatGPT. Not disrupted. | 2026-04-01 |
-| NMRK | Newmark Group | Up 86.3% from pre-ChatGPT. Not disrupted. | 2026-04-01 |
 | QLYS | Qualys | Down 27% from pre-ChatGPT, but cybersecurity AI disruption angle is weak. | 2026-03-31 |
 | TECHM.NS | Tech Mahindra | Up 47.1% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
 | HCLTECH.NS | HCL Technologies | Up 40.6% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
@@ -19,7 +18,6 @@
 | EVBG | Everbridge | No yfinance data available, possibly delisted. | 2026-04-02 |
 | SEMR | Semrush | Up 31.6% from pre-ChatGPT. Being acquired by Adobe for $12/share. | 2026-04-03 |
 | GDYN | Grid Dynamics | AI adopter not victim - AI revenue up 30% YoY. Stock down 51.6% but decline is growth deceleration, not AI disruption. | 2026-04-03 |
-| HPP | Hudson Pacific Properties | Down 92% but decline is secular office REIT collapse, not AI-specific. | 2026-04-03 |
 | SMAR | Smartsheet | Delisted/taken private, no yfinance data available. | 2026-04-04 |
 | PCTY | Paylocity | Down 48.4% but AI disruption angle weak — revenue growing 14%, 92% retention, actively acquiring (Airbase), expanding with AI features. | 2026-04-04 |
 | APPN | Appian | Down 33.8% but analysts say AI risk is market misconception — backend process automation, not chatbot-style automation. | 2026-04-04 |
@@ -197,3 +195,4 @@
 | SST | System1 Inc | Price-qualified but rejected at screen stage because a 1:10 reverse split in June 2025 makes the stock-history comparison distorted, and the current evidence was not clean enough to overcome that red flag. | 2026-06-16 |
 | DOTD.L | dotdigital Group | Price-qualified (-52.0%) but rejected at screen stage: no fresh source-backed evidence tied revenue/guidance pressure primarily to AI displacement rather than broader marketing-automation softness or company-specific factors. | 2026-06-16 |
 | TRI/DOCU/SFIX/DUOL and fresh software screen | Standing leads plus CRM/FIG/TEAM/MDB/SNOW/DBX/RNG/ZM recheck: standing leads failed price gates; CRM/MDB/SNOW/DBX/RNG/ZM were above pre-ChatGPT, FIG has no pre-ChatGPT history, and TEAM is already listed and still just short of the gate. | 2026-06-17 |
+| TRI/DOCU/SFIX/DUOL plus software/ad-tech checks | Standing leads failed again: TRI -25.5% adjusted and still short of the gate; DOCU -6.0%, SFIX +2.0%, and DUOL +85.6% failed price gates. NOW, SGE.L, REL.L, and LSEG.L were above pre-ChatGPT; IT/Gartner and DV were already listed. CRTO remained under prior primary-cause objections, FLNT was reverse-split distorted, and TBLA/MGNI/PUBM/RAMP failed price gates. | 2026-06-18 |

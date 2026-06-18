@@ -2,10 +2,6 @@
 
 ## Tried
 
-### 2026-04-02: Leads from memory + SaaSpocalypse research + small-cap SaaS screening
-- **Result:** Found SMWB (Similarweb, -45.2%). Asian IT outsourcers (TECHM.NS, HCLTECH.NS) are up. TCS.NS down only 19.8%. DOCS is AI adopter. Large-cap SaaSpocalypse victims (WDAY, SNOW) still above or near pre-ChatGPT.
-- **Verdict:** Small-cap SaaS screening via the SaaSpocalypse narrative is productive. Companies whose core data signals are being undermined by AI (like Similarweb's web traffic analytics) have a stronger disruption case than companies just caught in a sector rotation. The "AI zero-click" theme (AI reducing web traffic) is a new disruption vector worth exploring further. Semrush (SEMR) is a natural next candidate.
-
 ### 2026-04-03: Leads from memory + SaaSpocalypse specific victims
 - **Result:** Found MNDY (monday.com, -30.6%). SEMR is up 31.6% and being acquired by Adobe. TRI still only -16.5%. Office REITs (CBRE, JLL) are way up. GDYN is an AI adopter. Checked many SaaS names (INTU, BOX, ESTC, PATH, DOCN, TWLO, DOCU) — most are up or only modestly down.
 - **Verdict:** The SaaSpocalypse is mostly a 2026 phenomenon — companies that were already well above pre-ChatGPT prices got knocked down but many are still above. The strongest candidates are task-specific SaaS (project management, work OS) where AI agents directly replace the manual workflows the product automates. MNDY was a clear hit with the same thesis as TEAM. Many blue-chip SaaS names (TWLO, DOCN, DOCU) have actually recovered strongly from earlier dips.
@@ -191,7 +187,11 @@
 - **Result:** No companies added. Standing leads failed again. Fresh AI-anxiety software headlines did not work: CRM was still above pre-ChatGPT, FIG has no qualifying pre-ChatGPT history, TEAM was already listed and just short of the gate, and MDB/SNOW/DBX/RNG/ZM were above pre-ChatGPT. Follow-on ad-tech/international spot checks found some price-qualified names, but no clean non-duplicate candidate before the candidate cap was reached.
 - **Verdict:** Do not let broad software-selloff headlines pull the run into ticker baskets. Require a named company-level AI catalyst first, then check price and duplicates.
 
+### 2026-06-18: Zero-find run — software/data and ad-tech follow-up
+- **Result:** No companies added. Standing leads failed again, current software/data AI-selloff names mostly failed price gates, Gartner was already listed, and open-web ad/publisher-adjacent checks produced no clean add. CRTO stayed under prior primary-cause objections; FLNT was reverse-split distorted; 2175.T, 3962.T, and 300413.SZ lacked a clean AI-primary catalyst despite price qualification.
+- **Verdict:** Yesterday's warning held: broad spot screens burn the candidate budget. Next run should start from a new company-level catalyst that explicitly links AI to guidance, revenue, pricing, usage, or staffing pressure before doing yfinance batches.
+
 ## Untried / Ideas for Next Session
-- **Monitor standing leads sparingly** — As of 2026-06-17, TRI (~-22.3% adjusted), DOCU (+0.2%), SFIX (+9.3%), and DUOL (+95.0%) do not qualify. HUBS qualified and was added. Recheck standing leads only after major price moves or fresh operating evidence.
+- **Monitor standing leads sparingly** — As of 2026-06-18, TRI (~-25.5% adjusted), DOCU (-6.0%), SFIX (+2.0%), and DUOL (+85.6%) do not qualify. HUBS qualified and was added. Recheck standing leads only after major price moves or fresh operating evidence.
 - **Fresh catalyst first** — Prioritize source-backed stories where AI is explicitly tied to guidance, revenue, pricing, usage, or staffing pressure before running price screens.
 - **International exchanges beyond LSE/Euronext/ASX/NSE** — TSX, JSE, and HKEX remain underexplored, but screen only from named AI-risk catalysts.
