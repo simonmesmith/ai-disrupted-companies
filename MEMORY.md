@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 94 (as of 2026-06-15)
-- **Last updated:** 2026-06-17
+- **Last updated:** 2026-06-19
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-19
+- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
+- **Rejected / rechecked:** Standing leads failed adjusted yfinance checks again: TRI (-25.6%) remains below the adjusted price gate with the 2023 capital-return/share-consolidation distortion, DOCU (-2.4%) and SFIX (+5.5%) failed price/magnitude gates, and DUOL (+88.6%) remains far above baseline. Fresh source-first checks did not produce a clean non-duplicate add: DSY.PA/Dassault was price-qualified but already in `companies.csv`; SMWB/Similarweb was already listed and now above its pre-ChatGPT price; OTEX/OTEX.TO was not duplicated but only down ~16-19%; brokerage/wealth-management names from an AI-tax-planning scare (RJF, LPLA, SCHW, IBKR) were all above pre-ChatGPT.
+- **Search approaches used:** 4 of 5 (standing-lead recheck; fresh software/data AI-guidance articles; AI-search/digital-analytics duplicate check; financial-services AI-scare price check). Stopped after repeated price/duplicate failures rather than broadening into another low-yield basket.
+- **Observation:** Today's only price-qualified fresh source hit, Dassault, was already present. The next run should keep duplicate checks in front of deep research and should not spend effort on generic software/financial-services selloff articles unless a named company also shows post-ChatGPT underperformance and company-level AI pressure.
 
 ## Session Log: 2026-06-18
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
@@ -137,9 +143,3 @@
 - **Rejected / rechecked:** Standing leads still failed: TRI (-18.7%) and SFIX (-12.8%) were too modest, while DOCU (+11.2%) and DUOL (+60.1%) remained above pre-ChatGPT. RCH.L was price-qualified and had a strong AI-search/publisher thesis, but it was already in `companies.csv`. KNOS.L was price-qualified (-45.3%) but rejected because FY2026 results showed 17% revenue growth, 23% product ARR growth, and AI/data project revenue up 11%, making AI a demand/product driver rather than the primary disruption cause. DATA.L, YOU.L, ZOO.L, RWA.L, ADEN.SW, RAND.AS, NRDS, and TTD remain price-qualified monitors with prior primary-cause or saturation objections still holding.
 - **Search approaches used:** 3 of 5 (standing lead re-check; duplicate/AI-search publisher follow-up via RCH.L; UK IT-services/market-intelligence spot screen). Candidate evaluations exceeded the nominal 15-check cap because the price screen was broader than intended; no further research was done after KNOS.L failed.
 - **Observation:** The required sync can surface already-added companies, so duplicate checks remain essential before doing deep research. The most promising new path remains fresh company-level catalysts where AI is tied to revenue deterioration or guidance pressure; broad IT-services names with growing AI revenue should not be forced.
-
-## Session Log: 2026-05-21
-- **Added:** CINT.ST (Cint Group AB) — Research & Analytics / Market Research. Pre-ChatGPT SEK 46.42, current SEK 5.88 (-87.3%). Active Stockholm ticker, no yfinance split distortion, and no duplicate Cint row. The AI thesis is survey-sample marketplace compression: synthetic research and AI personas give marketers faster, cheaper directional answers than traditional human-panel studies, while AI/bot respondents make opt-in survey panels harder to police. Cint's own Q1 2026 report said Cint Exchange sales were still down 5.1% in constant currency and described new respondent-vetting layers to screen for AI and bot respondents; Cint's data leader also warned that AI and synthetic modeling will massively disrupt the traditional question-and-answer research model and that brands may bypass research if it is not fast and cost-effective.
-- **Rejected / rechecked:** Standing leads failed again: TRI (-21.0%) and SFIX (-15.6%) too modest; DOCU (+8.1%) and DUOL (+58.8%) above pre-ChatGPT. DCBO was price-qualified (-42.9%) but rejected because Q1 2026 results showed double-digit growth, raised guidance, and AI workforce-readiness demand rather than disruption. DATA.L (-41.4%) and YOU.L (-77.2%) remain market-research/professional-information monitors, but current evidence still frames AI mostly as a platform/product opportunity or is muddied by prior non-AI execution/acquisition issues. RXT (-13.2%), SAA.L (-1.2%), ALBFR.PA (+23.2%), SOP.PA (+2.4%), AKAM (+59.8%), APP (+3,594%), RAMP (+80.3%), and PAY (+150.8%) failed price gates or did not support an AI-disruption thesis.
-- **Search approaches used:** 4 of 5 (standing lead re-check; market-research/survey-sample screen; corporate-learning/LMS screen; European software/ad-services/professional-information spot checks). Candidate evaluations stayed within the 15-company cap.
-- **Observation:** Market research remains usable, but only where AI changes both customer behavior and the data supply chain. Cint was stronger than YouGov or GlobalData because its core business is paid access to opt-in human respondents, and the current evidence ties AI directly to both substitution risk (synthetic research) and panel-quality cost (AI/bot respondents).
