@@ -5,9 +5,6 @@
 | FIG | Figma | IPO'd July 2025, no pre-ChatGPT price exists. Cannot qualify. | 2026-03-29 |
 | VERX | Vertex Inc | AI adopter not victim - launching AI copilots, investing in AI startups (Kintsugi). Down 25.4% but actively leveraging AI. | 2026-04-01 |
 | DDOG | Datadog | Stock up 63.8% from pre-ChatGPT. AI beneficiary. | 2026-04-01 |
-| WIT | Wipro | Down only 10.5% from pre-ChatGPT. Decline too small. | 2026-04-01 |
-| EXPN.L | Experian | Down only 8.3% from pre-ChatGPT. Decline too small. | 2026-04-01 |
-| PSON.L | Pearson | Flat (up 0.5%) from pre-ChatGPT. Not disrupted. | 2026-04-01 |
 | QLYS | Qualys | Down 27% from pre-ChatGPT, but cybersecurity AI disruption angle is weak. | 2026-03-31 |
 | TECHM.NS | Tech Mahindra | Up 47.1% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
 | HCLTECH.NS | HCL Technologies | Up 40.6% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
@@ -197,3 +194,5 @@
 | TRI/DOCU/SFIX/DUOL and fresh software screen | Standing leads plus CRM/FIG/TEAM/MDB/SNOW/DBX/RNG/ZM recheck: standing leads failed price gates; CRM/MDB/SNOW/DBX/RNG/ZM were above pre-ChatGPT, FIG has no pre-ChatGPT history, and TEAM is already listed and still just short of the gate. | 2026-06-17 |
 | TRI/DOCU/SFIX/DUOL plus software/ad-tech checks | Standing leads failed again: TRI -25.5% adjusted and still short of the gate; DOCU -6.0%, SFIX +2.0%, and DUOL +85.6% failed price gates. NOW, SGE.L, REL.L, and LSEG.L were above pre-ChatGPT; IT/Gartner and DV were already listed. CRTO remained under prior primary-cause objections, FLNT was reverse-split distorted, and TBLA/MGNI/PUBM/RAMP failed price gates. | 2026-06-18 |
 | TRI/DOCU/SFIX/DUOL plus DSY.PA/SMWB/OTEX/RJF/LPLA/SCHW/IBKR | Standing leads failed again: TRI -25.6% adjusted and still short of the gate; DOCU -2.4%, SFIX +5.5%, and DUOL +88.6% failed price gates. DSY.PA/Dassault and SMWB/Similarweb were already listed, OTEX/OTEX.TO was only down ~16-19%, and brokerage/wealth-management names from an AI-tax-planning scare were all above pre-ChatGPT. | 2026-06-19 |
+| TRI/DOCU/SFIX/DUOL | Standing leads failed again: TRI -25.0% adjusted and still short of the gate with capital-return/share-consolidation distortion; DOCU -0.9%, SFIX +7.7%, and DUOL +94.8% failed price gates. | 2026-06-22 |
+| CRM/NOW/BLZE/AVPT/CVLT/VRNS/BOX/DBX/NTNX | Named AI-risk software downgrade screen mostly failed price gates: CRM +2.6%, NOW +22.0% adjusted after split, BLZE +97.0%, AVPT +123.0%, CVLT +101.1%, VRNS +64.3%, BOX -7.5%, DBX +16.3%, and NTNX +72.3%. NABL was the only clean price-qualified add from this screen. | 2026-06-22 |

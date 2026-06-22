@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 94 (as of 2026-06-15)
-- **Last updated:** 2026-06-19
+- **Company count:** 95 (as of 2026-06-22)
+- **Last updated:** 2026-06-22
 
 ## Category Distribution
 | Category | Count |
 |---|---|
-| Software & SaaS | 25 |
+| Software & SaaS | 26 |
 | Business Services | 26 |
 | Content & Media | 14 |
 | Research & Analytics | 11 |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-22
+- **Added:** NABL (N-able, Inc.) — Software & SaaS / IT Management. Pre-ChatGPT $11.23, current $3.04 (-72.9%). Active NYSE ticker, no duplicate row, and no split actions. The AI thesis is autonomous IT / MSP software compression: William Blair downgraded N-able to Underperform under its AI-era software framework, citing a low 10/20 score, uneven execution, largely seat-based pricing, and questionable organic revenue acceleration, while current MSP coverage shows traditional monitoring and first-line support being automated by AI-native platforms such as Kaseya and Atera.
+- **Rejected / rechecked:** Standing leads failed adjusted yfinance checks: TRI (-25.0%) remains below the adjusted gate with capital-return/share-consolidation distortion, DOCU (-0.9%) is near flat, SFIX (+7.7%) and DUOL (+94.8%) are above baseline. Named William Blair/software AI-risk checks mostly failed price gates: CRM (+2.6%), NOW (+22.0% adjusted after a split), BLZE (+97.0%), AVPT (+123.0%), CVLT (+101.1%), VRNS (+64.3%), BOX (-7.5%), DBX (+16.3%), and NTNX (+72.3%).
+- **Search approaches used:** 2 of 5 (standing-lead recheck; named AI-risk software downgrade screen). Candidate evaluations stayed within the 15-company cap.
+- **Observation:** AI-risk analyst frameworks can still surface undercovered adds when paired with price qualification and a specific workflow thesis. For MSP/RMM software, require evidence that AI is automating monitoring, triage, remediation, or technician work; do not add names on generic software selloff alone.
 
 ## Session Log: 2026-06-19
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
@@ -137,9 +143,3 @@
 - **Rejected / rechecked:** Standing leads failed again: TRI (-19.9%) and SFIX (-9.2%) were too modest, while DOCU (+11.0%) and DUOL (+61.5%) remained above pre-ChatGPT. HUBS was close (-29.3%) and had fresh AI-agent go-to-market downgrade risk, but did not clear the price gate. NIITLTD.NS was price-qualified (-78.0%) but rejected because the stock is distorted by restructuring/demerger context and current evidence frames AI-led skilling as demand growth. ALIT was price-qualified (-89.0%) but rejected because the primary pressure appears to be impairment, execution, dividend suspension, and operational reset, with AI framed as an efficiency/product initiative. CARS was barely price-qualified (-31.3%) but rejected because current results are flat/stabilizing and AI appears as a product feature rather than primary disruption.
 - **Search approaches used:** 3 of 5 (standing lead re-check; live software/AI-agent downgrade screen; broad IT-services/BPO/education/platform price screen). Candidate evaluations stayed within the 15-company cap.
 - **Observation:** Large-cap IT services can still qualify when the price gate finally catches up to the AI-labor-arbitrage thesis, but the bar should stay high because many service firms now present AI as both threat and growth engine. For future sessions, prefer fresh analyst or filing evidence that explicitly connects AI automation to engagement-size pressure, revenue deflation, or guidance risk.
-
-## Session Log: 2026-05-25
-- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices and an already-present RCH.L row, so Reach was not duplicated.
-- **Rejected / rechecked:** Standing leads still failed: TRI (-18.7%) and SFIX (-12.8%) were too modest, while DOCU (+11.2%) and DUOL (+60.1%) remained above pre-ChatGPT. RCH.L was price-qualified and had a strong AI-search/publisher thesis, but it was already in `companies.csv`. KNOS.L was price-qualified (-45.3%) but rejected because FY2026 results showed 17% revenue growth, 23% product ARR growth, and AI/data project revenue up 11%, making AI a demand/product driver rather than the primary disruption cause. DATA.L, YOU.L, ZOO.L, RWA.L, ADEN.SW, RAND.AS, NRDS, and TTD remain price-qualified monitors with prior primary-cause or saturation objections still holding.
-- **Search approaches used:** 3 of 5 (standing lead re-check; duplicate/AI-search publisher follow-up via RCH.L; UK IT-services/market-intelligence spot screen). Candidate evaluations exceeded the nominal 15-check cap because the price screen was broader than intended; no further research was done after KNOS.L failed.
-- **Observation:** The required sync can surface already-added companies, so duplicate checks remain essential before doing deep research. The most promising new path remains fresh company-level catalysts where AI is tied to revenue deterioration or guidance pressure; broad IT-services names with growing AI revenue should not be forced.
