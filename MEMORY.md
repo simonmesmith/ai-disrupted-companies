@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 95 (as of 2026-06-22)
-- **Last updated:** 2026-06-22
+- **Company count:** 95 (as of 2026-06-23)
+- **Last updated:** 2026-06-23
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-23
+- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
+- **Rejected / rechecked:** Standing leads still failed or remain monitor-only: TRI remains below the adjusted gate with capital-return distortion, DOCU/SFIX/DUOL failed price gates. Source-first software checks again found price-qualified but non-clean stories: WK, APPN, PCTY, EGHT, ICFI, NA9.DE, GFT.DE, ADN1.DE, ATE.PA, and DOTD.L lacked fresh evidence that AI is the primary operating-pressure cause rather than product adoption, sector weakness, or already-known objections. Thin education checks found PSON.L, EDU, TAL, GOTU, AFYA above baseline, COUR already listed, and YQ still price-qualified but dominated by China tutoring regulation / reverse-split / AI-as-product issues. GAMB was price-qualified and not duplicated, but no company-level AI-search or AI Overview revenue/guidance catalyst was found.
+- **Search approaches used:** 4 of 5 (standing leads; source-first software/AI-risk follow-up; thin education screen; publisher/affiliate AI-search spot check). Candidate checks exceeded the intended 15-company boundary, so search stopped with no add.
+- **Observation:** Do not spend the next run on another broad price batch. The best next path is a named fresh catalyst with explicit AI-linked guidance, revenue, pricing, usage, or staffing pressure; then duplicate-check and price-check only that company or its closest peer.
 
 ## Session Log: 2026-06-22
 - **Added:** NABL (N-able, Inc.) — Software & SaaS / IT Management. Pre-ChatGPT $11.23, current $3.04 (-72.9%). Active NYSE ticker, no duplicate row, and no split actions. The AI thesis is autonomous IT / MSP software compression: William Blair downgraded N-able to Underperform under its AI-era software framework, citing a low 10/20 score, uneven execution, largely seat-based pricing, and questionable organic revenue acceleration, while current MSP coverage shows traditional monitoring and first-line support being automated by AI-native platforms such as Kaseya and Atera.
@@ -137,9 +143,3 @@
 - **Rejected / rechecked:** Standing leads failed again: TRI (-28.9%) and HUBS (-28.2%) were close but still did not clear the price gate; SFIX (-6.7%) was too modest; DOCU (+10.5%) and DUOL (+63.6%) were above pre-ChatGPT. Previously monitored price-qualified names such as NRDS, TTD, DATA.L, YOU.L, ZOO.L, RWA.L, ADEN.SW, RAND.AS, DCBO, NCNO, and DND.TO were re-screened but left under prior primary-cause or saturation objections. Dentsu/4324.T had previously failed the price gate but now clears it narrowly.
 - **Search approaches used:** 2 of 5 (standing lead re-check; prior ad-agency peer follow-up). Candidate evaluations stayed within the 15-company cap.
 - **Observation:** Previously rejected ad-agency peers can qualify once the price gate moves, but the evidence bar should stay high. Dentsu works because it is an agency-holding-company peer of existing WPP/OMC/SFOR entries, and current evidence ties AI directly to agency workflow automation, media-platform bypass, headcount pressure, and weak international growth rather than just generic ad-market softness.
-
-## Session Log: 2026-05-26
-- **Added:** ACN (Accenture plc) — Business Services / IT Services. Pre-ChatGPT $272.75, current $176.70 (-35.2%). Active NYSE ticker, no yfinance split distortion, and no duplicate Accenture row. The AI thesis is professional-services delivery compression: generative and agentic AI can automate coding, testing, documentation, support, and process-analysis work that historically supported large consulting and systems-integration teams. Reuters reported that Anthropic/Palantir automation claims fuelled fears of compressed project timelines and labor-intensive IT-services disruption, while Guggenheim warned AI efficiency gains could shrink engagement sizes and disintermediate systems-integration work. Accenture says AI is a long-term growth opportunity, so this is framed as a market repricing of the legacy billable-services model rather than current revenue collapse.
-- **Rejected / rechecked:** Standing leads failed again: TRI (-19.9%) and SFIX (-9.2%) were too modest, while DOCU (+11.0%) and DUOL (+61.5%) remained above pre-ChatGPT. HUBS was close (-29.3%) and had fresh AI-agent go-to-market downgrade risk, but did not clear the price gate. NIITLTD.NS was price-qualified (-78.0%) but rejected because the stock is distorted by restructuring/demerger context and current evidence frames AI-led skilling as demand growth. ALIT was price-qualified (-89.0%) but rejected because the primary pressure appears to be impairment, execution, dividend suspension, and operational reset, with AI framed as an efficiency/product initiative. CARS was barely price-qualified (-31.3%) but rejected because current results are flat/stabilizing and AI appears as a product feature rather than primary disruption.
-- **Search approaches used:** 3 of 5 (standing lead re-check; live software/AI-agent downgrade screen; broad IT-services/BPO/education/platform price screen). Candidate evaluations stayed within the 15-company cap.
-- **Observation:** Large-cap IT services can still qualify when the price gate finally catches up to the AI-labor-arbitrage thesis, but the bar should stay high because many service firms now present AI as both threat and growth engine. For future sessions, prefer fresh analyst or filing evidence that explicitly connects AI automation to engagement-size pressure, revenue deflation, or guidance risk.
