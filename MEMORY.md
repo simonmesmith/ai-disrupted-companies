@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 95 (as of 2026-06-23)
-- **Last updated:** 2026-06-23
+- **Last updated:** 2026-06-24
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-24
+- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
+- **Rejected / rechecked:** Standing leads failed again on adjusted yfinance checks: TRI (-22.8%) remains below the adjusted gate with capital-return/share-consolidation distortion, DOCU (-1.2%) failed the price gate, SFIX (+17.0%) and DUOL (+101.7%) were above pre-ChatGPT. A narrow source-first follow-up also failed price gates: current AI/software pressure names CRM (+3.4%), SGE.L (+2.8%), BLZE (+149.8%), and DBX (+17.5%) were above baseline, while CPI.L (-16.1%) was too modest and has a 2025 consolidation/split complication. MITK (+74.2%) was also above baseline and looks more like an AI/deepfake-fraud beneficiary than victim.
+- **Search approaches used:** 2 of 5 (standing leads; narrow source-first AI/software and AI-search-adjacent checks). Stopped after the second approach produced another run of price-gate failures, per the repeated-failure rule.
+- **Observation:** Today's cleanest lesson is negative: even fresh AI-anxiety coverage is mostly hitting large software names that remain above pre-ChatGPT. Next run should not recheck CRM/SGE.L/BLZE/DBX soon; wait for a named company-level revenue, guidance, pricing, usage, or staffing hit before running prices.
 
 ## Session Log: 2026-06-23
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
@@ -137,9 +143,3 @@
 - **Rejected / skipped:** WKL.AS looked like a strong Legal & Tax / professional-information candidate after current AI-competition coverage and a roughly -41.6% raw-price decline, but duplicate checks showed Wolters Kluwer is already in `companies.csv`, so it was not re-added. Professional-information peers from the same Reuters/Morningstar AI-risk cluster mostly failed the price gate: REL.L/RELX, LSEG.L, EXPN.L, MCO, SPGI, PUB.PA, NEC/6701.T, Fujitsu/6702.T, Nomura Research/4307.T, Hitachi/6501.T, Otsuka/4768.T, and Sega Sammy/9735.T were above or not sufficiently below pre-ChatGPT; FDS and IT were already listed; 9613.T had no yfinance data.
 - **Search approaches used:** 2 of 5 (standing lead re-check; professional-information/legal-AI peer screen). Stopped after the screen hit the candidate-effort boundary without a clean non-duplicate add.
 - **Observation:** Duplicate checks are now a major binding constraint in the best AI-risk clusters. The professional-information/legal-AI theme remains valid, but the obvious price-qualified names are either already present or still trading above the pre-ChatGPT baseline. Next sessions should prioritize fresh live catalysts or less-explored international exchanges rather than broad re-screens of already-covered professional-information peers.
-
-## Session Log: 2026-05-27
-- **Added:** 4324.T (Dentsu Group Inc) — Marketing & Advertising / Ad Services / Agencies. Pre-ChatGPT JPY 4,450, current JPY 3,091 (-30.5%). Active Tokyo ticker, no yfinance split distortion, and no duplicate Dentsu row. The AI thesis is agency-model compression: generative and agentic AI can automate planning, targeting, creative production, media buying, optimization, research, and signal processing that historically supported billable agency labor and intermediary fees. Dentsu's own 2026 writing says AI is changing the fabric of marketing work and automating core agency workflows; industry coverage tied Dentsu UK to the broader shift away from time-and-materials economics as AI reduced creative-agency headcount and media spend moved directly to technology platforms. FY2025 net revenue declined slightly, the Americas were weak, goodwill impairment was large, and FY2026 organic growth guidance was only 0-1%. Dentsu is investing heavily in AI For Growth, but the pivot confirms the pressure on legacy agency economics.
-- **Rejected / rechecked:** Standing leads failed again: TRI (-28.9%) and HUBS (-28.2%) were close but still did not clear the price gate; SFIX (-6.7%) was too modest; DOCU (+10.5%) and DUOL (+63.6%) were above pre-ChatGPT. Previously monitored price-qualified names such as NRDS, TTD, DATA.L, YOU.L, ZOO.L, RWA.L, ADEN.SW, RAND.AS, DCBO, NCNO, and DND.TO were re-screened but left under prior primary-cause or saturation objections. Dentsu/4324.T had previously failed the price gate but now clears it narrowly.
-- **Search approaches used:** 2 of 5 (standing lead re-check; prior ad-agency peer follow-up). Candidate evaluations stayed within the 15-company cap.
-- **Observation:** Previously rejected ad-agency peers can qualify once the price gate moves, but the evidence bar should stay high. Dentsu works because it is an agency-holding-company peer of existing WPP/OMC/SFOR entries, and current evidence ties AI directly to agency workflow automation, media-platform bypass, headcount pressure, and weak international growth rather than just generic ad-market softness.

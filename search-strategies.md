@@ -2,14 +2,6 @@
 
 ## Tried
 
-### 2026-04-03: Leads from memory + SaaSpocalypse specific victims
-- **Result:** Found MNDY (monday.com, -30.6%). SEMR is up 31.6% and being acquired by Adobe. TRI still only -16.5%. Office REITs (CBRE, JLL) are way up. GDYN is an AI adopter. Checked many SaaS names (INTU, BOX, ESTC, PATH, DOCN, TWLO, DOCU) — most are up or only modestly down.
-- **Verdict:** The SaaSpocalypse is mostly a 2026 phenomenon — companies that were already well above pre-ChatGPT prices got knocked down but many are still above. The strongest candidates are task-specific SaaS (project management, work OS) where AI agents directly replace the manual workflows the product automates. MNDY was a clear hit with the same thesis as TEAM. Many blue-chip SaaS names (TWLO, DOCN, DOCU) have actually recovered strongly from earlier dips.
-
-### 2026-04-04: Leads from memory + SaaSpocalypse victims + sector searches
-- **Result:** Found MTCH (Match Group, -31%). Checked SMAR (delisted), TRI (-16.5%, still too modest), PCTY (-48.4% but AI angle weak), APPN (-33.8% but misconception), CSGP (-48.9% but not AI-driven), TNET (-44.7% but healthcare costs not AI), insurance brokers (all up).
-- **Verdict:** Many companies with large price declines don't qualify because the decline isn't AI-driven (CSGP=housing, TNET=healthcare costs, PCTY=valuation compression with strong fundamentals). Online dating remains a productive vein — MTCH fits alongside BMBL with the same AI companion / fake profile thesis. Insurance brokers had a big scare from OpenAI's insurance app but haven't actually fallen below pre-ChatGPT levels.
-
 ### 2026-04-05: Leads from memory + financial data/analytics sector search
 - **Result:** Found FDS (FactSet, -47.5%). SDGR is AI beneficiary (rejected). VRSK and MSCI are up. MORN down 24.8% but business resilient.
 - **Verdict:** Financial data/analytics is a productive new vein. FactSet has a clear AI disruption narrative — premium financial data terminals being commoditized by AI tools that can synthesize data and build models. The "Claude Crash" of Feb 2026 specifically hit financial data stocks. MORN worth monitoring if decline deepens past 30%.
@@ -184,7 +176,11 @@
 - **Result:** No companies added. Source-first searches surfaced current software AI-risk articles, but the named candidates either failed price gates, were already listed, or had non-clean AI-primary evidence. Price-qualified rechecks such as WK, APPN, PCTY, EGHT, ICFI, NA9.DE, GFT.DE, ADN1.DE, ATE.PA, and DOTD.L still lacked fresh evidence tying operating pressure primarily to AI. Thin education failed on price/duplicates or the same YQ regulatory/reverse-split objection. GAMB was price-qualified and not duplicated, but no company-level AI-search or AI Overview revenue/guidance catalyst was found.
 - **Verdict:** This run repeated the known trap: once source-first searching fails, broad yfinance checks burn the candidate budget fast. Next run should stop after three weak source-first candidates and only continue if a named catalyst explicitly links AI to guidance, revenue, pricing, usage, or staffing pressure.
 
+### 2026-06-24: Zero-find run — disciplined stop after repeated price failures
+- **Result:** No companies added. Standing leads failed first, then a narrow source-first pass checked current AI-anxiety or AI-search-adjacent names: CRM, SGE.L, CPI.L, MITK, BLZE, and DBX. None cleared the price gate, and CPI.L also had a consolidation/split complication.
+- **Verdict:** The repeated-failure stop rule helped avoid another broad basket. Fresh AI-anxiety coverage is not enough when the named companies remain above pre-ChatGPT or only modestly below it. Next run should start from a company-level operating catalyst, not a sector-level software selloff article.
+
 ## Untried / Ideas for Next Session
-- **Monitor standing leads sparingly** — As of 2026-06-23, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
+- **Monitor standing leads sparingly** — As of 2026-06-24, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
 - **Fresh catalyst first** — Prioritize source-backed stories where AI is explicitly tied to guidance, revenue, pricing, usage, or staffing pressure before running price screens.
 - **International exchanges beyond LSE/Euronext/ASX/NSE** — TSX, JSE, and HKEX remain underexplored, but screen only from named AI-risk catalysts.

@@ -2,11 +2,6 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
-| QLYS | Qualys | Down 27% from pre-ChatGPT, but cybersecurity AI disruption angle is weak. | 2026-03-31 |
-| TECHM.NS | Tech Mahindra | Up 47.1% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
-| HCLTECH.NS | HCL Technologies | Up 40.6% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
-| WDAY | Workday | Down only 9.9% from pre-ChatGPT. Decline too small. | 2026-04-02 |
-| SNOW | Snowflake | Up 12.1% from pre-ChatGPT. Not disrupted. | 2026-04-02 |
 | DOCS | Doximity | Down 28.7% but company is AI adopter not victim - CEO bullish on AI, 300K clinicians using AI tools. Decline from pharma budget delays. | 2026-04-02 |
 | MTTR | Matterport | No yfinance data available, possibly delisted. | 2026-04-02 |
 | EVBG | Everbridge | No yfinance data available, possibly delisted. | 2026-04-02 |
@@ -196,3 +191,5 @@
 | WK/APPN/PCTY/EGHT/ICFI/NA9.DE/GFT.DE/ADN1.DE/ATE.PA/DOTD.L | Source-first software and services follow-up found several price-qualified names, but no clean AI-primary add: current evidence remains product-adoption, sector weakness, government/consulting softness, UCaaS competition, engineering/IT-services saturation, or already-known non-clean marketing-automation pressure rather than fresh AI-linked revenue/guidance damage. | 2026-06-23 |
 | PSON.L/EDU/TAL/GOTU/YQ/AFYA/COUR | Thin education screen failed: PSON.L, EDU, TAL, GOTU, and AFYA were above pre-ChatGPT, COUR is already listed, and YQ remains price-qualified but dominated by China tutoring regulation, reverse-split distortion, and AI-as-product positioning. | 2026-06-23 |
 | GAMB | Gambling.com Group was price-qualified (-77.9%) and not duplicated, but source checks did not find company-level evidence tying the decline to AI search / AI Overviews / affiliate-traffic pressure; current thesis would be speculative. | 2026-06-23 |
+| TRI/DOCU/SFIX/DUOL | Standing leads failed again: TRI -22.8% adjusted and still short of the gate with capital-return/share-consolidation distortion; DOCU -1.2% failed the price gate; SFIX +17.0% and DUOL +101.7% were above pre-ChatGPT. | 2026-06-24 |
+| CRM/SGE.L/CPI.L/MITK/BLZE/DBX | Narrow source-first AI/software and AI-search-adjacent checks failed: CRM +3.4%, SGE.L +2.8%, MITK +74.2%, BLZE +149.8%, and DBX +17.5% were above baseline; CPI.L was only -16.1% and has a 2025 consolidation/split complication. | 2026-06-24 |
