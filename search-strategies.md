@@ -184,7 +184,11 @@
 - **Result:** No companies added. Standing leads failed again on adjusted prices: TRI remained short of the gate, DOCU was near flat, and SFIX/DUOL were above pre-ChatGPT. A live Salesforce selloff / AI-software thread failed because CRM was still slightly above pre-ChatGPT. Agency checks did not clear the gate or lacked usable data. A bounded software/dev-tools check found TEAM price-qualified but already present in `companies.csv`; the rest either failed price gates, were duplicates, or had no active yfinance data.
 - **Verdict:** Source-first live catalyst monitoring is still the right method, but the most obvious software/work-management hits are already in the index. For the next run, check duplicates immediately for software names and do not retry CRM unless the adjusted price moves clearly below the Nov. 29, 2022 close.
 
+### 2026-06-26: Zero-find run — AI-search lead-gen check
+- **Result:** No companies added. Standing leads failed again. A source-first AI-search/affiliate lead-gen check found TREE, EVER, and QNST failing price gates, IAC without current yfinance data, and GAMB still price-qualified but missing company-level evidence that AI search or AI Overviews are driving revenue, guidance, or traffic pressure.
+- **Verdict:** AI-search/lead-gen remains plausible but needs a named operating catalyst. Do not retry GAMB without explicit AI-search/AI Overview evidence, and avoid broad lead-gen price baskets unless the source names the company and the AI-linked pressure.
+
 ## Untried / Ideas for Next Session
-- **Monitor standing leads sparingly** — As of 2026-06-25, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
+- **Monitor standing leads sparingly** — As of 2026-06-26, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
 - **Fresh catalyst first** — Prioritize source-backed stories where AI is explicitly tied to guidance, revenue, pricing, usage, or staffing pressure before running price screens.
 - **International exchanges beyond LSE/Euronext/ASX/NSE** — TSX, JSE, and HKEX remain underexplored, but screen only from named AI-risk catalysts.
