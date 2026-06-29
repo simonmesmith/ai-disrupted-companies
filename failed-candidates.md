@@ -2,10 +2,6 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
-| DOCS | Doximity | Down 28.7% but company is AI adopter not victim - CEO bullish on AI, 300K clinicians using AI tools. Decline from pharma budget delays. | 2026-04-02 |
-| MTTR | Matterport | No yfinance data available, possibly delisted. | 2026-04-02 |
-| EVBG | Everbridge | No yfinance data available, possibly delisted. | 2026-04-02 |
-| SEMR | Semrush | Up 31.6% from pre-ChatGPT. Being acquired by Adobe for $12/share. | 2026-04-03 |
 | GDYN | Grid Dynamics | AI adopter not victim - AI revenue up 30% YoY. Stock down 51.6% but decline is growth deceleration, not AI disruption. | 2026-04-03 |
 | SMAR | Smartsheet | Delisted/taken private, no yfinance data available. | 2026-04-04 |
 | PCTY | Paylocity | Down 48.4% but AI disruption angle weak — revenue growing 14%, 92% retention, actively acquiring (Airbase), expanding with AI features. | 2026-04-04 |
@@ -198,3 +194,6 @@
 | TEAM/GTLB/FROG/S/DDOG/MDB/SNOW/ASAN/CFLT/FSLY/RNG/ZM | Bounded software/dev-tools AI-risk check found TEAM price-qualified but already listed; ASAN already listed; GTLB -27.0% and S -3.0% failed gates; FROG, DDOG, MDB, SNOW, FSLY, RNG, and ZM were above pre-ChatGPT; CFLT had no active yfinance data. | 2026-06-25 |
 | TRI/DOCU/SFIX/DUOL | Standing leads failed again: TRI -21.2% adjusted and still short of the gate with dividend/capital-return distortion risk; DOCU -1.9% failed the price gate; SFIX +16.5% and DUOL +82.6% were above pre-ChatGPT. | 2026-06-26 |
 | IAC/TREE/EVER/QNST/GAMB | AI-search/lead-gen check found IAC with no current yfinance data, TREE +67.5%, EVER +111.4%, and QNST -2.2% failing price gates; GAMB was price-qualified (-79.1%) but still lacked company-level AI-search or AI Overview revenue/guidance/traffic evidence. | 2026-06-26 |
+| TRI/DOCU/SFIX/DUOL | Standing leads failed again: TRI -20.5% adjusted and still short of the gate with dividend/capital-return distortion risk; DOCU +3.5%, SFIX +15.2%, and DUOL +78.9% were above pre-ChatGPT. | 2026-06-29 |
+| WDAY/MSFT/GRPN/ORCL/INTU/COIN | Brief software/friction price spot check did not produce a candidate: WDAY -11.3% and INTU -25.5% failed the price gate, while MSFT, GRPN, ORCL, and COIN were far above baseline or off-thesis. | 2026-06-29 |
+| SGE.L/REL.L/LSEG.L/PSON.L | Named Anthropic/legal-tool AI-selloff screen failed price gates: Sage +5.1%, RELX +3.6%, LSEG +0.8%, and Pearson +21.1% versus adjusted pre-ChatGPT closes. | 2026-06-29 |

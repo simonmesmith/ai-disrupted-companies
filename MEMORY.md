@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 95 (as of 2026-06-26)
-- **Last updated:** 2026-06-26
+- **Company count:** 95 (as of 2026-06-29)
+- **Last updated:** 2026-06-29
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-29
+- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
+- **Rejected / rechecked:** Standing leads failed adjusted yfinance checks again: TRI (-20.5%) stayed below the gate with dividend/capital-return distortion, DOCU (+3.5%) failed the price gate, and SFIX (+15.2%) plus DUOL (+78.9%) were above pre-ChatGPT. A brief extra software/friction price spot check found WDAY (-11.3%), INTU (-25.5%), and large-platform names MSFT/ORCL/COIN above baseline or off-thesis; GRPN was also far above baseline. A source-backed Anthropic/legal-tool selloff check found SGE.L (+5.1%), REL.L (+3.6%), LSEG.L (+0.8%), and PSON.L (+21.1%) all above pre-ChatGPT despite clear AI-risk headlines.
+- **Search approaches used:** 3 of 5 (standing leads; quick software/friction price spot check; named UK data/software AI-selloff check). Stopped at the practical 15-candidate budget with no price-qualified non-duplicate candidate.
+- **Observation:** The current Anthropic/legal-tool selloff is directionally relevant but still not enough for new adds because the named UK data/software stocks remain above their adjusted pre-ChatGPT baselines. Next run should wait for a named operating catalyst plus price-gate cross rather than rechecking the same large data/software basket.
 
 ## Session Log: 2026-06-26
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
@@ -137,9 +143,3 @@
 - **Rejected / skipped:** Thin-category / international screen found no clean add. KARNOV.ST had no active yfinance data and appears unavailable/delisted. ALFRE.PA (Freelance.com) was active, not duplicated, had no split distortion, and was price-qualified (-58.8%), but was not added in this run because there was not yet independent analyst evidence tying the pricing/margin weakness directly to AI. Revisit with more skepticism of company self-positioning: the timing of the derating plus weakening pricing power is potentially meaningful AI-disruption evidence even if filings describe AI as a transformation lever. BOL.ST and ALM.MC failed price gates; ASC.L was price-qualified but outside the index thesis, with no primary AI-disruption case pursued.
 - **Search approaches used:** 3 of 5 (standing/monitor lead re-check; thin Legal & Tax / Nordic professional-information spot check; fringe Freelance Marketplace / European small-cap screen). Stopped under the candidate-evaluation budget with no qualifying company.
 - **Observation:** Freelance Marketplace remains thin, and ALFRE.PA should stay on the watchlist rather than be treated as a dead false positive. In future runs, give less weight to management's self-serving AI framing and more weight to independent analyst commentary, stock-market timing, and concrete evidence of pricing/margin pressure in AI-exposed freelance work.
-
-## Session Log: 2026-06-01
-- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing leads failed again on adjusted yfinance pricing: TRI (-14.5%), HUBS (-15.3%), and SFIX (-6.5%) were too modest, while DOCU (+23.6%) and DUOL (+75.2%) were above pre-ChatGPT.
-- **Rejected / skipped:** Thin-category education screen found no clean add. AFYA (+3.2%), LAUR (+231.9%), TAL (+74.5%), GOTU (+63.3%), DAO (+177.9%), LRN (+163.3%), STRA (+5.5%), and PRDO (+139.5%) failed price gates; ATGE had no active yfinance price data after the Adtalem/ADT ticker change context. YQ was price-qualified (-52.9%) but rejected because its 2021-2023 collapse was driven by China's tutoring regulation/business-model reset, the ADS has a 1:5 reverse split, and current company materials frame AI as a new product initiative rather than the primary cause of disruption.
-- **Search approaches used:** 2 of 5 (standing lead re-check; thin Education / tutoring / for-profit education screen). Stopped at the 15-candidate evaluation cap with no qualifying company.
-- **Observation:** Education remains thin but difficult: public names are either already covered, thriving, delisted/ticker-changed, or dominated by regulatory/post-COVID dynamics rather than AI. Next sessions should continue to prefer fresh catalyst screens and only recheck standing leads after major price moves.

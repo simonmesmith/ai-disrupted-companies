@@ -188,7 +188,11 @@
 - **Result:** No companies added. Standing leads failed again. A source-first AI-search/affiliate lead-gen check found TREE, EVER, and QNST failing price gates, IAC without current yfinance data, and GAMB still price-qualified but missing company-level evidence that AI search or AI Overviews are driving revenue, guidance, or traffic pressure.
 - **Verdict:** AI-search/lead-gen remains plausible but needs a named operating catalyst. Do not retry GAMB without explicit AI-search/AI Overview evidence, and avoid broad lead-gen price baskets unless the source names the company and the AI-linked pressure.
 
+### 2026-06-29: Zero-find run — standing leads plus Anthropic/legal-tool selloff names
+- **Result:** No companies added. Standing leads failed again, and the named UK data/software stocks hit by the Anthropic legal-tool selloff did not clear the price gate: SGE.L, REL.L, LSEG.L, and PSON.L were all above their adjusted Nov. 29, 2022 closes. A brief extra software/friction spot check also failed price gates or thesis gates.
+- **Verdict:** AI legal/professional-work automation is a real catalyst, but the large public data/software names remain too resilient on adjusted price. Do not re-run this basket soon unless one of the named stocks crosses below baseline or reports company-level revenue, margin, usage, or guidance pressure from AI.
+
 ## Untried / Ideas for Next Session
-- **Monitor standing leads sparingly** — As of 2026-06-26, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
+- **Monitor standing leads sparingly** — As of 2026-06-29, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
 - **Fresh catalyst first** — Prioritize source-backed stories where AI is explicitly tied to guidance, revenue, pricing, usage, or staffing pressure before running price screens.
 - **International exchanges beyond LSE/Euronext/ASX/NSE** — TSX, JSE, and HKEX remain underexplored, but screen only from named AI-risk catalysts.
