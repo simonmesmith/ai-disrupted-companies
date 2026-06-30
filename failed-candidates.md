@@ -2,9 +2,6 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
-| GDYN | Grid Dynamics | AI adopter not victim - AI revenue up 30% YoY. Stock down 51.6% but decline is growth deceleration, not AI disruption. | 2026-04-03 |
-| SMAR | Smartsheet | Delisted/taken private, no yfinance data available. | 2026-04-04 |
-| PCTY | Paylocity | Down 48.4% but AI disruption angle weak — revenue growing 14%, 92% retention, actively acquiring (Airbase), expanding with AI features. | 2026-04-04 |
 | APPN | Appian | Down 33.8% but analysts say AI risk is market misconception — backend process automation, not chatbot-style automation. | 2026-04-04 |
 | CSGP | CoStar Group | Down 48.9% but decline driven by Homes.com spending controversy, weak housing market, and Google competition, not AI specifically. | 2026-04-04 |
 | TNET | TriNet Group | Down 44.7% but decline driven by healthcare cost inflation and client retention issues, not AI disruption. WSE fell 10% due to health fee repricing. | 2026-04-04 |
@@ -197,3 +194,6 @@
 | TRI/DOCU/SFIX/DUOL | Standing leads failed again: TRI -20.5% adjusted and still short of the gate with dividend/capital-return distortion risk; DOCU +3.5%, SFIX +15.2%, and DUOL +78.9% were above pre-ChatGPT. | 2026-06-29 |
 | WDAY/MSFT/GRPN/ORCL/INTU/COIN | Brief software/friction price spot check did not produce a candidate: WDAY -11.3% and INTU -25.5% failed the price gate, while MSFT, GRPN, ORCL, and COIN were far above baseline or off-thesis. | 2026-06-29 |
 | SGE.L/REL.L/LSEG.L/PSON.L | Named Anthropic/legal-tool AI-selloff screen failed price gates: Sage +5.1%, RELX +3.6%, LSEG +0.8%, and Pearson +21.1% versus adjusted pre-ChatGPT closes. | 2026-06-29 |
+| TRI/DOCU/SFIX/DUOL | Standing leads failed again: TRI -23.3% adjusted and still short of the gate with dividend/capital-return distortion; DOCU -0.4% failed the price gate; SFIX +11.3% and DUOL +74.2% were above pre-ChatGPT. | 2026-06-30 |
+| CNXC/TEP.PA | Live customer-service AI catalyst was duplicate-heavy: Concentrix and Teleperformance both remain strong examples but are already present in `companies.csv`. | 2026-06-30 |
+| IBEX/EXLS/HQI/BZ | Closest BPO/analytics peer check failed: IBEX +17.5%, HQI -14.8%, and BZ -20.0% failed price gates; EXLS was price-qualified at -31.0% but still looks like an AI/data analytics beneficiary rather than AI-primary disruption. | 2026-06-30 |

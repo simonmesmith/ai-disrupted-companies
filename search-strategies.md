@@ -2,10 +2,6 @@
 
 ## Tried
 
-### 2026-04-05: Leads from memory + financial data/analytics sector search
-- **Result:** Found FDS (FactSet, -47.5%). SDGR is AI beneficiary (rejected). VRSK and MSCI are up. MORN down 24.8% but business resilient.
-- **Verdict:** Financial data/analytics is a productive new vein. FactSet has a clear AI disruption narrative — premium financial data terminals being commoditized by AI tools that can synthesize data and build models. The "Claude Crash" of Feb 2026 specifically hit financial data stocks. MORN worth monitoring if decline deepens past 30%.
-
 ### 2026-04-06: Leads + legal tech/SaaSpocalypse + financial broker-dealers + SaaS screening
 - **Result:** Found GTLB (GitLab, -40.7%). Financial broker-dealers (LPLA, SCHW) all up significantly despite AI scare. WDAY still only -7.7%. MORN still -24.8%. NEWR delisted. ZS flat. DUOL/MDB still well above pre-ChatGPT.
 - **Verdict:** DevOps/developer tools is a productive new angle — GitLab has a strong AI disruption narrative with AI coding agents directly threatening seat-based licensing. Financial broker-dealers had a scare from Altruist's Hazel AI but fundamentals remain strong and stocks recovered. The CNBC "most at risk" list is useful for generating candidates but many flagged stocks (DUOL, MDB) remain well above pre-ChatGPT prices.
@@ -192,7 +188,11 @@
 - **Result:** No companies added. Standing leads failed again, and the named UK data/software stocks hit by the Anthropic legal-tool selloff did not clear the price gate: SGE.L, REL.L, LSEG.L, and PSON.L were all above their adjusted Nov. 29, 2022 closes. A brief extra software/friction spot check also failed price gates or thesis gates.
 - **Verdict:** AI legal/professional-work automation is a real catalyst, but the large public data/software names remain too resilient on adjusted price. Do not re-run this basket soon unless one of the named stocks crosses below baseline or reports company-level revenue, margin, usage, or guidance pressure from AI.
 
+### 2026-06-30: Zero-find run — Concentrix/customer-service AI catalyst
+- **Result:** No companies added. Standing leads failed again. A fresh customer-service AI catalyst named Concentrix, but CNXC and peer Teleperformance are already listed. Closest peer checks found IBEX, HQI, and BZ failing price gates, while EXLS crossed the raw price gate but failed the AI-primary causal screen because public evidence still frames AI/data analytics as a growth engine.
+- **Verdict:** Customer-service AI catalysts are worth checking, but duplicate the CSV first. Do not retry EXLS without a company-level operating hit explicitly tied to AI replacing or compressing its services.
+
 ## Untried / Ideas for Next Session
-- **Monitor standing leads sparingly** — As of 2026-06-29, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
+- **Monitor standing leads sparingly** — As of 2026-06-30, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
 - **Fresh catalyst first** — Prioritize source-backed stories where AI is explicitly tied to guidance, revenue, pricing, usage, or staffing pressure before running price screens.
 - **International exchanges beyond LSE/Euronext/ASX/NSE** — TSX, JSE, and HKEX remain underexplored, but screen only from named AI-risk catalysts.

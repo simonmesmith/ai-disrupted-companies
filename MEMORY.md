@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 95 (as of 2026-06-29)
-- **Last updated:** 2026-06-29
+- **Company count:** 95 (as of 2026-06-30)
+- **Last updated:** 2026-06-30
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-06-30
+- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
+- **Rejected / rechecked:** Standing leads failed adjusted yfinance checks again: TRI (-23.3%) remained below the adjusted gate with dividend/capital-return distortion, DOCU (-0.4%) failed the price gate, and SFIX (+11.3%) plus DUOL (+74.2%) were above pre-ChatGPT. A live Concentrix/customer-service AI story was duplicate-heavy: CNXC and TEP.PA are already listed. Closest BPO/data peers did not work: IBEX (+17.5%), HQI (-14.8%), and BZ (-20.0%) failed price gates; EXLS now screened price-qualified (-31.0%) but the public/company evidence still frames AI and data analytics as a growth engine rather than primary external disruption.
+- **Search approaches used:** 3 of 5 (standing leads; named Concentrix/customer-service AI catalyst duplicate check; closest BPO/analytics peer price screen). Search drifted over the intended 15-candidate boundary after the peer screen, so stopped with no add rather than broadening further.
+- **Observation:** Fresh customer-service AI catalysts can still be useful, but the obvious public BPO names are already in the CSV or fail price/causality gates. Do not retry EXLS without a company-level source tying revenue, margin, usage, or guidance pressure to AI replacing its services.
 
 ## Session Log: 2026-06-29
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
@@ -137,9 +143,3 @@
 - **Rejected / rechecked:** Standing leads failed again on adjusted yfinance pricing: TRI (-25.8%) remained below the price gate and has dividend/capital-return distortion risk; DOCU (+21.2%) and DUOL (+67.6%) were above pre-ChatGPT; SFIX (-6.0%) and HUBS (-17.3%) were too modest.
 - **Search approaches used:** 1 of 5 (standing lead re-check plus deep follow-up on the ALFRE.PA freelance-marketplace lead). Candidate evaluations stayed well within the 15-company cap.
 - **Observation:** The 2026-06-03 evidence-weighting correction worked: ALFRE.PA qualified when paired with external Ramp labor-substitution data rather than dismissed solely because management frames AI and external talent as a transformation opportunity. Freelance Marketplaces is less thin now, so future adds in the category should require similarly concrete evidence of mission/spend/pricing pressure.
-
-## Session Log: 2026-06-03
-- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices. Standing leads still failed the price gate or magnitude test: TRI (-20.3%), HUBS (-21.6%), and SFIX (-8.0%) were too modest, while DOCU (+18.5%) and DUOL (+65.8%) remained above pre-ChatGPT. Price-qualified monitor names RWA.L, ADEN.SW, RAND.AS, NRDS, TTD, ZOO.L, DATA.L, and YOU.L remained under prior saturation or primary-cause objections.
-- **Rejected / skipped:** Thin-category / international screen found no clean add. KARNOV.ST had no active yfinance data and appears unavailable/delisted. ALFRE.PA (Freelance.com) was active, not duplicated, had no split distortion, and was price-qualified (-58.8%), but was not added in this run because there was not yet independent analyst evidence tying the pricing/margin weakness directly to AI. Revisit with more skepticism of company self-positioning: the timing of the derating plus weakening pricing power is potentially meaningful AI-disruption evidence even if filings describe AI as a transformation lever. BOL.ST and ALM.MC failed price gates; ASC.L was price-qualified but outside the index thesis, with no primary AI-disruption case pursued.
-- **Search approaches used:** 3 of 5 (standing/monitor lead re-check; thin Legal & Tax / Nordic professional-information spot check; fringe Freelance Marketplace / European small-cap screen). Stopped under the candidate-evaluation budget with no qualifying company.
-- **Observation:** Freelance Marketplace remains thin, and ALFRE.PA should stay on the watchlist rather than be treated as a dead false positive. In future runs, give less weight to management's self-serving AI framing and more weight to independent analyst commentary, stock-market timing, and concrete evidence of pricing/margin pressure in AI-exposed freelance work.
