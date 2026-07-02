@@ -2,9 +2,6 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
-| APPN | Appian | Down 33.8% but analysts say AI risk is market misconception — backend process automation, not chatbot-style automation. | 2026-04-04 |
-| CSGP | CoStar Group | Down 48.9% but decline driven by Homes.com spending controversy, weak housing market, and Google competition, not AI specifically. | 2026-04-04 |
-| TNET | TriNet Group | Down 44.7% but decline driven by healthcare cost inflation and client retention issues, not AI disruption. WSE fell 10% due to health fee repricing. | 2026-04-04 |
 | SDGR | Schrodinger | AI beneficiary not victim — revenue growing 23.3%, partnering with Lilly and Manas AI, analysts bullish ($25 median target). Drug discovery platform enhanced by AI, not disrupted. | 2026-04-05 |
 | VRSK | Verisk Analytics | Up 7.1% from pre-ChatGPT. Not disrupted. | 2026-04-05 |
 | MSCI | MSCI Inc | Up 16.4% from pre-ChatGPT. Not disrupted. | 2026-04-05 |
@@ -197,3 +194,6 @@
 | TRI/DOCU/SFIX/DUOL | Standing leads failed again: TRI -23.3% adjusted and still short of the gate with dividend/capital-return distortion; DOCU -0.4% failed the price gate; SFIX +11.3% and DUOL +74.2% were above pre-ChatGPT. | 2026-06-30 |
 | CNXC/TEP.PA | Live customer-service AI catalyst was duplicate-heavy: Concentrix and Teleperformance both remain strong examples but are already present in `companies.csv`. | 2026-06-30 |
 | IBEX/EXLS/HQI/BZ | Closest BPO/analytics peer check failed: IBEX +17.5%, HQI -14.8%, and BZ -20.0% failed price gates; EXLS was price-qualified at -31.0% but still looks like an AI/data analytics beneficiary rather than AI-primary disruption. | 2026-06-30 |
+| TRI/DOCU/SFIX/DUOL | Standing leads failed again: TRI -19.6% adjusted and still below the gate with dividend/capital-return distortion; DOCU +3.3%, SFIX +5.0%, and DUOL +82.0% failed price gates. | 2026-07-02 |
+| INTU/CSGP/ADBE/FDS/CRM/NOW/WDAY | Current S&P/software AI-selloff screen failed: INTU -27.9% was still below the gate; CSGP -62.5% remained a Homes.com/capital-allocation story rather than AI-primary; ADBE and FDS were already listed; CRM, NOW, and WDAY failed price gates. | 2026-07-02 |
+| 0268.HK/600588.SS/2013.HK | HK/China enterprise-software spot checks were price-qualified, but source checks showed broad software/AI-selloff or AI-product positioning rather than company-level AI-driven revenue/guidance damage. | 2026-07-02 |
