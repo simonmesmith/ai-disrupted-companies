@@ -2,8 +2,6 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
-| SDGR | Schrodinger | AI beneficiary not victim — revenue growing 23.3%, partnering with Lilly and Manas AI, analysts bullish ($25 median target). Drug discovery platform enhanced by AI, not disrupted. | 2026-04-05 |
-| VRSK | Verisk Analytics | Up 7.1% from pre-ChatGPT. Not disrupted. | 2026-04-05 |
 | MSCI | MSCI Inc | Up 16.4% from pre-ChatGPT. Not disrupted. | 2026-04-05 |
 | MORN | Morningstar | Down 24.8% from pre-ChatGPT but business resilient — revenue $2.4B, operating income growing. AI disruption angle weak, decline more sector rotation than structural. | 2026-04-05 |
 | LPLA | LPL Financial | Up 25.5% from pre-ChatGPT despite AI fears about Altruist's Hazel AI tool. Revenue at record $4.93B. | 2026-04-06 |
@@ -197,3 +195,5 @@
 | TRI/DOCU/SFIX/DUOL | Standing leads failed again: later July 2 adjusted checks had TRI -19.7% and still below the gate with dividend/capital-return distortion; DOCU +2.7%, SFIX +2.2%, and DUOL +77.7% failed price gates. | 2026-07-02 |
 | INTU/CSGP/ADBE/FDS/CRM/NOW/WDAY/FIS/LULU/LDOS/BR/COIN | Current S&P/software decliner screens failed: INTU stayed below the gate (-26.8% later); CSGP -62.6% remained a Homes.com/capital-allocation story rather than AI-primary; FIS -32.4% looked like an AI-product/Anthropic-partnership beneficiary, not a victim; LULU -67.4% was retail/earnings, not AI; ADBE/FDS/IT were listed; CRM/NOW/WDAY/LDOS/BR/COIN failed price gates. | 2026-07-02 |
 | 0268.HK/600588.SS/2013.HK | HK/China enterprise-software spot checks were price-qualified, but source checks showed broad software/AI-selloff or AI-product positioning rather than company-level AI-driven revenue/guidance damage. | 2026-07-02 |
+| TRI/DOCU/SFIX/DUOL/INTU plus current AI-software selloff names | Standing leads failed again: TRI -15.5% adjusted and still below the gate with capital-return distortion; DOCU +2.7%, SFIX +0.5%, and DUOL +88.9% failed; INTU stayed short at -25.7%. Current named selloff checks did not produce a clean candidate: CRM/NOW/SGE.L/REL.L/LSEG.L/PSON.L/LDOS/BR/COIN failed price gates, ADBE/DSY.PA were listed, and CSGP/TTD/FIS/LULU remained under prior primary-cause objections. | 2026-07-03 |
+| FDM.L/SKIL | FDM Group was newly screened and price-qualified (-85.5%), active, and split-clean, but rejected because source checks did not find company-level evidence that AI is the primary cause of consultant-demand/revenue pressure rather than weak IT hiring and client budget cycles. Skillsoft remained price-qualified but reverse-split distorted. | 2026-07-03 |

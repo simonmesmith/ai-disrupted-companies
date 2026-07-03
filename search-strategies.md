@@ -2,10 +2,6 @@
 
 ## Tried
 
-### 2026-04-06: Leads + legal tech/SaaSpocalypse + financial broker-dealers + SaaS screening
-- **Result:** Found GTLB (GitLab, -40.7%). Financial broker-dealers (LPLA, SCHW) all up significantly despite AI scare. WDAY still only -7.7%. MORN still -24.8%. NEWR delisted. ZS flat. DUOL/MDB still well above pre-ChatGPT.
-- **Verdict:** DevOps/developer tools is a productive new angle — GitLab has a strong AI disruption narrative with AI coding agents directly threatening seat-based licensing. Financial broker-dealers had a scare from Altruist's Hazel AI but fundamentals remain strong and stocks recovered. The CNBC "most at risk" list is useful for generating candidates but many flagged stocks (DUOL, MDB) remain well above pre-ChatGPT prices.
-
 ### 2026-04-08: Leads + trucking/logistics + contact center/staffing/UCaaS screening
 - **Result:** Found NICE (NICE Ltd, -40.1%). Trucking/logistics was a dead end (all major stocks up 5-432% from pre-ChatGPT despite Feb 2026 AI scare). UDMY down 66% but being acquired by Coursera and AI is a tailwind. EGHT down 59% but AI is growth driver. KFRC (Kforce, -41.5%) identified as strong lead for next session.
 - **Verdict:** Trucking/logistics AI disruption was a media hype event — stocks recovered quickly. Contact center software remains a productive vein (NICE joins FIVN). IT staffing (KFRC) is a strong next candidate — peer of existing ASGN/RHI/MAN. UCaaS companies (8x8) are struggling but more from competition than AI disruption specifically.
@@ -192,7 +188,11 @@
 - **Result:** No companies added across two July 2 runs. Standing leads failed again. Current S&P/software AI-selloff checks found INTU close but still short of the gate, CSGP price-qualified but non-clean on primary cause, ADBE/FDS/IT already listed, and most other named software/data stocks above baseline. A later named S&P decliner follow-up found FIS and LULU price-qualified, but FIS had fresh Anthropic partnership evidence that looked like AI-as-product/tailwind while LULU was a retail/earnings story. Property-services names from the Guardian AI-disruption selloff were mostly above baseline. China/HK enterprise-software spot checks found 0268.HK, 600588.SS, and 2013.HK price-qualified, but source checks lacked company-level AI-driven revenue/guidance damage.
 - **Verdict:** Intuit is worth monitoring only after a clear price-gate cross plus TurboTax-specific AI pressure. Do not use broad AI-selloff articles to justify China/HK enterprise-software, FIS, or LULU-style adds without operating evidence.
 
+### 2026-07-03: Zero-find run — current software selloff plus FDM check
+- **Result:** No companies added. Standing leads failed again, INTU remained short of the price gate, and the current S&P/software AI-selloff names were either listed, price failures, or still blocked by prior primary-cause objections. FDM.L was a new severe-decline, active, split-clean screen, but source checks did not produce a company-level AI-primary operating catalyst.
+- **Verdict:** Do not add severe-decline IT talent/services names on workflow exposure alone. FDM-style candidates need direct evidence that AI is reducing consultant demand, utilization, pricing, revenue, or guidance; otherwise they remain weak IT-hiring/budget stories.
+
 ## Untried / Ideas for Next Session
-- **Monitor standing leads sparingly** — As of 2026-07-02, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
+- **Monitor standing leads sparingly** — As of 2026-07-03, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
 - **Fresh catalyst first** — Prioritize source-backed stories where AI is explicitly tied to guidance, revenue, pricing, usage, or staffing pressure before running price screens.
 - **International exchanges beyond LSE/Euronext/ASX/NSE** — TSX, JSE, and HKEX remain underexplored, but screen only from named AI-risk catalysts.
