@@ -2,9 +2,6 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
-| MSCI | MSCI Inc | Up 16.4% from pre-ChatGPT. Not disrupted. | 2026-04-05 |
-| MORN | Morningstar | Down 24.8% from pre-ChatGPT but business resilient — revenue $2.4B, operating income growing. AI disruption angle weak, decline more sector rotation than structural. | 2026-04-05 |
-| LPLA | LPL Financial | Up 25.5% from pre-ChatGPT despite AI fears about Altruist's Hazel AI tool. Revenue at record $4.93B. | 2026-04-06 |
 | SCHW | Charles Schwab | Up 22.1% from pre-ChatGPT. Not disrupted. | 2026-04-06 |
 | NEWR | New Relic | Delisted/taken private (Francisco Partners acquisition). | 2026-04-06 |
 | PATH | UiPath | Down only 5.3% from pre-ChatGPT. Decline too small. | 2026-04-07 |
@@ -197,3 +194,5 @@
 | 0268.HK/600588.SS/2013.HK | HK/China enterprise-software spot checks were price-qualified, but source checks showed broad software/AI-selloff or AI-product positioning rather than company-level AI-driven revenue/guidance damage. | 2026-07-02 |
 | TRI/DOCU/SFIX/DUOL/INTU plus current AI-software selloff names | Standing leads failed again: TRI -15.5% adjusted and still below the gate with capital-return distortion; DOCU +2.7%, SFIX +0.5%, and DUOL +88.9% failed; INTU stayed short at -25.7%. Current named selloff checks did not produce a clean candidate: CRM/NOW/SGE.L/REL.L/LSEG.L/PSON.L/LDOS/BR/COIN failed price gates, ADBE/DSY.PA were listed, and CSGP/TTD/FIS/LULU remained under prior primary-cause objections. | 2026-07-03 |
 | FDM.L/SKIL | FDM Group was newly screened and price-qualified (-85.5%), active, and split-clean, but rejected because source checks did not find company-level evidence that AI is the primary cause of consultant-demand/revenue pressure rather than weak IT hiring and client budget cycles. Skillsoft remained price-qualified but reverse-split distorted. | 2026-07-03 |
+| TRI/DOCU/SFIX/DUOL/INTU/GAMB/FDM.L/EXLS | Standing/monitor recheck filled the first eight candidate slots: TRI -17.7%, DOCU +1.3%, SFIX -1.8%, DUOL +93.4%, INTU -28.2%, and EXLS -26.4% failed adjusted gates; GAMB and FDM.L stayed deeply price-qualified but still lacked company-level AI-primary evidence. | 2026-07-06 |
+| OMC/PUB.PA/2433.T/STGW/SAA.L/WPP.L/SFOR.L | Agency/media pass from current JPMorgan AI-cannibalization framing found no new add: OMC +14.1%, PUB.PA +60.5%, 2433.T -0.6%, STGW +3.8%, and SAA.L -6.5% failed price gates; WPP.L and SFOR.L were already listed. | 2026-07-06 |

@@ -1,9 +1,9 @@
 # Leads for Next Session
 
 ## Promising Candidates to Monitor
-- **TRI (Thomson Reuters)** — Still below the adjusted price gate on 2026-07-03 (-15.5%), with capital-return/dividend effects making raw comparisons misleading. Monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
-- **DOCU (DocuSign)** — Still fails the price gate as of 2026-07-03 (+2.7%). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses materially lower.
-- **SFIX (Stitch Fix)** — Fails the price gate as of 2026-07-03 and is barely above pre-ChatGPT (+0.5%). AI styling could threaten the human stylist model if fundamentals deteriorate later, but it does not clear even a basic below-baseline screen.
+- **TRI (Thomson Reuters)** — Still below the adjusted price gate on 2026-07-06 (-17.7%), with capital-return/dividend effects making raw comparisons misleading. Monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
+- **DOCU (DocuSign)** — Still fails the price gate as of 2026-07-06 (+1.3%). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses materially lower.
+- **SFIX (Stitch Fix)** — Fails the price gate as of 2026-07-06 (-1.8%). AI styling could threaten the human stylist model if fundamentals deteriorate later, but it does not clear even a basic below-baseline screen.
 - **HUBS (HubSpot)** — **ADDED 2026-06-11.** Do not retry. Qualified after crossing the adjusted price gate at about -32.0% and fresh coverage tied the selloff to AI efficiency reducing seat demand and forcing outcome-based pricing / AI credits.
 - **ALFRE.PA (Freelance.com)** — **ADDED 2026-06-04.** Do not retry. Qualified after follow-up found external Ramp Economics Lab evidence that businesses are shifting spend from online labor marketplaces to AI model providers, matching Freelance.com's own organic slowdown, lower billing rates, reduced independent-worker usage, and margin pressure.
 - **Legal & Tax thin category** — Still only 3 companies. No new candidate found; most legal/tax companies are private, acquired, already listed through adjacent categories, reverse-split distorted, or above pre-ChatGPT. WKL.AS was rechecked on 2026-05-28 and is already in the CSV under Research & Analytics / Professional Information; INTA was above pre-ChatGPT on 2026-06-08 and NOTE remains reverse-split distorted.
@@ -12,11 +12,11 @@
 - **Publisher/stock-media/ad-tech duplicate checks** — FUTR.L, SSTK, and PERI are already in `companies.csv`; do not spend deep research time on them as new candidates.
 - **LBG.L (LBG Media)** — **ADDED 2026-06-15.** Do not retry. Qualified after a June 2026 outlook cut tied indirect-revenue weakness to reduced publisher traffic from Google AI Overviews plus Meta algorithm changes.
 - **NABL (N-able)** — **ADDED 2026-06-22.** Do not retry. Qualified from the named AI-risk software downgrade screen after clearing the price gate; the row is framed as autonomous IT / MSP software market repricing, not current revenue collapse.
-- **GAMB (Gambling.com Group)** — Price-qualified and not duplicated again on 2026-06-26 (-79.1%), but do not retry soon unless a company-level source explicitly ties revenue/guidance/traffic pressure to AI search or AI Overviews. Current evidence remains too speculative.
+- **GAMB (Gambling.com Group)** — Price-qualified and not duplicated again on 2026-07-06 (-80.8%), but do not retry soon unless a company-level source explicitly ties revenue/guidance/traffic pressure to AI search or AI Overviews. Current evidence remains too speculative.
 - **Fresh software AI-anxiety names** — CRM failed the price gate again on 2026-06-25 (+1.1%) despite a live AI/SaaS selloff. SGE.L (+5.1%), REL.L (+3.6%), LSEG.L (+0.8%), and PSON.L (+21.1%) failed the price gate on 2026-06-29 despite the Anthropic/legal-tool selloff catalyst. Do not retry soon without a sharper price move plus a named company-level AI catalyst.
-- **EXLS (ExlService Holdings)** — Price-qualified on 2026-06-30 (-31.0%) after a Concentrix/customer-service AI catalyst check, but do not retry without company-level evidence that AI is hurting revenue, margins, usage, or guidance. Current public framing still looks like AI/data analytics as a product and growth engine, not a primary external disruption.
-- **INTU (Intuit)** — Closest fresh Legal & Tax-style monitor on 2026-07-03, but adjusted yfinance was still short of the gate (-25.7%). Recheck only if it clears -30% and sources tie TurboTax revenue, pricing, or guidance pressure directly to AI tax-prep alternatives.
-- **FDM.L (FDM Group)** — Newly rejected on 2026-07-03 despite active/split-clean price qualification (-85.5%). Do not add without a company-level source tying revenue, consultant utilization, guidance, or client demand pressure to AI replacing junior tech work; weak IT hiring alone is not enough.
+- **EXLS (ExlService Holdings)** — No longer clears the adjusted gate on 2026-07-06 after split-adjusted pricing (-26.4%); even if it re-crosses, do not retry without company-level evidence that AI is hurting revenue, margins, usage, or guidance.
+- **INTU (Intuit)** — Closest fresh Legal & Tax-style monitor on 2026-07-06, but adjusted yfinance was still short of the gate (-28.2%). Recheck only if it clears -30% and sources tie TurboTax revenue, pricing, or guidance pressure directly to AI tax-prep alternatives.
+- **FDM.L (FDM Group)** — Rejected again on 2026-07-06 despite active/split-clean price qualification (-85.4%). Do not add without a company-level source tying revenue, consultant utilization, guidance, or client demand pressure to AI replacing junior tech work; weak IT hiring alone is not enough.
 - **China/HK enterprise software names** — 0268.HK, 600588.SS, and 2013.HK were price-qualified on 2026-07-02, but current source checks did not show company-level AI-primary operating damage. Do not add from broad AI/software selloff alone.
 - **Software/work-management duplicate checks** — TEAM was price-qualified on 2026-06-25 but already in `companies.csv`; ASAN was also already listed. GTLB remained below the price gate at -27.0%, and FROG/DDOG/MDB/SNOW/FSLY/RNG/ZM were above pre-ChatGPT. Duplicate-check this cluster before deep research.
 - **Translation/localization peers** — STG.AX was added on 2026-05-19. This under-saturated vein may still have public peers, but require explicit evidence of legacy human translation volume/revenue being replaced by AI workflows.
@@ -29,7 +29,7 @@
 
 ## Notes
 - **NCNO** and **CRTO** were evaluated on 2026-05-06 and moved to failed candidates; do not retry soon unless fundamentals or the AI thesis changes materially.
-- **DUOL** remains far above pre-ChatGPT despite education disruption concerns as of 2026-07-02 (+77.7%).
+- **DUOL** remains far above pre-ChatGPT despite education disruption concerns as of 2026-07-06 (+93.4%).
 - **TEP.PA** was added from the international BPO/contact-center peer angle; that cluster is now saturated.
 - **HAS.L** was added from the international staffing peer angle on 2026-05-07; staffing/recruitment is now also saturated.
 - **SFOR.L** was added from the digital advertising agency angle on 2026-05-08. Look for other ad-services names only where AI is clearly tied to client budget shift, creative/workflow automation, or agency labor-hour compression.
