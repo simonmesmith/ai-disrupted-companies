@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 95 (as of 2026-07-06)
-- **Last updated:** 2026-07-06
+- **Company count:** 95 (as of 2026-07-07)
+- **Last updated:** 2026-07-07
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,12 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-07-07
+- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
+- **Rejected / rechecked:** Standing monitors failed again on adjusted yfinance checks: TRI (-12.4%), DOCU (+6.8%), SFIX (-1.3%), DUOL (+99.8%), INTU (-25.4%), and EXLS (-23.3%) failed price gates; GAMB (-80.4%) and FDM.L (-85.0%) remained price-qualified but still lacked company-level AI-primary evidence. A duplicate check showed Unity (`U`) is already listed and now no longer price-qualified (-16.1%). A thin education/publisher screen found WLY, PSO, LRN, STRA, PRDO, AFYA, EDU, TAL, GOTU, DAO, FEDU, and LAUR above pre-ChatGPT; YQ stayed price-qualified but still blocked by China tutoring regulation/reverse-split/AI-as-product issues; HMHC, ATGE, and BEDU lacked active yfinance data.
+- **Search approaches used:** 3 of 5 (standing/monitor recheck; current AI-cannibalization/news duplicate check; thin education/publisher screen). Candidate checks exceeded the intended 15-company boundary after the education screen, so search stopped with no add.
+- **Observation:** Do not spend the next run on another broad thin-education batch; it remains mostly above baseline, delisted, duplicated, or non-clean. Wait for a named company-level AI operating hit, especially for INTU, GAMB, FDM.L, or YQ-style monitors.
 
 ## Session Log: 2026-07-06
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
@@ -131,15 +137,3 @@
 - **Rejected / rechecked:** Standing leads were rechecked first. TRI (-22.8%) still failed the adjusted price gate; DOCU (+1.3%) and DUOL (+81.8%) were above pre-ChatGPT; SFIX (+10.3%) was above pre-ChatGPT. HUBS (-32.0%) crossed the price gate and had the strongest fresh AI-primary evidence.
 - **Search approaches used:** 1 of 5 (standing-lead recheck followed by source-backed deep dive on the newly price-qualified HUBS lead). Candidate evaluations stayed well under the 15-company cap.
 - **Observation:** The monitor discipline worked: HUBS was explicitly waiting for a price-gate cross plus AI-linked operating/model evidence. Future runs should continue to prefer standing leads only when price has moved materially, then source-backed catalysts over broad baskets.
-
-## Session Log: 2026-06-10
-- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices only. Standing leads still failed price/magnitude gates: TRI (-21.2%), DOCU (+3.6%), SFIX (-4.2%), HUBS (-26.4%), and DUOL (+77.1%).
-- **Rejected / rechecked:** Fresh screens found price-qualified names but no clean AI-primary add. TIXT/TIXT.TO had no active yfinance data. ICFI (-31.5%) is down but current evidence points more to government/consulting budget pressure than AI disruption. EGHT (-55.0%) remains a UCaaS/contact-center competitor story with AI framed as product capability, not primary displacement. NA9.DE (-65.4%), GFT.DE (-33.3%), ADN1.DE (-58.5%), and ATE.PA (-46.3%) were price-qualified IT-services/engineering-services names, but the category is saturated and no company-specific AI automation evidence was strong enough to justify another generic services add. LEE (-40.7%) and MDIA (-30.4%) failed the primary-cause screen as media/radio secular-decline stories rather than AI-specific.
-- **Search approaches used:** 4 of 5 (standing lead re-check; fresh software/AI-loser source scan; European IT-services price screen; ad-agency/publisher follow-up). The yfinance screen exceeded the intended 15-candidate budget, so search stopped with no add.
-- **Observation:** Today's misses reinforce that broad price screens are now low-yield and can burn the evaluation cap. Future runs should start from a narrow fresh catalyst with explicit AI-driven guidance/revenue pressure, then run yfinance, rather than screening large peer baskets first.
-
-## Session Log: 2026-06-09
-- **Added:** No companies. Required initial sync fast-forwarded `companies.csv` with refreshed prices only. A bounded 15-name yfinance pass rechecked standing leads and price-qualified monitors; no candidate cleared both the price and primary-cause bars.
-- **Rejected / rechecked:** Standing leads still failed: TRI (-20.3%) remains below the adjusted price gate with capital-return distortion risk; DOCU (+2.8%) and DUOL (+85.8%) were above pre-ChatGPT; SFIX (+1.4%) was above pre-ChatGPT in the latest adjusted check; HUBS (-27.3%) is still short of the price gate despite AI-agent pressure. NRDY was already listed. Other monitors were price-qualified but still not clean enough: TTD (-59.2%) has AI/open-internet risk but still lacks clear AI-driven sustained revenue deterioration; NRDS (-37.8%) still needs broader AI-search revenue evidence; DATA.L (-43.9%) and YOU.L (-77.2%) continue to frame AI as an intelligence/product advantage with current growth or investment rather than primary disruption; ZOO.L (-93.4%) remains muddied by streaming/localization cyclicality; RWA.L (-85.1%), ADEN.SW (-35.1%), and RAND.AS (-38.5%) remain saturated staffing names without fresh company-specific AI-primary evidence.
-- **Search approaches used:** 3 of 5 (standing lead re-check; price-qualified monitor recheck across ad tech, AI-search, market research, localization, and staffing; broad fresh AI-risk catalyst scan). Stopped at the 15-candidate evaluation cap with no qualifying company.
-- **Observation:** Today reinforced that many remaining price-qualified monitors are already known and blocked by primary-cause ambiguity rather than price. Near-term searches should prioritize genuinely fresh catalysts with explicit revenue/guidance pressure from AI, especially outside saturated BPO, staffing, IT services, and broad market-research screens.
