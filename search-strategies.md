@@ -136,10 +136,6 @@
 - **Result:** No companies added. Standing leads failed after adjusted pricing; ADBE was already in the CSV; NOW/CRM/WDAY/ORCL/APP and most professional-information/data names failed price gates, while IT, CLVT, FDS, and TENB were already listed.
 - **Verdict:** Broad software/data yfinance batches are low-yield and can exceed the candidate budget. Next runs should require a named source-backed AI catalyst before checking a basket, and should duplicate-check obvious names first.
 
-### 2026-06-15: AI-search publisher guidance-cut screen
-- **Result:** Found LBG.L (LBG Media plc, -51.7%). Standing leads failed again. Broad software/AI-agent and friction-removal names mostly failed price gates or duplicated existing rows, but a publisher-specific guidance-cut story worked: LBG cut 2026 revenue/EBITDA expectations after indirect revenue fell 41%, with current coverage tying traffic weakness to Google AI Overviews as well as Meta algorithm changes.
-- **Verdict:** AI-search publisher candidates can still work when there is a fresh company-level revenue or guidance hit. Keep the bar high: AI Overviews or AI answer engines need to be explicitly named as part of the pressure, because generic platform algorithm changes alone are too broad.
-
 ### 2026-06-16: Zero-find run — duplicate-heavy publisher and SaaS checks
 - **Result:** No companies added. Standing leads failed again on adjusted pricing. Narrow AI-search/publisher checks found FUTR.L already listed and MONY.L, AUTO.L, RMV.L, QNST, YELP, and MORN failing price gates; LEE/MDIA still looked like secular local-media/radio stories, not clean AI-search adds. A bounded SaaS/legal/fintech pass mostly hit already-listed names (ASAN, CXM, BILL, LAW, LZ, PAYC, PD, DOMO, BL, SSTK, PERI) or screen-stage rejects (SST reverse split, DOTD.L no AI-primary catalyst).
 - **Verdict:** Price-qualified fresh names now need a named catalyst before deep research. Duplicate checks should happen before source work in stock media, ad tech, SaaS, and digital publishing because many obvious AI-risk names are already in the CSV.
@@ -192,7 +188,11 @@
 - **Result:** No companies added. Standing/monitor checks again failed price or causality gates: INTU stayed short of the adjusted gate, TRI/DOCU/SFIX/DUOL/EXLS failed price gates, GAMB/FDM.L remained price-qualified but lacked company-level AI-primary evidence, and Unity was already listed and no longer price-qualified. A thin education/publisher screen failed: the public names were mostly above pre-ChatGPT, delisted/unavailable, or the same non-clean YQ story.
 - **Verdict:** Thin education is still low-yield unless a named company has a fresh AI-linked revenue, enrollment, pricing, or guidance hit. Do not run another broad education batch soon; preserve the candidate cap for source-backed company-level catalysts.
 
+### 2026-07-08: Zero-find run — monitors plus tight software check
+- **Result:** No companies added. Standing monitors failed price or causality gates again; INTU remained closest but still short of the adjusted gate. A tight software/communications/LMS check found GTLB duplicated and no longer price-qualified, APPN/EGHT/DCBO price-qualified but still non-clean, CARG far above baseline, and GCI/TIXT without active yfinance data.
+- **Verdict:** Do not re-run APPN, EGHT, or DCBO without a fresh company-level AI-primary operating hit. The useful next path remains a named source-backed catalyst, especially for INTU, GAMB, FDM.L, or another undercovered workflow where AI is tied directly to revenue, guidance, retention, pricing, or margin pressure.
+
 ## Untried / Ideas for Next Session
-- **Monitor standing leads sparingly** — As of 2026-07-07, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, INTU is still close but short, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
+- **Monitor standing leads sparingly** — As of 2026-07-08, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, INTU is still close but short, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
 - **Fresh catalyst first** — Prioritize source-backed stories where AI is explicitly tied to guidance, revenue, pricing, usage, or staffing pressure before running price screens.
 - **International exchanges beyond LSE/Euronext/ASX/NSE** — TSX, JSE, and HKEX remain underexplored, but screen only from named AI-risk catalysts.
