@@ -2,8 +2,6 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
-| ESTC | Elastic | Down only 14.3% from pre-ChatGPT. Decline too small. | 2026-04-07 |
-| NXL.AX | Nuix | Up 91.4% from pre-ChatGPT. AI beneficiary, not disrupted. | 2026-04-08 |
 | SPGI | S&P Global | Up 27.3% from pre-ChatGPT. Not disrupted. | 2026-04-08 |
 | CHRW | C.H. Robinson | Up 85.3% from pre-ChatGPT. Trucking/logistics AI scare was temporary. | 2026-04-08 |
 | RXO | RXO Inc | Down only 15% from pre-ChatGPT. Decline too small. | 2026-04-08 |
@@ -196,3 +194,5 @@
 | WLY/PSO/LRN/STRA/PRDO/AFYA/EDU/TAL/GOTU/DAO/YQ/FEDU/LAUR/HMHC/ATGE/BEDU | Thin education/publisher screen found no add: WLY, PSO, LRN, STRA, PRDO, AFYA, EDU, TAL, GOTU, DAO, FEDU, and LAUR were above pre-ChatGPT; YQ remained price-qualified but blocked by regulation/reverse-split/AI-as-product issues; HMHC, ATGE, and BEDU lacked active yfinance data. | 2026-07-07 |
 | TRI/DOCU/SFIX/DUOL/INTU/GAMB/FDM.L/EXLS | Standing/monitor recheck failed again: TRI -15.4%, DOCU +3.0%, SFIX -4.2%, DUOL +92.9%, INTU -26.1%, and EXLS -24.1% failed adjusted gates; GAMB and FDM.L stayed price-qualified but lacked company-level AI-primary evidence. | 2026-07-08 |
 | GTLB/APPN/EGHT/CARG/GCI/TIXT/DCBO | Tight software/communications/LMS check found no add: GTLB was already listed and only -17.2%; APPN -35.2%, EGHT -53.6%, and DCBO -39.9% were price-qualified but still non-clean without fresh AI-primary operating damage; CARG was up 178.4%; GCI and TIXT lacked active yfinance data. | 2026-07-08 |
+| TRI/DOCU/SFIX/DUOL/INTU/GAMB/FDM.L/EXLS/G | Standing/monitor recheck failed again: TRI -17.1%, DOCU +7.4%, SFIX -7.6%, DUOL +95.8%, INTU -27.4%, and EXLS -25.3% failed adjusted gates; GAMB and FDM.L stayed price-qualified but lacked company-level AI-primary evidence; G/Genpact was price-qualified but already listed. | 2026-07-09 |
+| GDYN/UPLD/CXM/SMAR/BIGC/APPF/LZ/LAW/DNB | IT-services/software spot check found no add: GDYN -51.8% was active/split-clean/not duplicated but lacked a company-level AI-primary operating hit; UPLD -93.0% and CXM -34.9% were generic/non-clean software selloff stories; SMAR/BIGC/DNB lacked active yfinance data; APPF and LZ failed gates; LAW was already listed. | 2026-07-09 |
