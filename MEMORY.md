@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 95 (as of 2026-07-09)
-- **Last updated:** 2026-07-09
+- **Company count:** 96 (as of 2026-07-10)
+- **Last updated:** 2026-07-10
 
 ## Category Distribution
 | Category | Count |
@@ -10,7 +10,7 @@
 | Software & SaaS | 26 |
 | Business Services | 26 |
 | Content & Media | 14 |
-| Research & Analytics | 11 |
+| Research & Analytics | 12 |
 | Marketing & Advertising | 8 |
 | Education | 3 |
 | Freelance Marketplaces | 4 |
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-07-10
+- **Added:** YOU.L (YouGov plc) — Research & Analytics / Market Research. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only. `YOU.L` was active, split-clean since pre-ChatGPT, not duplicated, and down about -73.5% adjusted (919.35p to 244.0p). The refreshed thesis supersedes the older rejection: evidence now ties YouGov-style online panel research to AI bot-farm/survey-farm data-quality damage and to synthetic/AI-generated research substitution risk, alongside non-AI pressures from GfK/Shopper integration, budgets, and management churn.
+- **Rejected / rechecked:** Standing monitors still failed or stayed thesis-weak: TRI (-13.3% with split/capital-return distortion), DOCU (+10.0%), SFIX (-7.9%), DUOL (+94.4%), INTU (-25.5%), and EXLS (-23.8%) failed adjusted gates; GAMB (-81.0%), FDM.L (-85.2%), GDYN (-49.9%), UPLD (-93.3%), and CXM (-33.2%) were price-qualified or near-qualified but lacked a fresh company-level AI-primary operating hit. Publisher/search names from fresh AI Overviews evidence mostly failed gates, lacked active yfinance data, or were already listed.
+- **Search / observation:** Search exceeded the intended 15-candidate boundary after a publisher/market-research follow-up, so stop early next run if standing monitors plus one source-first approach do not produce a clean candidate. YouGov was added only because new 2026 evidence materially strengthened the previously rejected AI-primary bridge.
 
 ## Session Log: 2026-07-09
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
@@ -141,9 +146,3 @@
 - **Rejected / rechecked:** Standing leads failed again: TRI raw price looked below -30%, but adjusted yfinance pricing was only about -24.5% after the 2023 capital-return/share-consolidation action; DOCU (-1.2%), SFIX (+3.7%), and DUOL (+78.9%) failed price gates. ADBE was a duplicate already in `companies.csv`. NOW remained above pre-ChatGPT on split-adjusted economics despite current AI-risk coverage; CRM, WDAY, ORCL, and APP failed price gates. Professional-information/data checks found IT and CLVT already listed, FDS already listed, while VRSK, EFX, TRU, FICO, MCO, MSCI, and SPGI failed price gates. TENB was also already listed and no longer price-qualified.
 - **Search approaches used:** 4 of 5 (standing leads; current software/seat-risk coverage; professional-information/data-services coverage; old cybersecurity peer lead). Defensive yfinance batches exceeded the intended 15-candidate budget, so search stopped with no add.
 - **Observation:** Today's run reinforced the need to check duplicates before deep research and to avoid broad software/data baskets. The better next path is still a named fresh catalyst where AI is tied to revenue, guidance, pricing, usage, or staffing pressure before running a price screen.
-
-## Session Log: 2026-06-11
-- **Added:** HUBS (HubSpot Inc) — Software & SaaS / CRM & Marketing Automation. Pre-ChatGPT $282.68, current $192.63 (-31.9%). Active yfinance ticker, no duplicate row, and no split actions. HubSpot crossed the price gate after a fresh one-day selloff; Barron's tied the drop to investor concern that HubSpot's AI efficiency push can reduce the number of human paid seats, forcing a shift toward outcome-based pricing, AI credits, and fewer seat minimums. The row is framed as AI cannibalization / market repricing of a seat-based go-to-market software model, not a current revenue-collapse story.
-- **Rejected / rechecked:** Standing leads were rechecked first. TRI (-22.8%) still failed the adjusted price gate; DOCU (+1.3%) and DUOL (+81.8%) were above pre-ChatGPT; SFIX (+10.3%) was above pre-ChatGPT. HUBS (-32.0%) crossed the price gate and had the strongest fresh AI-primary evidence.
-- **Search approaches used:** 1 of 5 (standing-lead recheck followed by source-backed deep dive on the newly price-qualified HUBS lead). Candidate evaluations stayed well under the 15-company cap.
-- **Observation:** The monitor discipline worked: HUBS was explicitly waiting for a price-gate cross plus AI-linked operating/model evidence. Future runs should continue to prefer standing leads only when price has moved materially, then source-backed catalysts over broad baskets.

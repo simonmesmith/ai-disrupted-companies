@@ -2,9 +2,9 @@
 
 ## Tried
 
-### 2026-04-08: Leads + trucking/logistics + contact center/staffing/UCaaS screening
-- **Result:** Found NICE (NICE Ltd, -40.1%). Trucking/logistics was a dead end (all major stocks up 5-432% from pre-ChatGPT despite Feb 2026 AI scare). UDMY down 66% but being acquired by Coursera and AI is a tailwind. EGHT down 59% but AI is growth driver. KFRC (Kforce, -41.5%) identified as strong lead for next session.
-- **Verdict:** Trucking/logistics AI disruption was a media hype event — stocks recovered quickly. Contact center software remains a productive vein (NICE joins FIVN). IT staffing (KFRC) is a strong next candidate — peer of existing ASGN/RHI/MAN. UCaaS companies (8x8) are struggling but more from competition than AI disruption specifically.
+### 2026-07-10: Standing monitors plus publisher/market-research source follow-up
+- **Result:** Found YOU.L (YouGov plc, -73.5%). Standing monitors and recent software/services checks failed price or primary-cause gates. Fresh publisher/AI Overviews evidence mostly hit already-listed or price-failing names, but market-research follow-up surfaced stronger 2026 evidence that AI bot farms are undermining online survey panels and that synthetic/AI research can substitute for paid quick-turnaround insight.
+- **Verdict:** Previously rejected market-research names can qualify if new evidence changes the causal bridge. The productive pattern was not broad price screening; it was revisiting a price-qualified monitor only after a fresh source tied AI to data quality, client trust, and product substitution. Next run should stay stricter on the 15-candidate cap.
 
 ### 2026-04-11: Thin-category targeting — Freelance Marketplaces via international exchanges
 - **Result:** Found FLN.AX (Freelancer Limited, -48.1%). Rejected LRN (Stride, up 152%) and SKIL (Skillsoft, reverse split distortion). Also re-evaluated NRDY but deferred to the 2026-04-10 "stabilizing" judgment.

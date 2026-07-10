@@ -44,6 +44,6 @@
 - **TCS.NS** was added on 2026-06-05 from the Indian IT-services / application-services compression angle after it crossed the price gate. Do not retry.
 - **HUBS** was added on 2026-06-11 from the CRM / marketing automation seat-compression angle after it crossed the price gate. Do not retry.
 - **TASK** and **CNDT** were already present after the 2026-06-08 initial sync. Do not retry as fresh BPO/contact-center candidates.
-- The 2026-06-09 monitor pass also rechecked TTD, NRDS, DATA.L, YOU.L, ZOO.L, RWA.L, ADEN.SW, and RAND.AS. Several remain price-qualified, but none had fresh evidence strong enough to overcome prior primary-cause or category-saturation objections.
+- The 2026-06-09 monitor pass also rechecked TTD, NRDS, DATA.L, YOU.L, ZOO.L, RWA.L, ADEN.SW, and RAND.AS. YOU.L was later added on 2026-07-10 after stronger AI panel-fraud / synthetic-research evidence; the others still need fresh company-specific operating evidence.
 - At 95 companies, proving AI as the primary cause remains the binding constraint.
 - The 2026-07-09 IT-services/software check found one fresh monitor, **GDYN** (-51.8%, active, split-clean, not duplicated), but do not retry without company-level evidence that AI is directly reducing custom software-development demand, pricing, utilization, revenue, guidance, or margins. UPLD/CXM were price-qualified or near-qualified but generic/non-clean; G/Genpact and LAW are already listed.
