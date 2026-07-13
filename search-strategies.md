@@ -2,13 +2,13 @@
 
 ## Tried
 
+### 2026-07-13: Fresh catalyst, software, and international services checks
+- **Result:** No companies added. CRM, INTU, and PUBM failed adjusted price gates; PEOPLE lacked an active listing; IONOS and Waystar lacked pre-ChatGPT histories. A final market-research/localization check found SYS1.L and DLX reporting stable or growing revenue with AI framed as a product or efficiency lever.
+- **Verdict:** Stop after repeated three-candidate failure runs instead of drifting into broad baskets. The next useful trigger is a named company-level AI-linked operating hit, not another generic SaaS, publishing, or market-research risk screen.
+
 ### 2026-07-10: Standing monitors plus publisher/market-research source follow-up
 - **Result:** Found YOU.L (YouGov plc, -73.5%). Standing monitors and recent software/services checks failed price or primary-cause gates. Fresh publisher/AI Overviews evidence mostly hit already-listed or price-failing names, but market-research follow-up surfaced stronger 2026 evidence that AI bot farms are undermining online survey panels and that synthetic/AI research can substitute for paid quick-turnaround insight.
 - **Verdict:** Previously rejected market-research names can qualify if new evidence changes the causal bridge. The productive pattern was not broad price screening; it was revisiting a price-qualified monitor only after a fresh source tied AI to data quality, client trust, and product substitution. Next run should stay stricter on the 15-candidate cap.
-
-### 2026-04-11: Thin-category targeting — Freelance Marketplaces via international exchanges
-- **Result:** Found FLN.AX (Freelancer Limited, -48.1%). Rejected LRN (Stride, up 152%) and SKIL (Skillsoft, reverse split distortion). Also re-evaluated NRDY but deferred to the 2026-04-10 "stabilizing" judgment.
-- **Verdict:** ASX has yfinance-compatible peers of US/global names worth checking — FLN.AX is a clean international add to the Freelance Marketplaces category alongside FVRR and UPWK, with the same writing/coding/design automation thesis. The international-peers angle is productive whenever a thin US category has a foreign equivalent. Checking reverse-split histories up front (the Oct 2023 Skillsoft split would have distorted the whole narrative) saves time. Memory is working as intended: the 2026-04-10 NRDY rejection correctly stopped a duplicate evaluation one day later.
 
 ### 2026-04-10: Leads from memory + customer engagement + edtech + local services screening
 - **Result:** Found ANGI (Angi Inc, -65.0% split-adjusted). Leads all still too modest (MORN -25.7%, TRI -21.4%, TCS.NS -17.4%). VRNT delisted. YELP only -13.7%. LRN +152.5% (beneficiary). BRZE only -15.1%. NRDY -58.5% with strong AI angle but stabilizing (returned to growth Q4 2025).

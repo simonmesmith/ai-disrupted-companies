@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 96 (as of 2026-07-10)
-- **Last updated:** 2026-07-10
+- **Last updated:** 2026-07-13
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-07-13
+- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
+- **Rejected / rechecked:** Fresh-catalyst checks found CRM (+15.2%), INTU (-20.7%), and PUBM (-8.1%) failing adjusted price gates; `PEOPLE` had no active yfinance listing, while IONOS and Waystar lacked pre-ChatGPT trading histories. A final market-research/localization check rejected SYS1.L and DLX because current results showed stable or growing revenue and positioned AI as a product/efficiency lever, not primary external disruption.
+- **Search / observation:** Used 3 focused approaches and stopped after repeated three-candidate failure runs. At 96 companies, wait for a named company-level AI-linked revenue, guidance, retention, pricing, utilization, or margin hit before another price screen.
 
 ## Session Log: 2026-07-10
 - **Added:** YOU.L (YouGov plc) — Research & Analytics / Market Research. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only. `YOU.L` was active, split-clean since pre-ChatGPT, not duplicated, and down about -73.5% adjusted (919.35p to 244.0p). The refreshed thesis supersedes the older rejection: evidence now ties YouGov-style online panel research to AI bot-farm/survey-farm data-quality damage and to synthetic/AI-generated research substitution risk, alongside non-AI pressures from GfK/Shopper integration, budgets, and management churn.
@@ -140,9 +145,3 @@
 - **Rejected / rechecked:** Standing leads failed again on adjusted yfinance pricing: TRI (-21.6%) still did not clear the price gate after capital-return adjustments; DOCU (+1.2%), SFIX (+6.8%), and DUOL (+93.1%) were above pre-ChatGPT. Fresh AI-risk/friction checks found ADBE already listed, while CRM, ORCL, INTU, ADSK, DBX, RNG, ZM, FSLY, RAMP, APPF, and BRZE failed price gates; FRSH was already listed. UBER, DASH, MA, and AXP were named in an AI-agent friction-removal narrative but were all far above pre-ChatGPT prices.
 - **Search approaches used:** 3 of 5 (standing lead re-check; named software/AI-agent risk coverage; AI-search publisher/outlook-cut screen). Candidate evaluations stayed within the 15-company cap.
 - **Observation:** The successful path was a named publisher guidance-cut catalyst, not a broad basket. For future publisher adds, require a fresh company-level revenue/guidance hit that explicitly names AI search or AI answer engines; generic Meta/Google algorithm pressure alone should still fail.
-
-## Session Log: 2026-06-12
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads failed again: TRI raw price looked below -30%, but adjusted yfinance pricing was only about -24.5% after the 2023 capital-return/share-consolidation action; DOCU (-1.2%), SFIX (+3.7%), and DUOL (+78.9%) failed price gates. ADBE was a duplicate already in `companies.csv`. NOW remained above pre-ChatGPT on split-adjusted economics despite current AI-risk coverage; CRM, WDAY, ORCL, and APP failed price gates. Professional-information/data checks found IT and CLVT already listed, FDS already listed, while VRSK, EFX, TRU, FICO, MCO, MSCI, and SPGI failed price gates. TENB was also already listed and no longer price-qualified.
-- **Search approaches used:** 4 of 5 (standing leads; current software/seat-risk coverage; professional-information/data-services coverage; old cybersecurity peer lead). Defensive yfinance batches exceeded the intended 15-candidate budget, so search stopped with no add.
-- **Observation:** Today's run reinforced the need to check duplicates before deep research and to avoid broad software/data baskets. The better next path is still a named fresh catalyst where AI is tied to revenue, guidance, pricing, usage, or staffing pressure before running a price screen.
