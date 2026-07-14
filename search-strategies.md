@@ -4,7 +4,7 @@
 
 ### 2026-07-14: IBM budget shift, cloud pivot, and logistics AI-risk checks
 - **Result:** No companies added in 8 evaluations across 3 source-first approaches. The fresh IBM warning was a genuine AI-driven software-budget catalyst, but IBM, BYIT.L, and CTSH failed adjusted gates. RXT failed the gate and is pivoting toward AI infrastructure; TRTK.MC lacks pre-ChatGPT history. CHRW, LSTR, and EXPD were all well above baseline despite a named AI-logistics selloff.
-- **Verdict:** A real sector catalyst still needs a qualifying stock. Do not broaden today's IBM rout into another software/IT-services basket, and do not retry the logistics trio unless company-level results show AI-driven revenue, pricing, utilization, or margin damage alongside a major price reversal.
+- **Verdict:** A real sector catalyst still needs a qualifying stock. Keep IBM as a long-range monitor because the AI-spending shift now has a company-level operating signal, but do not broaden the rout into another software/IT-services basket or retry the logistics trio without AI-driven operating damage alongside a major price reversal.
 
 ### 2026-07-13: Fresh catalyst, software, and international services checks
 - **Result:** No companies added. CRM, INTU, and PUBM failed adjusted price gates; PEOPLE lacked an active listing; IONOS and Waystar lacked pre-ChatGPT histories. A final market-research/localization check found SYS1.L and DLX reporting stable or growing revenue with AI framed as a product or efficiency lever.

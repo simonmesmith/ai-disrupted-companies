@@ -33,7 +33,7 @@
 ## Session Log: 2026-07-14
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
 - **Rejected / rechecked:** A fresh Reuters/IBM software-budget catalyst did not clear the price gate for IBM (+72.1%), Bytes Technology (+3.5%), or Cognizant (-22.7%). Rackspace (+6.8%) also failed the gate and its guidance cut reflected exiting low-margin cloud resale while investing in enterprise AI; Treelogic lacked pre-ChatGPT history after a January 2026 IPO. A named logistics AI-selloff check found CHRW (+121.6%), LSTR (+34.0%), and EXPD (+61.9%) all above baseline.
-- **Search / observation:** Used 3 source-first approaches and 8 candidate evaluations, stopping after the final three-candidate price-gate failure. Today's IBM warning is a real sector catalyst, but the named incumbents remain above baseline; wait for a company-level AI operating hit paired with a stock already below its adjusted Nov. 29, 2022 close.
+- **Search / observation:** Used 3 source-first approaches and 8 candidate evaluations, stopping after the final three-candidate price-gate failure. Today's IBM warning is a real sector catalyst; keep IBM as a long-range monitor despite its +72.1% adjusted price gap, and otherwise wait for company-level AI operating hits paired with stocks already below their Nov. 29, 2022 closes.
 
 ## Session Log: 2026-07-13
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
