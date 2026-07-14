@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 96 (as of 2026-07-10)
-- **Last updated:** 2026-07-13
+- **Last updated:** 2026-07-14
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
 - For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+
+## Session Log: 2026-07-14
+- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
+- **Rejected / rechecked:** A fresh Reuters/IBM software-budget catalyst did not clear the price gate for IBM (+72.1%), Bytes Technology (+3.5%), or Cognizant (-22.7%). Rackspace (+6.8%) also failed the gate and its guidance cut reflected exiting low-margin cloud resale while investing in enterprise AI; Treelogic lacked pre-ChatGPT history after a January 2026 IPO. A named logistics AI-selloff check found CHRW (+121.6%), LSTR (+34.0%), and EXPD (+61.9%) all above baseline.
+- **Search / observation:** Used 3 source-first approaches and 8 candidate evaluations, stopping after the final three-candidate price-gate failure. Today's IBM warning is a real sector catalyst, but the named incumbents remain above baseline; wait for a company-level AI operating hit paired with a stock already below its adjusted Nov. 29, 2022 close.
 
 ## Session Log: 2026-07-13
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
@@ -139,9 +144,3 @@
 - **Rejected / rechecked:** Standing leads failed again on adjusted yfinance pricing: TRI (-23.2%) remained below the gate after capital-return/share-consolidation effects; DOCU (+0.8%), SFIX (+9.3%), and DUOL (+91.5%) failed price gates. A narrow publisher/search screen found FUTR.L and PERI already listed, while MONY.L, AUTO.L, RMV.L, QNST, YELP, and MORN failed price gates; LEE and MDIA remained non-clean local-media/radio stories. A bounded SaaS/legal/fintech check found ASAN, CXM, BILL, LAW, LZ, PAYC, PD, DOMO, and BL already listed; SSTK was already listed, and SST was reverse-split distorted.
 - **Search approaches used:** 4 of 5 (standing lead re-check; AI-search publisher/traffic screen; legal/thin-category spot check; bounded SaaS/fintech duplicate and price screen). Candidate evaluations hit the practical 15-company boundary with no clean non-duplicate add.
 - **Observation:** The binding constraint is now duplicate/primary-cause evidence, not raw price. Fresh publisher catalysts can still work, but today's best price-qualified names were already in the CSV or were muddied by non-AI secular decline, reverse splits, or healthy AI-as-product positioning.
-
-## Session Log: 2026-06-15
-- **Added:** LBG.L (LBG Media plc) — Content & Media / Digital Publishing. Pre-ChatGPT 56.5p, current 27.3p (-51.7%). Active yfinance ticker, no duplicate row, and no split actions. The AI thesis is publisher traffic compression: June 2026 coverage tied LBG's guidance cut and 41% first-half indirect-revenue decline to platform changes reducing website visits, explicitly including Google AI Overviews deterring click-throughs alongside Meta algorithm changes. The row is framed honestly as mixed platform/AI causality, but AI search is now a named contributor to the collapse of high-margin open-web advertising revenue.
-- **Rejected / rechecked:** Standing leads failed again on adjusted yfinance pricing: TRI (-21.6%) still did not clear the price gate after capital-return adjustments; DOCU (+1.2%), SFIX (+6.8%), and DUOL (+93.1%) were above pre-ChatGPT. Fresh AI-risk/friction checks found ADBE already listed, while CRM, ORCL, INTU, ADSK, DBX, RNG, ZM, FSLY, RAMP, APPF, and BRZE failed price gates; FRSH was already listed. UBER, DASH, MA, and AXP were named in an AI-agent friction-removal narrative but were all far above pre-ChatGPT prices.
-- **Search approaches used:** 3 of 5 (standing lead re-check; named software/AI-agent risk coverage; AI-search publisher/outlook-cut screen). Candidate evaluations stayed within the 15-company cap.
-- **Observation:** The successful path was a named publisher guidance-cut catalyst, not a broad basket. For future publisher adds, require a fresh company-level revenue/guidance hit that explicitly names AI search or AI answer engines; generic Meta/Google algorithm pressure alone should still fail.

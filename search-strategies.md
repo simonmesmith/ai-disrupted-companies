@@ -2,6 +2,10 @@
 
 ## Tried
 
+### 2026-07-14: IBM budget shift, cloud pivot, and logistics AI-risk checks
+- **Result:** No companies added in 8 evaluations across 3 source-first approaches. The fresh IBM warning was a genuine AI-driven software-budget catalyst, but IBM, BYIT.L, and CTSH failed adjusted gates. RXT failed the gate and is pivoting toward AI infrastructure; TRTK.MC lacks pre-ChatGPT history. CHRW, LSTR, and EXPD were all well above baseline despite a named AI-logistics selloff.
+- **Verdict:** A real sector catalyst still needs a qualifying stock. Do not broaden today's IBM rout into another software/IT-services basket, and do not retry the logistics trio unless company-level results show AI-driven revenue, pricing, utilization, or margin damage alongside a major price reversal.
+
 ### 2026-07-13: Fresh catalyst, software, and international services checks
 - **Result:** No companies added. CRM, INTU, and PUBM failed adjusted price gates; PEOPLE lacked an active listing; IONOS and Waystar lacked pre-ChatGPT histories. A final market-research/localization check found SYS1.L and DLX reporting stable or growing revenue with AI framed as a product or efficiency lever.
 - **Verdict:** Stop after repeated three-candidate failure runs instead of drifting into broad baskets. The next useful trigger is a named company-level AI-linked operating hit, not another generic SaaS, publishing, or market-research risk screen.
@@ -9,10 +13,6 @@
 ### 2026-07-10: Standing monitors plus publisher/market-research source follow-up
 - **Result:** Found YOU.L (YouGov plc, -73.5%). Standing monitors and recent software/services checks failed price or primary-cause gates. Fresh publisher/AI Overviews evidence mostly hit already-listed or price-failing names, but market-research follow-up surfaced stronger 2026 evidence that AI bot farms are undermining online survey panels and that synthetic/AI research can substitute for paid quick-turnaround insight.
 - **Verdict:** Previously rejected market-research names can qualify if new evidence changes the causal bridge. The productive pattern was not broad price screening; it was revisiting a price-qualified monitor only after a fresh source tied AI to data quality, client trust, and product substitution. Next run should stay stricter on the 15-candidate cap.
-
-### 2026-04-10: Leads from memory + customer engagement + edtech + local services screening
-- **Result:** Found ANGI (Angi Inc, -65.0% split-adjusted). Leads all still too modest (MORN -25.7%, TRI -21.4%, TCS.NS -17.4%). VRNT delisted. YELP only -13.7%. LRN +152.5% (beneficiary). BRZE only -15.1%. NRDY -58.5% with strong AI angle but stabilizing (returned to growth Q4 2025).
-- **Verdict:** Google AI Overviews / search-driven-traffic disruption is a productive theme — ANGI joins TRIP and ZD as traffic-dependent businesses crushed by AI Overviews. The "search-click death spiral" (organic CTR -61% since mid-2024) is a powerful structural force that may surface more candidates. Edtech pivot stories (NRDY) are hard to qualify because many have stabilized after initial AI shock. Local services / lead-gen marketplaces (Yelp, Angi) have varying exposure — the ones with thin pay-to-play moats are most exposed. Future angles: 2dine review sites, job boards (Dice Holdings?), niche directories.
 
 ### 2026-04-12: Leads from memory + IT operations / website builders / HCM screening
 - **Result:** Found PD (PagerDuty, -72.5%). Leads re-checked: NRDY still -58.8% (stabilizing), MORN still -27.0% (below threshold). Rejected CTSH (+2.6%, not disrupted), WIX (-23.0%, too modest), DAY (no yfinance data).
