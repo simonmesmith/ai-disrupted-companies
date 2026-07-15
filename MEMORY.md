@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 96 (as of 2026-07-10)
-- **Last updated:** 2026-07-14
+- **Last updated:** 2026-07-15
 
 ## Category Distribution
 | Category | Count |
@@ -27,9 +27,12 @@
 - `search-strategies.md` — what approaches worked, failed, or remain unexplored.
 
 ## Evidence Weighting Notes
-- Be skeptical of companies' own AI positioning. If a company with an AI-exposed core workflow has pricing power, margin, or demand weakness and the stock derated around the ChatGPT era, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. Independent analyst evidence should receive more credence, but market behavior plus deteriorating economics can still be an important signal.
-- For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible AI-disruption evidence even if the company attributes it to a soft market. Clients may be using AI for more work and questioning expensive human freelancers before management says so directly.
+- Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 
+## Session Log: 2026-07-15
+- **Added:** No companies. Required escalated initial sync fast-forwarded only the automated price fields in `companies.csv`.
+- **Rejected / rechecked:** The fresh IBM software-budget warning did not clear adjusted price gates for IBM (+69.6%), CRM (+14.4%), NOW (+34.5% after its 5:1 split), or INTU (-23.1%). A same-day publisher-ad-supply report showed severe AI-search traffic pressure, but named/adjacent public publishers NWSA (+55.9%), NYT (+119.9%), and SCHL (+27.7%) were all above pre-ChatGPT.
+- **Search / observation:** Used 2 source-first approaches and 7 candidate evaluations, then stopped after the second three-candidate failure run. IBM remains a meaningful long-range signal, and publisher traffic pressure is strengthening, but wait for a named below-baseline company with a direct revenue or guidance hit.
 ## Session Log: 2026-07-14
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
 - **Rejected / rechecked:** A fresh Reuters/IBM software-budget catalyst did not clear the price gate for IBM (+72.1%), Bytes Technology (+3.5%), or Cognizant (-22.7%). Rackspace (+6.8%) also failed the gate and its guidance cut reflected exiting low-margin cloud resale while investing in enterprise AI; Treelogic lacked pre-ChatGPT history after a January 2026 IPO. A named logistics AI-selloff check found CHRW (+121.6%), LSTR (+34.0%), and EXPD (+61.9%) all above baseline.

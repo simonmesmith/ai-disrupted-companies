@@ -132,10 +132,6 @@
 - **Result:** Found HUBS (HubSpot Inc, -31.9%). Standing leads were checked first; TRI, DOCU, SFIX, and DUOL failed price gates. HUBS crossed the adjusted price gate and had fresh Barron's coverage tying the selloff to AI efficiency reducing paid seat demand and forcing outcome-based pricing / AI credits.
 - **Verdict:** Monitor-only leads can still pay off when the price gate moves and the causal evidence is fresh. For seat-based SaaS, the clean version of the thesis is AI reducing required human users and pressuring monetization, not just broad SaaS valuation compression.
 
-### 2026-06-12: Zero-find run — standing leads plus duplicate-heavy software/data checks
-- **Result:** No companies added. Standing leads failed after adjusted pricing; ADBE was already in the CSV; NOW/CRM/WDAY/ORCL/APP and most professional-information/data names failed price gates, while IT, CLVT, FDS, and TENB were already listed.
-- **Verdict:** Broad software/data yfinance batches are low-yield and can exceed the candidate budget. Next runs should require a named source-backed AI catalyst before checking a basket, and should duplicate-check obvious names first.
-
 ### 2026-06-16: Zero-find run — duplicate-heavy publisher and SaaS checks
 - **Result:** No companies added. Standing leads failed again on adjusted pricing. Narrow AI-search/publisher checks found FUTR.L already listed and MONY.L, AUTO.L, RMV.L, QNST, YELP, and MORN failing price gates; LEE/MDIA still looked like secular local-media/radio stories, not clean AI-search adds. A bounded SaaS/legal/fintech pass mostly hit already-listed names (ASAN, CXM, BILL, LAW, LZ, PAYC, PD, DOMO, BL, SSTK, PERI) or screen-stage rejects (SST reverse split, DOTD.L no AI-primary catalyst).
 - **Verdict:** Price-qualified fresh names now need a named catalyst before deep research. Duplicate checks should happen before source work in stock media, ad tech, SaaS, and digital publishing because many obvious AI-risk names are already in the CSV.
@@ -191,6 +187,10 @@
 ### 2026-07-08/09: Zero-find runs — monitors plus tight software checks
 - **Result:** No companies added. July 9 rechecked standing monitors after the required sync: INTU remained closest but still short of the adjusted gate; GAMB/FDM.L stayed price-qualified but thesis-weak; G/Genpact was already listed. A small IT-services/software pass found GDYN price-qualified, active, split-clean, and not duplicated, but without company-level evidence tying the decline primarily to AI reducing software-development demand. UPLD/CXM were generic/non-clean software selloff stories, while SMAR/BIGC/DNB lacked active yfinance data.
 - **Verdict:** Do not retry GDYN, UPLD, CXM, APPN, EGHT, or DCBO without a fresh company-level AI-primary operating hit. The useful next path remains a named source-backed catalyst, especially for INTU, GAMB, FDM.L, or another undercovered workflow where AI is tied directly to revenue, guidance, retention, pricing, utilization, or margin pressure.
+
+### 2026-07-15: Zero-find run — IBM budget shift plus publisher traffic data
+- **Result:** No companies added. IBM's company-level warning was strong evidence of AI infrastructure crowding out software spend, but IBM/CRM/NOW/INTU failed adjusted gates. Same-day publisher benchmarks showed ad requests down roughly 32-41% YoY as AI search reduced traffic, but NWSA/NYT/SCHL were all above baseline.
+- **Verdict:** Fresh catalysts remain the right filter, but sector evidence alone is not enough. Keep IBM and publisher traffic as signals; only rerun when a named company is below baseline or reports a direct AI-linked revenue/guidance hit.
 
 ## Untried / Ideas for Next Session
 - **Monitor standing leads sparingly** — As of 2026-07-09, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, INTU is still close but short, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
