@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 96 (as of 2026-07-10)
-- **Last updated:** 2026-07-15
+- **Last updated:** 2026-07-16
 
 ## Category Distribution
 | Category | Count |
@@ -28,6 +28,11 @@
 
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
+
+## Session Log: 2026-07-16
+- **Added:** No companies. Required escalated initial sync fast-forwarded only automated price fields in `companies.csv`.
+- **Rejected / rechecked:** An Indian IT-services pass prompted by Accenture's AI/services warning found HCLTECH.NS (+21.3%), WIPRO.NS (-6.0%), TECHM.NS (+58.2%), and PERSISTENT.NS (+157.5%) failing adjusted price gates; LTIM.NS had no usable active yfinance data. A small publisher follow-up to current AI-search traffic evidence found WIL.L (-4.1%), BMY.L (+33.9%), and INF.L (+47.4%) also failing adjusted gates.
+- **Search / observation:** Used 2 source-first approaches and 8 candidate evaluations, stopping after the second three-candidate failure run. The current AI catalysts are real, but the non-duplicate public names tested remain above or only modestly below baseline.
 
 ## Session Log: 2026-07-15
 - **Added:** No companies. Required escalated initial sync fast-forwarded only the automated price fields in `companies.csv`.
@@ -135,15 +140,3 @@
 - **Rejected / rechecked:** Standing leads failed again: TRI (-25.5%) remains below the adjusted gate with capital-return distortion, DOCU (-6.0%) and SFIX (+2.0%) failed price/magnitude gates, and DUOL (+85.6%) remains far above baseline. Fresh software/data AI-selloff names also failed: NOW (+18.3%), SGE.L (+1.8%), REL.L (+2.8%), and LSEG.L (+5.2%) were above pre-ChatGPT, while IT/Gartner was already listed. A follow-up on yesterday's spot-screen names found CRTO price-qualified but still under prior non-AI/ad-spend objections, FLNT price-qualified but reverse-split distorted, 2175.T / 3962.T / 300413.SZ price-qualified but without a clean AI-primary catalyst, and open-web ad peers TBLA/MGNI/PUBM/RAMP failing price gates or DV already listed.
 - **Search approaches used:** 4 of 5 (standing lead re-check; software/data AI-selloff source check; prior international/ad-tech spot-screen follow-up; publisher/open-web ad adjacent check). Candidate checks again exceeded the intended 15 boundary, so search stopped with no add.
 - **Observation:** The viable next path is not more broad software or ad-tech price screening. Start from a fresh company-level source that explicitly ties AI to revenue/guidance/pricing pressure, then duplicate-check before running a ticker basket.
-
-## Session Log: 2026-06-17
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads failed again on adjusted yfinance pricing: TRI (-22.3%) remained below the price gate after capital-return/share-consolidation effects; DOCU (+0.2%), SFIX (+9.3%), and DUOL (+95.0%) failed price gates. Fresh software headlines around AI anxiety did not produce a candidate: CRM was still above pre-ChatGPT (+7.5%), FIG has no pre-ChatGPT history, TEAM was already listed and still just short of the gate (-28.7%), while MDB, SNOW, DBX, RNG, and ZM were above pre-ChatGPT. A quick software/data/ad-tech/international spot screen found price-qualified names such as CRTO, TTD, FLNT, 2175.T, 3962.T, and 300413.SZ, but no clean non-duplicate add was pursued because prior primary-cause or reverse-split concerns held and the candidate cap had been reached.
-- **Search approaches used:** 3 of 5 (standing lead re-check; fresh software/AI-anxiety news screen; underexplored international/public-peer spot check). Candidate evaluations exceeded the intended 15-company boundary, so search stopped with no add.
-- **Observation:** Current broad software selloff stories remain low-yield without a named revenue/guidance catalyst; many obvious names either fail the price gate, IPO'd too late, or are already listed. Next run should avoid opportunistic broad yfinance spot checks and start from a company-level source that explicitly links AI to operating pressure.
-
-## Session Log: 2026-06-16
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads failed again on adjusted yfinance pricing: TRI (-23.2%) remained below the gate after capital-return/share-consolidation effects; DOCU (+0.8%), SFIX (+9.3%), and DUOL (+91.5%) failed price gates. A narrow publisher/search screen found FUTR.L and PERI already listed, while MONY.L, AUTO.L, RMV.L, QNST, YELP, and MORN failed price gates; LEE and MDIA remained non-clean local-media/radio stories. A bounded SaaS/legal/fintech check found ASAN, CXM, BILL, LAW, LZ, PAYC, PD, DOMO, and BL already listed; SSTK was already listed, and SST was reverse-split distorted.
-- **Search approaches used:** 4 of 5 (standing lead re-check; AI-search publisher/traffic screen; legal/thin-category spot check; bounded SaaS/fintech duplicate and price screen). Candidate evaluations hit the practical 15-company boundary with no clean non-duplicate add.
-- **Observation:** The binding constraint is now duplicate/primary-cause evidence, not raw price. Fresh publisher catalysts can still work, but today's best price-qualified names were already in the CSV or were muddied by non-AI secular decline, reverse splits, or healthy AI-as-product positioning.

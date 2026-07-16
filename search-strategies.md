@@ -2,6 +2,10 @@
 
 ## Tried
 
+### 2026-07-16: IT-services warning plus publisher-traffic follow-up
+- **Result:** No companies added in 8 evaluations across 2 source-first approaches. HCLTECH.NS, WIPRO.NS, TECHM.NS, and PERSISTENT.NS failed adjusted price gates, while LTIM.NS lacked usable active data. Current AI-search traffic evidence was strong, but WIL.L, BMY.L, and INF.L also failed adjusted gates.
+- **Verdict:** Stop after repeated three-candidate failure runs. Indian IT services and publishers have real sector pressure, but do not broaden either basket without a named company-level operating hit and a clearly below-baseline price.
+
 ### 2026-07-14: IBM budget shift, cloud pivot, and logistics AI-risk checks
 - **Result:** No companies added in 8 evaluations across 3 source-first approaches. The fresh IBM warning was a genuine AI-driven software-budget catalyst, but IBM, BYIT.L, and CTSH failed adjusted gates. RXT failed the gate and is pivoting toward AI infrastructure; TRTK.MC lacks pre-ChatGPT history. CHRW, LSTR, and EXPD were all well above baseline despite a named AI-logistics selloff.
 - **Verdict:** A real sector catalyst still needs a qualifying stock. Keep IBM as a long-range monitor because the AI-spending shift now has a company-level operating signal, but do not broaden the rout into another software/IT-services basket or retry the logistics trio without AI-driven operating damage alongside a major price reversal.
@@ -13,10 +17,6 @@
 ### 2026-07-10: Standing monitors plus publisher/market-research source follow-up
 - **Result:** Found YOU.L (YouGov plc, -73.5%). Standing monitors and recent software/services checks failed price or primary-cause gates. Fresh publisher/AI Overviews evidence mostly hit already-listed or price-failing names, but market-research follow-up surfaced stronger 2026 evidence that AI bot farms are undermining online survey panels and that synthetic/AI research can substitute for paid quick-turnaround insight.
 - **Verdict:** Previously rejected market-research names can qualify if new evidence changes the causal bridge. The productive pattern was not broad price screening; it was revisiting a price-qualified monitor only after a fresh source tied AI to data quality, client trust, and product substitution. Next run should stay stricter on the 15-candidate cap.
-
-### 2026-04-12: Leads from memory + IT operations / website builders / HCM screening
-- **Result:** Found PD (PagerDuty, -72.5%). Leads re-checked: NRDY still -58.8% (stabilizing), MORN still -27.0% (below threshold). Rejected CTSH (+2.6%, not disrupted), WIX (-23.0%, too modest), DAY (no yfinance data).
-- **Verdict:** IT Operations / incident management is a productive new angle — PagerDuty has one of the strongest AI disruption narratives on the list because incident triage/routing/remediation is exactly the kind of structured workflow AI agents automate best. The Anthropic Managed Agents connection makes the disruption thesis extremely direct. Website builders (WIX) were down modestly then but later qualified on 2026-05-14 after a sharper AI/vibe-coding selloff. IT outsourcers were split at the time, though Accenture later qualified on 2026-05-26 after the price gate caught up to the AI labor-compression thesis. Healthcare IT confirmed as largely defensive during AI sell-off — skip for now.
 
 ### 2026-04-13: Leads from memory + cybersecurity AI disruption research
 - **Result:** Found QLYS (Qualys, -35.1%). NRDY re-evaluated at -58.0% — full-year 2025 revenue down 5.91%, 22% headcount cuts, but deferred again as 2026 guidance is flat (not declining). Batch-checked HOOD (+661%), IBM (+79%), DOCN (+186%), CRWD (+186%) — all up. ZUO, PRFT, SUMO all delisted.

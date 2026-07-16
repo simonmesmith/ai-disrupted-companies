@@ -2,8 +2,8 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
-| RXO | RXO Inc | Down only 15% from pre-ChatGPT. Decline too small. | 2026-04-08 |
-| UDMY | Udemy | Down 66.2% but being acquired by Coursera ($2.5B). AI creating reskilling demand, not disrupting. | 2026-04-08 |
+| HCLTECH.NS/WIPRO.NS/TECHM.NS/PERSISTENT.NS/LTIM.NS | Indian IT-services peers | Fresh Accenture/sector AI-services warning did not produce a new add: adjusted changes were +21.3%, -6.0%, +58.2%, and +157.5%; LTIM.NS had no usable active yfinance data. | 2026-07-16 |
+| WIL.L/BMY.L/INF.L | Wilmington/Bloomsbury/Informa | Current AI-search publisher-traffic evidence is relevant, but adjusted prices failed the gate at -4.1%, +33.9%, and +47.4%. | 2026-07-16 |
 | EGHT | 8x8 Inc | Down 59.1% but AI is a growth driver (167% YoY ICA growth), not a disruptor. Decline from UCaaS competition. | 2026-04-08 |
 | ANSS | Ansys | Appears delisted/acquired by Synopsys. No yfinance data. | 2026-04-08 |
 | VRNT | Verint Systems | Delisted, possibly acquired/going private. No yfinance data. | 2026-04-10 |
