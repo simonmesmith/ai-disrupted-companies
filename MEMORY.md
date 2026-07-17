@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 96 (as of 2026-07-10)
-- **Last updated:** 2026-07-16
+- **Last updated:** 2026-07-17
 
 ## Category Distribution
 | Category | Count |
@@ -28,6 +28,11 @@
 
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
+
+## Session Log: 2026-07-17
+- **Added:** No companies. Required escalated initial sync fast-forwarded only automated price fields in `companies.csv`.
+- **Rejected / rechecked:** IBM (+65.2%), INTU (-19.9%), and WDAY (+2.9%) failed adjusted price gates after the current AI software-budget warning. A thin-category source-first pass found UPLD deeply price-qualified (-92.9%) but still lacking evidence that external AI displacement is the primary cause of its revenue decline, with a 1:10 reverse split in June 2026 adding caution; LZ (-11.8%) and FUTR.L (-79.0%) were already listed, and LZ also failed the price gate.
+- **Search / observation:** Used 2 source-first approaches and 6 candidate evaluations, stopping after the second three-candidate failure run. Do not retry UPLD without a company-level AI-primary operating hit; generic revenue contraction plus AI-product positioning is not sufficient.
 
 ## Session Log: 2026-07-16
 - **Added:** No companies. Required escalated initial sync fast-forwarded only automated price fields in `companies.csv`.
@@ -134,9 +139,3 @@
 - **Rejected / rechecked:** Standing leads failed adjusted yfinance checks again: TRI (-25.6%) remains below the adjusted price gate with the 2023 capital-return/share-consolidation distortion, DOCU (-2.4%) and SFIX (+5.5%) failed price/magnitude gates, and DUOL (+88.6%) remains far above baseline. Fresh source-first checks did not produce a clean non-duplicate add: DSY.PA/Dassault was price-qualified but already in `companies.csv`; SMWB/Similarweb was already listed and now above its pre-ChatGPT price; OTEX/OTEX.TO was not duplicated but only down ~16-19%; brokerage/wealth-management names from an AI-tax-planning scare (RJF, LPLA, SCHW, IBKR) were all above pre-ChatGPT.
 - **Search approaches used:** 4 of 5 (standing-lead recheck; fresh software/data AI-guidance articles; AI-search/digital-analytics duplicate check; financial-services AI-scare price check). Stopped after repeated price/duplicate failures rather than broadening into another low-yield basket.
 - **Observation:** Today's only price-qualified fresh source hit, Dassault, was already present. The next run should keep duplicate checks in front of deep research and should not spend effort on generic software/financial-services selloff articles unless a named company also shows post-ChatGPT underperformance and company-level AI pressure.
-
-## Session Log: 2026-06-18
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads failed again: TRI (-25.5%) remains below the adjusted gate with capital-return distortion, DOCU (-6.0%) and SFIX (+2.0%) failed price/magnitude gates, and DUOL (+85.6%) remains far above baseline. Fresh software/data AI-selloff names also failed: NOW (+18.3%), SGE.L (+1.8%), REL.L (+2.8%), and LSEG.L (+5.2%) were above pre-ChatGPT, while IT/Gartner was already listed. A follow-up on yesterday's spot-screen names found CRTO price-qualified but still under prior non-AI/ad-spend objections, FLNT price-qualified but reverse-split distorted, 2175.T / 3962.T / 300413.SZ price-qualified but without a clean AI-primary catalyst, and open-web ad peers TBLA/MGNI/PUBM/RAMP failing price gates or DV already listed.
-- **Search approaches used:** 4 of 5 (standing lead re-check; software/data AI-selloff source check; prior international/ad-tech spot-screen follow-up; publisher/open-web ad adjacent check). Candidate checks again exceeded the intended 15 boundary, so search stopped with no add.
-- **Observation:** The viable next path is not more broad software or ad-tech price screening. Start from a fresh company-level source that explicitly ties AI to revenue/guidance/pricing pressure, then duplicate-check before running a ticker basket.

@@ -2,6 +2,10 @@
 
 ## Tried
 
+### 2026-07-17: Software-budget follow-up plus thin-category source check
+- **Result:** No companies added in 6 evaluations across 2 source-first approaches. IBM, INTU, and WDAY failed adjusted price gates. UPLD remained deeply price-qualified but lacked a company-level AI-primary operating hit and had a recent 1:10 reverse split; LZ and FUTR.L were already listed, with LZ also failing the gate.
+- **Verdict:** Stop after the second three-candidate failure run. Do not infer AI-primary disruption from generic software revenue decline when management is selling AI features; require explicit external displacement evidence before retrying UPLD or similar names.
+
 ### 2026-07-16: IT-services warning plus publisher-traffic follow-up
 - **Result:** No companies added in 8 evaluations across 2 source-first approaches. HCLTECH.NS, WIPRO.NS, TECHM.NS, and PERSISTENT.NS failed adjusted price gates, while LTIM.NS lacked usable active data. Current AI-search traffic evidence was strong, but WIL.L, BMY.L, and INF.L also failed adjusted gates.
 - **Verdict:** Stop after repeated three-candidate failure runs. Indian IT services and publishers have real sector pressure, but do not broaden either basket without a named company-level operating hit and a clearly below-baseline price.
@@ -17,10 +21,6 @@
 ### 2026-07-10: Standing monitors plus publisher/market-research source follow-up
 - **Result:** Found YOU.L (YouGov plc, -73.5%). Standing monitors and recent software/services checks failed price or primary-cause gates. Fresh publisher/AI Overviews evidence mostly hit already-listed or price-failing names, but market-research follow-up surfaced stronger 2026 evidence that AI bot farms are undermining online survey panels and that synthetic/AI research can substitute for paid quick-turnaround insight.
 - **Verdict:** Previously rejected market-research names can qualify if new evidence changes the causal bridge. The productive pattern was not broad price screening; it was revisiting a price-qualified monitor only after a fresh source tied AI to data quality, client trust, and product substitution. Next run should stay stricter on the 15-candidate cap.
-
-### 2026-04-13: Leads from memory + cybersecurity AI disruption research
-- **Result:** Found QLYS (Qualys, -35.1%). NRDY re-evaluated at -58.0% — full-year 2025 revenue down 5.91%, 22% headcount cuts, but deferred again as 2026 guidance is flat (not declining). Batch-checked HOOD (+661%), IBM (+79%), DOCN (+186%), CRWD (+186%) — all up. ZUO, PRFT, SUMO all delisted.
-- **Verdict:** Cybersecurity is a productive new vein — the Anthropic Mythos AI vulnerability scanning model created a very specific and direct disruption thesis for vulnerability management companies. QLYS was previously rejected at -27% with "weak AI disruption angle" but the Mythos catalyst made the angle concrete and the stock has fallen further. Worth checking QLYS peers (Tenable TENB, Rapid7 RPD) next session. The SaaSpocalypse continues to surface candidates when combined with specific AI product launches that threaten particular niches. Many candidates from the general selloff (HOOD, IBM, DOCN, CRWD) are still well above pre-ChatGPT prices — the selloff targets are not universally below pre-ChatGPT.
 
 ### 2026-04-14: Leads from memory — cybersecurity peers of QLYS
 - **Result:** Found RPD (Rapid7, -81.0%). Also checked TENB (Tenable, -53.2%) — strong candidate saved as lead. MORN still -23.3% (below threshold). NRDY still -56.7%.

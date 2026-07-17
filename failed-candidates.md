@@ -2,10 +2,10 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
+| IBM/INTU/WDAY | Enterprise software watch names | Current AI software-budget pressure remains relevant, but adjusted prices failed the gate at +65.2%, -19.9%, and +2.9%; all three were active and had no post-ChatGPT split distortion. | 2026-07-17 |
+| UPLD/LZ/FUTR.L | Upland/LegalZoom/Future | UPLD was price-qualified (-92.9%) but still lacked company-level evidence that external AI displacement primarily caused its revenue decline and had a June 2026 1:10 reverse split. LZ (-11.8%) and FUTR.L (-79.0%) were already listed; LZ also failed the price gate. | 2026-07-17 |
 | HCLTECH.NS/WIPRO.NS/TECHM.NS/PERSISTENT.NS/LTIM.NS | Indian IT-services peers | Fresh Accenture/sector AI-services warning did not produce a new add: adjusted changes were +21.3%, -6.0%, +58.2%, and +157.5%; LTIM.NS had no usable active yfinance data. | 2026-07-16 |
 | WIL.L/BMY.L/INF.L | Wilmington/Bloomsbury/Informa | Current AI-search publisher-traffic evidence is relevant, but adjusted prices failed the gate at -4.1%, +33.9%, and +47.4%. | 2026-07-16 |
-| EGHT | 8x8 Inc | Down 59.1% but AI is a growth driver (167% YoY ICA growth), not a disruptor. Decline from UCaaS competition. | 2026-04-08 |
-| ANSS | Ansys | Appears delisted/acquired by Synopsys. No yfinance data. | 2026-04-08 |
 | VRNT | Verint Systems | Delisted, possibly acquired/going private. No yfinance data. | 2026-04-10 |
 | YELP | Yelp | Down only 13.7% from pre-ChatGPT. Too modest despite AI search threat. | 2026-04-10 |
 | NRDY | Nerdy/Varsity Tutors | Down 58.5% and AI angle is strong (ChatGPT vs tutoring), but Q4 2025 returned to 2% growth with positive EBITDA. Stabilizing, not structurally declining. Borderline — re-evaluate if decline resumes. | 2026-04-10 |
