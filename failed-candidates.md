@@ -2,6 +2,14 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
+| EXFY/SPT/DH/BILL/CXM/DV | Software/data platforms removed in full audit | Removed from the index after current filings failed the AI-primary test: AI is embedded in their products, while pricing/packaging, product transitions, customer budgets, execution, and ordinary competition better explain weakness. BILL core revenue grew 16%, DoubleVerify revenue grew 10%, and Expensify full-year revenue grew 2%. | 2026-07-20 |
+| ZIP/TBI/KELYA/ASGN | Staffing and recruiting rows removed in full audit | Filings identify the hiring cycle, customer/contract changes, government exposure, and acquisitions as the principal causes. ASGN also ceased trading after the April 2026 Everforth rebrand to EFOR; the successor still lacked an AI-primary operating hit. | 2026-07-20 |
+| BMBL/MTCH | Online dating rows removed in full audit | Paying-user pressure is better explained by dating-app fatigue, product quality, monetization, and deliberate resets. AI is currently a matching, safety, and productivity tool; evidence that AI companions or synthetic profiles primarily caused the declines was insufficient. | 2026-07-20 |
+| PAYC/LZ/HRB/COUR | HCM, legal, tax, and education rows removed in full audit | Current operations contradicted the casualty thesis: Paycom grew revenue with improved retention, LegalZoom subscriptions grew, H&R Block raised its outlook, and Coursera is benefiting from AI-skills demand. | 2026-07-20 |
+| TEP.L/OMC/TDC/U | Company-specific rows removed in full audit | Better explanations dominated: Telecom Plus's investment-plan profit reset; Omnicom's IPG acquisition/integration; Teradata's long-running cloud transition; and Unity's runtime-fee, ironSource, and ads reset. | 2026-07-20 |
+| AI/VERI | Legacy AI vendors removed in full audit | C3.ai attributed its collapse to sales reorganization and leadership disruption; Veritone's continuing operations were broadly stable and changes reflected divestitures, mix, and talent-acquisition consumption. Filings did not support the stored claim that foundation models destroyed either platform. | 2026-07-20 |
+| SMWB/MNDY/FDS/GTLB | Software/data market-fear rows removed in full audit | Current results show strong or continued growth, high retention, and AI-led demand/monetization. These were market-fear stories without material operating confirmation of primary AI disruption. | 2026-07-20 |
+| QLYS/TENB/HCAT | Cybersecurity and healthcare analytics rows removed in full audit | Mythos increases vulnerability volume and demand for exposure management; Qualys and Tenable grew about 10%. Health Catalyst identifies DOS-to-Ignite migration churn—not AI substitution—as the direct cause of retention pressure. | 2026-07-20 |
 | INTU/WIPRO.NS/LTM.NS | Intuit/Wipro/LTM | Fresh checks did not clear adjusted price gates: INTU was about -23.9%; Wipro remained only modestly below baseline despite a Reuters AI-led-disruption catalyst; renamed LTM.NS now had usable continuous data but was only about -12.2%. | 2026-07-20 |
 | IAC | People Inc | Strong company-level AI-search pressure, but the active IAC quote began fresh history after the July 2026 corporate rename and yfinance returned no Nov. 2022 baseline, preventing the required continuous price comparison. | 2026-07-20 |
 | FDM.L/GDYN | FDM Group/Grid Dynamics | Both remained price-qualified monitors, but fresh evidence still failed the AI-primary screen: FDM described demand for AI-enabled consultants, while Grid Dynamics reported growing revenue and strong AI demand. | 2026-07-20 |
@@ -9,14 +17,6 @@
 | UPLD/LZ/FUTR.L | Upland/LegalZoom/Future | UPLD was price-qualified (-92.9%) but still lacked company-level evidence that external AI displacement primarily caused its revenue decline and had a June 2026 1:10 reverse split. LZ (-11.8%) and FUTR.L (-79.0%) were already listed; LZ also failed the price gate. | 2026-07-17 |
 | HCLTECH.NS/WIPRO.NS/TECHM.NS/PERSISTENT.NS/LTIM.NS | Indian IT-services peers | Fresh Accenture/sector AI-services warning did not produce a new add: adjusted changes were +21.3%, -6.0%, +58.2%, and +157.5%; LTIM.NS had no usable active yfinance data. | 2026-07-16 |
 | WIL.L/BMY.L/INF.L | Wilmington/Bloomsbury/Informa | Current AI-search publisher-traffic evidence is relevant, but adjusted prices failed the gate at -4.1%, +33.9%, and +47.4%. | 2026-07-16 |
-| VRNT | Verint Systems | Delisted, possibly acquired/going private. No yfinance data. | 2026-04-10 |
-| YELP | Yelp | Down only 13.7% from pre-ChatGPT. Too modest despite AI search threat. | 2026-04-10 |
-| LRN | Stride Inc | Up 152.5% from pre-ChatGPT. AI beneficiary, not disrupted. | 2026-04-10 |
-| BRZE | Braze | Down only 15.1% from pre-ChatGPT. Too modest. | 2026-04-10 |
-| SKIL | Skillsoft | 1-for-20 reverse stock split in Oct 2023 distorts yfinance data. Genuine AI disruption angle (corporate learning content threatened by ChatGPT/Copilot), but reverse-split red flag (LivePerson precedent). | 2026-04-11 |
-| CTSH | Cognizant | Up 2.6% from pre-ChatGPT. Not disrupted despite being INFY/EPAM peer. | 2026-04-12 |
-| DAY | Dayforce/Ceridian | No yfinance data available, ticker may have changed. | 2026-04-12 |
-| HOOD | Robinhood | Up 661% from pre-ChatGPT. Not disrupted. | 2026-04-13 |
 | IBM | IBM | Up 79% from pre-ChatGPT. Not disrupted. | 2026-04-13 |
 | DOCN | DigitalOcean | Up 186% from pre-ChatGPT. Not disrupted. | 2026-04-13 |
 | ZUO | Zuora | No yfinance data, possibly delisted. | 2026-04-13 |

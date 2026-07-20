@@ -2,6 +2,10 @@
 
 ## Tried
 
+### 2026-07-20: Full historical evidence audit
+- **Result:** Reviewed all 97 rows and removed 29 weak/speculative entries, rewrote 22 mixed cases, and retained 46 unchanged. The final index has 68 companies. No companies were added.
+- **Verdict:** Treat workflow exposure, a falling stock, and a generic AI-risk disclosure as separate signals—not proof of causation. Before adding or retaining a row, check current operating evidence and actively look for the strongest non-AI explanation. AI-led revenue growth, resilient retention, a product tailwind, or a clearly identified migration/M&A/macro cause can defeat an otherwise plausible disruption story.
+
 ### 2026-07-20: Monitor refresh plus AI-search operating bridge
 - **Result:** Found GAMB (Gambling.com Group, -82.4%) in 7 evaluations across 3 bounded approaches. INTU, WIPRO.NS, and renamed LTM.NS failed price gates; IAC/People Inc lacked continuous pre-ChatGPT yfinance history; FDM.L and GDYN still failed the AI-primary screen.
 - **Verdict:** A price-qualified monitor can become actionable when new company evidence completes the causal chain. For GAMB, management explicitly linked AI Overviews to fewer clicks and lower search-revenue expectations, while Q1 results documented weaker marketing revenue, margin compression, higher traffic-diversification costs, reduced guidance, and a 25% workforce plan.
@@ -25,10 +29,6 @@
 ### 2026-07-10: Standing monitors plus publisher/market-research source follow-up
 - **Result:** Found YOU.L (YouGov plc, -73.5%). Standing monitors and recent software/services checks failed price or primary-cause gates. Fresh publisher/AI Overviews evidence mostly hit already-listed or price-failing names, but market-research follow-up surfaced stronger 2026 evidence that AI bot farms are undermining online survey panels and that synthetic/AI research can substitute for paid quick-turnaround insight.
 - **Verdict:** Previously rejected market-research names can qualify if new evidence changes the causal bridge. The productive pattern was not broad price screening; it was revisiting a price-qualified monitor only after a fresh source tied AI to data quality, client trust, and product substitution. Next run should stay stricter on the 15-candidate cap.
-
-### 2026-04-14: Leads from memory — cybersecurity peers of QLYS
-- **Result:** Found RPD (Rapid7, -81.0%). Also checked TENB (Tenable, -53.2%) — strong candidate saved as lead. MORN still -23.3% (below threshold). NRDY still -56.7%.
-- **Verdict:** The cybersecurity vulnerability management vein continues to be productive. RPD is the most dramatic decline on the list at -81%, with the same Mythos AI disruption thesis as QLYS but compounded by flat revenue, a guidance cut, and the specialist-vs-platform dynamic (Morgan Stanley preferring platform winners). TENB is the obvious next candidate from this vein at -53.2%. The pattern of checking peers of recently added companies (QLYS → RPD, TENB) remains one of the most efficient search strategies — low effort, high hit rate.
 
 ### 2026-04-16: AI Overviews/market-research/financial-data peers + healthcare IT
 - **Result:** Found HCAT (Health Catalyst, -87.2%) — peer of DH in Healthcare Analytics. Rejected many: YELP (-9%, too modest), MCO (+58%), PEGA (+140%), YOU.L (-79% but acquisition/management not AI), SCOR (-71% but capital structure dilution not AI), MORN (still weak AI angle), PHR (-65% but pharma/MFN pricing not AI; AI is tailwind for mgmt), EVH (-89% but medical cost trends not AI). Initially attempted to add ANGI but found it was already added on 2026-04-10 — local working directory was stale (6 companies behind). Had to rebase to origin/main.

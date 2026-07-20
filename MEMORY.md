@@ -1,25 +1,25 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 97 (as of 2026-07-20)
+- **Company count:** 68 (as of 2026-07-20 evidence audit)
 - **Last updated:** 2026-07-20
 
 ## Category Distribution
 | Category | Count |
 |---|---|
-| Software & SaaS | 26 |
-| Business Services | 26 |
-| Content & Media | 14 |
-| Research & Analytics | 12 |
-| Marketing & Advertising | 9 |
-| Education | 3 |
+| Software & SaaS | 15 |
+| Business Services | 21 |
+| Content & Media | 11 |
+| Research & Analytics | 7 |
+| Marketing & Advertising | 7 |
+| Education | 2 |
 | Freelance Marketplaces | 4 |
-| Legal & Tax | 3 |
+| Legal & Tax | 1 |
 
 ## Thin Categories (good targets for next session)
-- Legal & Tax (3): HRB, LZ, LAW
+- Legal & Tax (1): LAW
 - Freelance Marketplaces (4): FVRR, UPWK, FLN.AX, ALFRE.PA
-- Education (3): CHGG, COUR, NRDY
+- Education (2): CHGG, NRDY
 
 ## Topic Files
 - `leads.md` — current watchlist and next-session candidates.
@@ -28,6 +28,12 @@
 
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
+- The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-07-20 — Historical evidence audit
+- **Reviewed:** All 97 rows, including recovered names. Kept 46 unchanged, rewrote 22 mixed cases, and removed 29 weak/speculative cases; no companies were added. The final index has 68 rows: 66 Active and 2 Recovered (`KFRC`, `YEXT`).
+- **Key corrections:** Removed rows contradicted by current AI-led growth or dominated by macro, product transitions, M&A, leadership, or migration causes. Rewrites now name material co-drivers. `ASGN` was inactive after the `EFOR` ticker change; split checks confirmed adjusted baselines for `LPSN`, `BZFD`, and `ANGI`.
+- **Durable record:** See `evidence-audit-2026-07-20.md` for every disposition, exact removal reasons, continuity checks, and primary evidence anchors.
 
 ## Session Log: 2026-07-20
 - **Added:** GAMB (Gambling.com Group Limited) — Marketing & Advertising / Digital Media / Affiliate. Active, split-clean, not duplicated, and down about 82.4% adjusted (10.29 to 1.81). Management explicitly says AI Overviews reduce clicks and that AI's effects lowered expected search revenue; Q1 2026 then showed marketing revenue -5%, gross profit -11%, adjusted EBITDA -43%, cost of sales +171% from traffic diversification, reduced guidance, and a proposed 25% workforce cut. Regulation and Google algorithm volatility also contributed, so the row states the mixed causality.
@@ -138,9 +144,3 @@
 - **Rejected / rechecked:** Standing leads failed adjusted yfinance checks: TRI (-25.0%) remains below the adjusted gate with capital-return/share-consolidation distortion, DOCU (-0.9%) is near flat, SFIX (+7.7%) and DUOL (+94.8%) are above baseline. Named William Blair/software AI-risk checks mostly failed price gates: CRM (+2.6%), NOW (+22.0% adjusted after a split), BLZE (+97.0%), AVPT (+123.0%), CVLT (+101.1%), VRNS (+64.3%), BOX (-7.5%), DBX (+16.3%), and NTNX (+72.3%).
 - **Search approaches used:** 2 of 5 (standing-lead recheck; named AI-risk software downgrade screen). Candidate evaluations stayed within the 15-company cap.
 - **Observation:** AI-risk analyst frameworks can still surface undercovered adds when paired with price qualification and a specific workflow thesis. For MSP/RMM software, require evidence that AI is automating monitoring, triage, remediation, or technician work; do not add names on generic software selloff alone.
-
-## Session Log: 2026-06-19
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads failed adjusted yfinance checks again: TRI (-25.6%) remains below the adjusted price gate with the 2023 capital-return/share-consolidation distortion, DOCU (-2.4%) and SFIX (+5.5%) failed price/magnitude gates, and DUOL (+88.6%) remains far above baseline. Fresh source-first checks did not produce a clean non-duplicate add: DSY.PA/Dassault was price-qualified but already in `companies.csv`; SMWB/Similarweb was already listed and now above its pre-ChatGPT price; OTEX/OTEX.TO was not duplicated but only down ~16-19%; brokerage/wealth-management names from an AI-tax-planning scare (RJF, LPLA, SCHW, IBKR) were all above pre-ChatGPT.
-- **Search approaches used:** 4 of 5 (standing-lead recheck; fresh software/data AI-guidance articles; AI-search/digital-analytics duplicate check; financial-services AI-scare price check). Stopped after repeated price/duplicate failures rather than broadening into another low-yield basket.
-- **Observation:** Today's only price-qualified fresh source hit, Dassault, was already present. The next run should keep duplicate checks in front of deep research and should not spend effort on generic software/financial-services selloff articles unless a named company also shows post-ChatGPT underperformance and company-level AI pressure.
