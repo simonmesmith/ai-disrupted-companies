@@ -54,6 +54,19 @@ def sample_companies():
     ]
 
 
+@pytest.fixture
+def mixed_companies(sample_companies):
+    return sample_companies + [
+        {
+            "ticker": "REC", "name": "Recovered Corp",
+            "category": "Education", "subcategory": "EdTech",
+            "description": "desc four", "disruption": "disruption four",
+            "price_prechatgpt": 10.0, "price_now": 12.0,
+            "change_percentage": 0.2,
+        }
+    ]
+
+
 class TestParsePrice:
     def test_plain(self):
         assert parse_price("28.11") == 28.11
@@ -132,10 +145,43 @@ class TestBuildPayload:
         assert "categories" in payload
         assert "subcategories" in payload
 
-    def test_company_count(self, sample_companies):
-        payload = build_payload(sample_companies)
+    def test_company_count(self, mixed_companies):
+        payload = build_payload(mixed_companies)
         assert payload["company_count"] == 3
         assert len(payload["companies"]) == 3
+        assert payload["recovered_count"] == 1
+        assert payload["tracked_company_count"] == 4
+        assert len(payload["recovered_companies"]) == 1
+
+    def test_partitions_companies_at_zero(self, mixed_companies):
+        mixed_companies.append(
+            {**mixed_companies[-1], "ticker": "ZERO", "change_percentage": 0.0}
+        )
+        payload = build_payload(mixed_companies)
+        assert {c["ticker"] for c in payload["companies"]} == {
+            "CHGG", "EPAM", "FVRR"
+        }
+        assert {c["ticker"] for c in payload["recovered_companies"]} == {
+            "REC", "ZERO"
+        }
+
+    def test_index_and_groups_use_active_companies_only(self, mixed_companies):
+        payload = build_payload(mixed_companies)
+        active = mixed_companies[:3]
+        assert payload["index_value"] == pytest.approx(compute_index(active), abs=0.00005)
+        education = next(s for s in payload["categories"] if s["name"] == "Education")
+        assert education["count"] == 1
+
+    def test_recovered_company_reenters_when_change_turns_negative(
+        self, mixed_companies
+    ):
+        mixed_companies[-1]["change_percentage"] = -0.1
+        mixed_companies[-1]["price_now"] = 9.0
+        payload = build_payload(mixed_companies)
+        assert "REC" in {c["ticker"] for c in payload["companies"]}
+        assert "REC" not in {
+            c["ticker"] for c in payload["recovered_companies"]
+        }
 
     def test_index_value_is_numeric(self, sample_companies):
         payload = build_payload(sample_companies)
@@ -154,6 +200,14 @@ class TestBuildPayload:
         assert latest["price_prechatgpt"] == 33.13
         assert latest["price_now"] == 10.25
         assert latest["change_percentage"] == pytest.approx(-0.6906127377, rel=1e-4)
+
+    def test_no_active_companies(self, mixed_companies):
+        recovered = [mixed_companies[-1]]
+        payload = build_payload(recovered)
+        assert payload["index_value"] == 0.0
+        assert payload["company_count"] == 0
+        assert payload["latest_company"] is None
+        assert payload["categories"] == []
 
 
 class TestGenerateHtml:

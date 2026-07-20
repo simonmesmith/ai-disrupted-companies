@@ -26,43 +26,40 @@ def read_companies():
 
 def build_payload(companies):
     """Build the complete JSON data payload for the template."""
-    index_val = compute_index(companies)
+    active_companies = [c for c in companies if c["change_percentage"] < 0]
+    recovered_companies = [c for c in companies if c["change_percentage"] >= 0]
+    index_val = compute_index(active_companies)
     now = datetime.now(timezone.utc)
 
-    latest = companies[-1]
+    latest = active_companies[-1] if active_companies else None
+
+    def serialize_company(company):
+        return {
+            "ticker": company["ticker"],
+            "name": company["name"],
+            "category": company["category"],
+            "subcategory": company["subcategory"],
+            "description": company["description"],
+            "disruption": company["disruption"],
+            "price_prechatgpt": company["price_prechatgpt"],
+            "price_now": company["price_now"],
+            "change_percentage": round(company["change_percentage"], 6),
+        }
 
     return {
         "generated_at": now.isoformat(),
         "price_date": now.strftime("%B %d, %Y"),
         "index_value": round(index_val, 4),
-        "company_count": len(companies),
-        "latest_company": {
-            "ticker": latest["ticker"],
-            "name": latest["name"],
-            "category": latest["category"],
-            "subcategory": latest["subcategory"],
-            "description": latest["description"],
-            "disruption": latest["disruption"],
-            "price_prechatgpt": latest["price_prechatgpt"],
-            "price_now": latest["price_now"],
-            "change_percentage": round(latest["change_percentage"], 6),
-        },
-        "companies": [
-            {
-                "ticker": c["ticker"],
-                "name": c["name"],
-                "category": c["category"],
-                "subcategory": c["subcategory"],
-                "description": c["description"],
-                "disruption": c["disruption"],
-                "price_prechatgpt": c["price_prechatgpt"],
-                "price_now": c["price_now"],
-                "change_percentage": round(c["change_percentage"], 6),
-            }
-            for c in companies
+        "company_count": len(active_companies),
+        "recovered_count": len(recovered_companies),
+        "tracked_company_count": len(companies),
+        "latest_company": serialize_company(latest) if latest else None,
+        "companies": [serialize_company(c) for c in active_companies],
+        "recovered_companies": [
+            serialize_company(c) for c in recovered_companies
         ],
-        "categories": compute_group_stats(companies, "category"),
-        "subcategories": compute_group_stats(companies, "subcategory"),
+        "categories": compute_group_stats(active_companies, "category"),
+        "subcategories": compute_group_stats(active_companies, "subcategory"),
     }
 
 
@@ -79,9 +76,9 @@ def generate_html(payload):
 
     og_title = f"AI Disruption Index \u2014 {index_str} from $1.00"
     meta_desc = (
-        f"$1.00 invested across {count} AI-disrupted public companies "
+        f"$1.00 invested across {count} active AI-disrupted public companies "
         f"on Nov 29, 2022 would be worth {index_str} today. "
-        f"Track the companies being destroyed by AI."
+        f"Membership is based on each stock's latest available close."
     )
     jsonld = json.dumps(
         {

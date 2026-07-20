@@ -312,6 +312,30 @@ section { padding: 3rem 1.5rem; max-width: 1200px; margin: 0 auto; }
   font-family: var(--sans);
   cursor: pointer;
 }
+.membership-toggle {
+  display: inline-flex;
+  gap: 0.35rem;
+  padding: 0.2rem;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+}
+.membership-toggle button {
+  background: transparent;
+  border: 0;
+  color: var(--text-dim);
+  padding: 0.35rem 0.75rem;
+  border-radius: 5px;
+  cursor: pointer;
+  font: 0.8rem var(--sans);
+}
+.membership-toggle button.active {
+  background: var(--red-dim);
+  color: var(--text);
+}
+.membership-toggle button[data-membership="recovered"].active {
+  background: #166534;
+}
 .filter-pills {
   display: flex;
   flex-wrap: wrap;
@@ -368,6 +392,7 @@ section { padding: 3rem 1.5rem; max-width: 1200px; margin: 0 auto; }
   font-weight: 700;
   color: var(--red);
 }
+.company-card.recovered .card-change { color: var(--green); }
 .card-name {
   font-size: 0.85rem;
   color: var(--text-dim);
@@ -394,6 +419,9 @@ section { padding: 3rem 1.5rem; max-width: 1200px; margin: 0 auto; }
   background: linear-gradient(90deg, var(--red), var(--red-glow));
   border-radius: 3px;
   transition: width 0.4s ease;
+}
+.company-card.recovered .card-bar-fill {
+  background: linear-gradient(90deg, #15803d, var(--green));
 }
 .card-prices {
   display: flex;
@@ -500,9 +528,13 @@ footer a:hover { color: var(--text); }
 </section>
 
 <section id="companies">
-  <div class="section-title">All Companies</div>
+  <div class="section-title" id="companies-title">Active Companies</div>
   <div class="section-subtitle" id="showing-count"></div>
   <div class="controls">
+    <div class="membership-toggle" aria-label="Company membership view">
+      <button class="active" data-membership="active">Active <span id="active-view-count"></span></button>
+      <button data-membership="recovered">Recovered <span id="recovered-view-count"></span></button>
+    </div>
     <input type="text" class="search-input" id="search" placeholder="Search ticker, name, or keyword...">
     <select class="sort-select" id="sort">
       <option value="change_asc">Worst decline first</option>
@@ -518,7 +550,7 @@ footer a:hover { color: var(--text); }
 
 <footer>
   <p>Data sourced from <a href="https://finance.yahoo.com" target="_blank" rel="noopener">Yahoo Finance</a>.
-  Prices are not live — see timestamp above.</p>
+  Membership is based on the latest available close at each refresh; prices are not live.</p>
   <p style="margin-top:0.5rem">
     <a href="https://github.com/simonmesmith/ai-disrupted-companies" target="_blank" rel="noopener">View on GitHub</a>
   </p>
@@ -528,7 +560,7 @@ footer a:hover { color: var(--text); }
 const DATA = {{ DATA_JSON }};
 
 /* ── Helpers ── */
-const pct = (v) => (v * 100).toFixed(1) + '%';
+const pct = (v) => (v > 0 ? '+' : '') + (v * 100).toFixed(1) + '%';
 const dollar = (v) => v >= 1 ? '$' + v.toFixed(2) : '$' + v.toFixed(2);
 const qs = (s, el) => (el || document).querySelector(s);
 const qsa = (s, el) => [...(el || document).querySelectorAll(s)];
@@ -539,6 +571,7 @@ let activeView = 'category';
 let searchQuery = '';
 let sortKey = 'change_asc';
 let expandedTicker = null;
+let membershipView = 'active';
 
 /* ── Spotlight (latest addition) ── */
 function renderSpotlight() {
@@ -581,14 +614,20 @@ function renderHero() {
   qs('#hero-dollar').textContent = dollar(val);
   qs('#hero-count').textContent = DATA.company_count;
   qs('#hero-amount').textContent = dollar(val);
-  qs('#hero-date').textContent = 'Prices as of ' + DATA.price_date;
-  qs('#hero-companies').textContent = DATA.company_count + ' companies tracked';
+  qs('#hero-date').textContent = 'Latest-close membership · refreshed ' + DATA.price_date;
+  qs('#hero-companies').textContent = DATA.company_count + ' active · ' + DATA.tracked_company_count + ' historical tracked';
+  qs('#active-view-count').textContent = `(${DATA.company_count})`;
+  qs('#recovered-view-count').textContent = `(${DATA.recovered_count})`;
 }
 
 /* ── Category Bars ── */
 function renderBars() {
   const data = activeView === 'category' ? DATA.categories : DATA.subcategories;
   const sorted = [...data].sort((a, b) => a.avg_change - b.avg_change);
+  if (!sorted.length) {
+    qs('#category-bars').innerHTML = '<div class="section-subtitle">No active companies.</div>';
+    return;
+  }
   const worst = Math.min(...sorted.map(d => d.avg_change));
   const container = qs('#category-bars');
   container.innerHTML = sorted.map(d => {
@@ -615,7 +654,8 @@ function renderBars() {
 
 /* ── Filter Pills ── */
 function renderFilters() {
-  const cats = [...new Set(DATA.companies.map(c => c.category))].sort();
+  const source = membershipView === 'active' ? DATA.companies : DATA.recovered_companies;
+  const cats = [...new Set(source.map(c => c.category))].sort();
   qs('#filters').innerHTML = cats.map(c =>
     `<span class="pill${activeCategory === c ? ' active' : ''}" data-cat="${c}">${c}</span>`
   ).join('');
@@ -633,7 +673,8 @@ function renderFilters() {
 
 /* ── Company Grid ── */
 function getFilteredSorted() {
-  let list = [...DATA.companies];
+  const source = membershipView === 'active' ? DATA.companies : DATA.recovered_companies;
+  let list = [...source];
   if (activeCategory) {
     list = list.filter(c =>
       (activeView === 'category' ? c.category : c.subcategory) === activeCategory ||
@@ -661,14 +702,18 @@ function getFilteredSorted() {
 
 function renderCompanies() {
   const list = getFilteredSorted();
-  qs('#showing-count').textContent = list.length === DATA.company_count
-    ? `All ${DATA.company_count} companies`
-    : `Showing ${list.length} of ${DATA.company_count} companies`;
+  const total = membershipView === 'active' ? DATA.company_count : DATA.recovered_count;
+  const label = membershipView === 'active' ? 'active companies' : 'recovered companies';
+  qs('#companies-title').textContent = membershipView === 'active' ? 'Active Companies' : 'Recovered Companies';
+  qs('#showing-count').textContent = list.length === total
+    ? `All ${total} ${label} · membership based on the latest available close`
+    : `Showing ${list.length} of ${total} ${label} · membership based on the latest available close`;
 
   qs('#grid').innerHTML = list.map(c => {
-    const barW = (Math.abs(c.change_percentage) * 100).toFixed(1);
+    const barW = Math.min(Math.abs(c.change_percentage) * 100, 100).toFixed(1);
     const isOpen = expandedTicker === c.ticker;
-    return `<div class="company-card" data-ticker="${c.ticker}">
+    const recoveredClass = membershipView === 'recovered' ? ' recovered' : '';
+    return `<div class="company-card${recoveredClass}" data-ticker="${c.ticker}">
       <div class="card-header">
         <div class="card-ticker">${c.ticker}</div>
         <div class="card-change">${pct(c.change_percentage)}</div>
@@ -721,6 +766,19 @@ qsa('.cat-toggle button').forEach(btn => {
     activeCategory = null;
     renderBars();
     renderFilters();
+    renderCompanies();
+  });
+});
+
+qsa('.membership-toggle button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    qsa('.membership-toggle button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    membershipView = btn.dataset.membership;
+    activeCategory = null;
+    expandedTicker = null;
+    renderFilters();
+    renderBars();
     renderCompanies();
   });
 });

@@ -2,6 +2,8 @@
 
 Tracking publicly traded companies whose stock price has fallen below its November 29, 2022 close — the day before ChatGPT launched — because AI is disrupting their core business.
 
+The active index is recalculated after each price refresh and contains only companies whose latest available close is below that baseline (`change_percentage < 0`). Historical members at or above the baseline remain in `companies.csv`, continue to receive daily price updates, and appear in the dashboard's **Recovered** view. If a recovered company falls below the baseline again, it automatically returns to the active index on the next refresh.
+
 ## The Index
 
 The interactive dashboard is available at **[simonsmith.ca/ai-disrupted-companies](https://simonsmith.ca/ai-disrupted-companies)**.
@@ -9,7 +11,7 @@ The interactive dashboard is available at **[simonsmith.ca/ai-disrupted-companie
 ## How It Works
 
 1. A new AI-disrupted company is researched and added to `companies.csv`
-2. A GitHub Actions workflow updates stock prices on pushes and every weekday after market close, then deploys the dashboard
+2. A GitHub Actions workflow updates every historical member's stock price on pushes and every weekday after market close, then deploys the dashboard
 3. Codex research sessions use the memory files plus deterministic checks to decide whether any new company qualifies
 
 ## Data
@@ -23,7 +25,9 @@ All data lives in `companies.csv` with the following fields:
 - **disruption** — how AI is disrupting them
 - **price_prechatgpt** — closing price on November 29, 2022
 - **price_now** — most recent closing price
-- **change_percentage** — decline from pre-ChatGPT price
+- **change_percentage** — change from the pre-ChatGPT price; negative rows are active and non-negative rows are recovered
+
+The headline index value is an equal-weighted mean of `price_now / price_prechatgpt` for active companies only. The active count, category and subcategory statistics, and default company grid use the same active membership. Membership is a current price screen based on the latest available close, not a claim that a recovered company's original disruption thesis has been reversed.
 
 ## Development
 
