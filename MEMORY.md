@@ -1,8 +1,8 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 96 (as of 2026-07-10)
-- **Last updated:** 2026-07-17
+- **Company count:** 97 (as of 2026-07-20)
+- **Last updated:** 2026-07-20
 
 ## Category Distribution
 | Category | Count |
@@ -11,7 +11,7 @@
 | Business Services | 26 |
 | Content & Media | 14 |
 | Research & Analytics | 12 |
-| Marketing & Advertising | 8 |
+| Marketing & Advertising | 9 |
 | Education | 3 |
 | Freelance Marketplaces | 4 |
 | Legal & Tax | 3 |
@@ -28,6 +28,11 @@
 
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
+
+## Session Log: 2026-07-20
+- **Added:** GAMB (Gambling.com Group Limited) — Marketing & Advertising / Digital Media / Affiliate. Active, split-clean, not duplicated, and down about 82.4% adjusted (10.29 to 1.81). Management explicitly says AI Overviews reduce clicks and that AI's effects lowered expected search revenue; Q1 2026 then showed marketing revenue -5%, gross profit -11%, adjusted EBITDA -43%, cost of sales +171% from traffic diversification, reduced guidance, and a proposed 25% workforce cut. Regulation and Google algorithm volatility also contributed, so the row states the mixed causality.
+- **Rejected / rechecked:** INTU remained short of the gate (-23.9%); WIPRO.NS and the newly usable renamed ticker LTM.NS also failed adjusted gates. IAC now resolves to People Inc but lacks continuous pre-ChatGPT yfinance history after the corporate rename. FDM.L still framed AI skills as client demand rather than displacement, while GDYN reported strong AI revenue and demand.
+- **Search / observation:** Used 3 bounded approaches and 7 candidate evaluations. The productive move was revisiting a price-qualified monitor only after newly surfaced filings and management commentary completed the causal bridge from AI-search click loss to lower search-revenue expectations, weaker marketing results, higher acquisition costs, and guidance pressure.
 
 ## Session Log: 2026-07-17
 - **Added:** No companies. Required escalated initial sync fast-forwarded only automated price fields in `companies.csv`.

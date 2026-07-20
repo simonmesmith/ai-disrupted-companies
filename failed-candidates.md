@@ -2,18 +2,19 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
+| INTU/WIPRO.NS/LTM.NS | Intuit/Wipro/LTM | Fresh checks did not clear adjusted price gates: INTU was about -23.9%; Wipro remained only modestly below baseline despite a Reuters AI-led-disruption catalyst; renamed LTM.NS now had usable continuous data but was only about -12.2%. | 2026-07-20 |
+| IAC | People Inc | Strong company-level AI-search pressure, but the active IAC quote began fresh history after the July 2026 corporate rename and yfinance returned no Nov. 2022 baseline, preventing the required continuous price comparison. | 2026-07-20 |
+| FDM.L/GDYN | FDM Group/Grid Dynamics | Both remained price-qualified monitors, but fresh evidence still failed the AI-primary screen: FDM described demand for AI-enabled consultants, while Grid Dynamics reported growing revenue and strong AI demand. | 2026-07-20 |
 | IBM/INTU/WDAY | Enterprise software watch names | Current AI software-budget pressure remains relevant, but adjusted prices failed the gate at +65.2%, -19.9%, and +2.9%; all three were active and had no post-ChatGPT split distortion. | 2026-07-17 |
 | UPLD/LZ/FUTR.L | Upland/LegalZoom/Future | UPLD was price-qualified (-92.9%) but still lacked company-level evidence that external AI displacement primarily caused its revenue decline and had a June 2026 1:10 reverse split. LZ (-11.8%) and FUTR.L (-79.0%) were already listed; LZ also failed the price gate. | 2026-07-17 |
 | HCLTECH.NS/WIPRO.NS/TECHM.NS/PERSISTENT.NS/LTIM.NS | Indian IT-services peers | Fresh Accenture/sector AI-services warning did not produce a new add: adjusted changes were +21.3%, -6.0%, +58.2%, and +157.5%; LTIM.NS had no usable active yfinance data. | 2026-07-16 |
 | WIL.L/BMY.L/INF.L | Wilmington/Bloomsbury/Informa | Current AI-search publisher-traffic evidence is relevant, but adjusted prices failed the gate at -4.1%, +33.9%, and +47.4%. | 2026-07-16 |
 | VRNT | Verint Systems | Delisted, possibly acquired/going private. No yfinance data. | 2026-04-10 |
 | YELP | Yelp | Down only 13.7% from pre-ChatGPT. Too modest despite AI search threat. | 2026-04-10 |
-| NRDY | Nerdy/Varsity Tutors | Down 58.5% and AI angle is strong (ChatGPT vs tutoring), but Q4 2025 returned to 2% growth with positive EBITDA. Stabilizing, not structurally declining. Borderline — re-evaluate if decline resumes. | 2026-04-10 |
 | LRN | Stride Inc | Up 152.5% from pre-ChatGPT. AI beneficiary, not disrupted. | 2026-04-10 |
 | BRZE | Braze | Down only 15.1% from pre-ChatGPT. Too modest. | 2026-04-10 |
 | SKIL | Skillsoft | 1-for-20 reverse stock split in Oct 2023 distorts yfinance data. Genuine AI disruption angle (corporate learning content threatened by ChatGPT/Copilot), but reverse-split red flag (LivePerson precedent). | 2026-04-11 |
 | CTSH | Cognizant | Up 2.6% from pre-ChatGPT. Not disrupted despite being INFY/EPAM peer. | 2026-04-12 |
-| WIX | Wix | ~~Down only 23.0% from pre-ChatGPT. Decline too modest.~~ **ADDED 2026-05-14** — decline deepened to ~35.6% after Q1 2026 selloff; RBC tied Partner weakness and rating downgrade to AI/vibe-coding competitive pressure. | 2026-04-12 |
 | DAY | Dayforce/Ceridian | No yfinance data available, ticker may have changed. | 2026-04-12 |
 | HOOD | Robinhood | Up 661% from pre-ChatGPT. Not disrupted. | 2026-04-13 |
 | IBM | IBM | Up 79% from pre-ChatGPT. Not disrupted. | 2026-04-13 |
@@ -23,7 +24,6 @@
 | SUMO | Sumo Logic | No yfinance data, possibly delisted/acquired. | 2026-04-13 |
 | MCO | Moody's | Up 58.6% from pre-ChatGPT. AI beneficiary. | 2026-04-16 |
 | PEGA | Pegasystems | Up 140% from pre-ChatGPT. AI beneficiary (agentic workflow automation tailwind). | 2026-04-16 |
-| YOU.L | YouGov | ~~Down 79% from pre-ChatGPT but primary drivers looked like CPS/GfK acquisition indigestion, GWI/Morning Consult price pressure, and management turnover.~~ **ADDED 2026-07-10** after new 2026 evidence tied YouGov-style online panels to AI bot-farm/survey-farm data-quality damage and synthetic-research substitution risk. | 2026-04-16 |
 | SCOR | comScore | Down 71.4% but decline is capital structure/dilution story (1:20 reverse split Dec 2023, Charter/Cerberus preferred recap in Jan 2026 gave preferred holders 81.8% of shares). Core TV/CTV currency business arguably benefits from AI measurement demand. Not an AI disruption story. | 2026-04-16 |
 | PHR | Phreesia | Down 65% from pre-ChatGPT but decline is pharma/Life Sciences spending weakness + MFN drug pricing concerns, not AI. Management frames AI as tailwind (launched VoiceAI, ProviderConnect AI). Ambient scribes (Abridge, Suki) don't directly compete with patient intake. | 2026-04-16 |
 | EVH | Evolent Health | Down 89% but decline is medical cost trend headwinds in value-based care specialty benefits management, not AI disruption. | 2026-04-16 |
@@ -36,7 +36,6 @@
 | DHX | DHI Group/Dice.com | Down 46.3% but management frames AI as tailwind (more AI jobs). Dice revenue -17% mainly from soft tech hiring environment, not AI displacement specifically. | 2026-04-21 |
 | LEE | Lee Enterprises | Down 54.7% but local newspaper decline is secular print/digital transition, not AI-specific. | 2026-04-21 |
 | IHRT | iHeartMedia | Down 45.1% but radio decline from streaming/cord-cutting, not AI disruption. | 2026-04-21 |
-| APX.AX | Appen Limited | ~~Down 31.2% — AI training data company disrupted by synthetic data, but decline modest.~~ **ADDED 2026-04-24** — decline deepened to -36.9%, strong ironic AI disruption angle. | 2026-04-21 |
 | PRGS | Progress Software | Down 46.6% but decline is SaaSpocalypse sector sentiment, not specific AI disruption. Raised 2026 outlook and expanded AI offerings. | 2026-04-24 |
 | TTGT | TechTarget | Down 88.3% but decline heavily driven by Informa acquisition integration ($900M goodwill impairment), not cleanly AI. Pro-forma revenue -5.8%. | 2026-04-24 |
 | SPSC | SPS Commerce | Down 60% but decline from Amazon policy changes and customer downsells, not AI. Management views as temporary. | 2026-04-24 |
