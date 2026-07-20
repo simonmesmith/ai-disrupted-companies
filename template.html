@@ -510,8 +510,7 @@ footer a:hover { color: var(--text); }
     <strong id="hero-amount">$0.00</strong> today
   </div>
   <div class="hero-meta">
-    <span id="hero-date"></span>
-    <span id="hero-companies"></span>
+    <span id="hero-summary"></span>
   </div>
 </section>
 
@@ -528,11 +527,11 @@ footer a:hover { color: var(--text); }
 </section>
 
 <section id="companies">
-  <div class="section-title" id="companies-title">Active Companies</div>
+  <div class="section-title" id="companies-title">Disrupted Companies</div>
   <div class="section-subtitle" id="showing-count"></div>
   <div class="controls">
     <div class="membership-toggle" aria-label="Company membership view">
-      <button class="active" data-membership="active">Active <span id="active-view-count"></span></button>
+      <button class="active" data-membership="active">Disrupted <span id="active-view-count"></span></button>
       <button data-membership="recovered">Recovered <span id="recovered-view-count"></span></button>
     </div>
     <input type="text" class="search-input" id="search" placeholder="Search ticker, name, or keyword...">
@@ -562,6 +561,10 @@ const DATA = {{ DATA_JSON }};
 /* ── Helpers ── */
 const pct = (v) => (v > 0 ? '+' : '') + (v * 100).toFixed(1) + '%';
 const dollar = (v) => v >= 1 ? '$' + v.toFixed(2) : '$' + v.toFixed(2);
+const updatedAt = (value) => new Intl.DateTimeFormat('en-US', {
+  month: 'long', day: 'numeric', year: 'numeric',
+  hour: 'numeric', minute: '2-digit', hour12: true
+}).format(new Date(value));
 const qs = (s, el) => (el || document).querySelector(s);
 const qsa = (s, el) => [...(el || document).querySelectorAll(s)];
 
@@ -614,8 +617,7 @@ function renderHero() {
   qs('#hero-dollar').textContent = dollar(val);
   qs('#hero-count').textContent = DATA.company_count;
   qs('#hero-amount').textContent = dollar(val);
-  qs('#hero-date').textContent = 'Latest-close membership · refreshed ' + DATA.price_date;
-  qs('#hero-companies').textContent = DATA.company_count + ' active · ' + DATA.tracked_company_count + ' historical tracked';
+  qs('#hero-summary').textContent = `Prices updated ${updatedAt(DATA.generated_at)} for ${DATA.company_count} disrupted and ${DATA.recovered_count} recovered companies.`;
   qs('#active-view-count').textContent = `(${DATA.company_count})`;
   qs('#recovered-view-count').textContent = `(${DATA.recovered_count})`;
 }
@@ -702,12 +704,10 @@ function getFilteredSorted() {
 
 function renderCompanies() {
   const list = getFilteredSorted();
-  const total = membershipView === 'active' ? DATA.company_count : DATA.recovered_count;
-  const label = membershipView === 'active' ? 'active companies' : 'recovered companies';
-  qs('#companies-title').textContent = membershipView === 'active' ? 'Active Companies' : 'Recovered Companies';
-  qs('#showing-count').textContent = list.length === total
-    ? `All ${total} ${label} · membership based on the latest available close`
-    : `Showing ${list.length} of ${total} ${label} · membership based on the latest available close`;
+  qs('#companies-title').textContent = membershipView === 'active' ? 'Disrupted Companies' : 'Recovered Companies';
+  qs('#showing-count').textContent = membershipView === 'active'
+    ? 'Companies below their pre-ChatGPT price as of our last price update'
+    : 'Companies that fell below their pre-ChatGPT price but recovered as of our last price update';
 
   qs('#grid').innerHTML = list.map(c => {
     const barW = Math.min(Math.abs(c.change_percentage) * 100, 100).toFixed(1);

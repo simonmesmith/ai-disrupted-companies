@@ -76,7 +76,7 @@ def generate_html(payload):
 
     og_title = f"AI Disruption Index \u2014 {index_str} from $1.00"
     meta_desc = (
-        f"$1.00 invested across {count} active AI-disrupted public companies "
+        f"$1.00 invested across {count} AI-disrupted public companies "
         f"on Nov 29, 2022 would be worth {index_str} today. "
         f"Membership is based on each stock's latest available close."
     )
