@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 68 (as of 2026-07-20 evidence audit)
-- **Last updated:** 2026-07-20
+- **Last updated:** 2026-07-21
 
 ## Category Distribution
 | Category | Count |
@@ -34,9 +34,9 @@
 - **Reviewed:** All 97 rows, including recovered names. Kept 46 unchanged, rewrote 22 mixed cases, and removed 29 weak/speculative cases; no companies were added. The final index has 68 rows: 66 Active and 2 Recovered (`KFRC`, `YEXT`).
 - **Key corrections:** Removed rows contradicted by current AI-led growth or dominated by macro, product transitions, M&A, leadership, or migration causes. Rewrites now name material co-drivers. `ASGN` was inactive after the `EFOR` ticker change; split checks confirmed adjusted baselines for `LPSN`, `BZFD`, and `ANGI`.
 - **Durable record:** See `evidence-audit-2026-07-20.md` for every disposition, exact removal reasons, continuity checks, and primary evidence anchors.
-## Session Log: 2026-07-20 — Post-audit search
-- **Added:** No companies. IBM (+66.2%), INTU (-20.1%), and TRI (-8.8%) failed adjusted price gates; RCH.L was already listed; renamed USA TODAY Co (`TDAY`) had continuous history but was +267.7%; People Inc/IAC still lacked a pre-ChatGPT baseline.
-- **Search:** Used 2 approaches and 6 evaluations, stopping after the second three-failure run. The useful discovery was `TDAY` replacing inactive `GCI`; fresh AI-search operating pressure still produced no price-qualified non-duplicate.
+## Session Log: 2026-07-21 — Named software-risk and education checks
+- **Added:** No companies in 3 approaches / 9 evaluations. INTU (-21.7%), CRM (+14.5%), MANH (+35.3%), SHOP (+228.9%), DSGX (+10.4%), and PSON.L (+25.3%) failed adjusted price gates; FDM.L still lacked AI-primary evidence; UDMY was delisted after its Coursera merger; COUR was price-qualified (-59.0%) but current revenue growth and AI-skills demand contradicted the casualty thesis.
+- **Search:** Stopped after the second failed three-candidate approach. The binding constraint remains current company-level operating damage primarily caused by AI, not exposure or market fear.
 
 ## Session Log: 2026-07-20
 - **Added:** GAMB (Gambling.com Group Limited) — Marketing & Advertising / Digital Media / Affiliate. Active, split-clean, not duplicated, and down about 82.4% adjusted (10.29 to 1.81). Management explicitly says AI Overviews reduce clicks and that AI's effects lowered expected search revenue; Q1 2026 then showed marketing revenue -5%, gross profit -11%, adjusted EBITDA -43%, cost of sales +171% from traffic diversification, reduced guidance, and a proposed 25% workforce cut. Regulation and Google algorithm volatility also contributed, so the row states the mixed causality.

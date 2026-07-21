@@ -188,9 +188,9 @@
 - **Result:** No companies added. July 9 rechecked standing monitors after the required sync: INTU remained closest but still short of the adjusted gate; GAMB/FDM.L stayed price-qualified but thesis-weak; G/Genpact was already listed. A small IT-services/software pass found GDYN price-qualified, active, split-clean, and not duplicated, but without company-level evidence tying the decline primarily to AI reducing software-development demand. UPLD/CXM were generic/non-clean software selloff stories, while SMAR/BIGC/DNB lacked active yfinance data.
 - **Verdict:** Do not retry GDYN, UPLD, CXM, APPN, EGHT, or DCBO without a fresh company-level AI-primary operating hit. The useful next path remains a named source-backed catalyst, especially for INTU, GAMB, FDM.L, or another undercovered workflow where AI is tied directly to revenue, guidance, retention, pricing, utilization, or margin pressure.
 
-### 2026-07-20: Zero-find run — post-audit leads plus named publisher pressure
-- **Result:** No companies added in 2 approaches / 6 evaluations. IBM, INTU, and TRI failed adjusted price gates; Reach was a duplicate; USA TODAY Co's replacement ticker `TDAY` restored continuous history but was +267.7%; People Inc/IAC still lacked a usable baseline.
-- **Verdict:** The stronger audit bar worked: even explicit AI-search operating damage does not qualify a company without the price and continuity gates. Retain `TDAY` as the correct Gannett successor ticker, but do not recheck this publisher set without a major price move or a newly named below-baseline company.
+### 2026-07-21: Zero-find run — monitor, named software-risk, and education checks
+- **Result:** No companies added in 3 approaches / 9 evaluations. INTU, CRM, MANH, SHOP, DSGX, and PSON.L failed adjusted price gates; FDM.L still lacked AI-primary evidence; UDMY was no longer active; COUR cleared the price gate but current growth and AI-skills demand contradicted the casualty thesis.
+- **Verdict:** Named AI-risk lists still require operating confirmation. Stop after the second failed three-candidate approach; do not mistake a deeply discounted education platform for an AI casualty when AI-related enrollment and revenue are growing.
 
 ## Untried / Ideas for Next Session
 - **Monitor standing leads sparingly** — As of 2026-07-09, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, INTU is still close but short, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
