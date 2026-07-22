@@ -296,3 +296,14 @@ class TestGenerateHtml:
         assert ld["@type"] == "WebSite"
         assert ld["@context"] == "https://schema.org"
         assert "url" in ld
+
+    def test_recovered_company_label_is_singular_only_for_one(self):
+        from ai_disruption_index import generate_page
+
+        template = generate_page.TEMPLATE_PATH.read_text()
+
+        assert (
+            "DATA.recovered_count === 1 ? 'company' : 'companies'"
+            in template
+        )
+        assert "recovered ${recoveredCompanyNoun}." in template

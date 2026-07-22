@@ -614,10 +614,11 @@ function renderSpotlight() {
 /* ── Hero ── */
 function renderHero() {
   const val = DATA.index_value;
+  const recoveredCompanyNoun = DATA.recovered_count === 1 ? 'company' : 'companies';
   qs('#hero-dollar').textContent = dollar(val);
   qs('#hero-count').textContent = DATA.company_count;
   qs('#hero-amount').textContent = dollar(val);
-  qs('#hero-summary').textContent = `Prices updated ${updatedAt(DATA.generated_at)} for ${DATA.company_count} disrupted and ${DATA.recovered_count} recovered companies.`;
+  qs('#hero-summary').textContent = `Prices updated ${updatedAt(DATA.generated_at)} for ${DATA.company_count} disrupted and ${DATA.recovered_count} recovered ${recoveredCompanyNoun}.`;
   qs('#active-view-count').textContent = `(${DATA.company_count})`;
   qs('#recovered-view-count').textContent = `(${DATA.recovered_count})`;
 }
