@@ -24,6 +24,15 @@ def read_companies():
     return read_typed_companies(CSV_PATH)
 
 
+def format_company_summary(disrupted_count, recovered_count):
+    """Format the company counts shown in the hero summary."""
+    disrupted_noun = "company" if disrupted_count == 1 else "companies"
+    summary = f"{disrupted_count} disrupted {disrupted_noun}"
+    if recovered_count > 0:
+        summary += f" (and {recovered_count} recovered)"
+    return summary
+
+
 def build_payload(companies):
     """Build the complete JSON data payload for the template."""
     active_companies = [c for c in companies if c["change_percentage"] < 0]
@@ -52,6 +61,9 @@ def build_payload(companies):
         "index_value": round(index_val, 4),
         "company_count": len(active_companies),
         "recovered_count": len(recovered_companies),
+        "company_summary": format_company_summary(
+            len(active_companies), len(recovered_companies)
+        ),
         "tracked_company_count": len(companies),
         "latest_company": serialize_company(latest) if latest else None,
         "companies": [serialize_company(c) for c in active_companies],

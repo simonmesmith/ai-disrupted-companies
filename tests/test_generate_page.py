@@ -7,6 +7,7 @@ from ai_disruption_index.generate_page import (
     build_payload,
     compute_group_stats,
     compute_index,
+    format_company_summary,
     generate_html,
     parse_price,
     read_companies,
@@ -152,6 +153,9 @@ class TestBuildPayload:
         assert payload["recovered_count"] == 1
         assert payload["tracked_company_count"] == 4
         assert len(payload["recovered_companies"]) == 1
+        assert payload["company_summary"] == (
+            "3 disrupted companies (and 1 recovered)"
+        )
 
     def test_partitions_companies_at_zero(self, mixed_companies):
         mixed_companies.append(
@@ -208,6 +212,24 @@ class TestBuildPayload:
         assert payload["company_count"] == 0
         assert payload["latest_company"] is None
         assert payload["categories"] == []
+
+
+class TestFormatCompanySummary:
+    def test_omits_recovered_parenthetical_for_zero(self):
+        assert format_company_summary(67, 0) == "67 disrupted companies"
+
+    def test_includes_one_recovered(self):
+        assert format_company_summary(67, 1) == (
+            "67 disrupted companies (and 1 recovered)"
+        )
+
+    def test_includes_multiple_recovered(self):
+        assert format_company_summary(67, 2) == (
+            "67 disrupted companies (and 2 recovered)"
+        )
+
+    def test_singular_disrupted_company(self):
+        assert format_company_summary(1, 0) == "1 disrupted company"
 
 
 class TestGenerateHtml:
@@ -296,14 +318,3 @@ class TestGenerateHtml:
         assert ld["@type"] == "WebSite"
         assert ld["@context"] == "https://schema.org"
         assert "url" in ld
-
-    def test_recovered_company_label_is_singular_only_for_one(self):
-        from ai_disruption_index import generate_page
-
-        template = generate_page.TEMPLATE_PATH.read_text()
-
-        assert (
-            "DATA.recovered_count === 1 ? 'company' : 'companies'"
-            in template
-        )
-        assert "recovered ${recoveredCompanyNoun}." in template
