@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 68 (as of 2026-07-20 evidence audit)
-- **Last updated:** 2026-07-21
+- **Last updated:** 2026-07-22
 
 ## Category Distribution
 | Category | Count |
@@ -34,9 +34,9 @@
 - **Reviewed:** All 97 rows, including recovered names. Kept 46 unchanged, rewrote 22 mixed cases, and removed 29 weak/speculative cases; no companies were added. The final index has 68 rows: 66 Active and 2 Recovered (`KFRC`, `YEXT`).
 - **Key corrections:** Removed rows contradicted by current AI-led growth or dominated by macro, product transitions, M&A, leadership, or migration causes. Rewrites now name material co-drivers. `ASGN` was inactive after the `EFOR` ticker change; split checks confirmed adjusted baselines for `LPSN`, `BZFD`, and `ANGI`.
 - **Durable record:** See `evidence-audit-2026-07-20.md` for every disposition, exact removal reasons, continuity checks, and primary evidence anchors.
-## Session Log: 2026-07-21 — Named software-risk and education checks
-- **Added:** No companies in 3 approaches / 9 evaluations. INTU (-21.7%), CRM (+14.5%), MANH (+35.3%), SHOP (+228.9%), DSGX (+10.4%), and PSON.L (+25.3%) failed adjusted price gates; FDM.L still lacked AI-primary evidence; UDMY was delisted after its Coursera merger; COUR was price-qualified (-59.0%) but current revenue growth and AI-skills demand contradicted the casualty thesis.
-- **Search:** Stopped after the second failed three-candidate approach. The binding constraint remains current company-level operating damage primarily caused by AI, not exposure or market fear.
+## Session Log: 2026-07-21/22 — Named software-risk checks
+- **Added:** No companies. July 21 used 3 approaches / 9 evaluations; July 22 used 2 approaches / 6 evaluations. On July 22, INTU (-21.5%), TRI (-15.0% adjusted after its 0.963 consolidation), DOCU (+8.1%), WDAY (-6.8%), and ADSK (+5.1%) failed price gates; WAY was active but lacked pre-ChatGPT history after its 2024 IPO.
+- **Search:** July 22 stopped after the second failed three-candidate approach. Current Workday, Autodesk, and Waystar evidence showed market concern but continued growth or AI-product positioning rather than an AI-primary operating hit.
 
 ## Session Log: 2026-07-20
 - **Added:** GAMB (Gambling.com Group Limited) — Marketing & Advertising / Digital Media / Affiliate. Active, split-clean, not duplicated, and down about 82.4% adjusted (10.29 to 1.81). Management explicitly says AI Overviews reduce clicks and that AI's effects lowered expected search revenue; Q1 2026 then showed marketing revenue -5%, gross profit -11%, adjusted EBITDA -43%, cost of sales +171% from traffic diversification, reduced guidance, and a proposed 25% workforce cut. Regulation and Google algorithm volatility also contributed, so the row states the mixed causality.

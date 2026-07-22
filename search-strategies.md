@@ -188,11 +188,11 @@
 - **Result:** No companies added. July 9 rechecked standing monitors after the required sync: INTU remained closest but still short of the adjusted gate; GAMB/FDM.L stayed price-qualified but thesis-weak; G/Genpact was already listed. A small IT-services/software pass found GDYN price-qualified, active, split-clean, and not duplicated, but without company-level evidence tying the decline primarily to AI reducing software-development demand. UPLD/CXM were generic/non-clean software selloff stories, while SMAR/BIGC/DNB lacked active yfinance data.
 - **Verdict:** Do not retry GDYN, UPLD, CXM, APPN, EGHT, or DCBO without a fresh company-level AI-primary operating hit. The useful next path remains a named source-backed catalyst, especially for INTU, GAMB, FDM.L, or another undercovered workflow where AI is tied directly to revenue, guidance, retention, pricing, utilization, or margin pressure.
 
-### 2026-07-21: Zero-find run — monitor, named software-risk, and education checks
-- **Result:** No companies added in 3 approaches / 9 evaluations. INTU, CRM, MANH, SHOP, DSGX, and PSON.L failed adjusted price gates; FDM.L still lacked AI-primary evidence; UDMY was no longer active; COUR cleared the price gate but current growth and AI-skills demand contradicted the casualty thesis.
-- **Verdict:** Named AI-risk lists still require operating confirmation. Stop after the second failed three-candidate approach; do not mistake a deeply discounted education platform for an AI casualty when AI-related enrollment and revenue are growing.
+### 2026-07-21/22: Zero-find runs — monitor and named software-risk checks
+- **Result:** No companies added. July 21 used 3 approaches / 9 evaluations. July 22 used 2 approaches / 6 evaluations: INTU, TRI, DOCU, WDAY, and ADSK failed adjusted price gates, while WAY lacked pre-ChatGPT history.
+- **Verdict:** Stop after the second failed three-candidate approach. Named AI-risk sources are useful only when a stock also clears the baseline and company-level evidence shows operating damage; current Workday, Autodesk, and Waystar evidence instead showed growth or AI-product/moat positioning.
 
 ## Untried / Ideas for Next Session
-- **Monitor standing leads sparingly** — As of 2026-07-09, TRI remains below the adjusted gate, DOCU/SFIX/DUOL do not qualify, INTU is still close but short, and HUBS has already been added. Recheck standing leads only after major price moves or fresh operating evidence.
+- **Monitor standing leads sparingly** — As of 2026-07-22, TRI, DOCU, and INTU still fail adjusted gates; SFIX/DUOL also failed their latest checks, and HUBS has already been added. Recheck only after major price moves or fresh operating evidence.
 - **Fresh catalyst first** — Prioritize source-backed stories where AI is explicitly tied to guidance, revenue, pricing, usage, or staffing pressure before running price screens.
 - **International exchanges beyond LSE/Euronext/ASX/NSE** — TSX, JSE, and HKEX remain underexplored, but screen only from named AI-risk catalysts.

@@ -1,8 +1,8 @@
 # Leads for Next Session
 
 ## Promising Candidates to Monitor
-- **TRI (Thomson Reuters)** — Only 8.8% below its adjusted baseline on 2026-07-20, with capital-return/dividend effects making raw comparisons misleading. Monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
-- **DOCU (DocuSign)** — Still fails the price gate as of 2026-07-09 (+7.4%). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses materially lower.
+- **TRI (Thomson Reuters)** — Still fails the gate on 2026-07-22 (-15.0% adjusted), with the 0.963 consolidation and capital-return/dividend effects making raw comparisons misleading. Monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
+- **DOCU (DocuSign)** — Still fails the price gate as of 2026-07-22 (+8.1%). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses materially lower.
 - **SFIX (Stitch Fix)** — Fails the price gate as of 2026-07-09 (-7.6%). AI styling could threaten the human stylist model if fundamentals deteriorate later, but it does not clear even a basic below-baseline screen.
 - **Legal & Tax thin category** — Only LAW remains after the historical evidence audit removed HRB and LZ for lack of primary AI operating pressure. WKL.AS remains in Research & Analytics / Professional Information; INTA was above pre-ChatGPT on 2026-06-08 and NOTE remains reverse-split distorted.
 - **Re-evaluate failed candidates periodically** — APX.AX/WIX patterns show borderline candidates can qualify as evidence and prices change, but the 2026-07-20 audit is the stronger guardrail: do not infer causation from exposure plus a falling stock when filings show AI-led growth or a better non-AI explanation.
@@ -13,7 +13,7 @@
 - **GAMB (Gambling.com Group)** — **ADDED 2026-07-20.** Do not retry. Newly surfaced annual-report and management evidence tied AI Overviews directly to fewer clicks and lower future search-revenue expectations; Q1 2026 results then showed marketing, margin, traffic-cost, and guidance pressure.
 - **Fresh software AI-anxiety names** — The 2026-07-21 named risk screen found CRM (+14.5%), MANH (+35.3%), SHOP (+228.9%), and DSGX (+10.4%) above baseline. NOW, SGE.L, REL.L, and LSEG.L also failed earlier gates. Do not retry without a sharper price move plus a named company-level AI catalyst.
 - **EXLS (ExlService Holdings)** — No longer clears the adjusted gate on 2026-07-09 after split-adjusted pricing (-25.3%); even if it re-crosses, do not retry without company-level evidence that AI is hurting revenue, margins, usage, or guidance.
-- **INTU (Intuit)** — Still short of the gate on 2026-07-21 (-21.7% adjusted). Recheck only if it clears -30% and sources tie TurboTax revenue, pricing, or guidance pressure directly to AI tax-prep alternatives.
+- **INTU (Intuit)** — Still short of the gate on 2026-07-22 (-21.5% adjusted). Recheck only if it clears -30% and sources tie TurboTax revenue, pricing, or guidance pressure directly to AI tax-prep alternatives.
 - **IBM (International Business Machines)** — Stronger watch after the 2026-07-14 warning that customers redirected spending from IBM software and mainframes toward AI infrastructure, contributing to missed deals and a historic one-day selloff. It still fails the adjusted price gate by a wide margin on 2026-07-15 (+69.6% versus Nov. 29, 2022), so recheck only after a major further decline or evidence the spending shift persists into revenue, guidance, or margins.
 - **FDM.L (FDM Group)** — Rejected again on 2026-07-21 despite active/split-clean price qualification. FY2025 results blamed macro/geopolitical uncertainty and framed AI-enabled skills as client demand; do not add without evidence that AI is reducing consultant demand, utilization, pricing, revenue, or guidance.
 - **China/HK enterprise software names** — 0268.HK, 600588.SS, and 2013.HK were price-qualified on 2026-07-02, but current source checks did not show company-level AI-primary operating damage. Do not add from broad AI/software selloff alone.
@@ -28,7 +28,7 @@
 
 ## Notes
 - **NCNO** and **CRTO** were evaluated on 2026-05-06 and moved to failed candidates; do not retry soon unless fundamentals or the AI thesis changes materially.
-- **Education screen** — UDMY was delisted after its May 2026 Coursera merger; PSON.L was +25.3% on 2026-07-21; COUR was price-qualified (-59.0%) but growing revenue and AI-skills demand contradicted AI-primary disruption. Do not retry without a new operating reversal.
+- **Recent software/education screens** — WDAY (-6.8%) and ADSK (+5.1%) failed 2026-07-22 price gates; WAY lacks pre-ChatGPT history and current growth/AI-moat evidence contradicts a casualty thesis. UDMY was delisted after its Coursera merger; COUR was price-qualified but growing revenue and AI-skills demand contradicted disruption. Do not retry without an operating reversal.
 - **TEP.PA** was added from the international BPO/contact-center peer angle; that cluster is now saturated.
 - **HAS.L** was added from the international staffing peer angle on 2026-05-07; staffing/recruitment is now also saturated.
 - **SFOR.L** was added from the digital advertising agency angle on 2026-05-08. Look for other ad-services names only where AI is clearly tied to client budget shift, creative/workflow automation, or agency labor-hour compression.
