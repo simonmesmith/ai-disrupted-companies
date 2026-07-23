@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 68 (as of 2026-07-20 evidence audit)
-- **Last updated:** 2026-07-22
+- **Company count:** 69
+- **Last updated:** 2026-07-23
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Software & SaaS | 15 |
-| Business Services | 21 |
+| Business Services | 22 |
 | Content & Media | 11 |
 | Research & Analytics | 7 |
 | Marketing & Advertising | 7 |
@@ -34,9 +34,9 @@
 - **Reviewed:** All 97 rows, including recovered names. Kept 46 unchanged, rewrote 22 mixed cases, and removed 29 weak/speculative cases; no companies were added. The final index has 68 rows: 66 Active and 2 Recovered (`KFRC`, `YEXT`).
 - **Key corrections:** Removed rows contradicted by current AI-led growth or dominated by macro, product transitions, M&A, leadership, or migration causes. Rewrites now name material co-drivers. `ASGN` was inactive after the `EFOR` ticker change; split checks confirmed adjusted baselines for `LPSN`, `BZFD`, and `ANGI`.
 - **Durable record:** See `evidence-audit-2026-07-20.md` for every disposition, exact removal reasons, continuity checks, and primary evidence anchors.
-## Session Log: 2026-07-21/22 — Named software-risk checks
-- **Added:** No companies. July 21 used 3 approaches / 9 evaluations; July 22 used 2 approaches / 6 evaluations. On July 22, INTU (-21.5%), TRI (-15.0% adjusted after its 0.963 consolidation), DOCU (+8.1%), WDAY (-6.8%), and ADSK (+5.1%) failed price gates; WAY was active but lacked pre-ChatGPT history after its 2024 IPO.
-- **Search:** July 22 stopped after the second failed three-candidate approach. Current Workday, Autodesk, and Waystar evidence showed market concern but continued growth or AI-product positioning rather than an AI-primary operating hit.
+## Session Log: 2026-07-21/23 — Named AI-risk checks
+- **Added:** STEM.L (SThree plc) on July 23 — Business Services / Staffing & Recruitment. Active, split-clean, not duplicated, and down about 41.2% adjusted (408.67p to 240.5p). Current reporting tied lower software-development demand and Germany's 14% net-fee decline to companies moving toward AI; H1 group net fees fell 7%, Technology net fees fell 14%, and like-for-like pretax profit fell 75%. Macro, geopolitics, restructuring, and stronger demand for some AI-adjacent roles remain material counterweights.
+- **Search:** July 23 used one fresh-catalyst approach and two evaluations. IBM's new AI-spending warning strengthened its causal signal but it still failed the price gate at +56.2%; a same-week SThree results story produced the qualifying add. July 21-22's prior software-risk checks had found no add.
 
 ## Session Log: 2026-07-20
 - **Added:** GAMB (Gambling.com Group Limited) — Marketing & Advertising / Digital Media / Affiliate. Active, split-clean, not duplicated, and down about 82.4% adjusted (10.29 to 1.81). Management explicitly says AI Overviews reduce clicks and that AI's effects lowered expected search revenue; Q1 2026 then showed marketing revenue -5%, gross profit -11%, adjusted EBITDA -43%, cost of sales +171% from traffic diversification, reduced guidance, and a proposed 25% workforce cut. Regulation and Google algorithm volatility also contributed, so the row states the mixed causality.
