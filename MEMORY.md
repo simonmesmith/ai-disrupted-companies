@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 69
-- **Last updated:** 2026-07-23
+- **Last updated:** 2026-07-24
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-07-24 — Fresh results and ChatGPT Health
+- **Added:** No companies. Four candidates were evaluated across two source-first approaches.
+- **Rejected / duplicate:** Reach (`RCH.L`) had a fresh AI-search operating hit but was already listed; monday.com (`MNDY`, -23.4%) failed the adjusted price gate. GoodRx (`GDRX`, -35.6%) and Teladoc (`TDOC`, -67.5%) were active, split-clean, price-qualified and named in the ChatGPT Health selloff, but current filings do not tie their operating declines primarily to AI; GoodRx raised guidance and Teladoc attributes weakness to fewer BetterHelp users while growing Integrated Care.
+- **Observation:** A product-launch selloff is only a threat signal. Do not add health-navigation or telehealth names until filings connect AI substitution to revenue, users, pricing, guidance, or margins.
 
 ## Session Log: 2026-07-20 — Historical evidence audit
 - **Reviewed:** All 97 rows, including recovered names. Kept 46 unchanged, rewrote 22 mixed cases, and removed 29 weak/speculative cases; no companies were added. The final index has 68 rows: 66 Active and 2 Recovered (`KFRC`, `YEXT`).
@@ -81,12 +86,6 @@
 - **Rejected / rechecked:** Standing monitors failed again on adjusted yfinance checks: TRI (-15.4%) stayed below the gate with capital-return/share-consolidation distortion, DOCU (+3.0%) failed, SFIX (-4.2%) was too modest, DUOL (+92.9%) was far above baseline, INTU (-26.1%) remained close but short, and EXLS (-24.1%) failed after split-adjusted pricing. GAMB (-81.0%) and FDM.L (-85.6%) stayed price-qualified but still lacked company-level AI-primary evidence. A tight fresh-catalyst/software check found GTLB already listed and only -17.2%; APPN (-35.2%), EGHT (-53.6%), and DCBO (-39.9%) price-qualified but still non-clean because current evidence frames AI as product/adoption or broader software/UCaaS pressure rather than primary external disruption. CARG was far above baseline; GCI and TIXT lacked active yfinance data.
 - **Search approaches used:** 3 of 5 (standing/monitor recheck; fresh AI-software/source check; small software/communications/LMS price screen). Stopped at the 15-candidate cap with no qualifying non-duplicate.
 - **Observation:** The next run should not re-run APPN/EGHT/DCBO without a fresh company-level revenue, guidance, retention, or margin hit explicitly tied to external AI displacement. INTU remains the closest monitor but still needs a clear adjusted -30% cross plus TurboTax-specific AI pressure.
-
-## Session Log: 2026-07-07
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing monitors failed again on adjusted yfinance checks: TRI (-12.4%), DOCU (+6.8%), SFIX (-1.3%), DUOL (+99.8%), INTU (-25.4%), and EXLS (-23.3%) failed price gates; GAMB (-80.4%) and FDM.L (-85.0%) remained price-qualified but still lacked company-level AI-primary evidence. A duplicate check showed Unity (`U`) is already listed and now no longer price-qualified (-16.1%). A thin education/publisher screen found WLY, PSO, LRN, STRA, PRDO, AFYA, EDU, TAL, GOTU, DAO, FEDU, and LAUR above pre-ChatGPT; YQ stayed price-qualified but still blocked by China tutoring regulation/reverse-split/AI-as-product issues; HMHC, ATGE, and BEDU lacked active yfinance data.
-- **Search approaches used:** 3 of 5 (standing/monitor recheck; current AI-cannibalization/news duplicate check; thin education/publisher screen). Candidate checks exceeded the intended 15-company boundary after the education screen, so search stopped with no add.
-- **Observation:** Do not spend the next run on another broad thin-education batch; it remains mostly above baseline, delisted, duplicated, or non-clean. Wait for a named company-level AI operating hit, especially for INTU, GAMB, FDM.L, or YQ-style monitors.
 
 ## Session Log: 2026-07-06
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.

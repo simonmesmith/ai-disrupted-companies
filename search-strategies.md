@@ -180,10 +180,6 @@
 - **Result:** No companies added. Standing leads and recent monitors filled eight candidate slots with no clean add: INTU stayed close but short of the adjusted gate, TRI/DOCU/SFIX/DUOL/EXLS failed price gates, and GAMB/FDM.L remained price-qualified but thesis-weak. A current JPMorgan AI-cannibalization source pointed to software, business services, and media, but the focused agency/media pass was duplicate-heavy or above baseline: OMC, PUB.PA, 2433.T, STGW, and SAA.L failed price gates; WPP.L and SFOR.L were already listed.
 - **Verdict:** Generic AI-cannibalization sector calls are not enough at this stage. Use them only to identify named company-level operating catalysts; broad agency/media baskets are now low-yield unless a company has a fresh guidance, revenue, or margin hit tied directly to AI.
 
-### 2026-07-07: Zero-find run — monitors plus thin education screen
-- **Result:** No companies added. Standing/monitor checks again failed price or causality gates: INTU stayed short of the adjusted gate, TRI/DOCU/SFIX/DUOL/EXLS failed price gates, GAMB/FDM.L remained price-qualified but lacked company-level AI-primary evidence, and Unity was already listed and no longer price-qualified. A thin education/publisher screen failed: the public names were mostly above pre-ChatGPT, delisted/unavailable, or the same non-clean YQ story.
-- **Verdict:** Thin education is still low-yield unless a named company has a fresh AI-linked revenue, enrollment, pricing, or guidance hit. Do not run another broad education batch soon; preserve the candidate cap for source-backed company-level catalysts.
-
 ### 2026-07-08/09: Zero-find runs — monitors plus tight software checks
 - **Result:** No companies added. July 9 rechecked standing monitors after the required sync: INTU remained closest but still short of the adjusted gate; GAMB/FDM.L stayed price-qualified but thesis-weak; G/Genpact was already listed. A small IT-services/software pass found GDYN price-qualified, active, split-clean, and not duplicated, but without company-level evidence tying the decline primarily to AI reducing software-development demand. UPLD/CXM were generic/non-clean software selloff stories, while SMAR/BIGC/DNB lacked active yfinance data.
 - **Verdict:** Do not retry GDYN, UPLD, CXM, APPN, EGHT, or DCBO without a fresh company-level AI-primary operating hit. The useful next path remains a named source-backed catalyst, especially for INTU, GAMB, FDM.L, or another undercovered workflow where AI is tied directly to revenue, guidance, retention, pricing, utilization, or margin pressure.
@@ -191,6 +187,10 @@
 ### 2026-07-21/23: Named AI-risk checks
 - **Result:** Found STEM.L (SThree, -41.2%) on July 23 in one fresh-catalyst approach and two evaluations. IBM's new AI-spending warning still failed its price gate (+56.2%). SThree was active, split-clean, and not duplicated; current reporting tied weaker software-development hiring directly to companies moving toward AI, alongside a 14% Technology net-fee decline and a 75% like-for-like pretax-profit decline. July 21-22's earlier software-risk checks produced no add.
 - **Verdict:** Fresh earnings coverage can produce a clean causal bridge when it names both the affected workflow and operating result. For saturated staffing, require this higher bar: company-level evidence that AI is reducing a specific hiring segment, plus a qualifying adjusted price and explicit acknowledgement of macro and other co-drivers.
+
+### 2026-07-24: Fresh results and ChatGPT Health
+- **Result:** No company added in four evaluations across two source-first approaches. `RCH.L` was already listed; `MNDY` failed the adjusted price gate. `GDRX` and `TDOC` cleared price, listing, duplicate, and split checks but failed the AI-primary operating test.
+- **Verdict:** A one-day reaction to a new AI product is not evidence that AI caused the historical decline. Revisit GoodRx or Teladoc only if future filings connect AI health navigation to lost users, transactions, pricing, revenue, guidance, or margins.
 
 ## Untried / Ideas for Next Session
 - **Monitor standing leads sparingly** — As of 2026-07-22, TRI, DOCU, and INTU still fail adjusted gates; SFIX/DUOL also failed their latest checks, and HUBS has already been added. Recheck only after major price moves or fresh operating evidence.
