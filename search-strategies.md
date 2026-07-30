@@ -188,9 +188,9 @@
 - **Result:** Found STEM.L (SThree, -41.2%) on July 23 in one fresh-catalyst approach and two evaluations. IBM's new AI-spending warning still failed its price gate (+56.2%). SThree was active, split-clean, and not duplicated; current reporting tied weaker software-development hiring directly to companies moving toward AI, alongside a 14% Technology net-fee decline and a 75% like-for-like pretax-profit decline. July 21-22's earlier software-risk checks produced no add.
 - **Verdict:** Fresh earnings coverage can produce a clean causal bridge when it names both the affected workflow and operating result. For saturated staffing, require this higher bar: company-level evidence that AI is reducing a specific hiring segment, plus a qualifying adjusted price and explicit acknowledgement of macro and other co-drivers.
 
-### 2026-07-24: Fresh results and ChatGPT Health
-- **Result:** No company added in four evaluations across two source-first approaches. `RCH.L` was already listed; `MNDY` failed the adjusted price gate. `GDRX` and `TDOC` cleared price, listing, duplicate, and split checks but failed the AI-primary operating test.
-- **Verdict:** A one-day reaction to a new AI product is not evidence that AI caused the historical decline. Revisit GoodRx or Teladoc only if future filings connect AI health navigation to lost users, transactions, pricing, revenue, guidance, or margins.
+### 2026-07-24/30: Fresh results checks
+- **Result:** No company added. July 30 stopped after three evaluations in one bounded earnings approach: `RWA.L` (-78.9%) and `DOTD.L` (-44.3%) were active, split-clean, price-qualified, and not duplicated, but current results showed cyclical improvement or AI-led growth rather than AI-primary damage; `RAND.AS` (-16.0%) failed the gate and reported improving demand. July 24's four-candidate health/search check also produced no add.
+- **Verdict:** Fresh results remain the right source-first trigger, but stop after three contradictions rather than widening. Require the filing or results coverage to connect AI directly to revenue, demand, pricing, utilization, guidance, or margins.
 
 ## Untried / Ideas for Next Session
 - **Monitor standing leads sparingly** — As of 2026-07-22, TRI, DOCU, and INTU still fail adjusted gates; SFIX/DUOL also failed their latest checks, and HUBS has already been added. Recheck only after major price moves or fresh operating evidence.

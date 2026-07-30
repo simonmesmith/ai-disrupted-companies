@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 69
-- **Last updated:** 2026-07-24
+- **Last updated:** 2026-07-30
 
 ## Category Distribution
 | Category | Count |
@@ -30,10 +30,10 @@
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
 
-## Session Log: 2026-07-24 — Fresh results and ChatGPT Health
-- **Added:** No companies. Four candidates were evaluated across two source-first approaches.
-- **Rejected / duplicate:** Reach (`RCH.L`) had a fresh AI-search operating hit but was already listed; monday.com (`MNDY`, -23.4%) failed the adjusted price gate. GoodRx (`GDRX`, -35.6%) and Teladoc (`TDOC`, -67.5%) were active, split-clean, price-qualified and named in the ChatGPT Health selloff, but current filings do not tie their operating declines primarily to AI; GoodRx raised guidance and Teladoc attributes weakness to fewer BetterHelp users while growing Integrated Care.
-- **Observation:** A product-launch selloff is only a threat signal. Do not add health-navigation or telehealth names until filings connect AI substitution to revenue, users, pricing, guidance, or margins.
+## Session Log: 2026-07-24/30 — Fresh results checks
+- **Added:** No companies. July 30 evaluated three candidates in one bounded earnings approach after July 24's four-candidate source-first check.
+- **Rejected / duplicate:** On July 30, Robert Walters (`RWA.L`, -78.9%) and Dotdigital (`DOTD.L`, -44.3%) were active, split-clean, price-qualified, and not duplicated, but current results contradicted AI-primary disruption: Robert Walters called hiring weakness largely cyclical while showing improving productivity and pockets of growth; Dotdigital grew revenue 8%, contracted ARR 18%, recurring revenue 14%, and treated AI workflows as an opportunity. Randstad (`RAND.AS`, -16.0%) failed the price gate and reported improving demand. July 24's `RCH.L`/`MNDY`/`GDRX`/`TDOC` conclusions remain unchanged.
+- **Observation:** Stop after three fresh-results failures rather than widen into a low-signal basket. A deeply down exposed stock still needs current company evidence that AI is driving operating damage, not just workflow risk.
 
 ## Session Log: 2026-07-20 — Historical evidence audit
 - **Reviewed:** All 97 rows, including recovered names. Kept 46 unchanged, rewrote 22 mixed cases, and removed 29 weak/speculative cases; no companies were added. The final index has 68 rows: 66 Active and 2 Recovered (`KFRC`, `YEXT`).
