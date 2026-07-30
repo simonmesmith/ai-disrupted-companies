@@ -17,7 +17,7 @@
 | UPLD/LZ/FUTR.L | Upland/LegalZoom/Future | UPLD was price-qualified (-92.9%) but still lacked company-level evidence that external AI displacement primarily caused its revenue decline and had a June 2026 1:10 reverse split. LZ (-11.8%) and FUTR.L (-79.0%) were already listed; LZ also failed the price gate. | 2026-07-17 |
 | HCLTECH.NS/WIPRO.NS/TECHM.NS/PERSISTENT.NS/LTIM.NS | Indian IT-services peers | Fresh Accenture/sector AI-services warning did not produce a new add: adjusted changes were +21.3%, -6.0%, +58.2%, and +157.5%; LTIM.NS had no usable active yfinance data. | 2026-07-16 |
 | WIL.L/BMY.L/INF.L | Wilmington/Bloomsbury/Informa | Current AI-search publisher-traffic evidence is relevant, but adjusted prices failed the gate at -4.1%, +33.9%, and +47.4%. | 2026-07-16 |
-| IBM | IBM | Up 79% from pre-ChatGPT. Not disrupted. | 2026-04-13 |
+| TDAY/0685.HK/0072.HK | USA Today Co/Media Chinese International/Meta Media | All were active and split-clean but failed adjusted gates at +270.7%, -5.9%, and -16.7%. USA Today Co reported growing digital revenue/traffic; Media Chinese disclosed direct AI-content competition but remained near baseline; Meta Media had flat revenue and treated AI as investment rather than external disruption. | 2026-07-30 |
 | DOCN | DigitalOcean | Up 186% from pre-ChatGPT. Not disrupted. | 2026-04-13 |
 | ZUO | Zuora | No yfinance data, possibly delisted. | 2026-04-13 |
 | PRFT | Perficient | No yfinance data, possibly delisted/acquired. | 2026-04-13 |
