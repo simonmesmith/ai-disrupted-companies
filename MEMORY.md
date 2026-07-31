@@ -1,14 +1,14 @@
 # AI Disruption Index - Memory
 
 ## Current State
-- **Company count:** 69
-- **Last updated:** 2026-07-30
+- **Company count:** 70
+- **Last updated:** 2026-07-31
 
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Software & SaaS | 15 |
-| Business Services | 22 |
+| Business Services | 23 |
 | Content & Media | 11 |
 | Research & Analytics | 7 |
 | Marketing & Advertising | 7 |
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-07-31 — Staffing filing catalyst
+- **Added:** JOB (GEE Group) — Business Services / Staffing & Recruitment. Active NYSE American listing, no duplicate or split actions, and down about 72.5% adjusted ($0.75 to $0.2065).
+- **Evidence:** GEE's latest 10-Q says AI is disrupting its staffing markets and contributing to fewer job orders and placements; six-month contract-staffing revenue fell 21%, or 10% excluding a lost acquired client. Macro weakness and the client loss are material co-drivers, while direct-hire revenue and margins improved.
+- **Search:** One fresh-results/filings approach and one candidate evaluation. Direct company attribution plus operating figures produced the add; do not broaden staffing further without the same high bar.
 
 ## Session Log: 2026-07-24/30 — Fresh results checks
 - **Added:** No companies. The later July 30 run evaluated three publishers in one bounded source-first approach after the earlier three-candidate earnings check and July 24's four-company check.
@@ -140,9 +145,3 @@
 - **Rejected / rechecked:** Standing leads still failed or remain monitor-only: TRI remains below the adjusted gate with capital-return distortion, DOCU/SFIX/DUOL failed price gates. Source-first software checks again found price-qualified but non-clean stories: WK, APPN, PCTY, EGHT, ICFI, NA9.DE, GFT.DE, ADN1.DE, ATE.PA, and DOTD.L lacked fresh evidence that AI is the primary operating-pressure cause rather than product adoption, sector weakness, or already-known objections. Thin education checks found PSON.L, EDU, TAL, GOTU, AFYA above baseline, COUR already listed, and YQ still price-qualified but dominated by China tutoring regulation / reverse-split / AI-as-product issues. GAMB was price-qualified and not duplicated, but no company-level AI-search or AI Overview revenue/guidance catalyst was found.
 - **Search approaches used:** 4 of 5 (standing leads; source-first software/AI-risk follow-up; thin education screen; publisher/affiliate AI-search spot check). Candidate checks exceeded the intended 15-company boundary, so search stopped with no add.
 - **Observation:** Do not spend the next run on another broad price batch. The best next path is a named fresh catalyst with explicit AI-linked guidance, revenue, pricing, usage, or staffing pressure; then duplicate-check and price-check only that company or its closest peer.
-
-## Session Log: 2026-06-22
-- **Added:** NABL (N-able, Inc.) — Software & SaaS / IT Management. Pre-ChatGPT $11.23, current $3.04 (-72.9%). Active NYSE ticker, no duplicate row, and no split actions. The AI thesis is autonomous IT / MSP software compression: William Blair downgraded N-able to Underperform under its AI-era software framework, citing a low 10/20 score, uneven execution, largely seat-based pricing, and questionable organic revenue acceleration, while current MSP coverage shows traditional monitoring and first-line support being automated by AI-native platforms such as Kaseya and Atera.
-- **Rejected / rechecked:** Standing leads failed adjusted yfinance checks: TRI (-25.0%) remains below the adjusted gate with capital-return/share-consolidation distortion, DOCU (-0.9%) is near flat, SFIX (+7.7%) and DUOL (+94.8%) are above baseline. Named William Blair/software AI-risk checks mostly failed price gates: CRM (+2.6%), NOW (+22.0% adjusted after a split), BLZE (+97.0%), AVPT (+123.0%), CVLT (+101.1%), VRNS (+64.3%), BOX (-7.5%), DBX (+16.3%), and NTNX (+72.3%).
-- **Search approaches used:** 2 of 5 (standing-lead recheck; named AI-risk software downgrade screen). Candidate evaluations stayed within the 15-company cap.
-- **Observation:** AI-risk analyst frameworks can still surface undercovered adds when paired with price qualification and a specific workflow thesis. For MSP/RMM software, require evidence that AI is automating monitoring, triage, remediation, or technician work; do not add names on generic software selloff alone.

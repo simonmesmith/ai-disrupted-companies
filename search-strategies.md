@@ -2,6 +2,10 @@
 
 ## Tried
 
+### 2026-07-31: Fresh staffing filing catalyst
+- **Result:** Found JOB (GEE Group, -72.5%) in one candidate evaluation. Its latest 10-Q explicitly says AI is disrupting its staffing markets and contributing to fewer job orders and placements; six-month contract-staffing revenue fell 21%, or 10% excluding a lost acquired client.
+- **Verdict:** Direct company attribution plus quantified operating damage can justify a mixed-causality add when price, listing, duplicate, and split gates also pass. Staffing is saturated, so do not broaden the peer basket without this same evidence bar.
+
 ### 2026-07-20: Full historical evidence audit
 - **Result:** Reviewed all 97 rows and removed 29 weak/speculative entries, rewrote 22 mixed cases, and retained 46 unchanged. The final index has 68 companies. No companies were added.
 - **Verdict:** Treat workflow exposure, a falling stock, and a generic AI-risk disclosure as separate signals—not proof of causation. Before adding or retaining a row, check current operating evidence and actively look for the strongest non-AI explanation. AI-led revenue growth, resilient retention, a product tailwind, or a clearly identified migration/M&A/macro cause can defeat an otherwise plausible disruption story.
@@ -30,9 +34,6 @@
 - **Result:** Found YOU.L (YouGov plc, -73.5%). Standing monitors and recent software/services checks failed price or primary-cause gates. Fresh publisher/AI Overviews evidence mostly hit already-listed or price-failing names, but market-research follow-up surfaced stronger 2026 evidence that AI bot farms are undermining online survey panels and that synthetic/AI research can substitute for paid quick-turnaround insight.
 - **Verdict:** Previously rejected market-research names can qualify if new evidence changes the causal bridge. The productive pattern was not broad price screening; it was revisiting a price-qualified monitor only after a fresh source tied AI to data quality, client trust, and product substitution. Next run should stay stricter on the 15-candidate cap.
 
-### 2026-04-16: AI Overviews/market-research/financial-data peers + healthcare IT
-- **Result:** Found HCAT (Health Catalyst, -87.2%) — peer of DH in Healthcare Analytics. Rejected many: YELP (-9%, too modest), MCO (+58%), PEGA (+140%), YOU.L (-79% but acquisition/management not AI), SCOR (-71% but capital structure dilution not AI), MORN (still weak AI angle), PHR (-65% but pharma/MFN pricing not AI; AI is tailwind for mgmt), EVH (-89% but medical cost trends not AI). Initially attempted to add ANGI but found it was already added on 2026-04-10 — local working directory was stale (6 companies behind). Had to rebase to origin/main.
-- **Verdict:** Healthcare IT is a productive vein after all — HCAT fits squarely as a peer of DH with the same thesis (AI commoditizing healthcare analytics; Epic embedding native AI; AI-native startups like Komodo/Abridge/Ambience capturing budget; Databricks+GenAI enabling DIY analytics). HCAT's management downplays AI and emphasizes platform migration, but the underlying dynamics are AI-driven. Many large stock drops in healthcare are NOT AI-driven (EVH medical costs, PHR pharma budgets) — always dig into primary cause. Lesson learned: always git pull before starting a session — local state was 6 days stale, caused ANGI duplicate attempt.
 
 ### 2026-04-17: Leads from memory + new candidate screening (digital presence, travel tech, education)
 - **Result:** Found YEXT (Yext Inc, -31.2%) — digital presence/listings management platform disrupted by AI search reducing value of traditional search listings. 45% of consumers now use AI for local recommendations. Organic revenue declining 2-4% annually. NRR 86%. Guidance suspended. Rejected SABR (-69.9%, GDS/debt not AI), APPS (-70.5%, Apple privacy not AI), TRVG (-12.4%, too modest), LOPE (+55.9%), MORN (recovered to -7.8%).
