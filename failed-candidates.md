@@ -2,6 +2,7 @@
 
 | Ticker | Name | Reason | Date |
 |---|---|---|---|
+| IBM/BIDU/DEEZR.PA | Fresh results and AI-content checks | IBM (+75.0%) and Baidu (+13.5%) failed adjusted price gates. Deezer was active, split-clean, and price-qualified (-65.1%), but H1 2026 showed stable revenue, direct-subscriber growth, sustained profitability, and AI detection as differentiation/potential revenue; AI-generated music was not causing primary operating damage. | 2026-08-03 |
 | EXFY/SPT/DH/BILL/CXM/DV | Software/data platforms removed in full audit | Removed from the index after current filings failed the AI-primary test: AI is embedded in their products, while pricing/packaging, product transitions, customer budgets, execution, and ordinary competition better explain weakness. BILL core revenue grew 16%, DoubleVerify revenue grew 10%, and Expensify full-year revenue grew 2%. | 2026-07-20 |
 | ZIP/TBI/KELYA/ASGN | Staffing and recruiting rows removed in full audit | Filings identify the hiring cycle, customer/contract changes, government exposure, and acquisitions as the principal causes. ASGN also ceased trading after the April 2026 Everforth rebrand to EFOR; the successor still lacked an AI-primary operating hit. | 2026-07-20 |
 | BMBL/MTCH | Online dating rows removed in full audit | Paying-user pressure is better explained by dating-app fatigue, product quality, monetization, and deliberate resets. AI is currently a matching, safety, and productivity tool; evidence that AI companions or synthetic profiles primarily caused the declines was insufficient. | 2026-07-20 |
@@ -18,11 +19,6 @@
 | HCLTECH.NS/WIPRO.NS/TECHM.NS/PERSISTENT.NS/LTIM.NS | Indian IT-services peers | Fresh Accenture/sector AI-services warning did not produce a new add: adjusted changes were +21.3%, -6.0%, +58.2%, and +157.5%; LTIM.NS had no usable active yfinance data. | 2026-07-16 |
 | WIL.L/BMY.L/INF.L | Wilmington/Bloomsbury/Informa | Current AI-search publisher-traffic evidence is relevant, but adjusted prices failed the gate at -4.1%, +33.9%, and +47.4%. | 2026-07-16 |
 | TDAY/0685.HK/0072.HK | USA Today Co/Media Chinese International/Meta Media | All were active and split-clean but failed adjusted gates at +270.7%, -5.9%, and -16.7%. USA Today Co reported growing digital revenue/traffic; Media Chinese disclosed direct AI-content competition but remained near baseline; Meta Media had flat revenue and treated AI as investment rather than external disruption. | 2026-07-30 |
-| DOCN | DigitalOcean | Up 186% from pre-ChatGPT. Not disrupted. | 2026-04-13 |
-| ZUO | Zuora | No yfinance data, possibly delisted. | 2026-04-13 |
-| PRFT | Perficient | No yfinance data, possibly delisted/acquired. | 2026-04-13 |
-| SUMO | Sumo Logic | No yfinance data, possibly delisted/acquired. | 2026-04-13 |
-| MCO | Moody's | Up 58.6% from pre-ChatGPT. AI beneficiary. | 2026-04-16 |
 | PEGA | Pegasystems | Up 140% from pre-ChatGPT. AI beneficiary (agentic workflow automation tailwind). | 2026-04-16 |
 | SCOR | comScore | Down 71.4% but decline is capital structure/dilution story (1:20 reverse split Dec 2023, Charter/Cerberus preferred recap in Jan 2026 gave preferred holders 81.8% of shares). Core TV/CTV currency business arguably benefits from AI measurement demand. Not an AI disruption story. | 2026-04-16 |
 | PHR | Phreesia | Down 65% from pre-ChatGPT but decline is pharma/Life Sciences spending weakness + MFN drug pricing concerns, not AI. Management frames AI as tailwind (launched VoiceAI, ProviderConnect AI). Ambient scribes (Abridge, Suki) don't directly compete with patient intake. | 2026-04-16 |

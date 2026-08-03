@@ -2,7 +2,7 @@
 
 ## Current State
 - **Company count:** 70
-- **Last updated:** 2026-07-31
+- **Last updated:** 2026-08-03
 
 ## Category Distribution
 | Category | Count |
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-03 — Fresh results and AI-content checks
+- **Added:** No companies. Three source-backed candidates were evaluated after the required sync.
+- **Rejected:** IBM (+75.0%) and BIDU (+13.5%) failed adjusted price gates. DEEZR.PA was active, split-clean, non-duplicate, and price-qualified (-65.1%), but H1 2026 results showed stable revenue, direct-subscriber growth, sustained profitability, and AI detection becoming a differentiator and potential revenue stream rather than primary operating damage.
+- **Search note:** Stopped after the bounded three-candidate catalyst pass. Do not retry Deezer without evidence that AI-generated music is materially hurting subscriptions, revenue, margins, or guidance.
 
 ## Session Log: 2026-07-31 — Staffing filing catalyst
 - **Added:** JOB (GEE Group) — Business Services / Staffing & Recruitment. Active NYSE American listing, no duplicate or split actions, and down about 72.5% adjusted ($0.75 to $0.2065).
@@ -139,9 +144,3 @@
 - **Rejected / rechecked:** Standing leads failed again on adjusted yfinance checks: TRI (-22.8%) remains below the adjusted gate with capital-return/share-consolidation distortion, DOCU (-1.2%) failed the price gate, SFIX (+17.0%) and DUOL (+101.7%) were above pre-ChatGPT. A narrow source-first follow-up also failed price gates: current AI/software pressure names CRM (+3.4%), SGE.L (+2.8%), BLZE (+149.8%), and DBX (+17.5%) were above baseline, while CPI.L (-16.1%) was too modest and has a 2025 consolidation/split complication. MITK (+74.2%) was also above baseline and looks more like an AI/deepfake-fraud beneficiary than victim.
 - **Search approaches used:** 2 of 5 (standing leads; narrow source-first AI/software and AI-search-adjacent checks). Stopped after the second approach produced another run of price-gate failures, per the repeated-failure rule.
 - **Observation:** Today's cleanest lesson is negative: even fresh AI-anxiety coverage is mostly hitting large software names that remain above pre-ChatGPT. Next run should not recheck CRM/SGE.L/BLZE/DBX soon; wait for a named company-level revenue, guidance, pricing, usage, or staffing hit before running prices.
-
-## Session Log: 2026-06-23
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads still failed or remain monitor-only: TRI remains below the adjusted gate with capital-return distortion, DOCU/SFIX/DUOL failed price gates. Source-first software checks again found price-qualified but non-clean stories: WK, APPN, PCTY, EGHT, ICFI, NA9.DE, GFT.DE, ADN1.DE, ATE.PA, and DOTD.L lacked fresh evidence that AI is the primary operating-pressure cause rather than product adoption, sector weakness, or already-known objections. Thin education checks found PSON.L, EDU, TAL, GOTU, AFYA above baseline, COUR already listed, and YQ still price-qualified but dominated by China tutoring regulation / reverse-split / AI-as-product issues. GAMB was price-qualified and not duplicated, but no company-level AI-search or AI Overview revenue/guidance catalyst was found.
-- **Search approaches used:** 4 of 5 (standing leads; source-first software/AI-risk follow-up; thin education screen; publisher/affiliate AI-search spot check). Candidate checks exceeded the intended 15-company boundary, so search stopped with no add.
-- **Observation:** Do not spend the next run on another broad price batch. The best next path is a named fresh catalyst with explicit AI-linked guidance, revenue, pricing, usage, or staffing pressure; then duplicate-check and price-check only that company or its closest peer.
