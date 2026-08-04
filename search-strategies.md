@@ -1,7 +1,8 @@
 # Search Strategies
-
 ## Tried
-
+### 2026-08-04: Existing monitors plus thin-category current results
+- **Result:** No companies added in 6 evaluations across 2 approaches. GDYN, FDM.L, and ZOO.L stayed price-qualified but current evidence contradicted an AI-primary casualty thesis. INTU failed the adjusted price gate (-13.2%). COUR (-54.4%) and NRDS (-30.4%) were active and split-clean, but Coursera grew revenue 9% on AI-skills demand and NerdWallet's direct AI-search headwind remained channel-specific while Consumer revenue grew 10% and profitability improved.
+- **Verdict:** Current primary results are the right filter for old price-qualified monitors. Do not promote a direct AI channel headwind into a company-wide casualty thesis when total revenue, demand, and profitability show resilience; stop after the second three-candidate failure run.
 ### 2026-08-03: Fresh results and AI-content checks
 - **Result:** No companies added in 3 evaluations. IBM (+75.0%) and BIDU (+13.5%) failed adjusted price gates. DEEZR.PA cleared the gate (-65.1%) and was active/split-clean/non-duplicate, but current results contradicted an AI-primary casualty thesis: stable revenue, growing direct subscribers, sustained profitability, and AI detection positioned as differentiation and a possible revenue stream.
 - **Verdict:** A visible AI-content problem is not necessarily disruption of the platform hosting it. For streaming platforms, require measurable subscriber, revenue, margin, or guidance damage caused by generative content before adding; stop after the bounded catalyst pass rather than broadening.

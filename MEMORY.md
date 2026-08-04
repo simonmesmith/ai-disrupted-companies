@@ -1,9 +1,7 @@
 # AI Disruption Index - Memory
-
 ## Current State
 - **Company count:** 70
-- **Last updated:** 2026-08-03
-
+- **Last updated:** 2026-08-04
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +27,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-04 — Monitor and thin-category refresh
+- **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
+- **Rejected:** GDYN, FDM.L, and ZOO.L remained price-qualified but current results still showed AI-led demand, AI skills as a client opportunity, or AI-enabled cost improvement rather than primary external displacement. INTU failed the adjusted price gate at -13.2%. COUR (-54.4%) and NRDS (-30.4%) cleared it, but Coursera reported 9% revenue growth and strong AI-skills demand, while NerdWallet's directly acknowledged AI-search traffic pressure was offset by 10% Consumer revenue growth and stronger profitability.
+- **Search note:** Stopped after the second three-candidate failure run. NerdWallet is the strongest causal signal of the session, but do not add until AI Overviews/LLMs cause broader sustained revenue, margin, or guidance damage rather than a channel-specific headwind that growth elsewhere offsets.
 
 ## Session Log: 2026-08-03 — Fresh results and AI-content checks
 - **Added:** No companies. Three source-backed candidates were evaluated after the required sync.
