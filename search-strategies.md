@@ -1,5 +1,9 @@
 # Search Strategies
 ## Tried
+### 2026-08-05: Fresh catalysts plus education/training thin-category check
+- **Result:** No companies added in 6 evaluations across 2 approaches. TRIP was a duplicate; KELYA (-3.6%) and 2483.T failed adjusted gates. Insource (6200.T, -53.7%) cleared the price gate but latest revenue/profit grew and AI/DX strengthened. FranklinCovey reported higher training/coaching revenue and AI-linked demand, while McGraw Hill lacks a pre-ChatGPT baseline after its 2025 IPO and reported growing results.
+- **Verdict:** Investor attribution of a stock decline to AI is only market fear until operating evidence confirms displacement. Current results must override a plausible workflow thesis when they show AI-led demand, growth, or a clearly identified internal cause; stop after the second three-candidate failure run.
+
 ### 2026-08-04: Existing monitors plus thin-category current results
 - **Result:** No companies added in 6 evaluations across 2 approaches. GDYN, FDM.L, and ZOO.L stayed price-qualified but current evidence contradicted an AI-primary casualty thesis. INTU failed the adjusted price gate (-13.2%). COUR (-54.4%) and NRDS (-30.4%) were active and split-clean, but Coursera grew revenue 9% on AI-skills demand and NerdWallet's direct AI-search headwind remained channel-specific while Consumer revenue grew 10% and profitability improved.
 - **Verdict:** Current primary results are the right filter for old price-qualified monitors. Do not promote a direct AI channel headwind into a company-wide casualty thesis when total revenue, demand, and profitability show resilience; stop after the second three-candidate failure run.
@@ -168,10 +172,6 @@
 ### 2026-06-30: Zero-find run — Concentrix/customer-service AI catalyst
 - **Result:** No companies added. Standing leads failed again. A fresh customer-service AI catalyst named Concentrix, but CNXC and peer Teleperformance are already listed. Closest peer checks found IBEX, HQI, and BZ failing price gates, while EXLS crossed the raw price gate but failed the AI-primary causal screen because public evidence still frames AI/data analytics as a growth engine.
 - **Verdict:** Customer-service AI catalysts are worth checking, but duplicate the CSV first. Do not retry EXLS without a company-level operating hit explicitly tied to AI replacing or compressing its services.
-
-### 2026-07-02: Zero-find run — S&P/software selloff plus China/HK spot checks
-- **Result:** No companies added across two July 2 runs. Standing leads failed again. Current S&P/software AI-selloff checks found INTU close but still short of the gate, CSGP price-qualified but non-clean on primary cause, ADBE/FDS/IT already listed, and most other named software/data stocks above baseline. A later named S&P decliner follow-up found FIS and LULU price-qualified, but FIS had fresh Anthropic partnership evidence that looked like AI-as-product/tailwind while LULU was a retail/earnings story. Property-services names from the Guardian AI-disruption selloff were mostly above baseline. China/HK enterprise-software spot checks found 0268.HK, 600588.SS, and 2013.HK price-qualified, but source checks lacked company-level AI-driven revenue/guidance damage.
-- **Verdict:** Intuit is worth monitoring only after a clear price-gate cross plus TurboTax-specific AI pressure. Do not use broad AI-selloff articles to justify China/HK enterprise-software, FIS, or LULU-style adds without operating evidence.
 
 ### 2026-07-03: Zero-find run — current software selloff plus FDM check
 - **Result:** No companies added. Standing leads failed again, INTU remained short of the price gate, and the current S&P/software AI-selloff names were either listed, price failures, or still blocked by prior primary-cause objections. FDM.L was a new severe-decline, active, split-clean screen, but source checks did not produce a company-level AI-primary operating catalyst.

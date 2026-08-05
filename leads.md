@@ -28,7 +28,7 @@
 
 ## Notes
 - **NCNO** and **CRTO** were evaluated on 2026-05-06 and moved to failed candidates; do not retry soon unless fundamentals or the AI thesis changes materially.
-- **Recent software/education screens** — WDAY (-6.8%) and ADSK (+5.1%) failed 2026-07-22 price gates; WAY lacks pre-ChatGPT history and current growth/AI-moat evidence contradicts a casualty thesis. UDMY was delisted after its Coursera merger; COUR remained price-qualified at -54.4% on 2026-08-04 but Q1 revenue grew 9% and AI-skills demand contradicted disruption. Do not retry without an operating reversal.
+- **Recent software/education screens** — WDAY (-6.8%) and ADSK (+5.1%) failed 2026-07-22 price gates; WAY lacks pre-ChatGPT history and current growth/AI-moat evidence contradicts a casualty thesis. UDMY was delisted after its Coursera merger; COUR remained price-qualified at -54.4% on 2026-08-04 but Q1 revenue grew 9% and AI-skills demand contradicted disruption. On 2026-08-05, Insource (6200.T) was price-qualified (-53.7%) but reported growing revenue/profit and stronger AI/DX services; FranklinCovey reported AI-linked demand, while McGraw Hill lacks a pre-ChatGPT baseline after its 2025 IPO. Do not retry without an operating reversal.
 - **TEP.PA** was added from the international BPO/contact-center peer angle; that cluster is now saturated.
 - **HAS.L** was added from the international staffing peer angle on 2026-05-07; staffing/recruitment is now also saturated.
 - **SFOR.L** was added from the digital advertising agency angle on 2026-05-08. Look for other ad-services names only where AI is clearly tied to client budget shift, creative/workflow automation, or agency labor-hour compression.

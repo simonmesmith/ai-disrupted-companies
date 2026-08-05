@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 70
-- **Last updated:** 2026-08-04
+- **Last updated:** 2026-08-05
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -27,6 +27,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-05 — Fresh catalysts and thin-category training check
+- **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
+- **Rejected:** TRIP was already listed. KELYA failed the adjusted gate at -3.6%, and 2483.T remained far above baseline. Insource (6200.T) was active, split-adjusted, non-duplicate, and price-qualified (-53.7%), but its latest revenue and profit grew and AI/DX services strengthened. FranklinCovey reported AI-linked demand and higher training/coaching revenue. McGraw Hill only listed in 2025 and has no pre-ChatGPT baseline, while FY2026 results grew.
+- **Search note:** Stopped after the second three-candidate failure run. A stock-price decline attributed by investors to AI is not enough when company results show AI demand, revenue growth, or an internal execution explanation.
 
 ## Session Log: 2026-08-04 — Monitor and thin-category refresh
 - **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
@@ -141,9 +146,3 @@
 - **Rejected / rechecked:** Standing leads failed again on adjusted yfinance checks: TRI (-23.6%) remained below the adjusted gate with capital-return/dividend distortion risk, DOCU (-2.7%) failed the price gate, and SFIX (+12.7%) plus DUOL (+84.2%) were above pre-ChatGPT. A live Salesforce / agency AI-risk thread also failed: CRM (+1.1%), STGW (-3.1%), and 2433.T (-11.1%) did not clear the price gate, while IPG and HAVAS.AS lacked usable active/pre-ChatGPT yfinance data. A bounded software AI-risk check found TEAM price-qualified (-36.4%) but already listed; GTLB (-27.0%) was still below the gate, ASAN was already listed, and FROG, DDOG, MDB, SNOW, FSLY, RNG, and ZM failed price gates; CFLT had no active yfinance data.
 - **Search approaches used:** 3 of 5 (standing leads; live Salesforce/agency AI-risk checks; bounded software/dev-tools AI-risk check). Stopped after repeated price/duplicate failures rather than expanding into another broad basket.
 - **Observation:** The live Salesforce selloff still has not crossed the adjusted price gate, and the only clean price-qualified software hit was an existing row. Next run should keep watching named live catalysts, but duplicate-check software/work-management names before research because this cluster is already heavily covered.
-
-## Session Log: 2026-06-24
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads failed again on adjusted yfinance checks: TRI (-22.8%) remains below the adjusted gate with capital-return/share-consolidation distortion, DOCU (-1.2%) failed the price gate, SFIX (+17.0%) and DUOL (+101.7%) were above pre-ChatGPT. A narrow source-first follow-up also failed price gates: current AI/software pressure names CRM (+3.4%), SGE.L (+2.8%), BLZE (+149.8%), and DBX (+17.5%) were above baseline, while CPI.L (-16.1%) was too modest and has a 2025 consolidation/split complication. MITK (+74.2%) was also above baseline and looks more like an AI/deepfake-fraud beneficiary than victim.
-- **Search approaches used:** 2 of 5 (standing leads; narrow source-first AI/software and AI-search-adjacent checks). Stopped after the second approach produced another run of price-gate failures, per the repeated-failure rule.
-- **Observation:** Today's cleanest lesson is negative: even fresh AI-anxiety coverage is mostly hitting large software names that remain above pre-ChatGPT. Next run should not recheck CRM/SGE.L/BLZE/DBX soon; wait for a named company-level revenue, guidance, pricing, usage, or staffing hit before running prices.
