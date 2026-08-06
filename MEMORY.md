@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 70
-- **Last updated:** 2026-08-05
+- **Last updated:** 2026-08-06
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -27,6 +27,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-06 — Staffing signal and translation duplicate check
+- **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
+- **Rejected / duplicate:** NRDS remained price-qualified (-34.0%) but its last reported revenue and profit still grew; Q2 results were scheduled after this run. TEAMLEASE.NS was active, split-clean, non-duplicate, and price-qualified (-49.4%), and its CFO said AI cut coding/testing demand 60-70%, but Q1 FY2027 revenue rose 5.8% and profit 31.4% as specialized staffing grew. RCH.L, RWS.L, APX.AX, and STG.AX were already listed; RWS's H1 revenue and EBITDA rose as AI-related revenue reached 32%.
+- **Search note:** Stopped after the second three-candidate failure run. A severe workflow-level decline does not qualify when current company-wide results show growth and the same AI shift is creating offsetting demand.
 
 ## Session Log: 2026-08-05 — Fresh catalysts and thin-category training check
 - **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
@@ -140,9 +145,3 @@
 - **Rejected / rechecked:** Standing leads failed adjusted yfinance checks again: TRI (-21.2%) remained below the gate with dividend/capital-return distortion, DOCU (-1.9%) failed the price gate, and SFIX (+16.5%) plus DUOL (+82.6%) were above pre-ChatGPT. A source-first AI-search/lead-gen check found TREE (+67.5%), EVER (+111.4%), and QNST (-2.2%) failing price gates; IAC had no current yfinance data in this run. GAMB remained deeply price-qualified (-79.1%) and not duplicated, but fresh source checks still did not find company-level evidence tying revenue/guidance/traffic pressure to AI search or AI Overviews.
 - **Search approaches used:** 3 of 5 (standing leads; AI-search/affiliate lead-gen duplicate and price checks; GAMB source follow-up). Stopped after repeated price failures and one price-qualified but thesis-weak candidate rather than broadening into another basket.
 - **Observation:** AI-search/lead-gen is plausible, but today's public names either trade above baseline or lack a company-level AI catalyst. Do not retry GAMB without explicit AI-search/AI Overview revenue, guidance, or traffic evidence.
-
-## Session Log: 2026-06-25
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads failed again on adjusted yfinance checks: TRI (-23.6%) remained below the adjusted gate with capital-return/dividend distortion risk, DOCU (-2.7%) failed the price gate, and SFIX (+12.7%) plus DUOL (+84.2%) were above pre-ChatGPT. A live Salesforce / agency AI-risk thread also failed: CRM (+1.1%), STGW (-3.1%), and 2433.T (-11.1%) did not clear the price gate, while IPG and HAVAS.AS lacked usable active/pre-ChatGPT yfinance data. A bounded software AI-risk check found TEAM price-qualified (-36.4%) but already listed; GTLB (-27.0%) was still below the gate, ASAN was already listed, and FROG, DDOG, MDB, SNOW, FSLY, RNG, and ZM failed price gates; CFLT had no active yfinance data.
-- **Search approaches used:** 3 of 5 (standing leads; live Salesforce/agency AI-risk checks; bounded software/dev-tools AI-risk check). Stopped after repeated price/duplicate failures rather than expanding into another broad basket.
-- **Observation:** The live Salesforce selloff still has not crossed the adjusted price gate, and the only clean price-qualified software hit was an existing row. Next run should keep watching named live catalysts, but duplicate-check software/work-management names before research because this cluster is already heavily covered.

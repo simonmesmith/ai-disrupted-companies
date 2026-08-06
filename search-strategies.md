@@ -1,5 +1,9 @@
 # Search Strategies
 ## Tried
+### 2026-08-06: Staffing signal plus translation/localization check
+- **Result:** No companies added in 6 evaluations across 2 approaches. NRDS (-34.0%) still lacked company-wide damage pending results after the run. TEAMLEASE.NS (-49.4%) had a direct CFO statement that AI cut coding/testing demand 60-70%, but Q1 revenue and profit grew on specialized staffing. RCH.L, RWS.L, APX.AX, and STG.AX were duplicates; RWS also reported AI-led growth.
+- **Verdict:** Direct workflow displacement is not enough when offsetting AI-related demand keeps company-wide revenue and profit growing. Check obvious translation/publisher duplicates before deep research and stop after the second three-candidate failure run.
+
 ### 2026-08-05: Fresh catalysts plus education/training thin-category check
 - **Result:** No companies added in 6 evaluations across 2 approaches. TRIP was a duplicate; KELYA (-3.6%) and 2483.T failed adjusted gates. Insource (6200.T, -53.7%) cleared the price gate but latest revenue/profit grew and AI/DX strengthened. FranklinCovey reported higher training/coaching revenue and AI-linked demand, while McGraw Hill lacks a pre-ChatGPT baseline after its 2025 IPO and reported growing results.
 - **Verdict:** Investor attribution of a stock decline to AI is only market fear until operating evidence confirms displacement. Current results must override a plausible workflow thesis when they show AI-led demand, growth, or a clearly identified internal cause; stop after the second three-candidate failure run.
@@ -43,10 +47,6 @@
 - **Result:** Found YOU.L (YouGov plc, -73.5%). Standing monitors and recent software/services checks failed price or primary-cause gates. Fresh publisher/AI Overviews evidence mostly hit already-listed or price-failing names, but market-research follow-up surfaced stronger 2026 evidence that AI bot farms are undermining online survey panels and that synthetic/AI research can substitute for paid quick-turnaround insight.
 - **Verdict:** Previously rejected market-research names can qualify if new evidence changes the causal bridge. The productive pattern was not broad price screening; it was revisiting a price-qualified monitor only after a fresh source tied AI to data quality, client trust, and product substitution. Next run should stay stricter on the 15-candidate cap.
 
-
-### 2026-04-17: Leads from memory + new candidate screening (digital presence, travel tech, education)
-- **Result:** Found YEXT (Yext Inc, -31.2%) — digital presence/listings management platform disrupted by AI search reducing value of traditional search listings. 45% of consumers now use AI for local recommendations. Organic revenue declining 2-4% annually. NRR 86%. Guidance suspended. Rejected SABR (-69.9%, GDS/debt not AI), APPS (-70.5%, Apple privacy not AI), TRVG (-12.4%, too modest), LOPE (+55.9%), MORN (recovered to -7.8%).
-- **Verdict:** The "AI search disruption" theme continues to produce candidates — YEXT joins TRIP, ZD, and ANGI as businesses whose value proposition is eroded by AI answering queries directly instead of directing users to traditional search results/listings. The key differentiator is whether the decline is truly AI-driven vs other factors (SABR=debt, APPS=Apple privacy). MORN has recovered significantly and should be dropped from monitoring. Travel tech (SABR, TRVG) didn't yield results — SABR is a debt/GDS story and TRVG's decline is too modest. For-profit education (LOPE) is thriving. AvidXchange (AVDX) and Stagwell (STGR) appear delisted — don't revisit.
 
 ### 2026-04-18: Leads from memory (NRDY) + web research for new candidates (DOMO + 4 leads)
 - **Result:** Found NRDY (Nerdy/Varsity Tutors, -55.2%) and DOMO (Domo Inc, -71.7%). Also identified 4 strong leads: CRNC (-51.1%, automotive voice AI), KNOS.L (-45.5%, UK IT services), RCH.L (-43.8%, UK publisher), APX.AX (-35.3%, AI training data).
