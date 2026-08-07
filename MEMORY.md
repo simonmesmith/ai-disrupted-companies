@@ -28,10 +28,10 @@
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
 
-## Session Log: 2026-08-07 — Canadian forum publisher AI-search hit
+## Session Log: 2026-08-07 — Canadian publisher add and bounded follow-up
 - **Added:** FORA.TO (VerticalScope Holdings) — Content & Media / Digital Publishing. Active TSX listing, split-clean, non-duplicate, and down 52.7% adjusted (C$5.50 to C$2.60).
 - **Evidence:** Management calls AI-mediated discovery a structural shift that has altered open-web referrals. FY2025 revenue fell 16% as MAU fell 23%; Q4 revenue fell 23% on lower search-driven programmatic ads; Q1 2026 revenue fell 15%, digital advertising 22%, and programmatic revenue 34%. Search algorithms, CPMs, comparisons, and browser video policies are co-drivers, while direct ads, e-commerce, AI tools, and licensing offset some damage.
-- **Search:** Four evaluations across two approaches. NRDS still grew total revenue 6% despite AI-search damage; AMS.MC failed the price gate; SABR grew revenue and operating income while using AI as travel infrastructure. A source-first TSX digital-publisher pass then produced the add.
+- **Search:** The first run used four evaluations across two approaches and produced the add after NRDS, AMS.MC, and SABR failed. A later six-evaluation follow-up stopped after two three-failure approaches: LSPD.TO was only -29.8% with prospective AI-search risk, YEXT was already represented and +8.9%, IBM was +83.1%, and current AI-search damage at RCH.L, LBG.L, and FUTR.L was duplicate evidence rather than a new company.
 
 ## Session Log: 2026-08-06 — Staffing signal and translation duplicate check
 - **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.

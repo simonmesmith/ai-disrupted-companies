@@ -1,8 +1,8 @@
 # Search Strategies
 ## Tried
-### 2026-08-07: Fresh results plus undercovered TSX digital publishers
-- **Result:** Found FORA.TO (VerticalScope Holdings, -52.7%) in 4 evaluations across 2 approaches. NRDS remained blocked by company-wide growth; AMS.MC failed the gate; price-qualified SABR reported growth and used AI as travel infrastructure. VerticalScope was active, split-clean, non-duplicate, and its filings tied AI-mediated discovery and altered search referrals to a 23% MAU decline, 16% FY2025 revenue decline, 23% Q4 revenue decline, and further Q1 2026 advertising weakness.
-- **Verdict:** Undercovered TSX digital publishers can still yield clean candidates when management explicitly connects AI-mediated discovery to referral loss and quantified revenue, audience, and programmatic-ad damage. Preserve mixed-causality language for algorithm changes, ad pricing, browser policies, and successful offsetting AI/e-commerce initiatives.
+### 2026-08-07: Fresh results, TSX publishers, and bounded follow-up
+- **Result:** The first run found FORA.TO (VerticalScope Holdings, -52.7%) in 4 evaluations across 2 approaches. A later 6-evaluation follow-up found no add: LSPD.TO was -29.8% with only prospective AI-search risk; YEXT and IBM failed adjusted gates at +8.9% and +83.1%; RCH.L, LBG.L, and FUTR.L had fresh AI-search damage but were duplicates.
+- **Verdict:** Undercovered publishers can still yield clean candidates when management connects AI discovery to quantified operating damage, but the obvious UK names are now duplicate-heavy. Check the CSV immediately and stop after the second three-failure approach rather than expanding the publisher basket.
 
 ### 2026-08-06: Staffing signal plus translation/localization check
 - **Result:** No companies added in 6 evaluations across 2 approaches. NRDS (-34.0%) still lacked company-wide damage pending results after the run. TEAMLEASE.NS (-49.4%) had a direct CFO statement that AI cut coding/testing demand 60-70%, but Q1 revenue and profit grew on specialized staffing. RCH.L, RWS.L, APX.AX, and STG.AX were duplicates; RWS also reported AI-led growth.
