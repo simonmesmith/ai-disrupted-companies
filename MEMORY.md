@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 ## Current State
-- **Company count:** 70
-- **Last updated:** 2026-08-06
+- **Company count:** 71
+- **Last updated:** 2026-08-07
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Software & SaaS | 15 |
 | Business Services | 23 |
-| Content & Media | 11 |
+| Content & Media | 12 |
 | Research & Analytics | 7 |
 | Marketing & Advertising | 7 |
 | Education | 2 |
@@ -27,6 +27,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-07 — Canadian forum publisher AI-search hit
+- **Added:** FORA.TO (VerticalScope Holdings) — Content & Media / Digital Publishing. Active TSX listing, split-clean, non-duplicate, and down 52.7% adjusted (C$5.50 to C$2.60).
+- **Evidence:** Management calls AI-mediated discovery a structural shift that has altered open-web referrals. FY2025 revenue fell 16% as MAU fell 23%; Q4 revenue fell 23% on lower search-driven programmatic ads; Q1 2026 revenue fell 15%, digital advertising 22%, and programmatic revenue 34%. Search algorithms, CPMs, comparisons, and browser video policies are co-drivers, while direct ads, e-commerce, AI tools, and licensing offset some damage.
+- **Search:** Four evaluations across two approaches. NRDS still grew total revenue 6% despite AI-search damage; AMS.MC failed the price gate; SABR grew revenue and operating income while using AI as travel infrastructure. A source-first TSX digital-publisher pass then produced the add.
 
 ## Session Log: 2026-08-06 — Staffing signal and translation duplicate check
 - **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
@@ -139,9 +144,3 @@
 - **Rejected / rechecked:** Standing leads failed adjusted yfinance checks again: TRI (-20.5%) stayed below the gate with dividend/capital-return distortion, DOCU (+3.5%) failed the price gate, and SFIX (+15.2%) plus DUOL (+78.9%) were above pre-ChatGPT. A brief extra software/friction price spot check found WDAY (-11.3%), INTU (-25.5%), and large-platform names MSFT/ORCL/COIN above baseline or off-thesis; GRPN was also far above baseline. A source-backed Anthropic/legal-tool selloff check found SGE.L (+5.1%), REL.L (+3.6%), LSEG.L (+0.8%), and PSON.L (+21.1%) all above pre-ChatGPT despite clear AI-risk headlines.
 - **Search approaches used:** 3 of 5 (standing leads; quick software/friction price spot check; named UK data/software AI-selloff check). Stopped at the practical 15-candidate budget with no price-qualified non-duplicate candidate.
 - **Observation:** The current Anthropic/legal-tool selloff is directionally relevant but still not enough for new adds because the named UK data/software stocks remain above their adjusted pre-ChatGPT baselines. Next run should wait for a named operating catalyst plus price-gate cross rather than rechecking the same large data/software basket.
-
-## Session Log: 2026-06-26
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads failed adjusted yfinance checks again: TRI (-21.2%) remained below the gate with dividend/capital-return distortion, DOCU (-1.9%) failed the price gate, and SFIX (+16.5%) plus DUOL (+82.6%) were above pre-ChatGPT. A source-first AI-search/lead-gen check found TREE (+67.5%), EVER (+111.4%), and QNST (-2.2%) failing price gates; IAC had no current yfinance data in this run. GAMB remained deeply price-qualified (-79.1%) and not duplicated, but fresh source checks still did not find company-level evidence tying revenue/guidance/traffic pressure to AI search or AI Overviews.
-- **Search approaches used:** 3 of 5 (standing leads; AI-search/affiliate lead-gen duplicate and price checks; GAMB source follow-up). Stopped after repeated price failures and one price-qualified but thesis-weak candidate rather than broadening into another basket.
-- **Observation:** AI-search/lead-gen is plausible, but today's public names either trade above baseline or lack a company-level AI catalyst. Do not retry GAMB without explicit AI-search/AI Overview revenue, guidance, or traffic evidence.
