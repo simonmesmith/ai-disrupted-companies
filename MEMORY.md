@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
-- **Company count:** 71
-- **Last updated:** 2026-08-07
+- **Company count:** 72
+- **Last updated:** 2026-08-10
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -13,11 +13,13 @@
 | Education | 2 |
 | Freelance Marketplaces | 4 |
 | Legal & Tax | 1 |
+| E-commerce & Marketplaces | 1 |
 
 ## Thin Categories (good targets for next session)
 - Legal & Tax (1): LAW
 - Freelance Marketplaces (4): FVRR, UPWK, FLN.AX, ALFRE.PA
 - Education (2): CHGG, NRDY
+- E-commerce & Marketplaces (1): FLWS
 
 ## Topic Files
 - `leads.md` — current watchlist and next-session candidates.
@@ -27,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-10 — AI-search e-commerce add
+- **Added:** FLWS (1-800-FLOWERS.COM) — E-commerce & Marketplaces / Specialty E-commerce. Active Nasdaq listing, split-clean, non-duplicate, and down 51.0% adjusted ($8.12 to $3.98).
+- **Evidence:** Fiscal Q2 guidance explicitly said AI-driven search content reduced organic visibility and direct traffic. Q3 revenue fell 11.6%, Consumer Floral & Gifts fell 18.7%, and management again cited search-result changes/direct-traffic pressure while guiding to a 10-12% full-year decline. Marketing pullback, comparisons, discretionary demand, tariffs, costs, and execution are material co-drivers.
+- **Search:** One source-first AI-search approach and three evaluations. TSQ failed the adjusted price gate (+13.3%); TXT.WA was price-qualified (-36.8%) but dollar revenue was nearly flat and Q1 ARR rebounded as AI agents were positioned as growth. FLWS cleared all gates.
 
 ## Session Log: 2026-08-07 — Canadian publisher add and bounded follow-up
 - **Added:** FORA.TO (VerticalScope Holdings) — Content & Media / Digital Publishing. Active TSX listing, split-clean, non-duplicate, and down 52.7% adjusted (C$5.50 to C$2.60).
@@ -138,9 +145,3 @@
 - **Rejected / rechecked:** Standing leads failed adjusted yfinance checks again: TRI (-23.3%) remained below the adjusted gate with dividend/capital-return distortion, DOCU (-0.4%) failed the price gate, and SFIX (+11.3%) plus DUOL (+74.2%) were above pre-ChatGPT. A live Concentrix/customer-service AI story was duplicate-heavy: CNXC and TEP.PA are already listed. Closest BPO/data peers did not work: IBEX (+17.5%), HQI (-14.8%), and BZ (-20.0%) failed price gates; EXLS now screened price-qualified (-31.0%) but the public/company evidence still frames AI and data analytics as a growth engine rather than primary external disruption.
 - **Search approaches used:** 3 of 5 (standing leads; named Concentrix/customer-service AI catalyst duplicate check; closest BPO/analytics peer price screen). Search drifted over the intended 15-candidate boundary after the peer screen, so stopped with no add rather than broadening further.
 - **Observation:** Fresh customer-service AI catalysts can still be useful, but the obvious public BPO names are already in the CSV or fail price/causality gates. Do not retry EXLS without a company-level source tying revenue, margin, usage, or guidance pressure to AI replacing its services.
-
-## Session Log: 2026-06-29
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads failed adjusted yfinance checks again: TRI (-20.5%) stayed below the gate with dividend/capital-return distortion, DOCU (+3.5%) failed the price gate, and SFIX (+15.2%) plus DUOL (+78.9%) were above pre-ChatGPT. A brief extra software/friction price spot check found WDAY (-11.3%), INTU (-25.5%), and large-platform names MSFT/ORCL/COIN above baseline or off-thesis; GRPN was also far above baseline. A source-backed Anthropic/legal-tool selloff check found SGE.L (+5.1%), REL.L (+3.6%), LSEG.L (+0.8%), and PSON.L (+21.1%) all above pre-ChatGPT despite clear AI-risk headlines.
-- **Search approaches used:** 3 of 5 (standing leads; quick software/friction price spot check; named UK data/software AI-selloff check). Stopped at the practical 15-candidate budget with no price-qualified non-duplicate candidate.
-- **Observation:** The current Anthropic/legal-tool selloff is directionally relevant but still not enough for new adds because the named UK data/software stocks remain above their adjusted pre-ChatGPT baselines. Next run should wait for a named operating catalyst plus price-gate cross rather than rechecking the same large data/software basket.
