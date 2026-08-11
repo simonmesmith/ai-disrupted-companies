@@ -1,5 +1,9 @@
 # Search Strategies
 ## Tried
+### 2026-08-11: Fresh catalysts plus AI-search operating checks
+- **Result:** No companies added in 6 evaluations across 2 approaches. INTU, BIDU, and TRN.L failed adjusted price gates. EFOR and RWA.L were deeply price-qualified but current results showed AI-led demand or cyclical hiring weakness with improving operations. People Inc had direct AI-search damage but no yfinance-compatible ticker with a continuous pre-ChatGPT baseline.
+- **Verdict:** A fresh disruption headline still needs both a qualifying adjusted price and non-contradictory company-wide damage. Stop after the second three-candidate failure run; do not broaden into another publisher, staffing, or SaaS basket without a named operating catalyst.
+
 ### 2026-08-07: Fresh results, TSX publishers, and bounded follow-up
 - **Result:** The first run found FORA.TO (VerticalScope Holdings, -52.7%) in 4 evaluations across 2 approaches. A later 6-evaluation follow-up found no add: LSPD.TO was -29.8% with only prospective AI-search risk; YEXT and IBM failed adjusted gates at +8.9% and +83.1%; RCH.L, LBG.L, and FUTR.L had fresh AI-search damage but were duplicates.
 - **Verdict:** Undercovered publishers can still yield clean candidates when management connects AI discovery to quantified operating damage, but the obvious UK names are now duplicate-heavy. Check the CSV immediately and stop after the second three-failure approach rather than expanding the publisher basket.
@@ -50,12 +54,6 @@
 ### 2026-07-10: Standing monitors plus publisher/market-research source follow-up
 - **Result:** Found YOU.L (YouGov plc, -73.5%). Standing monitors and recent software/services checks failed price or primary-cause gates. Fresh publisher/AI Overviews evidence mostly hit already-listed or price-failing names, but market-research follow-up surfaced stronger 2026 evidence that AI bot farms are undermining online survey panels and that synthetic/AI research can substitute for paid quick-turnaround insight.
 - **Verdict:** Previously rejected market-research names can qualify if new evidence changes the causal bridge. The productive pattern was not broad price screening; it was revisiting a price-qualified monitor only after a fresh source tied AI to data quality, client trust, and product substitution. Next run should stay stricter on the 15-candidate cap.
-
-
-### 2026-04-21: Research agent + broad candidate screening + "AI search death spiral" UK publishers
-- **Result:** Found FUTR.L (Future plc, -76.8%) — UK digital publisher (TechRadar, Tom's Guide, PC Gamer) whose affiliate/ecommerce revenue model is being destroyed by Google AI Overviews. Barclays downgraded, cut PT 55%. EBITDA margin collapsed from 30% to 24-25%. Rejected many: CRNC (recovering), DXC (secular decline predates AI), DHX (mixed AI angle), LEE (secular print decline), IHRT (streaming not AI), plus many delisted/up companies. Research agent identified FUTR.L, PCTY, DHX, and ETSY as top candidates.
-- **Verdict:** The "AI search death spiral" theme continues to be the most productive vein for new candidates — FUTR.L joins RCH.L, BZFD, ZD, TRIP, ANGI, and YEXT. The key insight is that different publisher sub-models face different degrees of disruption: FUTR.L's high-margin affiliate/ecommerce model (product reviews → purchase clicks) is more exposed than RCH.L's news advertising model because AI Overviews directly answer the product comparison queries that drive affiliate clicks. The research agent was very efficient — it parallelized web searches and returned 5 ranked candidates with disruption narratives in one shot. Using agents for broad exploration and then manually verifying the top pick is a productive workflow. Many companies with large stock declines (DXC, LEE, IHRT) don't qualify because the decline isn't AI-driven — always dig into primary cause.
-
 ### 2026-04-22: Leads from memory (RGP, ETSY)
 - **Result:** Found RGP (Resources Connection, -74.9%). ETSY rejected — AI is secondary to Temu/Shein competition.
 - **Verdict:** Consulting/professional staffing is a confirmed productive vein — RGP joins RHI, MAN, KFRC, KELYA, TBI in the staffing cluster. The key differentiator was CEO explicitly acknowledging AI reducing demand for operational accounting contract roles, plus Seeking Alpha's "structural threats from automation" downgrade. ETSY's AI-generated product flooding is real but not the primary decline driver.

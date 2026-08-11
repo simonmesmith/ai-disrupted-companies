@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 72
-- **Last updated:** 2026-08-10
+- **Last updated:** 2026-08-11
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-11 — Fresh catalyst and AI-search checks
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
+- **Rejected:** INTU (-8.8%), BIDU (+6.3%), and TRN.L (-22.2%) failed adjusted price gates. EFOR (-62.3%) and RWA.L (-77.6%) were active and split-clean, but current results showed AI-led demand or cyclical hiring weakness with improving operations rather than primary AI damage. People Inc had direct AI-search pressure but `PEOPLE` remained unavailable in yfinance and `IAC` lacked the required continuous baseline.
+- **Search note:** Stopped after the second three-candidate failure run. Fresh company-level catalysts remain the right entry point, but price-qualified names still need current operating damage that is not contradicted by AI-led growth, improving guidance, or a stronger cyclical cause.
 
 ## Session Log: 2026-08-10 — AI-search e-commerce add
 - **Added:** FLWS (1-800-FLOWERS.COM) — E-commerce & Marketplaces / Specialty E-commerce. Active Nasdaq listing, split-clean, non-duplicate, and down 51.0% adjusted ($8.12 to $3.98).
@@ -101,11 +106,6 @@
 - **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
 - **Rejected / rechecked:** A fresh Reuters/IBM software-budget catalyst did not clear the price gate for IBM (+72.1%), Bytes Technology (+3.5%), or Cognizant (-22.7%). Rackspace (+6.8%) also failed the gate and its guidance cut reflected exiting low-margin cloud resale while investing in enterprise AI; Treelogic lacked pre-ChatGPT history after a January 2026 IPO. A named logistics AI-selloff check found CHRW (+121.6%), LSTR (+34.0%), and EXPD (+61.9%) all above baseline.
 - **Search / observation:** Used 3 source-first approaches and 8 candidate evaluations, stopping after the final three-candidate price-gate failure. Today's IBM warning is a real sector catalyst; keep IBM as a long-range monitor despite its +72.1% adjusted price gap, and otherwise wait for company-level AI operating hits paired with stocks already below their Nov. 29, 2022 closes.
-
-## Session Log: 2026-07-13
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Fresh-catalyst checks found CRM (+15.2%), INTU (-20.7%), and PUBM (-8.1%) failing adjusted price gates; `PEOPLE` had no active yfinance listing, while IONOS and Waystar lacked pre-ChatGPT trading histories. A final market-research/localization check rejected SYS1.L and DLX because current results showed stable or growing revenue and positioned AI as a product/efficiency lever, not primary external disruption.
-- **Search / observation:** Used 3 focused approaches and stopped after repeated three-candidate failure runs. At 96 companies, wait for a named company-level AI-linked revenue, guidance, retention, pricing, utilization, or margin hit before another price screen.
 
 ## Session Log: 2026-07-10
 - **Added:** YOU.L (YouGov plc) — Research & Analytics / Market Research. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only. `YOU.L` was active, split-clean since pre-ChatGPT, not duplicated, and down about -73.5% adjusted (919.35p to 244.0p). The refreshed thesis supersedes the older rejection: evidence now ties YouGov-style online panel research to AI bot-farm/survey-farm data-quality damage and to synthetic/AI-generated research substitution risk, alongside non-AI pressures from GfK/Shopper integration, budgets, and management churn.
