@@ -1,5 +1,9 @@
 # Search Strategies
 ## Tried
+### 2026-08-12: Open-Internet ad-tech filing catalyst
+- **Result:** Found TEAD (Teads Holding Co., -82.1%) in 3 evaluations. TIG.L cleared the price gate but current recovery and an AdSense-for-Domains transition defeated AI-primary causation; TBLA failed the price gate. TEAD was active, ticker-continuous, split-clean, non-duplicate, and its Q2 filing tied generative-AI-driven publisher traffic loss to lower inventory, advertiser buying, revenue, profit, and suspended guidance.
+- **Verdict:** Open-Internet intermediaries can qualify when filings complete the causal chain from AI answer surfaces to quantified publisher page-view loss and then to the intermediary's own revenue and margin damage. Preserve platform-policy, supply-quality, competition, advertiser, agency, and integration co-drivers.
+
 ### 2026-08-11: Fresh catalysts plus AI-search operating checks
 - **Result:** No companies added in 6 evaluations across 2 approaches. INTU, BIDU, and TRN.L failed adjusted price gates. EFOR and RWA.L were deeply price-qualified but current results showed AI-led demand or cyclical hiring weakness with improving operations. People Inc had direct AI-search damage but no yfinance-compatible ticker with a continuous pre-ChatGPT baseline.
 - **Verdict:** A fresh disruption headline still needs both a qualifying adjusted price and non-contradictory company-wide damage. Stop after the second three-candidate failure run; do not broaden into another publisher, staffing, or SaaS basket without a named operating catalyst.
@@ -142,10 +146,6 @@
 ### 2026-06-18: Zero-find run — software/data and ad-tech follow-up
 - **Result:** No companies added. Standing leads failed again, current software/data AI-selloff names mostly failed price gates, Gartner was already listed, and open-web ad/publisher-adjacent checks produced no clean add. CRTO stayed under prior primary-cause objections; FLNT was reverse-split distorted; 2175.T, 3962.T, and 300413.SZ lacked a clean AI-primary catalyst despite price qualification.
 - **Verdict:** Yesterday's warning held: broad spot screens burn the candidate budget. Next run should start from a new company-level catalyst that explicitly links AI to guidance, revenue, pricing, usage, or staffing pressure before doing yfinance batches.
-
-### 2026-06-19: Zero-find run — source-first duplicate and price checks
-- **Result:** No companies added. Standing leads failed again on adjusted pricing. Fresh software/data articles surfaced a price-qualified Dassault recheck, but DSY.PA was already listed. Similarweb was also already listed and currently above its pre-ChatGPT price. OpenText and brokerage/wealth-management names from the AI tax-planning scare failed price gates.
-- **Verdict:** Source-first remains better than broad baskets, but duplicate checks now need to happen immediately for obvious software/data names. Generic software or financial-services AI-scare articles are not enough; require a named, undercovered company with both below-baseline price action and company-specific AI pressure.
 
 ### 2026-06-22: Named AI-risk software framework screen
 - **Result:** Found NABL (N-able, -72.9%). Standing leads failed again. A named William Blair AI-era software downgrade screen produced one clean add: NABL was active, split-clean, not duplicated, and price-qualified; its MSP/RMM workflow is exposed to autonomous IT agents automating monitoring, ticket triage, patching, and remediation. Other named software names failed price gates: CRM, NOW, BLZE, AVPT, CVLT, VRNS, BOX, DBX, and NTNX.
