@@ -50,7 +50,7 @@
 | CCSI | Consensus Cloud Solutions | Down 51.8% but transitioning TO AI (Clarity AI data extraction), not disrupted by it. Fax business maturity, not AI disruption. | 2026-04-26 |
 | PLTK | Playtika | Down 56% but mobile gaming maturity, flat revenue ($2.76B), 15% staff cuts for cost structure. AI used for efficiency, not disrupting gaming. | 2026-04-26 |
 | BLKB | Blackbaud | Down 35.8% but SaaSpocalypse sentiment. Fundamentals improving — return to profitability, Rule of 40 achieved early. AI capabilities expanding. | 2026-04-26 |
-| CINT | CI&T | Down 41.9% but AI beneficiary — growing 19.3% YoY (5 consecutive quarters of double-digit organic growth). 2026 guide 12-16%. | 2026-04-26 |
+| CINT/BETCO.ST/CTM.ST/PERI/RAKE.ST/GVC.TO | Fresh filing and affiliate checks | CINT was price-qualified (-49.3%) but Q1 revenue grew 23.2% on AI deployment/monetization; BETCO.ST (-11.2%) and GVC.TO (+12.5%) failed price gates; CTM.ST was deeply price-qualified (-88.0%) but reported revenue growth and improved organic-search visibility; PERI was already listed; RAKE.ST (-90.7%) had severe declines primarily from a deliberate paid-publisher wind-down, regulation, and ordinary Google changes, while management had said it saw no AI-search impact. | 2026-08-13 |
 | PYPL | PayPal | Down 34.6% but decline from Apple Pay/Stripe/Shop Pay competition and eBay transition, not AI. Payments competition predates ChatGPT. | 2026-04-26 |
 | RMAX | RE/MAX | Down 58.2% but decline from high mortgage rates, low transaction volumes, agent defections to Compass/eXp. Housing market story, not AI. | 2026-04-26 |
 | CCRN | Cross Country Healthcare | Down 71.5% but post-COVID travel nursing normalization + failed Aya merger + $77.9M goodwill impairment. Not AI-related. | 2026-04-26 |

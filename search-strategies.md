@@ -1,13 +1,15 @@
 # Search Strategies
 ## Tried
+### 2026-08-13: Fresh filing plus affiliate/search checks
+- **Result:** No companies added in 6 evaluations across 2 approaches. CINT and CTM.ST were price-qualified but current results showed AI-led growth or improving organic search; BETCO.ST and GVC.TO failed price gates; PERI was a duplicate; RAKE.ST's severe decline was better explained by a paid-network wind-down, regulation, and ordinary Google changes, with management previously reporting no AI-search impact.
+- **Verdict:** Affiliate/search exposure alone is low-yield after the recent GAMB, FLWS, and TEAD adds. Require a fresh company-level causal statement connecting AI-mediated discovery to traffic, acquisition, revenue, guidance, or margins; stop after the second three-failure approach rather than expanding the basket.
+
 ### 2026-08-12: Open-Internet ad-tech filing catalyst
 - **Result:** Found TEAD (Teads Holding Co., -82.1%) in 3 evaluations. TIG.L cleared the price gate but current recovery and an AdSense-for-Domains transition defeated AI-primary causation; TBLA failed the price gate. TEAD was active, ticker-continuous, split-clean, non-duplicate, and its Q2 filing tied generative-AI-driven publisher traffic loss to lower inventory, advertiser buying, revenue, profit, and suspended guidance.
 - **Verdict:** Open-Internet intermediaries can qualify when filings complete the causal chain from AI answer surfaces to quantified publisher page-view loss and then to the intermediary's own revenue and margin damage. Preserve platform-policy, supply-quality, competition, advertiser, agency, and integration co-drivers.
-
 ### 2026-08-11: Fresh catalysts plus AI-search operating checks
 - **Result:** No companies added in 6 evaluations across 2 approaches. INTU, BIDU, and TRN.L failed adjusted price gates. EFOR and RWA.L were deeply price-qualified but current results showed AI-led demand or cyclical hiring weakness with improving operations. People Inc had direct AI-search damage but no yfinance-compatible ticker with a continuous pre-ChatGPT baseline.
 - **Verdict:** A fresh disruption headline still needs both a qualifying adjusted price and non-contradictory company-wide damage. Stop after the second three-candidate failure run; do not broaden into another publisher, staffing, or SaaS basket without a named operating catalyst.
-
 ### 2026-08-07: Fresh results, TSX publishers, and bounded follow-up
 - **Result:** The first run found FORA.TO (VerticalScope Holdings, -52.7%) in 4 evaluations across 2 approaches. A later 6-evaluation follow-up found no add: LSPD.TO was -29.8% with only prospective AI-search risk; YEXT and IBM failed adjusted gates at +8.9% and +83.1%; RCH.L, LBG.L, and FUTR.L had fresh AI-search damage but were duplicates.
 - **Verdict:** Undercovered publishers can still yield clean candidates when management connects AI discovery to quantified operating damage, but the obvious UK names are now duplicate-heavy. Check the CSV immediately and stop after the second three-failure approach rather than expanding the publisher basket.

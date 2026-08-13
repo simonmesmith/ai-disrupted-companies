@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 73
-- **Last updated:** 2026-08-12
+- **Last updated:** 2026-08-13
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-13 — Fresh filing and affiliate checks
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
+- **Rejected:** CINT (-49.3%) and CTM.ST (-88.0%) were active and split-clean but current results showed AI-led growth or improving organic-search performance. BETCO.ST (-11.2%) and GVC.TO (+12.5%) failed adjusted price gates. PERI was already listed. RAKE.ST (-90.7%) had severe revenue declines, but current reporting attributed them to a deliberate paid-publisher wind-down, regulation, and ordinary Google changes; management had said it saw no AI-search impact.
+- **Search note:** Stopped after the second three-candidate failure run. Affiliate/search exposure remains too duplicate-heavy or contradicted by company evidence; require a fresh company-level statement tying AI search to operating damage before revisiting this basket.
 
 ## Session Log: 2026-08-12 — Open-Internet ad-tech add
 - **Added:** TEAD (Teads Holding Co., formerly Outbrain) — Marketing & Advertising / Ad Tech. Active Nasdaq listing, continuous through the June 2025 ticker/name change, split-clean, non-duplicate, and down about 82.1% adjusted ($3.68 to $0.66).
@@ -139,9 +144,3 @@
 - **Rejected / rechecked:** Later standing-lead checks still failed adjusted yfinance gates: TRI (-19.7%) remained below the gate with dividend/capital-return distortion, DOCU (+2.7%) failed, and SFIX (+2.2%) plus DUOL (+77.7%) were above pre-ChatGPT. Earlier current S&P/software checks found INTU close but short of the gate; the later recheck still showed INTU short (-26.8%). A named S&P decliner screen produced price-qualified CSGP (-62.6%), TTD (-60.7%), FIS (-32.4%), and LULU (-67.4%), but none was a clean add: CSGP stayed a Homes.com/capital-allocation story, TTD remained under prior mixed ad-tech objections, FIS looked like an AI-product/Anthropic-partnership beneficiary rather than victim, and LULU was a retail/earnings story. ADBE/FDS/IT were already listed, while CRM/NOW/WDAY/NDAQ/SPGI/MCO/REL.L/LSEG.L/SGE.L/LDOS/BR/COIN failed price gates. HK/China software spot checks found price-qualified 0268.HK, 600588.SS, and 2013.HK, but no company-level AI-driven revenue/guidance damage.
 - **Search approaches used:** 3 of 5 in the earlier run plus 2 focused follow-ups in the later run (standing leads; named S&P decliner screen). Stopped after repeated price-gate and primary-cause failures rather than broadening.
 - **Observation:** Intuit remains the closest Legal & Tax-style monitor but still short of the adjusted gate; do not retry unless it crosses clearly below -30% and sources tie AI tax prep to TurboTax revenue, pricing, or guidance pressure. Do not use broad AI-selloff articles to justify China/HK enterprise-software, FIS, or LULU-style adds without operating evidence.
-
-## Session Log: 2026-06-30
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads failed adjusted yfinance checks again: TRI (-23.3%) remained below the adjusted gate with dividend/capital-return distortion, DOCU (-0.4%) failed the price gate, and SFIX (+11.3%) plus DUOL (+74.2%) were above pre-ChatGPT. A live Concentrix/customer-service AI story was duplicate-heavy: CNXC and TEP.PA are already listed. Closest BPO/data peers did not work: IBEX (+17.5%), HQI (-14.8%), and BZ (-20.0%) failed price gates; EXLS now screened price-qualified (-31.0%) but the public/company evidence still frames AI and data analytics as a growth engine rather than primary external disruption.
-- **Search approaches used:** 3 of 5 (standing leads; named Concentrix/customer-service AI catalyst duplicate check; closest BPO/analytics peer price screen). Search drifted over the intended 15-candidate boundary after the peer screen, so stopped with no add rather than broadening further.
-- **Observation:** Fresh customer-service AI catalysts can still be useful, but the obvious public BPO names are already in the CSV or fail price/causality gates. Do not retry EXLS without a company-level source tying revenue, margin, usage, or guidance pressure to AI replacing its services.
