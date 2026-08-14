@@ -1,5 +1,9 @@
 # Search Strategies
 ## Tried
+### 2026-08-14: Standing leads plus fresh filing checks
+- **Result:** No companies added in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, BIDU, and III failed adjusted price gates. ATG.AX cleared price, listing, split, and duplicate gates, but Articore did not connect declining organic revenue to AI and its current profit, margins, and guidance improved while AI was positioned as an advantage.
+- **Verdict:** Organic-search decline plus an external AI-search theory is not company-level causal evidence. Require explicit attribution from Articore or similarly exposed marketplaces and current revenue, margin, or guidance damage; stop after the second three-failure approach.
+
 ### 2026-08-13: Fresh filing plus affiliate/search checks
 - **Result:** No companies added in 6 evaluations across 2 approaches. CINT and CTM.ST were price-qualified but current results showed AI-led growth or improving organic search; BETCO.ST and GVC.TO failed price gates; PERI was a duplicate; RAKE.ST's severe decline was better explained by a paid-network wind-down, regulation, and ordinary Google changes, with management previously reporting no AI-search impact.
 - **Verdict:** Affiliate/search exposure alone is low-yield after the recent GAMB, FLWS, and TEAD adds. Require a fresh company-level causal statement connecting AI-mediated discovery to traffic, acquisition, revenue, guidance, or margins; stop after the second three-failure approach rather than expanding the basket.
@@ -160,10 +164,6 @@
 ### 2026-06-26: Zero-find run — AI-search lead-gen check
 - **Result:** No companies added. Standing leads failed again. A source-first AI-search/affiliate lead-gen check found TREE, EVER, and QNST failing price gates, IAC without current yfinance data, and GAMB still price-qualified but missing company-level evidence that AI search or AI Overviews are driving revenue, guidance, or traffic pressure.
 - **Verdict:** AI-search/lead-gen remains plausible but needs a named operating catalyst. Do not retry GAMB without explicit AI-search/AI Overview evidence, and avoid broad lead-gen price baskets unless the source names the company and the AI-linked pressure.
-
-### 2026-06-29: Zero-find run — standing leads plus Anthropic/legal-tool selloff names
-- **Result:** No companies added. Standing leads failed again, and the named UK data/software stocks hit by the Anthropic legal-tool selloff did not clear the price gate: SGE.L, REL.L, LSEG.L, and PSON.L were all above their adjusted Nov. 29, 2022 closes. A brief extra software/friction spot check also failed price gates or thesis gates.
-- **Verdict:** AI legal/professional-work automation is a real catalyst, but the large public data/software names remain too resilient on adjusted price. Do not re-run this basket soon unless one of the named stocks crosses below baseline or reports company-level revenue, margin, usage, or guidance pressure from AI.
 
 ### 2026-06-30: Zero-find run — Concentrix/customer-service AI catalyst
 - **Result:** No companies added. Standing leads failed again. A fresh customer-service AI catalyst named Concentrix, but CNXC and peer Teleperformance are already listed. Closest peer checks found IBEX, HQI, and BZ failing price gates, while EXLS crossed the raw price gate but failed the AI-primary causal screen because public evidence still frames AI/data analytics as a growth engine.

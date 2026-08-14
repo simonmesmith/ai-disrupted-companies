@@ -1,9 +1,9 @@
 # Leads for Next Session
 
 ## Promising Candidates to Monitor
-- **TRI (Thomson Reuters)** — Still fails the gate on 2026-07-22 (-15.0% adjusted), with the 0.963 consolidation and capital-return/dividend effects making raw comparisons misleading. Monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
-- **DOCU (DocuSign)** — Still fails the price gate as of 2026-07-22 (+8.1%). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses materially lower.
-- **SFIX (Stitch Fix)** — Fails the price gate as of 2026-07-09 (-7.6%). AI styling could threaten the human stylist model if fundamentals deteriorate later, but it does not clear even a basic below-baseline screen.
+- **TRI (Thomson Reuters)** — Still fails the gate on 2026-08-14 (-1.9% adjusted), with the 0.963 consolidation and capital-return/dividend effects making raw comparisons misleading. Monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
+- **DOCU (DocuSign)** — Still fails the price gate as of 2026-08-14 (+39.2%). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses materially lower.
+- **SFIX (Stitch Fix)** — Fails the price gate as of 2026-08-14 (-6.0%). AI styling could threaten the human stylist model if fundamentals deteriorate later, but it does not clear even a basic below-baseline screen.
 - **Legal & Tax thin category** — Only LAW remains after the historical evidence audit removed HRB and LZ for lack of primary AI operating pressure. WKL.AS remains in Research & Analytics / Professional Information; INTA was above pre-ChatGPT on 2026-06-08 and NOTE remains reverse-split distorted.
 - **Re-evaluate failed candidates periodically** — APX.AX/WIX patterns show borderline candidates can qualify as evidence and prices change, but the 2026-07-20 audit is the stronger guardrail: do not infer causation from exposure plus a falling stock when filings show AI-led growth or a better non-AI explanation.
 - **Software/data duplicate checks** — ADBE, IT, and CLVT remain in `companies.csv`; FDS and TENB were removed in the historical evidence audit after current results contradicted the casualty thesis.
@@ -27,6 +27,7 @@
 - **FORA.TO (VerticalScope Holdings)** — **ADDED 2026-08-07.** Do not retry. Qualified after filings linked AI-mediated discovery and altered search referrals to lower traffic, programmatic ads, revenue, MAU, and EBITDA.
 - **TTD (The Trade Desk)** — Price-qualified at about -57.1% on 2026-05-15 and has analyst AI/open-internet concern, but rejected again because the current evidence is mixed: agency fallout, competitive pressure, ad-spend headwinds, Kokai AI pricing friction, and still-growing revenue. Revisit only if future filings or downgrades explicitly tie sustained revenue deterioration to AI-driven ad buying/search displacement.
 - **ZOO.L (ZOO Digital Group)** — Rejected again on 2026-08-04 despite deep price qualification. Current reporting shows localization recovery and treats AI/automation as a route to better margins, while streaming-industry flux and content mix remain stronger causes. Revisit only if filings or analyst coverage explicitly tie revenue deterioration to AI dubbing/localization replacing paid services.
+- **ATG.AX (Articore Group / Redbubble)** — Price-qualified (-50.9%), active, split-clean, and non-duplicate on 2026-08-14, but company reporting tied declining marketplace/organic revenue to weak consumer demand without attributing it to AI; FY26 profit and guidance improved and management framed AI as an advantage. Revisit only after explicit AI-search attribution plus renewed revenue, margin, or guidance damage.
 
 ## Notes
 - **NCNO** and **CRTO** were evaluated on 2026-05-06 and moved to failed candidates; do not retry soon unless fundamentals or the AI thesis changes materially.
