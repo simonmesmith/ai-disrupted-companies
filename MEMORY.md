@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 73
-- **Last updated:** 2026-08-14
+- **Last updated:** 2026-08-18
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-18 — Standing leads and filing-led checks
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
+- **Rejected:** TRI (-4.5%), DOCU (+34.7%), SFIX (-14.4%), FLYW (-11.1%), and DHX (-22.8%) failed adjusted price gates. ASGN had no active ticker after becoming EFOR; that successor was already rejected on 2026-08-11 because current results showed AI-led demand rather than primary disruption.
+- **Search note:** Stopped after the second three-candidate failure run. Flywire's filing provided a direct second-order thesis—AI substitution for education clients could reduce payment volume—but risk disclosure without a qualifying price or demonstrated operating damage is not enough. Continue prioritizing fresh company-level results over theoretical filing exposure.
 
 ## Session Log: 2026-08-17 — AI-search and Legal & Tax checks
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
@@ -138,9 +143,3 @@
 - **Rejected / rechecked:** Standing leads and recent monitors consumed the 15-candidate cap with no clean add: TRI (-17.7%) remained below the adjusted gate with dividend/capital-return distortion, DOCU (+1.3%) and DUOL (+93.4%) failed, SFIX (-1.8%) was too modest, INTU stayed close but short (-28.2%), GAMB remained price-qualified (-80.8%) but lacked company-level AI-search evidence, FDM.L stayed price-qualified (-85.4%) but still lacked AI-primary consultant-demand evidence, and EXLS no longer cleared the adjusted gate after split adjustment (-26.4%). A fresh agency/media pass from current JPMorgan "AI cannibalization" framing found OMC/PUB.PA/STGW/SAA.L/2433.T failing price gates and WPP.L/SFOR.L already listed.
 - **Search approaches used:** 2 of 5 (standing/monitor recheck; agency/media cannibalization check). Stopped at 15 candidate evaluations with no qualifying non-duplicate.
 - **Observation:** Intuit remains closest but still needs a clear -30%+ adjusted cross plus TurboTax-specific AI pressure. Do not re-run generic agency/media baskets soon; only revisit from a named company-level guidance, revenue, or margin hit.
-
-## Session Log: 2026-07-03
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads still failed adjusted gates: TRI (-15.5%) remained below the gate with the prior capital-return/share-consolidation distortion, DOCU (+2.7%), SFIX (+0.5%), and DUOL (+88.9%) failed. INTU remained close but short (-25.7%). Current AI/software selloff names were mostly duplicates, prior rejects, or price failures: ADBE and DSY.PA were listed; CRM, NOW, SGE.L, REL.L, LSEG.L, PSON.L, LDOS, BR, and COIN failed price gates; CSGP, TTD, FIS, and LULU remained under the same primary-cause objections as July 2. FDM.L was newly screened and price-qualified (-85.5%), active, and split-clean, but rejected because current evidence did not clearly tie its consultant-demand collapse to AI rather than weak IT hiring/client budget cycles. SKIL stayed reverse-split distorted.
-- **Search approaches used:** 3 of 5 (standing lead re-check; named current software/S&P AI-selloff duplicate and price checks; thin education/IT talent spot check). Search stopped after the practical candidate budget was exhausted without a clean non-duplicate AI-primary candidate.
-- **Observation:** FDM.L is tempting on price and workflow exposure, but do not add without a company-level source linking revenue, consultant utilization, guidance, or client demand pressure to AI replacing junior tech work. Keep avoiding broad S&P/software selloff rechecks unless a name has crossed the adjusted gate and has an operating catalyst.
