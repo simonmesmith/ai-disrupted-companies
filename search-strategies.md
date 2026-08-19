@@ -1,5 +1,9 @@
 # Search Strategies
 ## Tried
+### 2026-08-19: Fresh AI-search filing and acquisition catalyst
+- **Result:** Found LZ (LegalZoom, -33.6%) in one source-first approach and three evaluations. ZDGE failed the price gate (+27.3%) and its Emojipedia risk remained prospective; PPLI failed the gate (-3.8%). LZ was active, split-clean, non-duplicate, and its Q2 release cut the 2026 revenue-outlook midpoint by $20M for the shift away from traditional search while transaction revenue turned negative.
+- **Verdict:** Revisit an audited-out candidate only when both gates materially change. LegalZoom's total revenue, subscriptions, and margins still grew, so retain those counterweights; the qualifying change is the combination of a below-baseline price, AI-search customer-acquisition pressure, lower transaction revenue, and a direct outlook cut.
+
 ### 2026-08-18: Standing leads plus filing-led exposure checks
 - **Result:** No companies added in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, FLYW, and DHX failed adjusted price gates; ASGN had become EFOR, whose current AI-led demand had already defeated the casualty thesis.
 - **Verdict:** Filings can reveal non-obvious second-order exposure, as Flywire's education-payment risk did, but prospective risk language is only a lead. Require a qualifying price and demonstrated company-level revenue, volume, margin, or guidance damage before deepening the thesis; stop after the second three-failure run.
@@ -171,10 +175,6 @@
 ### 2026-06-30: Zero-find run — Concentrix/customer-service AI catalyst
 - **Result:** No companies added. Standing leads failed again. A fresh customer-service AI catalyst named Concentrix, but CNXC and peer Teleperformance are already listed. Closest peer checks found IBEX, HQI, and BZ failing price gates, while EXLS crossed the raw price gate but failed the AI-primary causal screen because public evidence still frames AI/data analytics as a growth engine.
 - **Verdict:** Customer-service AI catalysts are worth checking, but duplicate the CSV first. Do not retry EXLS without a company-level operating hit explicitly tied to AI replacing or compressing its services.
-
-### 2026-07-06: Zero-find run — standing leads plus agency/media cannibalization check
-- **Result:** No companies added. Standing leads and recent monitors filled eight candidate slots with no clean add: INTU stayed close but short of the adjusted gate, TRI/DOCU/SFIX/DUOL/EXLS failed price gates, and GAMB/FDM.L remained price-qualified but thesis-weak. A current JPMorgan AI-cannibalization source pointed to software, business services, and media, but the focused agency/media pass was duplicate-heavy or above baseline: OMC, PUB.PA, 2433.T, STGW, and SAA.L failed price gates; WPP.L and SFOR.L were already listed.
-- **Verdict:** Generic AI-cannibalization sector calls are not enough at this stage. Use them only to identify named company-level operating catalysts; broad agency/media baskets are now low-yield unless a company has a fresh guidance, revenue, or margin hit tied directly to AI.
 
 ### 2026-07-08/09: Zero-find runs — monitors plus tight software checks
 - **Result:** No companies added. July 9 rechecked standing monitors after the required sync: INTU remained closest but still short of the adjusted gate; GAMB/FDM.L stayed price-qualified but thesis-weak; G/Genpact was already listed. A small IT-services/software pass found GDYN price-qualified, active, split-clean, and not duplicated, but without company-level evidence tying the decline primarily to AI reducing software-development demand. UPLD/CXM were generic/non-clean software selloff stories, while SMAR/BIGC/DNB lacked active yfinance data.

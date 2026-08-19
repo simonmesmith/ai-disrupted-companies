@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
-- **Company count:** 73
-- **Last updated:** 2026-08-18
+- **Company count:** 74
+- **Last updated:** 2026-08-19
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -12,11 +12,11 @@
 | Marketing & Advertising | 8 |
 | Education | 2 |
 | Freelance Marketplaces | 4 |
-| Legal & Tax | 1 |
+| Legal & Tax | 2 |
 | E-commerce & Marketplaces | 1 |
 
 ## Thin Categories (good targets for next session)
-- Legal & Tax (1): LAW
+- Legal & Tax (2): LAW, LZ
 - Freelance Marketplaces (4): FVRR, UPWK, FLN.AX, ALFRE.PA
 - Education (2): CHGG, NRDY
 - E-commerce & Marketplaces (1): FLWS
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-19 — AI-search acquisition catalyst
+- **Added:** LZ (LegalZoom.com) — Legal & Tax / Legal Tech. Active, split-clean, non-duplicate, and down 33.6% adjusted ($8.83 to $5.86).
+- **Evidence:** LegalZoom cut its 2026 revenue-outlook midpoint from $820M to $800M specifically for the shift away from traditional search; transaction revenue fell 1% in Q2 and management expects a high-single- to low-double-digit full-year decline. Total revenue, subscriptions, margins, and cash flow still grew, so the row states mixed funnel pressure rather than company-wide collapse.
+- **Search:** One fresh AI-search filing/results approach and three evaluations. ZDGE failed the price gate (+27.3%) despite prospective Emojipedia traffic risk; PPLI failed the gate (-3.8%). New Q2 evidence superseded LZ's July rejection by adding both a qualifying price and a direct guidance/acquisition hit.
 
 ## Session Log: 2026-08-18 — Standing leads and filing-led checks
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
@@ -137,9 +142,3 @@
 - **Rejected / rechecked:** Standing monitors failed again on adjusted yfinance checks: TRI (-15.4%) stayed below the gate with capital-return/share-consolidation distortion, DOCU (+3.0%) failed, SFIX (-4.2%) was too modest, DUOL (+92.9%) was far above baseline, INTU (-26.1%) remained close but short, and EXLS (-24.1%) failed after split-adjusted pricing. GAMB (-81.0%) and FDM.L (-85.6%) stayed price-qualified but still lacked company-level AI-primary evidence. A tight fresh-catalyst/software check found GTLB already listed and only -17.2%; APPN (-35.2%), EGHT (-53.6%), and DCBO (-39.9%) price-qualified but still non-clean because current evidence frames AI as product/adoption or broader software/UCaaS pressure rather than primary external disruption. CARG was far above baseline; GCI and TIXT lacked active yfinance data.
 - **Search approaches used:** 3 of 5 (standing/monitor recheck; fresh AI-software/source check; small software/communications/LMS price screen). Stopped at the 15-candidate cap with no qualifying non-duplicate.
 - **Observation:** The next run should not re-run APPN/EGHT/DCBO without a fresh company-level revenue, guidance, retention, or margin hit explicitly tied to external AI displacement. INTU remains the closest monitor but still needs a clear adjusted -30% cross plus TurboTax-specific AI pressure.
-
-## Session Log: 2026-07-06
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing leads and recent monitors consumed the 15-candidate cap with no clean add: TRI (-17.7%) remained below the adjusted gate with dividend/capital-return distortion, DOCU (+1.3%) and DUOL (+93.4%) failed, SFIX (-1.8%) was too modest, INTU stayed close but short (-28.2%), GAMB remained price-qualified (-80.8%) but lacked company-level AI-search evidence, FDM.L stayed price-qualified (-85.4%) but still lacked AI-primary consultant-demand evidence, and EXLS no longer cleared the adjusted gate after split adjustment (-26.4%). A fresh agency/media pass from current JPMorgan "AI cannibalization" framing found OMC/PUB.PA/STGW/SAA.L/2433.T failing price gates and WPP.L/SFOR.L already listed.
-- **Search approaches used:** 2 of 5 (standing/monitor recheck; agency/media cannibalization check). Stopped at 15 candidate evaluations with no qualifying non-duplicate.
-- **Observation:** Intuit remains closest but still needs a clear -30%+ adjusted cross plus TurboTax-specific AI pressure. Do not re-run generic agency/media baskets soon; only revisit from a named company-level guidance, revenue, or margin hit.
