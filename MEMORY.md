@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 74
-- **Last updated:** 2026-08-19
+- **Last updated:** 2026-08-20
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-20 — Standing leads and AI-exposed platform checks
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
+- **Rejected:** TRI (+0.9% adjusted), DOCU (+39.8%), SFIX (-12.6%), and DTOL.TO (+59.2%) failed price gates. CMRC (-72.6%) and AMN (-71.5%) were active, split-clean, and non-duplicate, but Commerce.com reported 14% GMV growth, improving retention, consecutive GAAP profitability, and an AI-commerce product pivot; AMN tied its 8% language-services pricing decline to market competition and a lower-cost tier while acquiring AI-enabled interpretation capability.
+- **Search note:** Stopped after the second three-candidate failure run. A ticker change can reopen a mechanical screen, as BIGC becoming CMRC did, but a newly available qualifying price still needs company-level evidence that external AI displacement—not an AI product transition or ordinary competition—is driving operating damage.
 
 ## Session Log: 2026-08-19 — AI-search acquisition catalyst
 - **Added:** LZ (LegalZoom.com) — Legal & Tax / Legal Tech. Active, split-clean, non-duplicate, and down 33.6% adjusted ($8.83 to $5.86).
