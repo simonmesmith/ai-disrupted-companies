@@ -1,5 +1,9 @@
 # Search Strategies
 ## Tried
+### 2026-08-21: Standing leads plus fresh-results duplicate check
+- **Result:** No companies added in 6 evaluations across 2 approaches. TRI, DOCU, and SFIX failed adjusted price gates; GETY and ZD were duplicates. PERF cleared price, listing, split, and duplicate gates, but its H1 revenue, gross profit, and profitability improved as AI demand offset an AI-competition-driven subscriber decline, and a pending going-private deal muddied the price signal.
+- **Verdict:** Current earnings searches in publishing and AI-exposed apps are duplicate-heavy. Check the CSV before deep research, and do not treat subscriber pressure as primary disruption when company-wide revenue and economics are improving on AI-led demand; stop after the second three-failure run.
+
 ### 2026-08-20: Standing leads plus AI-exposed platform checks
 - **Result:** No companies added in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, and DTOL.TO failed adjusted price gates. CMRC and AMN were active, split-clean, non-duplicate, and deeply price-qualified, but current results tied their weakness to an AI-commerce product transition and ordinary competition/lower-tier pricing rather than external AI displacement.
 - **Verdict:** Ticker changes can reopen mechanical screens—BIGC becoming CMRC resolved the prior data gap—but price qualification is not causal evidence. For language services, lower pricing alone is insufficient when the company identifies conventional competition and is adding AI capability; stop after the second three-failure run.
@@ -167,10 +171,6 @@
 ### 2026-06-25: Zero-find run — live AI-risk checks hit price and duplicate gates
 - **Result:** No companies added. Standing leads failed again on adjusted prices: TRI remained short of the gate, DOCU was near flat, and SFIX/DUOL were above pre-ChatGPT. A live Salesforce selloff / AI-software thread failed because CRM was still slightly above pre-ChatGPT. Agency checks did not clear the gate or lacked usable data. A bounded software/dev-tools check found TEAM price-qualified but already present in `companies.csv`; the rest either failed price gates, were duplicates, or had no active yfinance data.
 - **Verdict:** Source-first live catalyst monitoring is still the right method, but the most obvious software/work-management hits are already in the index. For the next run, check duplicates immediately for software names and do not retry CRM unless the adjusted price moves clearly below the Nov. 29, 2022 close.
-
-### 2026-06-26: Zero-find run — AI-search lead-gen check
-- **Result:** No companies added. Standing leads failed again. A source-first AI-search/affiliate lead-gen check found TREE, EVER, and QNST failing price gates, IAC without current yfinance data, and GAMB still price-qualified but missing company-level evidence that AI search or AI Overviews are driving revenue, guidance, or traffic pressure.
-- **Verdict:** AI-search/lead-gen remains plausible but needs a named operating catalyst. Do not retry GAMB without explicit AI-search/AI Overview evidence, and avoid broad lead-gen price baskets unless the source names the company and the AI-linked pressure.
 
 ### 2026-06-30: Zero-find run — Concentrix/customer-service AI catalyst
 - **Result:** No companies added. Standing leads failed again. A fresh customer-service AI catalyst named Concentrix, but CNXC and peer Teleperformance are already listed. Closest peer checks found IBEX, HQI, and BZ failing price gates, while EXLS crossed the raw price gate but failed the AI-primary causal screen because public evidence still frames AI/data analytics as a growth engine.

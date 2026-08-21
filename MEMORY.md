@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 74
-- **Last updated:** 2026-08-20
+- **Last updated:** 2026-08-21
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-21 — Standing leads and fresh-results duplicate check
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
+- **Rejected:** TRI (+0.6% adjusted), DOCU (+39.1%), and SFIX (-12.6%) failed price gates. GETY and ZD had fresh AI-search evidence but were already listed. PERF was active, split-clean, non-duplicate, and -74.4%; AI-app competition reduced subscribers 14.6%, but first-half revenue grew 5.9%, gross profit 12.7%, and AI demand drove subscriptions and improved profitability, while a pending going-private deal complicates the stock signal.
+- **Search note:** Stopped after the second three-candidate failure run. Fresh earnings searches are increasingly duplicate-heavy; check the CSV immediately, and reject a price-qualified AI competitor when current company-wide results still show AI-led growth and improving economics.
 
 ## Session Log: 2026-08-20 — Standing leads and AI-exposed platform checks
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
@@ -141,9 +146,3 @@
 - **Added:** YOU.L (YouGov plc) — Research & Analytics / Market Research. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only. `YOU.L` was active, split-clean since pre-ChatGPT, not duplicated, and down about -73.5% adjusted (919.35p to 244.0p). The refreshed thesis supersedes the older rejection: evidence now ties YouGov-style online panel research to AI bot-farm/survey-farm data-quality damage and to synthetic/AI-generated research substitution risk, alongside non-AI pressures from GfK/Shopper integration, budgets, and management churn.
 - **Rejected / rechecked:** Standing monitors still failed or stayed thesis-weak: TRI (-13.3% with split/capital-return distortion), DOCU (+10.0%), SFIX (-7.9%), DUOL (+94.4%), INTU (-25.5%), and EXLS (-23.8%) failed adjusted gates; GAMB (-81.0%), FDM.L (-85.2%), GDYN (-49.9%), UPLD (-93.3%), and CXM (-33.2%) were price-qualified or near-qualified but lacked a fresh company-level AI-primary operating hit. Publisher/search names from fresh AI Overviews evidence mostly failed gates, lacked active yfinance data, or were already listed.
 - **Search / observation:** Search exceeded the intended 15-candidate boundary after a publisher/market-research follow-up, so stop early next run if standing monitors plus one source-first approach do not produce a clean candidate. YouGov was added only because new 2026 evidence materially strengthened the previously rejected AI-primary bridge.
-
-## Session Log: 2026-07-08
-- **Added:** No companies. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only.
-- **Rejected / rechecked:** Standing monitors failed again on adjusted yfinance checks: TRI (-15.4%) stayed below the gate with capital-return/share-consolidation distortion, DOCU (+3.0%) failed, SFIX (-4.2%) was too modest, DUOL (+92.9%) was far above baseline, INTU (-26.1%) remained close but short, and EXLS (-24.1%) failed after split-adjusted pricing. GAMB (-81.0%) and FDM.L (-85.6%) stayed price-qualified but still lacked company-level AI-primary evidence. A tight fresh-catalyst/software check found GTLB already listed and only -17.2%; APPN (-35.2%), EGHT (-53.6%), and DCBO (-39.9%) price-qualified but still non-clean because current evidence frames AI as product/adoption or broader software/UCaaS pressure rather than primary external disruption. CARG was far above baseline; GCI and TIXT lacked active yfinance data.
-- **Search approaches used:** 3 of 5 (standing/monitor recheck; fresh AI-software/source check; small software/communications/LMS price screen). Stopped at the 15-candidate cap with no qualifying non-duplicate.
-- **Observation:** The next run should not re-run APPN/EGHT/DCBO without a fresh company-level revenue, guidance, retention, or margin hit explicitly tied to external AI displacement. INTU remains the closest monitor but still needs a clear adjusted -30% cross plus TurboTax-specific AI pressure.
