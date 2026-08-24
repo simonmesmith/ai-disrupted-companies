@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 74
-- **Last updated:** 2026-08-21
+- **Last updated:** 2026-08-24
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-24 — Standing leads and fresh-catalyst price screen
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
+- **Rejected:** TRI (+3.5% adjusted), DOCU (+40.4%), SFIX (-13.9%), YELP (-19.5%), MORN (-5.1%), and QNST (+47.4%) all failed the adjusted price gate. TRI's 0.963 consolidation remains a comparison complication; the other five had no post-ChatGPT split distortion.
+- **Search note:** Stopped after the second three-candidate failure run. A fresh August catalyst scan mostly surfaced AI beneficiaries or already-listed publishers; keep using company-level operating damage as the entry point, but run the adjusted price and duplicate gates before deep research.
 
 ## Session Log: 2026-08-21 — Standing leads and fresh-results duplicate check
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
@@ -109,11 +114,6 @@
 - **Added:** JOB (GEE Group) — Business Services / Staffing & Recruitment. Active NYSE American listing, no duplicate or split actions, and down about 72.5% adjusted ($0.75 to $0.2065).
 - **Evidence:** GEE's latest 10-Q says AI is disrupting its staffing markets and contributing to fewer job orders and placements; six-month contract-staffing revenue fell 21%, or 10% excluding a lost acquired client. Macro weakness and the client loss are material co-drivers, while direct-hire revenue and margins improved.
 - **Search:** One fresh-results/filings approach and one candidate evaluation. Direct company attribution plus operating figures produced the add; do not broaden staffing further without the same high bar.
-
-## Session Log: 2026-07-24/30 — Fresh results checks
-- **Added:** No companies. The later July 30 run evaluated three publishers in one bounded source-first approach after the earlier three-candidate earnings check and July 24's four-company check.
-- **Rejected / duplicate:** USA Today Co (`TDAY`, formerly Gannett) was active and split-clean but up 270.7% adjusted; its latest digital revenue and online traffic were growing. Media Chinese International (`0685.HK`, -5.9%) disclosed that AI content farms divert programmatic ads and free AI alternatives pressure subscriptions, but failed the adjusted price gate. Meta Media (`0072.HK`, -16.7%) also failed the gate, with flat revenue and AI framed as strategic investment rather than external displacement. The earlier July 30 `RWA.L`/`DOTD.L`/`RAND.AS` conclusions remain unchanged.
-- **Observation:** International publisher filings can expose unusually direct AI risks, but price-gate first once the causal language is found. Stop after three failures rather than expanding into a generic publisher basket.
 
 ## Session Log: 2026-07-20 — Historical evidence audit
 - **Reviewed:** All 97 rows, including recovered names. Kept 46 unchanged, rewrote 22 mixed cases, and removed 29 weak/speculative cases; no companies were added. The final index has 68 rows: 66 Active and 2 Recovered (`KFRC`, `YEXT`).
