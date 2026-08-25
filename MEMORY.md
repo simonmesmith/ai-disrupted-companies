@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 74
-- **Last updated:** 2026-08-24
+- **Last updated:** 2026-08-25
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,10 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-25 — Standing leads and Indian IT-services downgrade screen
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync. TRI (-0.5% adjusted), DOCU (+35.9%), SFIX (-17.0%), Wipro (-3.0%), Mphasis (+33.1%), and Tech Mahindra (+65.9%) all failed adjusted price gates; Wipro's 2024 2-for-1 action was reflected in adjusted prices.
+- **Search note:** Stopped after the second three-candidate failure run. A fresh CLSA AI-disruption downgrade named Wipro and Mphasis, but the mechanical gate prevented a deeper causal screen; do not broaden the saturated Indian IT-services basket without a named company-level operating hit and a major price reversal.
 
 ## Session Log: 2026-08-24 — Standing leads and fresh-catalyst price screen
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
@@ -104,11 +108,6 @@
 - **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
 - **Rejected:** GDYN, FDM.L, and ZOO.L remained price-qualified but current results still showed AI-led demand, AI skills as a client opportunity, or AI-enabled cost improvement rather than primary external displacement. INTU failed the adjusted price gate at -13.2%. COUR (-54.4%) and NRDS (-30.4%) cleared it, but Coursera reported 9% revenue growth and strong AI-skills demand, while NerdWallet's directly acknowledged AI-search traffic pressure was offset by 10% Consumer revenue growth and stronger profitability.
 - **Search note:** Stopped after the second three-candidate failure run. NerdWallet is the strongest causal signal of the session, but do not add until AI Overviews/LLMs cause broader sustained revenue, margin, or guidance damage rather than a channel-specific headwind that growth elsewhere offsets.
-
-## Session Log: 2026-08-03 — Fresh results and AI-content checks
-- **Added:** No companies. Three source-backed candidates were evaluated after the required sync.
-- **Rejected:** IBM (+75.0%) and BIDU (+13.5%) failed adjusted price gates. DEEZR.PA was active, split-clean, non-duplicate, and price-qualified (-65.1%), but H1 2026 results showed stable revenue, direct-subscriber growth, sustained profitability, and AI detection becoming a differentiator and potential revenue stream rather than primary operating damage.
-- **Search note:** Stopped after the bounded three-candidate catalyst pass. Do not retry Deezer without evidence that AI-generated music is materially hurting subscriptions, revenue, margins, or guidance.
 
 ## Session Log: 2026-07-31 — Staffing filing catalyst
 - **Added:** JOB (GEE Group) — Business Services / Staffing & Recruitment. Active NYSE American listing, no duplicate or split actions, and down about 72.5% adjusted ($0.75 to $0.2065).

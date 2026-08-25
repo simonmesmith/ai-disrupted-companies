@@ -1,5 +1,7 @@
 # Search Strategies
 ## Tried
+### 2026-08-25: Standing leads plus named Indian IT-services downgrades
+- **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, WIPRO.NS, MPHASIS.NS, and TECHM.NS all failed adjusted price gates; stop after the second three-failure run and do not broaden this saturated basket without a named operating hit plus a major price reversal.
 ### 2026-08-24: Standing leads plus fresh-catalyst price screen
 - **Result:** No companies added in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, YELP, MORN, and QNST all failed adjusted price gates; the fresh August scan otherwise surfaced AI beneficiaries or already-listed publisher/search casualties.
 - **Verdict:** Stop after the second three-failure approach. Keep source-first catalyst discovery, but immediately run adjusted price and duplicate checks before researching the causal thesis; do not broaden a publisher/search basket after its first three mechanical failures.
