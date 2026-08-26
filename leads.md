@@ -1,9 +1,9 @@
 # Leads for Next Session
 
 ## Promising Candidates to Monitor
-- **TRI (Thomson Reuters)** — Fails the gate on 2026-08-25 (-0.5% adjusted), with the 0.963 consolidation and capital-return/dividend effects making raw comparisons misleading. Monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
-- **DOCU (DocuSign)** — Still fails the price gate as of 2026-08-25 (+35.9%). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses materially lower.
-- **SFIX (Stitch Fix)** — Fails the price gate as of 2026-08-25 (-17.0%). AI styling could threaten the human stylist model if fundamentals deteriorate later, but it does not clear even a basic below-baseline screen.
+- **TRI (Thomson Reuters)** — Fails the gate on 2026-08-26 (-2.4% adjusted), with the 0.963 consolidation and capital-return/dividend effects making raw comparisons misleading. Monitor only if the adjusted decline deepens materially past ~30% and legal-AI pressure is tied to operating weakness.
+- **DOCU (DocuSign)** — Still fails the price gate as of 2026-08-26 (+33.1%). Citi downgrade and e-signature commoditization thesis are plausible only if price crosses materially lower.
+- **SFIX (Stitch Fix)** — Fails the price gate as of 2026-08-26 (-17.0%). AI styling could threaten the human stylist model if fundamentals deteriorate later, but it does not clear even a basic below-baseline screen.
 - **Legal & Tax thin category** — LZ was **ADDED 2026-08-19** after new Q2 evidence superseded its audit rejection: it crossed the adjusted price gate and cut guidance for AI-driven changes in customer discovery. LAW also remains listed. NXL.AX, INTA, INTU, HRB, and NOTE remain blocked by price, growth, or split/causal issues; do not retry LZ.
 - **Re-evaluate failed candidates periodically** — APX.AX/WIX patterns show borderline candidates can qualify as evidence and prices change, but the 2026-07-20 audit is the stronger guardrail: do not infer causation from exposure plus a falling stock when filings show AI-led growth or a better non-AI explanation.
 - **Software/data duplicate checks** — ADBE, IT, and CLVT remain in `companies.csv`; FDS and TENB were removed in the historical evidence audit after current results contradicted the casualty thesis.

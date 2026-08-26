@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 74
-- **Last updated:** 2026-08-25
+- **Last updated:** 2026-08-26
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,10 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-26 — Standing leads and fresh CX/software results
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync. TRI (-2.4% adjusted), DOCU (+33.1%), SFIX (-17.0%), and TDC (-17.9%) failed price gates. TIXT had direct AI-linked legacy-services damage but was taken private and has no active listing; ZIP was active, split-clean, non-duplicate, and -72.4%, but Q2 revenue grew 5%, margins improved, guidance rose, and AI drove product adoption.
+- **Search note:** Stopped after the second three-candidate failure run. A direct AI operating hit cannot rescue an inactive ticker, and a deeply price-qualified marketplace still fails when current company-wide results show AI-enabled growth and improving economics.
 
 ## Session Log: 2026-08-25 — Standing leads and Indian IT-services downgrade screen
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync. TRI (-0.5% adjusted), DOCU (+35.9%), SFIX (-17.0%), Wipro (-3.0%), Mphasis (+33.1%), and Tech Mahindra (+65.9%) all failed adjusted price gates; Wipro's 2024 2-for-1 action was reflected in adjusted prices.
@@ -141,7 +145,3 @@
 - **Added:** No companies. Required escalated initial sync fast-forwarded only the automated price fields in `companies.csv`.
 - **Rejected / rechecked:** The fresh IBM software-budget warning did not clear adjusted price gates for IBM (+69.6%), CRM (+14.4%), NOW (+34.5% after its 5:1 split), or INTU (-23.1%). A same-day publisher-ad-supply report showed severe AI-search traffic pressure, but named/adjacent public publishers NWSA (+55.9%), NYT (+119.9%), and SCHL (+27.7%) were all above pre-ChatGPT.
 - **Search / observation:** Used 2 source-first approaches and 7 candidate evaluations, then stopped after the second three-candidate failure run. IBM remains a meaningful long-range signal, and publisher traffic pressure is strengthening, but wait for a named below-baseline company with a direct revenue or guidance hit.
-## Session Log: 2026-07-10
-- **Added:** YOU.L (YouGov plc) — Research & Analytics / Market Research. Required escalated initial sync fast-forwarded `companies.csv` with refreshed prices only. `YOU.L` was active, split-clean since pre-ChatGPT, not duplicated, and down about -73.5% adjusted (919.35p to 244.0p). The refreshed thesis supersedes the older rejection: evidence now ties YouGov-style online panel research to AI bot-farm/survey-farm data-quality damage and to synthetic/AI-generated research substitution risk, alongside non-AI pressures from GfK/Shopper integration, budgets, and management churn.
-- **Rejected / rechecked:** Standing monitors still failed or stayed thesis-weak: TRI (-13.3% with split/capital-return distortion), DOCU (+10.0%), SFIX (-7.9%), DUOL (+94.4%), INTU (-25.5%), and EXLS (-23.8%) failed adjusted gates; GAMB (-81.0%), FDM.L (-85.2%), GDYN (-49.9%), UPLD (-93.3%), and CXM (-33.2%) were price-qualified or near-qualified but lacked a fresh company-level AI-primary operating hit. Publisher/search names from fresh AI Overviews evidence mostly failed gates, lacked active yfinance data, or were already listed.
-- **Search / observation:** Search exceeded the intended 15-candidate boundary after a publisher/market-research follow-up, so stop early next run if standing monitors plus one source-first approach do not produce a clean candidate. YouGov was added only because new 2026 evidence materially strengthened the previously rejected AI-primary bridge.

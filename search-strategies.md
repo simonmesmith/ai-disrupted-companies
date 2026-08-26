@@ -1,5 +1,8 @@
 # Search Strategies
 ## Tried
+### 2026-08-26: Standing leads plus fresh CX/software results
+- **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, and TDC failed adjusted price gates; TIXT had unusually direct AI-automation damage but is no longer public; ZIP was deeply price-qualified but its latest revenue, margin, outlook, and AI-product adoption contradicted a casualty thesis. Stop after the second three-failure run; check listing status before causal work and require company-wide deterioration even when the price and workflow exposure look compelling.
+
 ### 2026-08-25: Standing leads plus named Indian IT-services downgrades
 - **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, WIPRO.NS, MPHASIS.NS, and TECHM.NS all failed adjusted price gates; stop after the second three-failure run and do not broaden this saturated basket without a named operating hit plus a major price reversal.
 ### 2026-08-24: Standing leads plus fresh-catalyst price screen
@@ -172,10 +175,6 @@
 ### 2026-06-25: Zero-find run — live AI-risk checks hit price and duplicate gates
 - **Result:** No companies added. Standing leads failed again on adjusted prices: TRI remained short of the gate, DOCU was near flat, and SFIX/DUOL were above pre-ChatGPT. A live Salesforce selloff / AI-software thread failed because CRM was still slightly above pre-ChatGPT. Agency checks did not clear the gate or lacked usable data. A bounded software/dev-tools check found TEAM price-qualified but already present in `companies.csv`; the rest either failed price gates, were duplicates, or had no active yfinance data.
 - **Verdict:** Source-first live catalyst monitoring is still the right method, but the most obvious software/work-management hits are already in the index. For the next run, check duplicates immediately for software names and do not retry CRM unless the adjusted price moves clearly below the Nov. 29, 2022 close.
-
-### 2026-06-30: Zero-find run — Concentrix/customer-service AI catalyst
-- **Result:** No companies added. Standing leads failed again. A fresh customer-service AI catalyst named Concentrix, but CNXC and peer Teleperformance are already listed. Closest peer checks found IBEX, HQI, and BZ failing price gates, while EXLS crossed the raw price gate but failed the AI-primary causal screen because public evidence still frames AI/data analytics as a growth engine.
-- **Verdict:** Customer-service AI catalysts are worth checking, but duplicate the CSV first. Do not retry EXLS without a company-level operating hit explicitly tied to AI replacing or compressing its services.
 
 ### 2026-07-08/09: Zero-find runs — monitors plus tight software checks
 - **Result:** No companies added. July 9 rechecked standing monitors after the required sync: INTU remained closest but still short of the adjusted gate; GAMB/FDM.L stayed price-qualified but thesis-weak; G/Genpact was already listed. A small IT-services/software pass found GDYN price-qualified, active, split-clean, and not duplicated, but without company-level evidence tying the decline primarily to AI reducing software-development demand. UPLD/CXM were generic/non-clean software selloff stories, while SMAR/BIGC/DNB lacked active yfinance data.
