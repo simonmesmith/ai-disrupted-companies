@@ -1,5 +1,8 @@
 # Search Strategies
 ## Tried
+### 2026-08-27: Standing leads plus publisher/search results
+- **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, and SFIX failed adjusted price gates; GCI lacked an active listing; SST and LEE were deeply price-qualified but current results showed a deliberate search-marketing pullback, resilient owned traffic, improving earnings, and AI-led product or efficiency gains rather than primary external displacement. Stop after the second three-failure run; publisher revenue contraction needs an explicit AI-to-company-wide-damage bridge.
+
 ### 2026-08-26: Standing leads plus fresh CX/software results
 - **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, and TDC failed adjusted price gates; TIXT had unusually direct AI-automation damage but is no longer public; ZIP was deeply price-qualified but its latest revenue, margin, outlook, and AI-product adoption contradicted a casualty thesis. Stop after the second three-failure run; check listing status before causal work and require company-wide deterioration even when the price and workflow exposure look compelling.
 
@@ -147,10 +150,6 @@
 ### 2026-06-05: Standing leads plus Indian IT-services monitor follow-up
 - **Result:** Found TCS.NS (Tata Consultancy Services Ltd, -35.3%). Standing and monitor price checks mostly failed or stayed under prior objections: TRI, DOCU, SFIX, HUBS, DUOL, BYIT.L, MONY.L, AUTO.L, RMV.L, QNST, YELP, MORN, SCHL, and GCI did not qualify on price/data. TCS had been the closest Indian IT-services monitor on 2026-05-29 and now crossed the price gate. Reuters and Jefferies evidence tied Indian IT-services pressure to AI automation, compressed project timelines, legacy application-services revenue deflation, and TCS's high application-services exposure. TCS's own FY2026 results showed dollar revenue down 0.5%, the first full-year dollar-revenue decline since listing, while headcount fell by 23,460 after a large layoff drive.
 - **Verdict:** Rechecking a specific prior monitor can work once the price gate moves, but broad Indian IT-services screens should remain limited. TCS is strong enough despite category saturation because it is the flagship Indian IT-services firm and now combines price qualification, direct AI-disruption analyst evidence, high application-services exposure, revenue decline, and headcount reduction. Treat future IT-services adds even more selectively.
-
-### 2026-06-09: Zero-find run — standing leads plus price-qualified monitor recheck
-- **Result:** No companies added. The 15-name pass found no clean add. Standing leads failed price or magnitude checks: TRI (-20.3%), DOCU (+2.8%), SFIX (+1.4%), HUBS (-27.3%), and DUOL (+85.8%). NRDY was already listed. TTD, NRDS, DATA.L, YOU.L, ZOO.L, RWA.L, ADEN.SW, and RAND.AS remained price-qualified or deeply down but did not overcome prior primary-cause objections.
-- **Verdict:** Rechecking old price-qualified monitors is now low-yield unless there is new company-specific evidence. For DATA.L/YouGov-style research and intelligence names, do not add simply because the stock is down: current materials still position AI as a product/platform advantage. For ZOO.L, require explicit AI dubbing/localization replacement evidence; for staffing names, require clear AI-driven revenue/guidance pressure because the category is saturated.
 
 ### 2026-06-10: Zero-find run — fresh catalyst scan plus broad price screens
 - **Result:** No companies added. Standing leads still failed. Fresh screens found price-qualified names in IT services, consulting, UCaaS, and media, but none had a clean AI-primary causal bridge. TIXT had no active yfinance data; ICFI, EGHT, NA9.DE, GFT.DE, ADN1.DE, ATE.PA, LEE, and MDIA were rejected or deferred for primary-cause/category-saturation reasons.
