@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 74
-- **Last updated:** 2026-08-27
+- **Last updated:** 2026-08-28
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,10 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-28 — Standing leads and fresh publisher/ad-tech results
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync. TRI (+1.2% adjusted), DOCU (+43.6%), and SFIX (-17.7%) failed price gates. CRTO was active, split-clean, non-duplicate, and -33.3%, but Q2 evidence framed AI/OpenAI commerce as a growth strategy rather than the cause of its decline. PEOPLE had direct AI-search traffic damage but no active yfinance listing. AREN was active, split-clean, non-duplicate, and -91.7%, but its Q2 filing framed AI as the core of a new growth pivot rather than external displacement.
+- **Search note:** Stopped after the second three-candidate failure run. Fresh publisher and ad-tech results can show both severe declines and direct AI exposure, but require an active continuous listing plus primary evidence that external AI caused company-wide revenue, margin, or guidance damage.
 
 ## Session Log: 2026-08-27 — Standing leads and publisher/search results
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync. TRI (-0.1% adjusted), DOCU (+43.2%), and SFIX (-19.1%) failed price gates. GCI had no active yfinance listing. SST was active, non-duplicate, and -96.4% adjusted after its 1:10 split, but its revenue decline followed a deliberate search-marketing pullback while owned-property traffic grew and AI-agent products launched. LEE was active, split-clean, non-duplicate, and -54.1%, but Q3 net income and adjusted EBITDA improved and management framed AI as an efficiency lever.
@@ -134,8 +138,3 @@
 - **Added:** GAMB (Gambling.com Group Limited) — Marketing & Advertising / Digital Media / Affiliate. Active, split-clean, not duplicated, and down about 82.4% adjusted (10.29 to 1.81). Management explicitly says AI Overviews reduce clicks and that AI's effects lowered expected search revenue; Q1 2026 then showed marketing revenue -5%, gross profit -11%, adjusted EBITDA -43%, cost of sales +171% from traffic diversification, reduced guidance, and a proposed 25% workforce cut. Regulation and Google algorithm volatility also contributed, so the row states the mixed causality.
 - **Rejected / rechecked:** INTU remained short of the gate (-23.9%); WIPRO.NS and the newly usable renamed ticker LTM.NS also failed adjusted gates. IAC now resolves to People Inc but lacks continuous pre-ChatGPT yfinance history after the corporate rename. FDM.L still framed AI skills as client demand rather than displacement, while GDYN reported strong AI revenue and demand.
 - **Search / observation:** Used 3 bounded approaches and 7 candidate evaluations. The productive move was revisiting a price-qualified monitor only after newly surfaced filings and management commentary completed the causal bridge from AI-search click loss to lower search-revenue expectations, weaker marketing results, higher acquisition costs, and guidance pressure.
-
-## Session Log: 2026-07-17
-- **Added:** No companies. Required escalated initial sync fast-forwarded only automated price fields in `companies.csv`.
-- **Rejected / rechecked:** IBM (+65.2%), INTU (-19.9%), and WDAY (+2.9%) failed adjusted price gates after the current AI software-budget warning. A thin-category source-first pass found UPLD deeply price-qualified (-92.9%) but still lacking evidence that external AI displacement is the primary cause of its revenue decline, with a 1:10 reverse split in June 2026 adding caution; LZ (-11.8%) and FUTR.L (-79.0%) were already listed, and LZ also failed the price gate.
-- **Search / observation:** Used 2 source-first approaches and 6 candidate evaluations, stopping after the second three-candidate failure run. Do not retry UPLD without a company-level AI-primary operating hit; generic revenue contraction plus AI-product positioning is not sufficient.
