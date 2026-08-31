@@ -1,5 +1,8 @@
 # Search Strategies
 ## Tried
+### 2026-08-31: Standing leads plus thin-category source checks
+- **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, and DAIO failed adjusted price gates. DND.TO and ETSY were active, split-clean, non-duplicate, and deeply price-qualified, but primary results attributed weakness to conventional market/customer factors or showed growth with AI discovery as an advantage. Stop after the second three-failure run; follow direct AI-linked operating evidence, but reject spending-shift names that miss price and thin-category names whose results contradict disruption.
+
 ### 2026-08-28: Standing leads plus fresh publisher/ad-tech results
 - **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, and SFIX failed adjusted price gates. CRTO and AREN were active, split-clean, non-duplicate, and deeply price-qualified, but current filings framed AI as a growth pivot rather than the cause of their declines; PEOPLE had direct AI-search traffic damage but no active listing. Stop after the second three-failure run and require active continuity plus an explicit external-AI-to-company-wide-damage bridge.
 
@@ -161,10 +164,6 @@
 ### 2026-06-16: Zero-find run — duplicate-heavy publisher and SaaS checks
 - **Result:** No companies added. Standing leads failed again on adjusted pricing. Narrow AI-search/publisher checks found FUTR.L already listed and MONY.L, AUTO.L, RMV.L, QNST, YELP, and MORN failing price gates; LEE/MDIA still looked like secular local-media/radio stories, not clean AI-search adds. A bounded SaaS/legal/fintech pass mostly hit already-listed names (ASAN, CXM, BILL, LAW, LZ, PAYC, PD, DOMO, BL, SSTK, PERI) or screen-stage rejects (SST reverse split, DOTD.L no AI-primary catalyst).
 - **Verdict:** Price-qualified fresh names now need a named catalyst before deep research. Duplicate checks should happen before source work in stock media, ad tech, SaaS, and digital publishing because many obvious AI-risk names are already in the CSV.
-
-### 2026-06-18: Zero-find run — software/data and ad-tech follow-up
-- **Result:** No companies added. Standing leads failed again, current software/data AI-selloff names mostly failed price gates, Gartner was already listed, and open-web ad/publisher-adjacent checks produced no clean add. CRTO stayed under prior primary-cause objections; FLNT was reverse-split distorted; 2175.T, 3962.T, and 300413.SZ lacked a clean AI-primary catalyst despite price qualification.
-- **Verdict:** Yesterday's warning held: broad spot screens burn the candidate budget. Next run should start from a new company-level catalyst that explicitly links AI to guidance, revenue, pricing, usage, or staffing pressure before doing yfinance batches.
 
 ### 2026-06-22: Named AI-risk software framework screen
 - **Result:** Found NABL (N-able, -72.9%). Standing leads failed again. A named William Blair AI-era software downgrade screen produced one clean add: NABL was active, split-clean, not duplicated, and price-qualified; its MSP/RMM workflow is exposed to autonomous IT agents automating monitoring, ticket triage, patching, and remediation. Other named software names failed price gates: CRM, NOW, BLZE, AVPT, CVLT, VRNS, BOX, DBX, and NTNX.

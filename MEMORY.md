@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 74
-- **Last updated:** 2026-08-28
+- **Last updated:** 2026-08-31
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,10 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-08-31 — Standing leads and thin-category source checks
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync. TRI (+2.3% adjusted), DOCU (+48.7%), SFIX (-17.0%), and DAIO (-29.5%) failed price gates. DND.TO was active, split-clean, non-duplicate, and -94.2%, but its filing attributed weakness to real-estate softness, customer losses, contract terms, and new entrants while using automation internally. ETSY was active, split-clean, non-duplicate, and -33.3%, but Q2 marketplace sales grew 7.5% and revenue 6.2% as AI discovery was positioned as incremental growth.
+- **Search note:** Stopped after the second three-candidate failure run. Capital-spending shifts toward AI can create direct demand pressure, but the price must qualify; price-qualified legal and marketplace names still need explicit external-AI operating damage rather than conventional competition or AI-enabled growth.
 
 ## Session Log: 2026-08-28 — Standing leads and fresh publisher/ad-tech results
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync. TRI (+1.2% adjusted), DOCU (+43.6%), and SFIX (-17.7%) failed price gates. CRTO was active, split-clean, non-duplicate, and -33.3%, but Q2 evidence framed AI/OpenAI commerce as a growth strategy rather than the cause of its decline. PEOPLE had direct AI-search traffic damage but no active yfinance listing. AREN was active, split-clean, non-duplicate, and -91.7%, but its Q2 filing framed AI as the core of a new growth pivot rather than external displacement.
