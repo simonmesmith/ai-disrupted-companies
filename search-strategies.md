@@ -1,5 +1,8 @@
 # Search Strategies
 ## Tried
+### 2026-09-01: Standing leads plus fresh filing-led checks
+- **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, NAH.L, and ZDGE failed adjusted price gates. DAIO crossed to -31.0%, but its latest quarter showed a 59% sequential revenue rebound, improved margins, a narrower loss, and an organic-growth framework, contradicting sustained AI-caused operating damage. Stop after the second three-failure run; recheck crossing monitors, but let fresher company-wide results override an older disruption signal.
+
 ### 2026-08-31: Standing leads plus thin-category source checks
 - **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, and DAIO failed adjusted price gates. DND.TO and ETSY were active, split-clean, non-duplicate, and deeply price-qualified, but primary results attributed weakness to conventional market/customer factors or showed growth with AI discovery as an advantage. Stop after the second three-failure run; follow direct AI-linked operating evidence, but reject spending-shift names that miss price and thin-category names whose results contradict disruption.
 

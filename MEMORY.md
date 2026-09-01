@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 74
-- **Last updated:** 2026-08-31
+- **Last updated:** 2026-09-01
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,10 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-01 — Standing leads and fresh filing-led checks
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync. TRI (+1.4% adjusted), DOCU (+45.1%), SFIX (-21.2%), NAH.L (-1.7%), and ZDGE (+33.5%) failed price gates. DAIO crossed to -31.0%, was active, split-clean, and non-duplicate, but Q2 revenue rebounded 59% sequentially, margins improved, losses narrowed, and management forecast organic growth; the 2025 AI/datacenter budget-reallocation pressure was not sustained current company-wide damage.
+- **Search note:** Stopped after the second three-candidate failure run. A prior monitor crossing the price threshold merits re-evaluation, but do not add when fresher results reverse the operating-damage thesis; direct AI-search damage at NAHL Group or Zedge still cannot overcome a non-qualifying stock price.
 
 ## Session Log: 2026-08-31 — Standing leads and thin-category source checks
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync. TRI (+2.3% adjusted), DOCU (+48.7%), SFIX (-17.0%), and DAIO (-29.5%) failed price gates. DND.TO was active, split-clean, non-duplicate, and -94.2%, but its filing attributed weakness to real-estate softness, customer losses, contract terms, and new entrants while using automation internally. ETSY was active, split-clean, non-duplicate, and -33.3%, but Q2 marketplace sales grew 7.5% and revenue 6.2% as AI discovery was positioned as incremental growth.
