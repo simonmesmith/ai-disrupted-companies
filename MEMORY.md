@@ -1,13 +1,13 @@
 # AI Disruption Index - Memory
 ## Current State
-- **Company count:** 74
-- **Last updated:** 2026-09-01
+- **Company count:** 75
+- **Last updated:** 2026-09-02
 ## Category Distribution
 | Category | Count |
 |---|---|
 | Software & SaaS | 15 |
 | Business Services | 23 |
-| Content & Media | 12 |
+| Content & Media | 13 |
 | Research & Analytics | 7 |
 | Marketing & Advertising | 8 |
 | Education | 2 |
@@ -29,6 +29,10 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-02 — Arena AI-search evidence recheck
+- **Added:** AREN (The Arena Group Holdings) — Content & Media / Digital Publishing. Active, split-clean, non-duplicate, and down 93.1% adjusted ($13.49 to $0.93). Q2 revenue fell 50.7%, gross profit 65.9%, and operating income 86.1%; the filing tied the decline primarily to search/referral traffic pressure, while management explicitly described LLM answer boxes as meaningful publisher disruption. AI products and automation are a defensive pivot; advertising seasonality, affiliate rates, debt, portfolio changes, and ordinary platform volatility remain co-drivers.
+- **Search:** Four evaluations across two approaches. TRI (+0.9%), DOCU (+46.7%), and SFIX (-19.1%) failed price gates. Fresh Q2 evidence completed AREN's causal bridge and superseded the Aug. 28 rejection; stop after the qualifying add.
 
 ## Session Log: 2026-09-01 — Standing leads and fresh filing-led checks
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync. TRI (+1.4% adjusted), DOCU (+45.1%), SFIX (-21.2%), NAH.L (-1.7%), and ZDGE (+33.5%) failed price gates. DAIO crossed to -31.0%, was active, split-clean, and non-duplicate, but Q2 revenue rebounded 59% sequentially, margins improved, losses narrowed, and management forecast organic growth; the 2025 AI/datacenter budget-reallocation pressure was not sustained current company-wide damage.
@@ -141,8 +145,3 @@
 ## Session Log: 2026-07-21/23 — Named AI-risk checks
 - **Added:** STEM.L (SThree plc) on July 23 — Business Services / Staffing & Recruitment. Active, split-clean, not duplicated, and down about 41.2% adjusted (408.67p to 240.5p). Current reporting tied lower software-development demand and Germany's 14% net-fee decline to companies moving toward AI; H1 group net fees fell 7%, Technology net fees fell 14%, and like-for-like pretax profit fell 75%. Macro, geopolitics, restructuring, and stronger demand for some AI-adjacent roles remain material counterweights.
 - **Search:** July 23 used one fresh-catalyst approach and two evaluations. IBM's new AI-spending warning strengthened its causal signal but it still failed the price gate at +56.2%; a same-week SThree results story produced the qualifying add. July 21-22's prior software-risk checks had found no add.
-
-## Session Log: 2026-07-20
-- **Added:** GAMB (Gambling.com Group Limited) — Marketing & Advertising / Digital Media / Affiliate. Active, split-clean, not duplicated, and down about 82.4% adjusted (10.29 to 1.81). Management explicitly says AI Overviews reduce clicks and that AI's effects lowered expected search revenue; Q1 2026 then showed marketing revenue -5%, gross profit -11%, adjusted EBITDA -43%, cost of sales +171% from traffic diversification, reduced guidance, and a proposed 25% workforce cut. Regulation and Google algorithm volatility also contributed, so the row states the mixed causality.
-- **Rejected / rechecked:** INTU remained short of the gate (-23.9%); WIPRO.NS and the newly usable renamed ticker LTM.NS also failed adjusted gates. IAC now resolves to People Inc but lacks continuous pre-ChatGPT yfinance history after the corporate rename. FDM.L still framed AI skills as client demand rather than displacement, while GDYN reported strong AI revenue and demand.
-- **Search / observation:** Used 3 bounded approaches and 7 candidate evaluations. The productive move was revisiting a price-qualified monitor only after newly surfaced filings and management commentary completed the causal bridge from AI-search click loss to lower search-revenue expectations, weaker marketing results, higher acquisition costs, and guidance pressure.

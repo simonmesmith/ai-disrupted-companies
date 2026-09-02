@@ -1,5 +1,8 @@
 # Search Strategies
 ## Tried
+### 2026-09-02: Standing leads plus fresh publisher evidence recheck
+- **Result / verdict:** Added AREN after 4 evaluations across 2 approaches. TRI, DOCU, and SFIX failed adjusted price gates. AREN was active, split-clean, non-duplicate, and -93.1%; its Q2 filing tied a 50.7% revenue decline and 65.9% gross-profit decline primarily to search/referral pressure, while management explicitly called LLM answer boxes meaningful disruption. A defensive AI pivot does not negate severe external AI-search damage when the causal bridge and company-wide deterioration are explicit.
+
 ### 2026-09-01: Standing leads plus fresh filing-led checks
 - **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, NAH.L, and ZDGE failed adjusted price gates. DAIO crossed to -31.0%, but its latest quarter showed a 59% sequential revenue rebound, improved margins, a narrower loss, and an organic-growth framework, contradicting sustained AI-caused operating damage. Stop after the second three-failure run; recheck crossing monitors, but let fresher company-wide results override an older disruption signal.
 
@@ -151,10 +154,6 @@
 ### 2026-06-02: Zero-find run — leads plus Citi application-software AI-risk screen
 - **Result:** No companies added. Standing/monitor leads failed again or remained under prior objections. A fresh Citi downgrade screen surfaced CCC (CCC Intelligent Solutions), which was active, not duplicated, no split actions, and price-qualified (-44.1%), but it failed the primary-cause test because current results show AI as a material growth/product driver: Q1 2026 revenue grew about 12%, guidance was raised, net retention remained above 100%, and AI solutions reached about 10% of revenue / a roughly $120M annualized run rate.
 - **Verdict:** Analyst AI-risk screens remain useful for generating names, but a downgrade plus price qualification is not enough. Require operating deterioration tied to external AI displacement, not just broad sector re-rating while company-level AI adoption is driving growth.
-
-### 2026-06-05: Standing leads plus Indian IT-services monitor follow-up
-- **Result:** Found TCS.NS (Tata Consultancy Services Ltd, -35.3%). Standing and monitor price checks mostly failed or stayed under prior objections: TRI, DOCU, SFIX, HUBS, DUOL, BYIT.L, MONY.L, AUTO.L, RMV.L, QNST, YELP, MORN, SCHL, and GCI did not qualify on price/data. TCS had been the closest Indian IT-services monitor on 2026-05-29 and now crossed the price gate. Reuters and Jefferies evidence tied Indian IT-services pressure to AI automation, compressed project timelines, legacy application-services revenue deflation, and TCS's high application-services exposure. TCS's own FY2026 results showed dollar revenue down 0.5%, the first full-year dollar-revenue decline since listing, while headcount fell by 23,460 after a large layoff drive.
-- **Verdict:** Rechecking a specific prior monitor can work once the price gate moves, but broad Indian IT-services screens should remain limited. TCS is strong enough despite category saturation because it is the flagship Indian IT-services firm and now combines price qualification, direct AI-disruption analyst evidence, high application-services exposure, revenue decline, and headcount reduction. Treat future IT-services adds even more selectively.
 
 ### 2026-06-10: Zero-find run — fresh catalyst scan plus broad price screens
 - **Result:** No companies added. Standing leads still failed. Fresh screens found price-qualified names in IT services, consulting, UCaaS, and media, but none had a clean AI-primary causal bridge. TIXT had no active yfinance data; ICFI, EGHT, NA9.DE, GFT.DE, ADN1.DE, ATE.PA, LEE, and MDIA were rejected or deferred for primary-cause/category-saturation reasons.
