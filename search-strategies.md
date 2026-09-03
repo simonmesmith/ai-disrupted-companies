@@ -1,5 +1,8 @@
 # Search Strategies
 ## Tried
+### 2026-09-03: Standing leads plus fresh AI-search/results checks
+- **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, PPLI, BIDU, and ZDGE all failed adjusted price gates. PPLI's yfinance history now follows the IAC ticker change continuously and its filing directly links Google AI Overviews to lower Core Sessions, but a -2.3% adjusted decline is not a crash; Baidu's AI growth offsets online-marketing pressure. Stop after the second three-failure run and apply the mechanical gate before deep causal work even when the primary evidence is unusually direct.
+
 ### 2026-09-02: Standing leads plus fresh publisher evidence recheck
 - **Result / verdict:** Added AREN after 4 evaluations across 2 approaches. TRI, DOCU, and SFIX failed adjusted price gates. AREN was active, split-clean, non-duplicate, and -93.1%; its Q2 filing tied a 50.7% revenue decline and 65.9% gross-profit decline primarily to search/referral pressure, while management explicitly called LLM answer boxes meaningful disruption. A defensive AI pivot does not negate severe external AI-search damage when the causal bridge and company-wide deterioration are explicit.
 

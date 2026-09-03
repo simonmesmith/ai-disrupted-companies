@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 75
-- **Last updated:** 2026-09-02
+- **Last updated:** 2026-09-03
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,10 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-03 — Standing leads and fresh AI-search/results checks
+- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync. TRI (+6.5% adjusted), DOCU (+48.0%), SFIX (-19.6%), PPLI (-2.3%), BIDU (-4.1%), and ZDGE (+33.5%) all failed the adjusted price gate. PPLI now has continuous yfinance history through IAC's June ticker change and current primary filings directly tie lower Core Sessions to Google AI Overviews, but the stock decline remains far short of the required threshold; Baidu's latest results also show AI businesses offsetting online-marketing pressure.
+- **Search note:** Stopped after the second three-candidate failure run. Ticker continuity can reopen a mechanical screen, but direct AI-linked operating pressure still does not qualify without a stock decline greater than 30%; run the adjusted gate before deep causal work.
 
 ## Session Log: 2026-09-02 — Arena AI-search evidence recheck
 - **Added:** AREN (The Arena Group Holdings) — Content & Media / Digital Publishing. Active, split-clean, non-duplicate, and down 93.1% adjusted ($13.49 to $0.93). Q2 revenue fell 50.7%, gross profit 65.9%, and operating income 86.1%; the filing tied the decline primarily to search/referral traffic pressure, while management explicitly described LLM answer boxes as meaningful publisher disruption. AI products and automation are a defensive pivot; advertising seasonality, affiliate rates, debt, portfolio changes, and ordinary platform volatility remain co-drivers.
@@ -138,10 +142,6 @@
 - **Evidence:** GEE's latest 10-Q says AI is disrupting its staffing markets and contributing to fewer job orders and placements; six-month contract-staffing revenue fell 21%, or 10% excluding a lost acquired client. Macro weakness and the client loss are material co-drivers, while direct-hire revenue and margins improved.
 - **Search:** One fresh-results/filings approach and one candidate evaluation. Direct company attribution plus operating figures produced the add; do not broaden staffing further without the same high bar.
 
-## Session Log: 2026-07-20 — Historical evidence audit
-- **Reviewed:** All 97 rows, including recovered names. Kept 46 unchanged, rewrote 22 mixed cases, and removed 29 weak/speculative cases; no companies were added. The final index has 68 rows: 66 Active and 2 Recovered (`KFRC`, `YEXT`).
-- **Key corrections:** Removed rows contradicted by current AI-led growth or dominated by macro, product transitions, M&A, leadership, or migration causes. Rewrites now name material co-drivers. `ASGN` was inactive after the `EFOR` ticker change; split checks confirmed adjusted baselines for `LPSN`, `BZFD`, and `ANGI`.
-- **Durable record:** See `evidence-audit-2026-07-20.md` for every disposition, exact removal reasons, continuity checks, and primary evidence anchors.
 ## Session Log: 2026-07-21/23 — Named AI-risk checks
 - **Added:** STEM.L (SThree plc) on July 23 — Business Services / Staffing & Recruitment. Active, split-clean, not duplicated, and down about 41.2% adjusted (408.67p to 240.5p). Current reporting tied lower software-development demand and Germany's 14% net-fee decline to companies moving toward AI; H1 group net fees fell 7%, Technology net fees fell 14%, and like-for-like pretax profit fell 75%. Macro, geopolitics, restructuring, and stronger demand for some AI-adjacent roles remain material counterweights.
 - **Search:** July 23 used one fresh-catalyst approach and two evaluations. IBM's new AI-spending warning strengthened its causal signal but it still failed the price gate at +56.2%; a same-week SThree results story produced the qualifying add. July 21-22's prior software-risk checks had found no add.
