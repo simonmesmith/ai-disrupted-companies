@@ -1,5 +1,9 @@
 # Search Strategies
 ## Tried
+### 2026-09-04: Standing leads plus fresh filing-led ad-tech check
+- **Result / verdict:** Added INUV after 4 evaluations across 2 approaches. TRI, DOCU, and SFIX failed adjusted price gates. INUV was active, non-duplicate, and -78.0% on split-adjusted history; its Q2 filing tied consumer AI information-gathering and other structural industry forces, together with the Bonfire reset, to an 80% Legacy Search revenue decline, a 68.7% first-half revenue decline, and an 81.7% gross-profit decline.
+- **Lesson:** Fresh SEC filings can surface small-cap casualties missed by mainstream catalyst searches, but preserve mixed causality. For INUV, Google compliance changes, low-quality traffic, privacy/browser/platform shifts, and an intentional reset are material alongside AI; growing Audience Modeling and IntentKey are counterweights.
+
 ### 2026-09-03: Standing leads plus fresh AI-search/results checks
 - **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, PPLI, BIDU, and ZDGE all failed adjusted price gates. PPLI's yfinance history now follows the IAC ticker change continuously and its filing directly links Google AI Overviews to lower Core Sessions, but a -2.3% adjusted decline is not a crash; Baidu's AI growth offsets online-marketing pressure. Stop after the second three-failure run and apply the mechanical gate before deep causal work even when the primary evidence is unusually direct.
 
@@ -189,10 +193,6 @@
 ### 2026-07-24/30: Fresh results and publisher-filing checks
 - **Result:** No company added. A later July 30 publisher pass stopped after three active, split-clean, non-duplicate names failed: `TDAY` was up 270.7% with growing digital revenue/traffic; `0685.HK` disclosed direct AI-content competition but was only -5.9%; `0072.HK` was -16.7% with flat revenue and AI-as-investment evidence. The earlier July 30 `RWA.L`/`DOTD.L`/`RAND.AS` pass and July 24 health/search check also produced no add.
 - **Verdict:** Company risk disclosures can identify direct AI pressure outside US/UK markets, but run adjusted price immediately after finding the causal language. Do not broaden into a publisher basket after three price or operating contradictions.
-
-### 2026-08-10: Source-first AI-search e-commerce check
-- **Result:** Found FLWS (1-800-FLOWERS.COM, -51.0%) after TSQ failed the price gate and TXT.WA's current rebound contradicted a casualty thesis. FLWS was active, split-clean, and non-duplicate; company guidance linked AI-driven search content to lower organic visibility/direct traffic, followed by an 18.7% Consumer Floral & Gifts revenue decline.
-- **Verdict:** Search disruption can qualify outside publishers and affiliates when the company explicitly connects AI-shaped results to acquisition loss, the exposed segment shows material revenue damage, and the row preserves marketing, consumer, cost, and execution co-drivers.
 
 ## Untried / Ideas for Next Session
 - **Monitor standing leads sparingly** — As of 2026-07-22, TRI, DOCU, and INTU still fail adjusted gates; SFIX/DUOL also failed their latest checks, and HUBS has already been added. Recheck only after major price moves or fresh operating evidence.
