@@ -1,5 +1,9 @@
 # Search Strategies
 ## Tried
+### 2026-09-07: Standing leads plus AI-search media recovery check
+- **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, PUBM, and MONY.L failed adjusted price gates. TMO.L cleared listing, split, duplicate, and price gates at -82.0%, and its FY2025 results directly linked AI search to lower web traffic and a 26% Media-revenue decline; however, the latest update showed continuing Media revenue up 17% and Media back in adjusted EBITDA profit.
+- **Lesson:** A direct historical AI operating hit plus a lasting stock crash is not sufficient when the newest company-wide evidence shows a material recovery. Keep TMO.L as a monitor and require renewed AI-linked revenue, margin, or guidance deterioration before adding.
+
 ### 2026-09-04: Standing leads plus fresh filing-led ad-tech check
 - **Result / verdict:** Added INUV after 4 evaluations across 2 approaches. TRI, DOCU, and SFIX failed adjusted price gates. INUV was active, non-duplicate, and -78.0% on split-adjusted history; its Q2 filing tied consumer AI information-gathering and other structural industry forces, together with the Bonfire reset, to an 80% Legacy Search revenue decline, a 68.7% first-half revenue decline, and an 81.7% gross-profit decline.
 - **Lesson:** Fresh SEC filings can surface small-cap casualties missed by mainstream catalyst searches, but preserve mixed causality. For INUV, Google compliance changes, low-quality traffic, privacy/browser/platform shifts, and an intentional reset are material alongside AI; growing Audience Modeling and IntentKey are counterweights.
@@ -189,10 +193,6 @@
 ### 2026-07-21/23: Named AI-risk checks
 - **Result:** Found STEM.L (SThree, -41.2%) on July 23 in one fresh-catalyst approach and two evaluations. IBM's new AI-spending warning still failed its price gate (+56.2%). SThree was active, split-clean, and not duplicated; current reporting tied weaker software-development hiring directly to companies moving toward AI, alongside a 14% Technology net-fee decline and a 75% like-for-like pretax-profit decline. July 21-22's earlier software-risk checks produced no add.
 - **Verdict:** Fresh earnings coverage can produce a clean causal bridge when it names both the affected workflow and operating result. For saturated staffing, require this higher bar: company-level evidence that AI is reducing a specific hiring segment, plus a qualifying adjusted price and explicit acknowledgement of macro and other co-drivers.
-
-### 2026-07-24/30: Fresh results and publisher-filing checks
-- **Result:** No company added. A later July 30 publisher pass stopped after three active, split-clean, non-duplicate names failed: `TDAY` was up 270.7% with growing digital revenue/traffic; `0685.HK` disclosed direct AI-content competition but was only -5.9%; `0072.HK` was -16.7% with flat revenue and AI-as-investment evidence. The earlier July 30 `RWA.L`/`DOTD.L`/`RAND.AS` pass and July 24 health/search check also produced no add.
-- **Verdict:** Company risk disclosures can identify direct AI pressure outside US/UK markets, but run adjusted price immediately after finding the causal language. Do not broaden into a publisher basket after three price or operating contradictions.
 
 ## Untried / Ideas for Next Session
 - **Monitor standing leads sparingly** — As of 2026-07-22, TRI, DOCU, and INTU still fail adjusted gates; SFIX/DUOL also failed their latest checks, and HUBS has already been added. Recheck only after major price moves or fresh operating evidence.

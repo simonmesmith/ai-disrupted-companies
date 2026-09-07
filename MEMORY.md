@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 76
-- **Last updated:** 2026-09-04
+- **Last updated:** 2026-09-07
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,10 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-07 — Standing leads and AI-search media recovery check
+- **Added:** No companies. Six candidates were evaluated across two approaches. TRI (+0.7%), DOCU (+53.5%), SFIX (-20.2%), PUBM (+10.1%), and MONY.L (+4.6%) failed adjusted price gates. TMO.L was active, split-clean, non-duplicate, and -82.0%; FY2025 reporting tied a 26% Media-revenue decline and falling web visits partly to AI search, but the latest FY2026 update showed continuing Media revenue up 17% and restored adjusted EBITDA profitability.
+- **Search note:** Stopped after the second three-candidate failure run. Time Out is the strongest monitor, but current recovery defeats a new casualty designation; revisit only if AI-search pressure again causes sustained Media revenue, margin, or guidance deterioration.
 
 ## Session Log: 2026-09-04 — Standing leads and Inuvo filing catalyst
 - **Added:** INUV (Inuvo) — Marketing & Advertising / Ad Tech. Active, non-duplicate, and down 78.0% adjusted ($3.00 to $0.66); its June 2025 1-for-10 reverse split is reflected in the adjusted baseline.
@@ -141,8 +145,3 @@
 - **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
 - **Rejected:** GDYN, FDM.L, and ZOO.L remained price-qualified but current results still showed AI-led demand, AI skills as a client opportunity, or AI-enabled cost improvement rather than primary external displacement. INTU failed the adjusted price gate at -13.2%. COUR (-54.4%) and NRDS (-30.4%) cleared it, but Coursera reported 9% revenue growth and strong AI-skills demand, while NerdWallet's directly acknowledged AI-search traffic pressure was offset by 10% Consumer revenue growth and stronger profitability.
 - **Search note:** Stopped after the second three-candidate failure run. NerdWallet is the strongest causal signal of the session, but do not add until AI Overviews/LLMs cause broader sustained revenue, margin, or guidance damage rather than a channel-specific headwind that growth elsewhere offsets.
-
-## Session Log: 2026-07-31 — Staffing filing catalyst
-- **Added:** JOB (GEE Group) — Business Services / Staffing & Recruitment. Active NYSE American listing, no duplicate or split actions, and down about 72.5% adjusted ($0.75 to $0.2065).
-- **Evidence:** GEE's latest 10-Q says AI is disrupting its staffing markets and contributing to fewer job orders and placements; six-month contract-staffing revenue fell 21%, or 10% excluding a lost acquired client. Macro weakness and the client loss are material co-drivers, while direct-hire revenue and margins improved.
-- **Search:** One fresh-results/filings approach and one candidate evaluation. Direct company attribution plus operating figures produced the add; do not broaden staffing further without the same high bar.
