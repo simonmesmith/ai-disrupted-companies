@@ -1,5 +1,9 @@
 # Search Strategies
 ## Tried
+### 2026-09-08: Standing leads plus fresh software downgrades
+- **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, GTLB, INTU, and BYIT.L all failed adjusted price gates; stop after the second three-failure run.
+- **Lesson:** Fresh, named AI-disruption downgrades are useful candidate generators, but apply the adjusted price gate immediately. GTLB's direct budget-shift concern, INTU's broader product-disruption concern, and BYIT.L's AI-lag/disintermediation concern remain non-qualifying while their stocks are only +22.8%, -13.5%, and -4.3% versus baseline.
+
 ### 2026-09-07: Standing leads plus AI-search media recovery check
 - **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, PUBM, and MONY.L failed adjusted price gates. TMO.L cleared listing, split, duplicate, and price gates at -82.0%, and its FY2025 results directly linked AI search to lower web traffic and a 26% Media-revenue decline; however, the latest update showed continuing Media revenue up 17% and Media back in adjusted EBITDA profit.
 - **Lesson:** A direct historical AI operating hit plus a lasting stock crash is not sufficient when the newest company-wide evidence shows a material recovery. Keep TMO.L as a monitor and require renewed AI-linked revenue, margin, or guidance deterioration before adding.
@@ -166,14 +170,9 @@
 - **Result:** No companies added. Standing/monitor leads failed again or remained under prior objections. A fresh Citi downgrade screen surfaced CCC (CCC Intelligent Solutions), which was active, not duplicated, no split actions, and price-qualified (-44.1%), but it failed the primary-cause test because current results show AI as a material growth/product driver: Q1 2026 revenue grew about 12%, guidance was raised, net retention remained above 100%, and AI solutions reached about 10% of revenue / a roughly $120M annualized run rate.
 - **Verdict:** Analyst AI-risk screens remain useful for generating names, but a downgrade plus price qualification is not enough. Require operating deterioration tied to external AI displacement, not just broad sector re-rating while company-level AI adoption is driving growth.
 
-### 2026-06-10: Zero-find run — fresh catalyst scan plus broad price screens
-- **Result:** No companies added. Standing leads still failed. Fresh screens found price-qualified names in IT services, consulting, UCaaS, and media, but none had a clean AI-primary causal bridge. TIXT had no active yfinance data; ICFI, EGHT, NA9.DE, GFT.DE, ADN1.DE, ATE.PA, LEE, and MDIA were rejected or deferred for primary-cause/category-saturation reasons.
-- **Verdict:** Broad yfinance baskets are now a poor fit because they exceed the candidate budget before producing enough causal evidence. Next runs should start from a narrow source-backed catalyst that already says AI is pressuring guidance, revenue, pricing, or usage, then check price and duplicates.
-
 ### 2026-06-11: Standing lead price-gate cross
 - **Result:** Found HUBS (HubSpot Inc, -31.9%). Standing leads were checked first; TRI, DOCU, SFIX, and DUOL failed price gates. HUBS crossed the adjusted price gate and had fresh Barron's coverage tying the selloff to AI efficiency reducing paid seat demand and forcing outcome-based pricing / AI credits.
 - **Verdict:** Monitor-only leads can still pay off when the price gate moves and the causal evidence is fresh. For seat-based SaaS, the clean version of the thesis is AI reducing required human users and pressuring monetization, not just broad SaaS valuation compression.
-
 ### 2026-06-16: Zero-find run — duplicate-heavy publisher and SaaS checks
 - **Result:** No companies added. Standing leads failed again on adjusted pricing. Narrow AI-search/publisher checks found FUTR.L already listed and MONY.L, AUTO.L, RMV.L, QNST, YELP, and MORN failing price gates; LEE/MDIA still looked like secular local-media/radio stories, not clean AI-search adds. A bounded SaaS/legal/fintech pass mostly hit already-listed names (ASAN, CXM, BILL, LAW, LZ, PAYC, PD, DOMO, BL, SSTK, PERI) or screen-stage rejects (SST reverse split, DOTD.L no AI-primary catalyst).
 - **Verdict:** Price-qualified fresh names now need a named catalyst before deep research. Duplicate checks should happen before source work in stock media, ad tech, SaaS, and digital publishing because many obvious AI-risk names are already in the CSV.

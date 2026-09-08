@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 76
-- **Last updated:** 2026-09-07
+- **Last updated:** 2026-09-08
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,10 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-08 — Standing leads and fresh software downgrades
+- **Added:** No companies. Six candidates were evaluated across two approaches. TRI (-5.8% adjusted), DOCU (+46.1%), SFIX (-22.3%), GTLB (+22.8%), INTU (-13.5%), and BYIT.L (-4.3%) all failed the adjusted price gate; no post-ChatGPT splits affected DOCU, SFIX, GTLB, INTU, or BYIT.L, while TRI retains its 0.963 consolidation complication.
+- **Search note:** Stopped after the second three-candidate failure run. Fresh AI-disruption downgrades can strengthen a workflow thesis, but even unusually direct analyst evidence does not qualify a company without a greater-than-30% adjusted decline from Nov. 29, 2022.
 
 ## Session Log: 2026-09-07 — Standing leads and AI-search media recovery check
 - **Added:** No companies. Six candidates were evaluated across two approaches. TRI (+0.7%), DOCU (+53.5%), SFIX (-20.2%), PUBM (+10.1%), and MONY.L (+4.6%) failed adjusted price gates. TMO.L was active, split-clean, non-duplicate, and -82.0%; FY2025 reporting tied a 26% Media-revenue decline and falling web visits partly to AI search, but the latest FY2026 update showed continuing Media revenue up 17% and restored adjusted EBITDA profitability.
@@ -140,8 +144,3 @@
 - **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
 - **Rejected:** TRIP was already listed. KELYA failed the adjusted gate at -3.6%, and 2483.T remained far above baseline. Insource (6200.T) was active, split-adjusted, non-duplicate, and price-qualified (-53.7%), but its latest revenue and profit grew and AI/DX services strengthened. FranklinCovey reported AI-linked demand and higher training/coaching revenue. McGraw Hill only listed in 2025 and has no pre-ChatGPT baseline, while FY2026 results grew.
 - **Search note:** Stopped after the second three-candidate failure run. A stock-price decline attributed by investors to AI is not enough when company results show AI demand, revenue growth, or an internal execution explanation.
-
-## Session Log: 2026-08-04 — Monitor and thin-category refresh
-- **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
-- **Rejected:** GDYN, FDM.L, and ZOO.L remained price-qualified but current results still showed AI-led demand, AI skills as a client opportunity, or AI-enabled cost improvement rather than primary external displacement. INTU failed the adjusted price gate at -13.2%. COUR (-54.4%) and NRDS (-30.4%) cleared it, but Coursera reported 9% revenue growth and strong AI-skills demand, while NerdWallet's directly acknowledged AI-search traffic pressure was offset by 10% Consumer revenue growth and stronger profitability.
-- **Search note:** Stopped after the second three-candidate failure run. NerdWallet is the strongest causal signal of the session, but do not add until AI Overviews/LLMs cause broader sustained revenue, margin, or guidance damage rather than a channel-specific headwind that growth elsewhere offsets.
