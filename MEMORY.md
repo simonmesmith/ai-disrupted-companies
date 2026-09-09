@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 76
-- **Last updated:** 2026-09-08
+- **Last updated:** 2026-09-09
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-09 — Selective leads and engineering-design software
+- **Added:** No companies. Six evaluations across two approaches: SFIX (-24.3%), ADSK (+5.9%), SNPS (+21.5%), and BSY (-13.0%) failed adjusted price gates. FDM.L (-86.1%) and ZOO.L (-89.7%) were active, non-duplicate, and free of post-ChatGPT splits, but current results did not establish primary external-AI damage.
+- **Evidence:** FDM H1 revenue fell 19% but assigned consultants rose 2% from year-end and utilization improved; it attributed uncertainty to macro/political conditions. ZOO FY2026 adjusted EBITDA improved to $4.0M from $1.1M, with encouraging Q1 trading and AI-enabled services supporting its recovery thesis.
+- **Search note:** Started with selected saved leads rather than repeating yesterday's entire price-only basket, then checked engineering-design software from a fresh AI-risk catalyst. Stopped after the second three-failure run; the index remains at 76 with unchanged category distribution. Primary source links and exact price pairs are recorded in failed-candidates.md.
 
 ## Session Log: 2026-09-08 — Standing leads and fresh software downgrades
 - **Added:** No companies. Six candidates were evaluated across two approaches. TRI (-5.8% adjusted), DOCU (+46.1%), SFIX (-22.3%), GTLB (+22.8%), INTU (-13.5%), and BYIT.L (-4.3%) all failed the adjusted price gate; no post-ChatGPT splits affected DOCU, SFIX, GTLB, INTU, or BYIT.L, while TRI retains its 0.963 consolidation complication.
@@ -139,8 +144,3 @@
 - **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
 - **Rejected / duplicate:** NRDS remained price-qualified (-34.0%) but its last reported revenue and profit still grew; Q2 results were scheduled after this run. TEAMLEASE.NS was active, split-clean, non-duplicate, and price-qualified (-49.4%), and its CFO said AI cut coding/testing demand 60-70%, but Q1 FY2027 revenue rose 5.8% and profit 31.4% as specialized staffing grew. RCH.L, RWS.L, APX.AX, and STG.AX were already listed; RWS's H1 revenue and EBITDA rose as AI-related revenue reached 32%.
 - **Search note:** Stopped after the second three-candidate failure run. A severe workflow-level decline does not qualify when current company-wide results show growth and the same AI shift is creating offsetting demand.
-
-## Session Log: 2026-08-05 — Fresh catalysts and thin-category training check
-- **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
-- **Rejected:** TRIP was already listed. KELYA failed the adjusted gate at -3.6%, and 2483.T remained far above baseline. Insource (6200.T) was active, split-adjusted, non-duplicate, and price-qualified (-53.7%), but its latest revenue and profit grew and AI/DX services strengthened. FranklinCovey reported AI-linked demand and higher training/coaching revenue. McGraw Hill only listed in 2025 and has no pre-ChatGPT baseline, while FY2026 results grew.
-- **Search note:** Stopped after the second three-candidate failure run. A stock-price decline attributed by investors to AI is not enough when company results show AI demand, revenue growth, or an internal execution explanation.

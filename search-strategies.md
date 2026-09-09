@@ -1,5 +1,9 @@
 # Search Strategies
 ## Tried
+### 2026-09-09: Selective saved leads plus engineering-design software
+- **Result / verdict:** No add in six evaluations across two approaches. SFIX failed price; FDM.L and ZOO.L cleared price but latest primary results showed recovery signals without an explicit AI-to-operating-loss bridge. ADSK, SNPS, and BSY then failed adjusted price gates. Stop after the second three-failure run.
+- **Lesson:** Select older saved leads with newer results instead of mechanically rechecking TRI/DOCU daily. Engineering-design AI fears can generate candidates, but current prices and primary results must qualify; Synopsys raised guidance on AI demand and Bentley reported 12% constant-currency ARR growth. [Synopsys Q3](https://investor.synopsys.com/news/news-details/2026/Synopsys-Posts-Financial-Results-for-Third-Quarter-Fiscal-Year-2026/default.aspx); [Bentley Q2](https://investors.bentley.com/news-releases/news-release-details/bentley-systems-announces-second-quarter-2026-results/).
+
 ### 2026-09-08: Standing leads plus fresh software downgrades
 - **Result / verdict:** No add in 6 evaluations across 2 approaches. TRI, DOCU, SFIX, GTLB, INTU, and BYIT.L all failed adjusted price gates; stop after the second three-failure run.
 - **Lesson:** Fresh, named AI-disruption downgrades are useful candidate generators, but apply the adjusted price gate immediately. GTLB's direct budget-shift concern, INTU's broader product-disruption concern, and BYIT.L's AI-lag/disintermediation concern remain non-qualifying while their stocks are only +22.8%, -13.5%, and -4.3% versus baseline.
@@ -188,10 +192,6 @@
 ### 2026-07-08/09: Zero-find runs — monitors plus tight software checks
 - **Result:** No companies added. July 9 rechecked standing monitors after the required sync: INTU remained closest but still short of the adjusted gate; GAMB/FDM.L stayed price-qualified but thesis-weak; G/Genpact was already listed. A small IT-services/software pass found GDYN price-qualified, active, split-clean, and not duplicated, but without company-level evidence tying the decline primarily to AI reducing software-development demand. UPLD/CXM were generic/non-clean software selloff stories, while SMAR/BIGC/DNB lacked active yfinance data.
 - **Verdict:** Do not retry GDYN, UPLD, CXM, APPN, EGHT, or DCBO without a fresh company-level AI-primary operating hit. The useful next path remains a named source-backed catalyst, especially for INTU, GAMB, FDM.L, or another undercovered workflow where AI is tied directly to revenue, guidance, retention, pricing, utilization, or margin pressure.
-
-### 2026-07-21/23: Named AI-risk checks
-- **Result:** Found STEM.L (SThree, -41.2%) on July 23 in one fresh-catalyst approach and two evaluations. IBM's new AI-spending warning still failed its price gate (+56.2%). SThree was active, split-clean, and not duplicated; current reporting tied weaker software-development hiring directly to companies moving toward AI, alongside a 14% Technology net-fee decline and a 75% like-for-like pretax-profit decline. July 21-22's earlier software-risk checks produced no add.
-- **Verdict:** Fresh earnings coverage can produce a clean causal bridge when it names both the affected workflow and operating result. For saturated staffing, require this higher bar: company-level evidence that AI is reducing a specific hiring segment, plus a qualifying adjusted price and explicit acknowledgement of macro and other co-drivers.
 
 ## Untried / Ideas for Next Session
 - **Monitor standing leads sparingly** — As of 2026-07-22, TRI, DOCU, and INTU still fail adjusted gates; SFIX/DUOL also failed their latest checks, and HUBS has already been added. Recheck only after major price moves or fresh operating evidence.
