@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
-- **Company count:** 76
-- **Last updated:** 2026-09-09
+- **Company count:** 77
+- **Last updated:** 2026-09-10
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -10,7 +10,7 @@
 | Content & Media | 13 |
 | Research & Analytics | 7 |
 | Marketing & Advertising | 9 |
-| Education | 2 |
+| Education | 3 |
 | Freelance Marketplaces | 4 |
 | Legal & Tax | 2 |
 | E-commerce & Marketplaces | 1 |
@@ -18,7 +18,7 @@
 ## Thin Categories (good targets for next session)
 - Legal & Tax (2): LAW, LZ
 - Freelance Marketplaces (4): FVRR, UPWK, FLN.AX, ALFRE.PA
-- Education (2): CHGG, NRDY
+- Education (3): CHGG, NRDY, SKIL
 - E-commerce & Marketplaces (1): FLWS
 
 ## Topic Files
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-10 — Consumer coding education add
+- **Added:** SKIL (Skillsoft), Education / EdTech. Active NYSE listing, non-duplicate, and -88.9% on split-adjusted yfinance closes ($37.60 to $4.19, Sept. 10); October 2023 1-for-20 split verified against company announcement.
+- **Evidence:** September 9 management call directly linked AI coding/agents to consumer-learning demand loss and reduced revenue guidance. Q2 consumer revenue fell 25.9% and continuing revenue 2.9%. Preserve small consumer share (6.8%), stable enterprise, improving EBITDA, unchanged profit/cash-flow guidance, debt, consumer weakness, and portfolio changes. Sources and split reconciliation are in search-strategies.md.
+- **Search:** Four evaluations across two approaches. TRI (-8.8%), DOCU (+47.7%), and SFIX (-25.4%) failed price, then fresh education results supplied SKIL. Stop on the successful add; index now 77, Education 3, other categories unchanged.
 
 ## Session Log: 2026-09-09 — Selective leads and engineering-design software
 - **Added:** No companies. Six evaluations across two approaches: SFIX (-24.3%), ADSK (+5.9%), SNPS (+21.5%), and BSY (-13.0%) failed adjusted price gates. FDM.L (-86.1%) and ZOO.L (-89.7%) were active, non-duplicate, and free of post-ChatGPT splits, but current results did not establish primary external-AI damage.
@@ -139,8 +144,3 @@
 - **Added:** FORA.TO (VerticalScope Holdings) — Content & Media / Digital Publishing. Active TSX listing, split-clean, non-duplicate, and down 52.7% adjusted (C$5.50 to C$2.60).
 - **Evidence:** Management calls AI-mediated discovery a structural shift that has altered open-web referrals. FY2025 revenue fell 16% as MAU fell 23%; Q4 revenue fell 23% on lower search-driven programmatic ads; Q1 2026 revenue fell 15%, digital advertising 22%, and programmatic revenue 34%. Search algorithms, CPMs, comparisons, and browser video policies are co-drivers, while direct ads, e-commerce, AI tools, and licensing offset some damage.
 - **Search:** The first run used four evaluations across two approaches and produced the add after NRDS, AMS.MC, and SABR failed. A later six-evaluation follow-up stopped after two three-failure approaches: LSPD.TO was only -29.8% with prospective AI-search risk, YEXT was already represented and +8.9%, IBM was +83.1%, and current AI-search damage at RCH.L, LBG.L, and FUTR.L was duplicate evidence rather than a new company.
-
-## Session Log: 2026-08-06 — Staffing signal and translation duplicate check
-- **Added:** No companies. Six candidates were evaluated across two bounded approaches after the required sync.
-- **Rejected / duplicate:** NRDS remained price-qualified (-34.0%) but its last reported revenue and profit still grew; Q2 results were scheduled after this run. TEAMLEASE.NS was active, split-clean, non-duplicate, and price-qualified (-49.4%), and its CFO said AI cut coding/testing demand 60-70%, but Q1 FY2027 revenue rose 5.8% and profit 31.4% as specialized staffing grew. RCH.L, RWS.L, APX.AX, and STG.AX were already listed; RWS's H1 revenue and EBITDA rose as AI-related revenue reached 32%.
-- **Search note:** Stopped after the second three-candidate failure run. A severe workflow-level decline does not qualify when current company-wide results show growth and the same AI shift is creating offsetting demand.
