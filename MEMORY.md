@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 77
-- **Last updated:** 2026-09-10
+- **Last updated:** 2026-09-11
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-11 — Standing leads and fresh software selloff
+- **Added:** No companies. Six evaluations across two approaches; SFIX (-22.8%), TRI (-7.2% provider-adjusted), DOCU (+47.3%), CRM (+66.1%), INTU (-12.8%), and NOW (+67.0%) failed the established greater-than-30% entry decline gate. Index remains 77; category counts unchanged.
+- **Evidence:** September 8 Reuters software-disruption coverage supplied CRM/INTU/NOW. DocuSign's September 3 results instead showed 9% growth and raised guidance. TRI's company release disclosed a May 2026 0.984560 consolidation missing from the retrieved yfinance split series; reconcile before any future admission rather than treating the feed as complete.
+- **Search note:** Stopped after the second three-failure approach. No unevaluated new candidates; prioritize fresh company-level operating damage over repeating price-only monitors. Exact prices and sources are in failed-candidates.md and search-strategies.md.
 
 ## Session Log: 2026-09-10 — Consumer coding education add
 - **Added:** SKIL (Skillsoft), Education / EdTech. Active NYSE listing, non-duplicate, and -88.9% on split-adjusted yfinance closes ($37.60 to $4.19, Sept. 10); October 2023 1-for-20 split verified against company announcement.
@@ -139,8 +144,3 @@
 - **Added:** FLWS (1-800-FLOWERS.COM) — E-commerce & Marketplaces / Specialty E-commerce. Active Nasdaq listing, split-clean, non-duplicate, and down 51.0% adjusted ($8.12 to $3.98).
 - **Evidence:** Fiscal Q2 guidance explicitly said AI-driven search content reduced organic visibility and direct traffic. Q3 revenue fell 11.6%, Consumer Floral & Gifts fell 18.7%, and management again cited search-result changes/direct-traffic pressure while guiding to a 10-12% full-year decline. Marketing pullback, comparisons, discretionary demand, tariffs, costs, and execution are material co-drivers.
 - **Search:** One source-first AI-search approach and three evaluations. TSQ failed the adjusted price gate (+13.3%); TXT.WA was price-qualified (-36.8%) but dollar revenue was nearly flat and Q1 ARR rebounded as AI agents were positioned as growth. FLWS cleared all gates.
-
-## Session Log: 2026-08-07 — Canadian publisher add and bounded follow-up
-- **Added:** FORA.TO (VerticalScope Holdings) — Content & Media / Digital Publishing. Active TSX listing, split-clean, non-duplicate, and down 52.7% adjusted (C$5.50 to C$2.60).
-- **Evidence:** Management calls AI-mediated discovery a structural shift that has altered open-web referrals. FY2025 revenue fell 16% as MAU fell 23%; Q4 revenue fell 23% on lower search-driven programmatic ads; Q1 2026 revenue fell 15%, digital advertising 22%, and programmatic revenue 34%. Search algorithms, CPMs, comparisons, and browser video policies are co-drivers, while direct ads, e-commerce, AI tools, and licensing offset some damage.
-- **Search:** The first run used four evaluations across two approaches and produced the add after NRDS, AMS.MC, and SABR failed. A later six-evaluation follow-up stopped after two three-failure approaches: LSPD.TO was only -29.8% with prospective AI-search risk, YEXT was already represented and +8.9%, IBM was +83.1%, and current AI-search damage at RCH.L, LBG.L, and FUTR.L was duplicate evidence rather than a new company.
