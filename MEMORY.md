@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 77
-- **Last updated:** 2026-09-11
+- **Last updated:** 2026-09-14
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-14 — Selective lead and fresh publisher catalysts
+- **Added:** No companies; 77 companies and category counts unchanged. Three evaluations across two approaches: SFIX -19.1%, TDAY +184.1%, PPLI -2.2% on latest Sept. 14 adjusted yfinance closes. All failed the established entry decline gate.
+- **Evidence:** Fresh USA TODAY audience restructuring and People CEO search commentary did not overcome price failures. TDAY is the active successor to GCI with continuous history; do not repeat the August inactive-GCI rejection. People Q2 digital revenue grew 6% with expanding digital margins.
+- **Stop:** Reassessed after three consecutive failures and ended early voluntarily; did not exhaust the 15-candidate/five-approach caps. No unevaluated new leads. Await fresh operating deterioration or material price moves; SFIX results due Sept. 23.
 
 ## Session Log: 2026-09-11 — Standing leads and fresh software selloff
 - **Added:** No companies. Six evaluations across two approaches; SFIX (-22.8%), TRI (-7.2% provider-adjusted), DOCU (+47.3%), CRM (+66.1%), INTU (-12.8%), and NOW (+67.0%) failed the established greater-than-30% entry decline gate. Index remains 77; category counts unchanged.
@@ -134,13 +139,3 @@
 - **Added:** TEAD (Teads Holding Co., formerly Outbrain) — Marketing & Advertising / Ad Tech. Active Nasdaq listing, continuous through the June 2025 ticker/name change, split-clean, non-duplicate, and down about 82.1% adjusted ($3.68 to $0.66).
 - **Evidence:** Teads' Q2 10-Q says generative AI in search engines and browsers is significantly driving users to bypass publisher pages, contributing to lower inventory and advertiser buying. Premium-publisher page views fell about 21%; Q2 revenue fell 17%, Ex-TAC gross profit 14%, and adjusted EBITDA 74%, and guidance was suspended. Google policy changes, deliberate exits from lower-quality supply/demand, competition, advertiser volatility, agency relationships, and acquisition/integration remain co-drivers.
 - **Search:** One fresh open-web/AI-search catalyst approach and three evaluations. TIG.L was price-qualified but its current recovery and AdSense-for-Domains transition prevented an AI-primary conclusion; TBLA failed the adjusted price gate at +57.1%; TEAD cleared every gate.
-
-## Session Log: 2026-08-11 — Fresh catalyst and AI-search checks
-- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
-- **Rejected:** INTU (-8.8%), BIDU (+6.3%), and TRN.L (-22.2%) failed adjusted price gates. EFOR (-62.3%) and RWA.L (-77.6%) were active and split-clean, but current results showed AI-led demand or cyclical hiring weakness with improving operations rather than primary AI damage. People Inc had direct AI-search pressure but `PEOPLE` remained unavailable in yfinance and `IAC` lacked the required continuous baseline.
-- **Search note:** Stopped after the second three-candidate failure run. Fresh company-level catalysts remain the right entry point, but price-qualified names still need current operating damage that is not contradicted by AI-led growth, improving guidance, or a stronger cyclical cause.
-
-## Session Log: 2026-08-10 — AI-search e-commerce add
-- **Added:** FLWS (1-800-FLOWERS.COM) — E-commerce & Marketplaces / Specialty E-commerce. Active Nasdaq listing, split-clean, non-duplicate, and down 51.0% adjusted ($8.12 to $3.98).
-- **Evidence:** Fiscal Q2 guidance explicitly said AI-driven search content reduced organic visibility and direct traffic. Q3 revenue fell 11.6%, Consumer Floral & Gifts fell 18.7%, and management again cited search-result changes/direct-traffic pressure while guiding to a 10-12% full-year decline. Marketing pullback, comparisons, discretionary demand, tariffs, costs, and execution are material co-drivers.
-- **Search:** One source-first AI-search approach and three evaluations. TSQ failed the adjusted price gate (+13.3%); TXT.WA was price-qualified (-36.8%) but dollar revenue was nearly flat and Q1 ARR rebounded as AI agents were positioned as growth. FLWS cleared all gates.
