@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 77
-- **Last updated:** 2026-09-14
+- **Last updated:** 2026-09-15
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-15 — Selective lead and fresh software/research results
+- **Added:** No companies; 77 companies and category counts unchanged. Three evaluations across two approaches: SFIX -23.0%, UPLD -94.8%, RSSS -7.5% on Sept. 15 adjusted yfinance closes.
+- **Evidence:** SFIX/RSSS failed the established decline gate. UPLD cleared price and non-duplicate checks; June 2026 1-for-10 split verified, but Q2 revenue decline primarily reflected divestitures rather than demonstrated external AI damage. RSSS grew platform revenue, gross profit, and annual EBITDA with AI-related ARR.
+- **Stop:** Voluntary early stop after reassessing three consecutive failures; no caps exhausted or unevaluated new leads. Await fresh causal evidence rather than repeating these names on price alone.
 
 ## Session Log: 2026-09-14 — Selective lead and fresh publisher catalysts
 - **Added:** No companies; 77 companies and category counts unchanged. Three evaluations across two approaches: SFIX -19.1%, TDAY +184.1%, PPLI -2.2% on latest Sept. 14 adjusted yfinance closes. All failed the established entry decline gate.
