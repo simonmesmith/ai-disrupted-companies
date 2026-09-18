@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 77
-- **Last updated:** 2026-09-15
+- **Last updated:** 2026-09-18
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-18 — Selective lead and search-advertising checks
+- **Added:** No companies; 77 companies and category distribution unchanged. Three evaluations across two approaches: SFIX -23.8%, DRCT -99.7%, QNST +27.1%, using latest available Sept. 17 adjusted yfinance closes.
+- **Evidence:** SFIX/QNST failed the established decline gate. DRCT was non-duplicate with an active quote; January 1-for-55 and April 1-for-4 reverse splits reconciled with company filings. Q2 revenue -23% primarily reflected lost DSP spending, without a demonstrated AI causal bridge; AI services were a growth opportunity. QNST revenue +43% and adjusted EBITDA +87% contradicted a casualty thesis.
+- **Stop:** Voluntary early stop after reassessing three consecutive failures; no hard caps exhausted or new unevaluated leads. SFIX results remain scheduled for September 23.
 
 ## Session Log: 2026-09-15 — Selective lead and fresh software/research results
 - **Added:** No companies; 77 companies and category counts unchanged. Three evaluations across two approaches: SFIX -23.0%, UPLD -94.8%, RSSS -7.5% on Sept. 15 adjusted yfinance closes.
@@ -139,8 +144,3 @@
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
 - **Rejected:** CINT (-49.3%) and CTM.ST (-88.0%) were active and split-clean but current results showed AI-led growth or improving organic-search performance. BETCO.ST (-11.2%) and GVC.TO (+12.5%) failed adjusted price gates. PERI was already listed. RAKE.ST (-90.7%) had severe revenue declines, but current reporting attributed them to a deliberate paid-publisher wind-down, regulation, and ordinary Google changes; management had said it saw no AI-search impact.
 - **Search note:** Stopped after the second three-candidate failure run. Affiliate/search exposure remains too duplicate-heavy or contradicted by company evidence; require a fresh company-level statement tying AI search to operating damage before revisiting this basket.
-
-## Session Log: 2026-08-12 — Open-Internet ad-tech add
-- **Added:** TEAD (Teads Holding Co., formerly Outbrain) — Marketing & Advertising / Ad Tech. Active Nasdaq listing, continuous through the June 2025 ticker/name change, split-clean, non-duplicate, and down about 82.1% adjusted ($3.68 to $0.66).
-- **Evidence:** Teads' Q2 10-Q says generative AI in search engines and browsers is significantly driving users to bypass publisher pages, contributing to lower inventory and advertiser buying. Premium-publisher page views fell about 21%; Q2 revenue fell 17%, Ex-TAC gross profit 14%, and adjusted EBITDA 74%, and guidance was suspended. Google policy changes, deliberate exits from lower-quality supply/demand, competition, advertiser volatility, agency relationships, and acquisition/integration remain co-drivers.
-- **Search:** One fresh open-web/AI-search catalyst approach and three evaluations. TIG.L was price-qualified but its current recovery and AdSense-for-Domains transition prevented an AI-primary conclusion; TBLA failed the adjusted price gate at +57.1%; TEAD cleared every gate.
