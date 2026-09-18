@@ -30,6 +30,11 @@
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
 
+## Session Log: 2026-09-18 evening — Older lead and thin-category checks
+- **Added:** No companies; 77 companies and category distribution unchanged. Three evaluations across three approaches: saved Ipsos lead, print/e-commerce AI exposure, and education. Sept. 18 adjusted closes: IPS.PA -24.6%, CMPR +191.6%, PSON.L +19.9%; all fail the established decline gate.
+- **Evidence:** All non-duplicate with current yfinance quotes; no post-ChatGPT splits in their feeds. Ipsos September update reports organic growth improving to 1.1%; Pearson H1 underlying revenue +4% and adjusted operating profit +14%, with AI reskilling a demand driver. No strong new causal lead surfaced.
+- **Stop:** Reassessed after three consecutive failures and stopped voluntarily; no hard cap exhausted. Avoided repeating this morning's SFIX/DRCT/QNST checks. Exact prices and primary sources are in topic files.
+
 ## Session Log: 2026-09-18 — Selective lead and search-advertising checks
 - **Added:** No companies; 77 companies and category distribution unchanged. Three evaluations across two approaches: SFIX -23.8%, DRCT -99.7%, QNST +27.1%, using latest available Sept. 17 adjusted yfinance closes.
 - **Evidence:** SFIX/QNST failed the established decline gate. DRCT was non-duplicate with an active quote; January 1-for-55 and April 1-for-4 reverse splits reconciled with company filings. Q2 revenue -23% primarily reflected lost DSP spending, without a demonstrated AI causal bridge; AI services were a growth opportunity. QNST revenue +43% and adjusted EBITDA +87% contradicted a casualty thesis.
@@ -139,8 +144,3 @@
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
 - **Rejected:** TRI (-1.9%), DOCU (+39.2%), SFIX (-6.0%), BIDU (+4.0%), and III (+15.7%) failed adjusted price gates. ATG.AX was active, split-clean, non-duplicate, and price-qualified (-50.9%), but Articore attributed Redbubble's decline to weak consumer demand and lower organic revenue without tying the loss to AI; FY26 profit, margins, and guidance improved while management framed AI as an operating advantage.
 - **Search note:** Stopped after the second three-candidate failure run. Organic-search deterioration plus a plausible AI-search mechanism is not enough without company-level attribution and current operating damage; do not retry ATG.AX unless Articore explicitly connects AI discovery to revenue or guidance pressure.
-
-## Session Log: 2026-08-13 — Fresh filing and affiliate checks
-- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
-- **Rejected:** CINT (-49.3%) and CTM.ST (-88.0%) were active and split-clean but current results showed AI-led growth or improving organic-search performance. BETCO.ST (-11.2%) and GVC.TO (+12.5%) failed adjusted price gates. PERI was already listed. RAKE.ST (-90.7%) had severe revenue declines, but current reporting attributed them to a deliberate paid-publisher wind-down, regulation, and ordinary Google changes; management had said it saw no AI-search impact.
-- **Search note:** Stopped after the second three-candidate failure run. Affiliate/search exposure remains too duplicate-heavy or contradicted by company evidence; require a fresh company-level statement tying AI search to operating damage before revisiting this basket.
