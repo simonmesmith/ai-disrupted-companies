@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 77
-- **Last updated:** 2026-09-18
+- **Last updated:** 2026-09-21
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-21 — Saved publisher lead and consumer intermediaries
+- **Added:** No companies; 77 and category distribution unchanged. Three evaluations across two approaches: saved TMO.L lead, then consumer travel/comparison intermediaries TRN.L and MONY.L. Sept. 21 adjusted closes versus Nov. 29, 2022: -82.0%, -34.9%, +3.4% respectively. All non-duplicate with current quotes and no post-ChatGPT splits in provider feeds.
+- **Evidence:** Time Out continuing Media revenue grew 17% with restored profitability. Trainline cleared price but September trading weakness was attributed to refund-policy/commission changes and travel disruptions; guidance maintained. MONY failed price and grew revenue/EBITDA. No demonstrated current AI-primary damage supports an add.
+- **Stop:** Voluntary stop after reassessing three consecutive failures; no hard cap exhausted or new unevaluated leads. Exact prices and primary sources saved in topic files. Education/Legal remain thin; Business Services remains saturated.
 
 ## Session Log: 2026-09-18 evening — Older lead and thin-category checks
 - **Added:** No companies; 77 companies and category distribution unchanged. Three evaluations across three approaches: saved Ipsos lead, print/e-commerce AI exposure, and education. Sept. 18 adjusted closes: IPS.PA -24.6%, CMPR +191.6%, PSON.L +19.9%; all fail the established decline gate.
@@ -139,8 +144,3 @@
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
 - **Rejected:** Verve (`VER.ST`, -18.7%) and Gear4music (`G4M.L`, +170.0%) failed adjusted price gates. Gentoo Media (`G2M.ST`, -73.9%) was active and split-clean, but current reporting said AI discovery was an adaptation opportunity and tied weakness to paid-media discipline and sports margins. Nuix (`NXL.AX`, +115.8%), Intapp (`INTA`, +77.5%), and Intuit (`INTU`, -9.0%) failed adjusted price gates; Nuix and Intapp also reported AI-enabled product growth, while Intuit raised total-company guidance.
 - **Search note:** Stopped after the second three-candidate failure run. Search-exposed companies need direct AI-linked operating damage, and the thin Legal & Tax group remains price-resistant or AI-benefiting; do not retry these names without a material price or evidence change.
-
-## Session Log: 2026-08-14 — Standing leads and fresh filing checks
-- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
-- **Rejected:** TRI (-1.9%), DOCU (+39.2%), SFIX (-6.0%), BIDU (+4.0%), and III (+15.7%) failed adjusted price gates. ATG.AX was active, split-clean, non-duplicate, and price-qualified (-50.9%), but Articore attributed Redbubble's decline to weak consumer demand and lower organic revenue without tying the loss to AI; FY26 profit, margins, and guidance improved while management framed AI as an operating advantage.
-- **Search note:** Stopped after the second three-candidate failure run. Organic-search deterioration plus a plausible AI-search mechanism is not enough without company-level attribution and current operating damage; do not retry ATG.AX unless Articore explicitly connects AI discovery to revenue or guidance pressure.
