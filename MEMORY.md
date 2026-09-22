@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 77
-- **Last updated:** 2026-09-21
+- **Last updated:** 2026-09-22
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-22 — Older analytics lead and thin-category checks
+- **Added:** No companies; 77 and category distribution unchanged. Three evaluations across three approaches: saved EXLS lead, Legal & Tax HRB, and Education FC. Sept. 22 adjusted closes versus Nov. 29, 2022: EXLS -3.8%, HRB +13.7%, FC -65.8%. All non-duplicate with current quotes; EXLS feed shows a 2023 5-for-1 forward split, HRB/FC no post-ChatGPT splits.
+- **Evidence:** EXLS fails price and reports revenue +15.6% with raised guidance; HRB fails price and reports annual revenue +5%. FC clears price but its Q3 release attributes reduced guidance to service-delivery timing, state-budget cuts, and geopolitical conditions; revenue +1%, adjusted EBITDA +14%, deferred revenue +7%. No demonstrated AI-primary damage in reviewed sources.
+- **Stop:** Voluntary stop after reassessing three consecutive failures; no hard cap exhausted or new unevaluated leads. Exact prices and primary sources in topic files. Education/Legal remain thin; Business Services saturated.
 
 ## Session Log: 2026-09-21 — Saved publisher lead and consumer intermediaries
 - **Added:** No companies; 77 and category distribution unchanged. Three evaluations across two approaches: saved TMO.L lead, then consumer travel/comparison intermediaries TRN.L and MONY.L. Sept. 21 adjusted closes versus Nov. 29, 2022: -82.0%, -34.9%, +3.4% respectively. All non-duplicate with current quotes and no post-ChatGPT splits in provider feeds.
@@ -139,8 +144,3 @@
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
 - **Rejected:** TRI (-4.5%), DOCU (+34.7%), SFIX (-14.4%), FLYW (-11.1%), and DHX (-22.8%) failed adjusted price gates. ASGN had no active ticker after becoming EFOR; that successor was already rejected on 2026-08-11 because current results showed AI-led demand rather than primary disruption.
 - **Search note:** Stopped after the second three-candidate failure run. Flywire's filing provided a direct second-order thesis—AI substitution for education clients could reduce payment volume—but risk disclosure without a qualifying price or demonstrated operating damage is not enough. Continue prioritizing fresh company-level results over theoretical filing exposure.
-
-## Session Log: 2026-08-17 — AI-search and Legal & Tax checks
-- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
-- **Rejected:** Verve (`VER.ST`, -18.7%) and Gear4music (`G4M.L`, +170.0%) failed adjusted price gates. Gentoo Media (`G2M.ST`, -73.9%) was active and split-clean, but current reporting said AI discovery was an adaptation opportunity and tied weakness to paid-media discipline and sports margins. Nuix (`NXL.AX`, +115.8%), Intapp (`INTA`, +77.5%), and Intuit (`INTU`, -9.0%) failed adjusted price gates; Nuix and Intapp also reported AI-enabled product growth, while Intuit raised total-company guidance.
-- **Search note:** Stopped after the second three-candidate failure run. Search-exposed companies need direct AI-linked operating damage, and the thin Legal & Tax group remains price-resistant or AI-benefiting; do not retry these names without a material price or evidence change.
