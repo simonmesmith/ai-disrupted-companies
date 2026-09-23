@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 77
-- **Last updated:** 2026-09-22
+- **Last updated:** 2026-09-23
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-23 — Results-date lead and software restructuring
+- **Added:** No companies; 77 and category distribution unchanged. Three evaluations across two approaches: saved SFIX results catalyst, then software restructuring/results CMRC and AI. Sept. 23 adjusted closes versus Nov. 29, 2022: SFIX -26.2%, CMRC -60.6%, AI -11.3%. All non-duplicate with current quotes and no splits in provider feeds.
+- **Evidence:** SFIX and AI fail the established decline gate. Today's syndicated SFIX release attributes Q1 volume pressure to shipment timing and a corrected checkout-flow error (full release retrieval unavailable; indexed excerpt only). Commerce's Sept. 10 plan reaffirms revenue guidance, raises operating-income guidance, and uses AI for efficiency; no demonstrated external AI displacement. C3 reports stabilized revenue and positive free cash flow.
+- **Stop:** Voluntary stop after reassessing three consecutive failures; no hard cap exhausted or new unevaluated lead. Thin-category gaps unchanged. Exact prices and sources in topic files.
 
 ## Session Log: 2026-09-22 — Older analytics lead and thin-category checks
 - **Added:** No companies; 77 and category distribution unchanged. Three evaluations across three approaches: saved EXLS lead, Legal & Tax HRB, and Education FC. Sept. 22 adjusted closes versus Nov. 29, 2022: EXLS -3.8%, HRB +13.7%, FC -65.8%. All non-duplicate with current quotes; EXLS feed shows a 2023 5-for-1 forward split, HRB/FC no post-ChatGPT splits.
@@ -139,8 +144,3 @@
 - **Added:** LZ (LegalZoom.com) — Legal & Tax / Legal Tech. Active, split-clean, non-duplicate, and down 33.6% adjusted ($8.83 to $5.86).
 - **Evidence:** LegalZoom cut its 2026 revenue-outlook midpoint from $820M to $800M specifically for the shift away from traditional search; transaction revenue fell 1% in Q2 and management expects a high-single- to low-double-digit full-year decline. Total revenue, subscriptions, margins, and cash flow still grew, so the row states mixed funnel pressure rather than company-wide collapse.
 - **Search:** One fresh AI-search filing/results approach and three evaluations. ZDGE failed the price gate (+27.3%) despite prospective Emojipedia traffic risk; PPLI failed the gate (-3.8%). New Q2 evidence superseded LZ's July rejection by adding both a qualifying price and a direct guidance/acquisition hit.
-
-## Session Log: 2026-08-18 — Standing leads and filing-led checks
-- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
-- **Rejected:** TRI (-4.5%), DOCU (+34.7%), SFIX (-14.4%), FLYW (-11.1%), and DHX (-22.8%) failed adjusted price gates. ASGN had no active ticker after becoming EFOR; that successor was already rejected on 2026-08-11 because current results showed AI-led demand rather than primary disruption.
-- **Search note:** Stopped after the second three-candidate failure run. Flywire's filing provided a direct second-order thesis—AI substitution for education clients could reduce payment volume—but risk disclosure without a qualifying price or demonstrated operating damage is not enough. Continue prioritizing fresh company-level results over theoretical filing exposure.
