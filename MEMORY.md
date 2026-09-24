@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 77
-- **Last updated:** 2026-09-23
+- **Last updated:** 2026-09-24
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-24 — Post-results lead and reporting catalysts
+- **Added:** No companies; 77 and category distribution unchanged. Three evaluations across three approaches: saved SFIX post-results lead, financial-data reporting FDS, and thin-category education SCHL. Sept. 24 adjusted closes versus Nov. 29, 2022: SFIX -42.1%, FDS -36.9%, SCHL -5.5%. All non-duplicate with current quotes and no post-ChatGPT splits in provider feeds.
+- **Evidence:** SFIX now clears price, but the full primary release attributes weak outlook to consumer conditions, shipment timing, and a corrected checkout error; Q4 revenue grew 4.2%. FDS Q3 revenue grew 6.4%, organic ASV 7.1%, retention exceeded 95%; Q4 results are due Sept. 30. SCHL fails price and affirms guidance despite budget pressure. No demonstrated AI-primary damage in reviewed sources.
+- **Stop:** Voluntary stop after reassessing three consecutive failures; no hard cap exhausted. FDS Sept. 30 results are a future catalyst, not an unevaluated company. Thin-category gaps unchanged; exact prices and primary sources in topic files.
 
 ## Session Log: 2026-09-23 — Results-date lead and software restructuring
 - **Added:** No companies; 77 and category distribution unchanged. Three evaluations across two approaches: saved SFIX results catalyst, then software restructuring/results CMRC and AI. Sept. 23 adjusted closes versus Nov. 29, 2022: SFIX -26.2%, CMRC -60.6%, AI -11.3%. All non-duplicate with current quotes and no splits in provider feeds.
@@ -139,8 +144,3 @@
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
 - **Rejected:** TRI (+0.9% adjusted), DOCU (+39.8%), SFIX (-12.6%), and DTOL.TO (+59.2%) failed price gates. CMRC (-72.6%) and AMN (-71.5%) were active, split-clean, and non-duplicate, but Commerce.com reported 14% GMV growth, improving retention, consecutive GAAP profitability, and an AI-commerce product pivot; AMN tied its 8% language-services pricing decline to market competition and a lower-cost tier while acquiring AI-enabled interpretation capability.
 - **Search note:** Stopped after the second three-candidate failure run. A ticker change can reopen a mechanical screen, as BIGC becoming CMRC did, but a newly available qualifying price still needs company-level evidence that external AI displacement—not an AI product transition or ordinary competition—is driving operating damage.
-
-## Session Log: 2026-08-19 — AI-search acquisition catalyst
-- **Added:** LZ (LegalZoom.com) — Legal & Tax / Legal Tech. Active, split-clean, non-duplicate, and down 33.6% adjusted ($8.83 to $5.86).
-- **Evidence:** LegalZoom cut its 2026 revenue-outlook midpoint from $820M to $800M specifically for the shift away from traditional search; transaction revenue fell 1% in Q2 and management expects a high-single- to low-double-digit full-year decline. Total revenue, subscriptions, margins, and cash flow still grew, so the row states mixed funnel pressure rather than company-wide collapse.
-- **Search:** One fresh AI-search filing/results approach and three evaluations. ZDGE failed the price gate (+27.3%) despite prospective Emojipedia traffic risk; PPLI failed the gate (-3.8%). New Q2 evidence superseded LZ's July rejection by adding both a qualifying price and a direct guidance/acquisition hit.
