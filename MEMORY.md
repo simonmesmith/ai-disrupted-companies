@@ -1,7 +1,7 @@
 # AI Disruption Index - Memory
 ## Current State
 - **Company count:** 77
-- **Last updated:** 2026-09-24
+- **Last updated:** 2026-09-25
 ## Category Distribution
 | Category | Count |
 |---|---|
@@ -29,6 +29,11 @@
 ## Evidence Weighting Notes
 - Be skeptical of companies' own AI positioning. If an AI-exposed workflow has pricing, margin, or demand weakness, do not let management's "AI is a transformation lever / not hurting us" framing carry too much weight. For freelance/external-talent marketplaces specifically, treat pricing and margin weakness as plausible disruption evidence even when attributed to a soft market.
 - The 2026-07-20 historical audit established the reverse check too: a price decline plus theoretical workflow exposure is not enough when current filings show AI-led demand, resilient retention/growth, or a clearly stronger non-AI cause. Separate direct operating damage, mixed structural pressure, and market fear.
+
+## Session Log: 2026-09-25 — Saved search lead and thin categories
+- **Added:** No companies; 77 and category distribution unchanged. Three evaluations/three approaches: saved NRDS search-discovery lead, Education COUR, Legal & Tax INTA. Sept. 25 adjusted changes versus Nov. 29, 2022: -35.8%, -61.9%, +66.4%. All non-duplicate with current quotes; no splits in provider feeds.
+- **Evidence:** NRDS search pressure persists and Q2 profitability fell, but revenue grew 6%, H1 non-GAAP operating income grew 53%, and Q3 guidance implies 17% revenue growth; no new evidence establishing AI-primary deterioration. COUR Q2 growth is acquisition-distorted by Udemy, but raised guidance and pre-merger Q1 growth counter the casualty thesis. INTA fails price and reports revenue +13%, cloud ARR +29%, retention 123%.
+- **Stop:** Voluntary stop after three consecutive failures and reassessment; no hard cap exhausted. No new unevaluated lead; FDS Sept. 30 remains the next saved reporting catalyst. Exact prices and primary sources in topic files.
 
 ## Session Log: 2026-09-24 — Post-results lead and reporting catalysts
 - **Added:** No companies; 77 and category distribution unchanged. Three evaluations across three approaches: saved SFIX post-results lead, financial-data reporting FDS, and thin-category education SCHL. Sept. 24 adjusted closes versus Nov. 29, 2022: SFIX -42.1%, FDS -36.9%, SCHL -5.5%. All non-duplicate with current quotes and no post-ChatGPT splits in provider feeds.
@@ -139,8 +144,3 @@
 - **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
 - **Rejected:** TRI (+0.6% adjusted), DOCU (+39.1%), and SFIX (-12.6%) failed price gates. GETY and ZD had fresh AI-search evidence but were already listed. PERF was active, split-clean, non-duplicate, and -74.4%; AI-app competition reduced subscribers 14.6%, but first-half revenue grew 5.9%, gross profit 12.7%, and AI demand drove subscriptions and improved profitability, while a pending going-private deal complicates the stock signal.
 - **Search note:** Stopped after the second three-candidate failure run. Fresh earnings searches are increasingly duplicate-heavy; check the CSV immediately, and reject a price-qualified AI competitor when current company-wide results still show AI-led growth and improving economics.
-
-## Session Log: 2026-08-20 — Standing leads and AI-exposed platform checks
-- **Added:** No companies. Six candidates were evaluated across two approaches after the required sync.
-- **Rejected:** TRI (+0.9% adjusted), DOCU (+39.8%), SFIX (-12.6%), and DTOL.TO (+59.2%) failed price gates. CMRC (-72.6%) and AMN (-71.5%) were active, split-clean, and non-duplicate, but Commerce.com reported 14% GMV growth, improving retention, consecutive GAAP profitability, and an AI-commerce product pivot; AMN tied its 8% language-services pricing decline to market competition and a lower-cost tier while acquiring AI-enabled interpretation capability.
-- **Search note:** Stopped after the second three-candidate failure run. A ticker change can reopen a mechanical screen, as BIGC becoming CMRC did, but a newly available qualifying price still needs company-level evidence that external AI displacement—not an AI product transition or ordinary competition—is driving operating damage.
